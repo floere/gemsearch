@@ -31,9 +31,10 @@ class PickySearch < Application
                               similarity: Similarity::Phonetic.new(3),
                               partial: Partial::Substring.new(from: 1)
                               
-  gems_index.define_category :versions,
+  gems_index.define_category :version,
                              partial: Partial::Substring.new(from: 1),
-                             qualifiers: [:version]
+                             qualifiers: [:version],
+                             from: :versions
   
   gems_index.define_category :author,
                              similarity: Similarity::Phonetic.new(3),
@@ -43,7 +44,7 @@ class PickySearch < Application
   gems_index.define_category :dependencies,
                              similarity: Similarity::Phonetic.new(3),
                              partial: Partial::Substring.new(from: 1),
-                             qualifiers: [:dependency, :dependencies, :depends, :using, :uses, :needs]
+                             qualifiers: [:dependency, :dependencies, :depends, :using, :uses, :use, :needs]
   
   options = { :weights => { [:name] => +3 } }
   
