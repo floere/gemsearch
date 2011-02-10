@@ -1,0 +1,4 @@
+script/get_data
+script/csvify_data
+script/copy_to_client
+rake index
