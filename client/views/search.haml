@@ -9,11 +9,21 @@
     = js 'picky.min'
   %body
     .header
-    -# %img{:src => "images/picky.png"}/
+    %img.peeky{:src => "images/peeky.png"}/
     .powered
       %h1 Powered by
       %p
         %a{ :href => "http://florianhanke.com/picky" } Picky (the helpful search engine)
+      %p
+        &nbsp;
+      %p
+        The colors mean
+      %p
+        green: Yay, results!
+      %p
+        orange: Picky needs some more info.
+      %p
+        red: No results, sorry.
     .try
       %h1 Fun things to try!
       %p
@@ -105,4 +115,4 @@
       
       // An initial search text, prefilled.
       //
-      pickyClient.insert('');
+      pickyClient.insert('picky');
