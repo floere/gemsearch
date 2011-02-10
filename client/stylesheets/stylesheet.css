@@ -30,6 +30,10 @@ img.peeky {
   right: 15px;
   top: 22px; }
 
+img.logo {
+  width: 95px;
+  margin-top: 25px; }
+
 div.powered {
   font-size: 0.8em;
   text-align: right;
@@ -49,6 +53,12 @@ div.try {
     font-size: 0.99em; }
   div.try p a {
     display: block; }
+
+p.notes {
+  position: fixed;
+  bottom: 0px;
+  right: 10px;
+  font-size: 0.7em; }
 
 #picky {
   text-align: left;

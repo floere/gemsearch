@@ -9,6 +9,7 @@
     = js 'picky.min'
   %body
     .header
+      %img.logo{:src => "images/logo.png"}/
     %img.peeky{:src => "images/peeky.png"}/
     .powered
       %h1 Powered by
@@ -21,7 +22,7 @@
       %p
         green: Yay, results!
       %p
-        orange: Picky needs some more info.
+        orange: Picky needs input.
       %p
         red: No results, sorry.
     .try
@@ -70,6 +71,11 @@
         (noooo!)
     %p
       = Picky::Helper.cached_interface
+    %p.notes
+      Idea by
+      %a{ :href => 'http://absurd.li' } Kaspar Schiess
+      &amp; implementation by
+      %a{ :href => 'http://florianhanke.com' } Florian Hanke
     :javascript
       pickyClient = new PickyClient({
         // A full query displays the rendered results.
