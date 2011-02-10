@@ -5,7 +5,7 @@ require 'csv'
 
 gems = []
 
-File.open('data/Marshal.4.8.Z', 'r') do |file|
+File.open('data/Marshal.4.8.Z', 'r:utf-8') do |file|
   gems = Marshal.load Gem.inflate(file.read)
 end
 
