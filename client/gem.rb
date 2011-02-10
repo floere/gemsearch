@@ -1,3 +1,5 @@
+# encoding: utf-8
+#
 require 'csv'
 
 # A gem is simple, it has just:
@@ -23,8 +25,10 @@ class AGem
   
   attr_reader :id
   
-  def initialize id, title, author
-    @id, @title, @author = id, title, author
+  def initialize id, name, versions, authors, dependencies
+    @id, @name, @versions = id, name, versions
+    @authors      = authors.split(/\|/).join(', ')
+    @dependencies = dependencies.split(/\|/).join(', ')
   end
   
   # "Rendering" ;)
@@ -32,7 +36,9 @@ class AGem
   # Note: This is just an example. Please do not render in the model.
   #
   def to_s
-    "<div class='gem'><p>\"#{@title}\", by #{@author}</p></div>"
+    dependencies = "<p class='dependencies'>#{@dependencies}</p>" if @dependencies && !@dependencies.empty?
+    authors = "<p class='authors'>☺ #{@authors}</p>" if @authors && !@authors.empty?
+    "<div class='gem'><p><a href='http://rubygems.org/gems/#{@name}'>#{@name}</a></p>#{dependencies}#{authors}</div>"
   end
   
 end

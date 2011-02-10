@@ -1,6 +1,7 @@
 body
   :text-align center
   :font-family Lucida Grande
+  :margin 0px
 
 img
   :margin -2px 0px 0px
@@ -17,7 +18,11 @@ div.content
   :width 800px
   :margin 0 auto
   :text-align left
-  
+
+div.header
+  :height 70px
+  :background -webkit-gradient(radial, 50% 100%, 90, 50% 100%, 600, from(beige), to(#199399))
+
 #picky
   :text-align left
   :margin 0px auto
@@ -50,7 +55,7 @@ div.content
     
     div.gem
       :background-color #ffeeee
-      :padding 5px 25px
+      :padding 2px 19px
       :margin 3px 0px
     
     em
@@ -60,7 +65,14 @@ div.content
     .item
       :display block
       :padding 10px
-        
+    
+    p.dependencies
+      :color #aaa
+    
+    p.authors
+      :color #555
+      :font-size 0.8em
+    
     .addination
       :position relative
       :text-align center

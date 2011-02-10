@@ -1,6 +1,7 @@
 body {
   text-align: center;
-  font-family: Lucida Grande; }
+  font-family: Lucida Grande;
+  margin: 0px; }
 
 img {
   margin: -2px 0px 0px; }
@@ -16,6 +17,10 @@ div.content {
   width: 800px;
   margin: 0 auto;
   text-align: left; }
+
+div.header {
+  height: 70px;
+  background: -webkit-gradient(radial, 50% 100%, 90, 50% 100%, 600, from(beige), to(#199399)); }
 
 #picky {
   text-align: left;
@@ -44,9 +49,9 @@ div.content {
   #picky .results {
     margin-top: 0px;
     padding: 0px; }
-    #picky .results div.book {
+    #picky .results div.gem {
       background-color: #ffeeee;
-      padding: 5px 25px;
+      padding: 2px 19px;
       margin: 3px 0px; }
     #picky .results em {
       font-style: normal;
@@ -54,6 +59,11 @@ div.content {
     #picky .results .item {
       display: block;
       padding: 10px; }
+    #picky .results p.dependencies {
+      color: #aaaaaa; }
+    #picky .results p.authors {
+      color: #555555;
+      font-size: 0.8em; }
     #picky .results .addination {
       position: relative;
       text-align: center;
