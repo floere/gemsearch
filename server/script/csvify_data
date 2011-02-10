@@ -21,7 +21,7 @@ CSV.open('data/gems.csv', 'wb') do |file|
   
   gems.inject do |last_name, name_and_spec|
     name, spec = name_and_spec
-    name = name[/(.*)-/, 1]
+    name = name[/(.+?)-\d\./, 1]
     
     # Inject until the name changes (they are sorted alphabetically)
     #
