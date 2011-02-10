@@ -1,0 +1,21 @@
+#!/usr/bin/ruby
+#
+require 'rubygems'
+require 'csv'
+
+gems = []
+
+File.open('../data/Marshal.4.8.Z', 'r') do |file|
+  gems = Marshal.load Gem.inflate(file.read)
+end
+
+pipe = '|'
+
+CSV.open('../data/gems.csv', 'wb') do |file|
+  i = 0
+  gems.each do |name, spec|
+    # p(spec.methods.sort) || exit
+    i += 1
+    file << [i, name, spec.authors.join(pipe)] # spec.dependencies.join(pipe)
+  end
+end
