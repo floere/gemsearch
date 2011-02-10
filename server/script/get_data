@@ -1,1 +1,1 @@
-wget http://rubygems.org/Marshal.4.8.Z -O ../data/Marshal.4.8.Z
+wget http://rubygems.org/Marshal.4.8.Z -O data/Marshal.4.8.Z

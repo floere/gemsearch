@@ -5,13 +5,13 @@ require 'csv'
 
 gems = []
 
-File.open('../data/Marshal.4.8.Z', 'r') do |file|
+File.open('data/Marshal.4.8.Z', 'r') do |file|
   gems = Marshal.load Gem.inflate(file.read)
 end
 
 pipe = '|'
 
-CSV.open('../data/gems.csv', 'wb') do |file|
+CSV.open('data/gems.csv', 'wb') do |file|
   i = 0
   
   last_name    = nil
