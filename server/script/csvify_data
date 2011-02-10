@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#!/usr/bin/env ruby
 #
 require 'rubygems'
 require 'csv'
@@ -14,9 +14,9 @@ pipe = '|'
 CSV.open('data/gems.csv', 'wb') do |file|
   i = 0
   
-  last_name    = nil
-  versions     = []
-  last_authors = nil
+  last_name         = nil
+  last_versions     = []
+  last_authors      = []
   last_dependencies = nil
   
   gems.inject do |last_name, name_and_spec|
@@ -29,12 +29,12 @@ CSV.open('data/gems.csv', 'wb') do |file|
       # do not write, but remember some values.
       #
       last_dependencies = spec.dependencies
-      last_authors      = spec.authors.empty? ? [spec.author] : spec.authors
-      versions         << spec.version
+      last_authors      = (spec.authors || []) << spec.author
+      last_versions     << spec.version
     else
       i += 1
-      versions     = versions.join pipe
-      authors      = last_authors && last_authors.join(pipe) || ""
+      versions     = last_versions.join pipe
+      authors      = last_authors.uniq.compact.join pipe
       dependencies = last_dependencies && last_dependencies.map { |dependency| dependency.name }.join(pipe) || ""
       
       # Write to file.
@@ -45,8 +45,8 @@ CSV.open('data/gems.csv', 'wb') do |file|
       #
       last_name    = name
       last_dependencies = nil
-      last_authors      = nil
-      versions          = []
+      last_authors      = []
+      last_versions     = []
     end
     name
   end

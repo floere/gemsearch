@@ -1,4 +1,4 @@
-1,_-1.1#<Gem::Specification name=_ version=1.1>,"","",""
+1,"[""_-1.1"", #<Gem::Specification name=_ version=1.1>]","","",""
 2,_,1.2,Yusuke Endoh,hoe
 3,,"","",""
 4,10io-jekyll,"","",""
@@ -1692,7 +1692,7 @@
 1692,benhoskings-ambition,"","",""
 1693,benhoskings-ambitious-activerecord,"","",""
 1694,benhutton-cloudfront_asset_host,"","",""
-1695,benhutton-facebooker,1.0.69.1,Chad Fowler|Patrick Ewing|Mike Mangino|Shane Vitarana|Corey Innis|Mike Mangino,json_pure|hoe
+1695,benhutton-facebooker,1.0.69.1,Chad Fowler|Patrick Ewing|Mike Mangino|Shane Vitarana|Corey Innis,json_pure|hoe
 1696,benhutton-facebooker2,"","",""
 1697,benhutton-libmemcached_store,0.3.0,Ben Hutton|Jeffrey Hardy,memcached
 1698,benhutton-remarkable_activerecord,"","",""
@@ -2591,7 +2591,7 @@
 2591,cb,"","",""
 2592,cbac,0.3.1|0.5.2|0.6.0|0.5.3|0.5.1,Bert Meerman,""
 2593,cbaclig-ar-extensions,"","",""
-2594,cbaclig-facebooker,1.0.67.3,Chad Fowler|Patrick Ewing|Mike Mangino|Shane Vitarana|Corey Innis|Mike Mangino,hoe|json_pure
+2594,cbaclig-facebooker,1.0.67.3,Chad Fowler|Patrick Ewing|Mike Mangino|Shane Vitarana|Corey Innis,hoe|json_pure
 2595,cbaclig-koala,0.5.0.1,Alex Koppel|Rafi Jacoby|Context Optional,""
 2596,cbrunnkvist-psd_logger,0.1.4|0.1.5|0.1.2|0.1.1,Conny Brunnkvist,shoulda|mocha
 2597,ccbuilder,0.0.3|0.0.0|0.0.1|0.1.0|0.1.1|0.1.2,Dennis Klein|Victor Penso,chef|thoughtbot-shoulda
@@ -5287,14 +5287,14 @@
 5287,facebook_client,0.0.2|0.0.1|0.0.4|0.0.5.3|0.0.5.0|0.0.5.2|0.0.3,David Crockett,faraday|rack|yajl-ruby
 5288,facebookdp,"","",""
 5289,facebooked,0.1.1,Lee Byrd,rspec
-5290,facebooker,1.0.66|1.0.44|1.0.71|1.0.61|1.0.42|1.0.67|1.0.52|1.0.64|1.0.55|1.0.53|1.0.31|1.0.63|1.0.18|1.0.58|1.0.29|1.0.60|1.0.65|1.0.62|1.0.75|0.9.5|1.0.41|1.0.43|1.0.48|1.0.30|1.0.68|1.0.72|1.0.54|1.0.56|1.0.50|1.0.70|1.0.74|1.0.13|1.0.73|1.0.69|1.0.51,Chad Fowler|Patrick Ewing|Mike Mangino|Shane Vitarana|Corey Innis|Mike Mangino,hoe|json
+5290,facebooker,1.0.66|1.0.44|1.0.71|1.0.61|1.0.42|1.0.67|1.0.52|1.0.64|1.0.55|1.0.53|1.0.31|1.0.63|1.0.18|1.0.58|1.0.29|1.0.60|1.0.65|1.0.62|1.0.75|0.9.5|1.0.41|1.0.43|1.0.48|1.0.30|1.0.68|1.0.72|1.0.54|1.0.56|1.0.50|1.0.70|1.0.74|1.0.13|1.0.73|1.0.69|1.0.51,Chad Fowler|Patrick Ewing|Mike Mangino|Shane Vitarana|Corey Innis,hoe|json
 5291,facebooker2,0.0.5|0.0.1|0.0.3|0.0.2|0.0.6|0.0.4,Mike Mangino,mogli
 5292,facebooker3,"","",""
 5293,facebooker-fbg,"","",""
 5294,,"","",""
 5295,facebooker-fbg,"","",""
 5296,facebooker-fbg1,"","",""
-5297,facebooker-lite,1.0.67|1.0.67.1,Chad Fowler|Patrick Ewing|Mike Mangino|Shane Vitarana|Corey Innis|Mike Mangino,json_pure|hoe|rubyforge|gemcutter
+5297,facebooker-lite,1.0.67|1.0.67.1,Chad Fowler|Patrick Ewing|Mike Mangino|Shane Vitarana|Corey Innis,json_pure|hoe|rubyforge|gemcutter
 5298,facebooker-micah,"","",""
 5299,facebooker-rails3,"","",""
 5300,facebook_graph,"","",""
