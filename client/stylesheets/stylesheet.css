@@ -101,6 +101,7 @@ div.try {
       color: #276abb;
       cursor: pointer; }
       #picky .results .addination .tothetop {
+        display: none;
         position: absolute;
         top: 4px;
         right: 0px; }

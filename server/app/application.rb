@@ -26,7 +26,7 @@ class PickySearch < Application
   # Define an index. Use a database etc. source?
   # See http://github.com/floere/picky/wiki/Sources-Configuration#sources
   #
-  gems_index = index :gems, Sources::CSV.new(:name, :versions, :author, :dependencies, file: '../data/gems.csv')
+  gems_index = index :gems, Sources::CSV.new(:name, :versions, :author, :dependencies, file: 'data/gems.csv')
   gems_index.define_category :name,
                               similarity: Similarity::Phonetic.new(3),
                               partial: Partial::Substring.new(from: 1)

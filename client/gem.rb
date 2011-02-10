@@ -12,8 +12,8 @@ class AGem
   
   # Load the books on startup.
   #
-  file_name = File.expand_path '../data/gems.csv', File.dirname(__FILE__)
-  CSV.open(file_name, 'r').each do |row|
+  file_name = File.expand_path 'data/gems.csv', File.dirname(__FILE__)
+  CSV.open(file_name, 'r:utf-8').each do |row|
     @@gems_mapping[row.shift.to_i] = row
   end
   

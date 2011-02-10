@@ -10,8 +10,14 @@ set :haml, { :format => :html5 }
 
 # Sets up two query instances.
 #
-FullGems = Picky::Client::Full.new :host => 'localhost', :port => 8080, :path => '/gems/full'
-LiveGems = Picky::Client::Live.new :host => 'localhost', :port => 8080, :path => '/gems/live'
+if ENV['RACK_ENV'] == 'production'
+  puts "Running Gemsearch on production"
+  FullGems = Picky::Client::Full.new :host => 'gemsearch-server.heroku.com', :port => 80, :path => '/gems/full'
+  LiveGems = Picky::Client::Live.new :host => 'gemsearch-server.heroku.com', :port => 80, :path => '/gems/live'
+else
+  FullGems = Picky::Client::Full.new :host => 'localhost', :port => 8080, :path => '/gems/full'
+  LiveGems = Picky::Client::Live.new :host => 'localhost', :port => 8080, :path => '/gems/live'
+end
 
 set :static, true
 set :public, File.dirname(__FILE__)
