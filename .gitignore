@@ -4,3 +4,4 @@ server/log/search.log
 server/tmp/pids/unicorn.pid
 server/log/unicorn.stderr.log
 server/log/unicorn.stdout.log
+data/gems.csv
