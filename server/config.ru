@@ -25,8 +25,8 @@ Indexes.load_from_cache
 # Works only with web servers that fork worker children and which
 # fork new children, like for example Unicorn.
 #
-Rack::Harakiri.after = 50
-use Rack::Harakiri
+# Rack::Harakiri.after = 50
+# use Rack::Harakiri
 
 # Start accepting requests.
 #
