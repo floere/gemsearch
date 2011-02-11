@@ -25,14 +25,8 @@ div.header {
   background: -moz-radial-gradient(50% 100%, circle, beige 90px, #199399 600px);
   background: -webkit-gradient(radial, 50% 100%, 90, 50% 100%, 600, from(beige), to(#199399)); }
 
-img.peeky {
-  position: absolute;
-  right: 15px;
-  top: 22px; }
-
 img.logo {
-  width: 80px;
-  margin-top: 19px; }
+  margin: 0px; }
 
 div.powered {
   font-size: 0.8em;
@@ -111,7 +105,6 @@ p.notes {
       color: #276abb;
       cursor: pointer; }
       #picky .results .addination .tothetop {
-        display: none;
         position: absolute;
         top: 4px;
         right: 0px; }
@@ -122,10 +115,12 @@ p.notes {
     #picky .results .info {
       color: #555555;
       background-color: #eeeeee;
-      padding: 6px 5px 5px 8px; }
+      padding: 6px 5px 5px 8px;
+      overflow: hidden; }
+      #picky .results .info .explanation {
+        float: left; }
       #picky .results .info .tothetop {
-        float: right;
-        margin-top: -4px; }
+        float: right; }
   #picky .feedback {
     width: 460px;
     float: left;

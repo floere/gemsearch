@@ -26,14 +26,8 @@ div.header
   :background -moz-radial-gradient(50% 100%, circle, beige 90px, #199399 600px)
   :background -webkit-gradient(radial, 50% 100%, 90, 50% 100%, 600, from(beige), to(#199399))
 
-img.peeky
-  :position absolute
-  :right 15px
-  :top 22px
-
 img.logo
-  :width 80px
-  :margin-top 19px
+  :margin 0px
 
 div.powered
   :font-size 0.8em
@@ -125,7 +119,6 @@ p.notes
       :cursor pointer
       
       .tothetop
-        :display none
         :position absolute
         :top 4px
         :right 0px
@@ -139,10 +132,13 @@ p.notes
       :color #555
       :background-color #eee
       :padding 6px 5px 5px 8px
+      :overflow hidden
+      
+      .explanation
+        :float left
         
       .tothetop
         :float right
-        :margin-top -4px
         
   :overflow hidden
 
