@@ -46,7 +46,7 @@ class PickySearch < Application
                              partial: Partial::Substring.new(from: 1),
                              qualifiers: [:dependency, :dependencies, :depends, :using, :uses, :use, :needs]
   
-  options = { :weights => { [:name] => +4 } }
+  options = { :weights => { [:name] => +1 } }
   
   full_gems = Query::Full.new gems_index, options
   live_gems = Query::Live.new gems_index, options
