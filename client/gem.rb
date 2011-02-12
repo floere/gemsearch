@@ -3,8 +3,10 @@
 require 'csv'
 
 # A gem is simple, it has just:
-#  * a title
+#  * a name
+#  * versions
 #  * an author
+#  * dependencies
 #
 class AGem
   

@@ -28,8 +28,9 @@ class PickySearch < Application
   #
   gems_index = index :gems, Sources::CSV.new(:name, :versions, :author, :dependencies, file: 'data/gems.csv')
   gems_index.define_category :name,
-                              similarity: Similarity::Phonetic.new(3),
-                              partial: Partial::Substring.new(from: 1)
+                             similarity: Similarity::Phonetic.new(2),
+                             partial: Partial::Substring.new(from: 1),
+                             qualifiers: [:name, :gem]
                               
   gems_index.define_category :version,
                              partial: Partial::Substring.new(from: 1),
@@ -37,12 +38,12 @@ class PickySearch < Application
                              from: :versions
   
   gems_index.define_category :author,
-                             similarity: Similarity::Phonetic.new(3),
+                             similarity: Similarity::Phonetic.new(2),
                              partial: Partial::Substring.new(from: 1),
                              qualifiers: [:author, :authors, :written, :writer, :by]
                              
   gems_index.define_category :dependencies,
-                             similarity: Similarity::Phonetic.new(3),
+                             similarity: Similarity::Phonetic.new(2),
                              partial: Partial::Substring.new(from: 1),
                              qualifiers: [:dependency, :dependencies, :depends, :using, :uses, :use, :needs]
   

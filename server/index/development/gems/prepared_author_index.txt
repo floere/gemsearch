@@ -2908,8 +2908,6 @@
 1695,vitarana
 1695,corey
 1695,innis
-1695,mike
-1695,mangino
 1697,ben
 1697,hutton
 1697,jeffrey
@@ -4425,8 +4423,6 @@
 2594,vitarana
 2594,corey
 2594,innis
-2594,mike
-2594,mangino
 2595,alex
 2595,koppel
 2595,rafi
@@ -8838,8 +8834,6 @@
 5290,vitarana
 5290,corey
 5290,innis
-5290,mike
-5290,mangino
 5291,mike
 5291,mangino
 5297,chad
@@ -8852,8 +8846,6 @@
 5297,vitarana
 5297,corey
 5297,innis
-5297,mike
-5297,mangino
 5301,pedro
 5301,a.
 5301,vicentini

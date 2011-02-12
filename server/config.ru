@@ -25,6 +25,8 @@ Indexes.load_from_cache
 # Works only with web servers that fork worker children and which
 # fork new children, like for example Unicorn.
 #
+# Don't use Harakiri in a Heroku app.
+#
 # Rack::Harakiri.after = 50
 # use Rack::Harakiri
 

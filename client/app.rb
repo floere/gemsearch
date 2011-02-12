@@ -26,12 +26,16 @@ set :views,  File.expand_path('views', File.dirname(__FILE__))
 # Root, the search interface.
 #
 get '/' do
+  @query = params[:q]
+  
+  response['Cache-Control'] = 'public, max-age=36000'
   haml :'/search'
 end
 
 # Configure. The configuration info page.
 #
 get '/configure' do
+  response['Cache-Control'] = 'public, max-age=36000'
   haml :'/configure'
 end
 
@@ -40,25 +44,20 @@ end
 #
 get '/search/full' do
   results = FullGems.search params[:query], :offset => params[:offset]
+  
   results.extend Picky::Convenience
   results.populate_with AGem do |a_gem|
     a_gem.to_s
   end
   
-  #
-  # Or use:
-  #   results.populate_with Book
-  #   
-  # Then:
-  #   rendered_entries = results.entries.map do |book| (render each book here) end
-  #
-  
+  response['Cache-Control'] = 'public, max-age=36000'
   ActiveSupport::JSON.encode results
 end
 
 # For live results, you'd actually go directly to the search server without taking the detour.
 #
 get '/search/live' do
+  response['Cache-Control'] = 'public, max-age=36000'
   LiveGems.search params[:query], :offset => params[:offset]
 end
 
