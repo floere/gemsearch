@@ -10,13 +10,14 @@ class PickySearch < Application
 
   # Indexing: How text is indexed.
   #
-  default_indexing removes_characters: /[^a-zA-Z0-9\s\/\_\-\"\&\.\|]/,
+  default_indexing removes_characters: /[^a-zA-Z0-9\s\/\_\-\"\&\|\.]/, # whitelist
                    stopwords:          /\b(and|the|of|it|in|for)\b/,
-                   splits_text_on:     /[\s\/\_\-\"\&\|]/
+                   splits_text_on:     /[\s\/\_\-\"\&\|]/,
+                   substitutes_characters_with: CharacterSubstituters::WestEuropean.new # Normalizes special user input, Ä -> Ae, ñ -> n etc.
 
   # Querying: How query text is handled.
   #
-  default_querying removes_characters: /[^a-zA-Z0-9\s\/\-\_\,\&\.\"\~\*\:]/, # Picky needs control chars *"~: to pass through.
+  default_querying removes_characters: /[^äöüáéíóúàèßa-zA-Z0-9\s\/\-\_\,\&\.\"\~\*\:]/, # Picky needs control chars *"~: to pass through.
                    stopwords:          /\b(and|the|of|it|in|for)\b/,
                    splits_text_on:     /[\s\/\-\_\,\&]+/,
 

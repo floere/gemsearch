@@ -23,7 +23,7 @@ set :static, true
 set :public, File.dirname(__FILE__)
 set :views,  File.expand_path('views', File.dirname(__FILE__))
 
-# Root, the search interface.
+# The search interface.
 #
 get '/' do
   @query = params[:q]
@@ -32,8 +32,8 @@ get '/' do
   haml :'/search'
 end
 
-# Configure. The configuration info page.
-#
+# The configuration info page.
+# 
 get '/configure' do
   response['Cache-Control'] = 'public, max-age=36000'
   haml :'/configure'
