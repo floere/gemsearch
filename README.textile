@@ -8,7 +8,7 @@ h2. Read about it
 
 "http://florianhanke.com/blog/2011/02/13/a-better-rubygems-search.html":http://florianhanke.com/blog/2011/02/13/a-better-rubygems-search.html
 
-h2. License
+h2. MIT License
 
 Copyright (c) 2011 Florian Hanke
 
