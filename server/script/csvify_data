@@ -18,10 +18,11 @@ CSV.open('data/gems.csv', 'wb') do |file|
   last_versions     = []
   last_authors      = []
   last_dependencies = nil
+  last_summary      = nil
   
   gems.inject do |last_name, name_and_spec|
     name, spec = name_and_spec
-    name = name[/(.+?)-\d\./, 1]
+    name = name[/(.+?)-\d+\./, 1]
     
     # Inject until the name changes (they are sorted alphabetically)
     #
@@ -31,6 +32,7 @@ CSV.open('data/gems.csv', 'wb') do |file|
       last_dependencies = spec.dependencies
       last_authors      = (spec.authors || []) << spec.author
       last_versions     << spec.version
+      last_summary      = spec.summary unless spec.summary.empty?
     else
       i += 1
       versions     = last_versions.join pipe
@@ -39,14 +41,15 @@ CSV.open('data/gems.csv', 'wb') do |file|
       
       # Write to file.
       #
-      file << [i, last_name, versions, authors, dependencies]
+      file << [i, last_name, versions, authors, dependencies, last_summary]
       
       # reset things
       #
-      last_name    = name
+      last_name         = name
       last_dependencies = nil
       last_authors      = []
       last_versions     = []
+      last_summary      = nil
     end
     name
   end

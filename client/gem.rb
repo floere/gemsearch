@@ -27,10 +27,11 @@ class AGem
   
   attr_reader :id
   
-  def initialize id, name, versions, authors, dependencies
+  def initialize id, name, versions, authors, dependencies, summary
     @id, @name, @versions = id, name, versions
     @authors      = authors.split(/\|/).join(', ')
     @dependencies = dependencies.split(/\|/).join(', ')
+    @summary      = summary
   end
   
   # "Rendering" ;)
@@ -40,7 +41,8 @@ class AGem
   def to_s
     dependencies = "<p class='dependencies'>#{@dependencies}</p>" if @dependencies && !@dependencies.empty?
     authors = "<p class='authors'>☺ #{@authors}</p>" if @authors && !@authors.empty?
-    "<div class='gem'><p><a href='http://rubygems.org/gems/#{@name}'>#{@name}</a></p>#{dependencies}#{authors}</div>"
+    summary = "<p class='summary'>#{@summary}</p>"
+    "<div class='gem'><p><a href='http://rubygems.org/gems/#{@name}'>#{@name}</a><p>#{summary}<p></p>#{dependencies}#{authors}</div>"
   end
   
 end
