@@ -16,6 +16,12 @@ li.gem {
   background-color: #f5f5ea;
   padding: 2px 19px;
   margin: 3px 0px; }
+  li.gem p.dependencies {
+    color: #aaaaaa;
+    font-size: 0.9em; }
+  li.gem p.authors {
+    color: #555555;
+    font-size: 0.8em; }
 
 pre {
   padding: 10px;
