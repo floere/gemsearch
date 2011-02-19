@@ -42,7 +42,7 @@ class AGem
     dependencies = "<p class='dependencies'>#{@dependencies}</p>" if @dependencies && !@dependencies.empty?
     authors = "<p class='authors'>☺ #{@authors}</p>" if @authors && !@authors.empty?
     summary = "<p class='summary'>#{@summary}</p>"
-    "<div class='gem'><p><a href='http://rubygems.org/gems/#{@name}'>#{@name}</a><p>#{summary}<p></p>#{dependencies}#{authors}</div>"
+    "<li class='gem'><p><a href='http://rubygems.org/gems/#{@name}'>#{@name}</a><p>#{summary}<p></p>#{dependencies}#{authors}</li>"
   end
   
 end
