@@ -130,7 +130,7 @@
           // Optional. Default is {}.
           //
           choices: {
-            'author,name': '%1$s writer of %2$s',
+            'author,name': '%2$s, written by %1$s',
             'name,author': '%1$s, written by %2$s',
             'name,version': '%1$s, version %2$s',
             'version,name': '%1$s of %2$s',
@@ -141,7 +141,9 @@
             'dependencies,version': '%1$s used by version %2$s',
             'version,dependencies': '%2$s used by version %1$s',
             'summary,name': '%2$s with \"%1$s\" in summary',
-            'name,summary': '%1$s with \"%2$s\" in summary'
+            'name,summary': '%1$s with \"%2$s\" in summary',
+            'summary,author': 'written by %2$s with \"%1$s\" in summary',
+            'author,summary': 'written by %1$s with \"%2$s\" in summary'
           },
           
           // This is used to generate the correct query strings, localized. E.g. "subject:war".
