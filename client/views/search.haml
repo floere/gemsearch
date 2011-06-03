@@ -3,9 +3,10 @@
   %head
     %link{:href => "stylesheets/picky.css", :media => "screen", :rel => "stylesheet", :type => "text/css"}/
     %link{:href => "stylesheets/gemsearch.css", :media => "screen", :rel => "stylesheet", :type => "text/css"}/
-    
+
     = js 'jquery-1.5.0.min'
-    = js 'jquery.address-1.3.2.min'
+    = js 'history.min'
+    = js 'history.adapter.jquery.min'
     = js 'picky.min'
 
     :javascript
@@ -93,7 +94,7 @@
     %p.notes
       Code:
       %a{ :href => 'http://github.com/floere/gemsearch/blob/2d0fafaef13907f9e164eafabcc961e3f0355759/server/app/application.rb#L13-56' } server config
-      &amp; 
+      &amp;
       %a{ :href => 'http://github.com/floere/gemsearch/blob/2d0fafaef13907f9e164eafabcc961e3f0355759/client/views/search.haml#L89-142' } client config
       \- Idea by
       %a{ :href => 'http://absurd.li' } Kaspar Schiess
@@ -105,15 +106,15 @@
           // A full query displays the rendered results.
           //
           full: '/search/full',
-        
+
           // A live query just updates the count.
           //
           // It's a good idea having this go to the search server directly.
           //
           live: '/search/live',
-        
+
           // showResultsLimit: 10, // Optional. Default is 10.
-        
+
           // before: function(params, query, offset) {  }, // Optional. Before Picky sends any data.
           // success: function(data, query) {  }, // Optional. Just after Picky receives data. (Get a PickyData object)
           // after: function(data, query) {  }, // Optional. After Picky has handled the data and updated the view.
@@ -130,22 +131,24 @@
           // Optional. Default is {}.
           //
           choices: {
-            'author,name': '%2$s, written by %1$s',
-            'name,author': '%1$s, written by %2$s',
-            'name,version': '%1$s, version %2$s',
-            'version,name': '%1$s of %2$s',
-            'name,dependencies': '%1$s, using %2$s',
-            'dependencies,name': '%1$s used by %2$s',
-            'author,dependencies': 'written by %1$s and using %2$s',
-            'dependencies,author': 'using %1$s, written by %2$s',
-            'dependencies,version': '%1$s used by version %2$s',
-            'version,dependencies': '%2$s used by version %1$s',
-            'summary,name': '%2$s with \"%1$s\" in summary',
-            'name,summary': '%1$s with \"%2$s\" in summary',
-            'summary,author': 'written by %2$s with \"%1$s\" in summary',
-            'author,summary': 'written by %1$s with \"%2$s\" in summary'
+            en: {
+              'author,name': '%2$s, written by %1$s',
+              'name,author': '%1$s, written by %2$s',
+              'name,version': '%1$s, version %2$s',
+              'version,name': '%1$s of %2$s',
+              'name,dependencies': '%1$s, using %2$s',
+              'dependencies,name': '%1$s used by %2$s',
+              'author,dependencies': 'written by %1$s and using %2$s',
+              'dependencies,author': 'using %1$s, written by %2$s',
+              'dependencies,version': '%1$s used by version %2$s',
+              'version,dependencies': '%2$s used by version %1$s',
+              'summary,name': '%2$s with \"%1$s\" in summary',
+              'name,summary': '%1$s with \"%2$s\" in summary',
+              'summary,author': 'written by %2$s with \"%1$s\" in summary',
+              'author,summary': 'written by %1$s with \"%2$s\" in summary'
+            }
           },
-          
+
           // This is used to generate the correct query strings, localized. E.g. "subject:war".
           // Optional. If you don't give these, the field identifier given in the Picky server is used.
           //
@@ -159,7 +162,7 @@
               dependent: 'dependencies'
             }
           },
-        
+
           // This is used to explain the preceding word in the suggestion text, localized. E.g. "Peter (author)".
           // Optional. Default are the field identifiers from the Picky server.
           //
@@ -172,14 +175,14 @@
             }
           }
         });
-        
+
         // An initial search text, prefilled
         // this one is passed through the query param q.
         //
         // Example: www.mysearch.com/?q=example
         //
         // If there isn't a q parameter (because it is empty), we try to
-        // take it from the deep linking /#/?q parameter. 
+        // take it from the deep linking /#/?q parameter.
         //
         pickyClient.insertFromURL('#{@query}');
       });

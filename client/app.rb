@@ -12,11 +12,9 @@ set :haml, { :format => :html5 }
 #
 if ENV['RACK_ENV'] == 'production'
   puts "Running Gemsearch on production"
-  FullGems = Picky::Client::Full.new :host => 'gemsearch-server.heroku.com', :port => 80, :path => '/gems/full'
-  LiveGems = Picky::Client::Live.new :host => 'gemsearch-server.heroku.com', :port => 80, :path => '/gems/live'
+  GemSearch = Picky::Client.new :host => 'gemsearch-server.heroku.com', :port => 80, :path => '/gems'
 else
-  FullGems = Picky::Client::Full.new :host => 'localhost', :port => 8080, :path => '/gems/full'
-  LiveGems = Picky::Client::Live.new :host => 'localhost', :port => 8080, :path => '/gems/live'
+  GemSearch = Picky::Client.new :host => 'localhost', :port => 8080, :path => '/gems'
 end
 
 set :static, true
@@ -27,13 +25,13 @@ set :views,  File.expand_path('views', File.dirname(__FILE__))
 #
 get '/' do
   @query = params[:q]
-  
+
   response['Cache-Control'] = 'public, max-age=36000'
   haml :'/search'
 end
 
 # The configuration info page.
-# 
+#
 get '/configure' do
   response['Cache-Control'] = 'public, max-age=36000'
   haml :'/configure'
@@ -43,13 +41,13 @@ end
 # and then populate the result with models (rendered, even).
 #
 get '/search/full' do
-  results = FullGems.search params[:query], :offset => params[:offset]
-  
+  results = GemSearch.search params[:query], :ids => params[:ids], :offset => params[:offset]
+
   results.extend Picky::Convenience
   results.populate_with AGem do |a_gem|
     a_gem.to_s
   end
-  
+
   response['Cache-Control'] = 'public, max-age=36000'
   ActiveSupport::JSON.encode results
 end
@@ -58,13 +56,13 @@ end
 #
 get '/search/live' do
   response['Cache-Control'] = 'public, max-age=36000'
-  LiveGems.search params[:query], :offset => params[:offset]
+  GemSearch.search_unparsed params[:query], :ids => 0, :offset => params[:offset]
 end
 
 helpers do
-  
+
   def js path
     "<script src='javascripts/#{path}.js' type='text/javascript'></script>"
   end
-  
+
 end

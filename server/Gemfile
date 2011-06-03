@@ -2,20 +2,18 @@ source :gemcutter
 
 # Gems required by Picky.
 #
-gem 'picky',            '~> 1.0'
+gem 'picky',      '~> 2.0'
 gem 'rake'
 gem 'bundler'
-gem 'rack',             '~> 1.2.1'
-gem 'rack-mount',       '~> 0.6.9'
-gem 'text',             '~> 0.2.0'
-gem 'yajl-ruby',        '~> 0.7.8', :require => 'yajl'
+gem 'rack',       '~> 1.2.2'
+gem 'rack-mount', '~> 0.6.13'
+gem 'text',       '~> 0.2.0'
+gem 'yajl-ruby',  '~> 0.8.1', :require => 'yajl'
 
 # Should be optional, but isn't yet. Sorry.
 #
-gem 'activerecord',     '~> 2.3.8', :require => 'active_record'
-
-
-
+gem 'activesupport', '~> 3.0', :require => 'active_support/core_ext'
+gem 'activerecord',  '~> 3.0', :require => 'active_record'
 
 # Optional. Makes rack faster.
 #
@@ -28,3 +26,10 @@ gem 'unicorn'
 # Optional. Use your preferred database adapter.
 #
 # gem 'mysql'
+
+# Integration testing needs the client.
+#
+group :test do
+  gem 'rspec'
+  gem 'picky-client'
+end

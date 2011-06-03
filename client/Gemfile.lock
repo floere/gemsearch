@@ -5,9 +5,10 @@ GEM
     backports (1.18.2)
     haml (3.0.25)
     i18n (0.5.0)
+    kgio (2.4.0)
     monkey-lib (0.5.4)
       backports
-    picky-client (1.4.0)
+    picky-client (2.4.0)
       yajl-ruby (>= 0.7.8)
     rack (1.2.1)
     sinatra (1.1.2)
@@ -24,7 +25,10 @@ GEM
       monkey-lib (~> 0.5.0)
       sinatra (~> 1.0)
     tilt (1.2.2)
-    yajl-ruby (0.8.1)
+    unicorn (3.6.2)
+      kgio (~> 2.3)
+      rack
+    yajl-ruby (0.8.2)
 
 PLATFORMS
   ruby
@@ -33,6 +37,7 @@ DEPENDENCIES
   activesupport
   haml
   i18n
-  picky-client
+  picky-client (~> 2.0)
   sinatra
   sinatra-reloader
+  unicorn
