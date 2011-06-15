@@ -1,1 +1,1 @@
-web: bundle exec 'cd client; ruby app.rb -p $PORT'
+web: bundle exec 'cd client && ruby app.rb -p $PORT'

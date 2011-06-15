@@ -61,3 +61,5 @@ helpers do
   end
 
 end
+
+Sinatra::Application.run!
