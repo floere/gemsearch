@@ -5,3 +5,4 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bundler
