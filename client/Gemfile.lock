@@ -3,9 +3,10 @@ GEM
   specs:
     activesupport (3.0.4)
     backports (1.18.2)
+    daemons (1.0.10)
+    eventmachine (0.12.10)
     haml (3.0.25)
     i18n (0.5.0)
-    kgio (2.4.0)
     monkey-lib (0.5.4)
       backports
     picky-client (2.4.0)
@@ -24,10 +25,11 @@ GEM
     sinatra-sugar (0.5.0)
       monkey-lib (~> 0.5.0)
       sinatra (~> 1.0)
+    thin (1.2.11)
+      daemons (>= 1.0.9)
+      eventmachine (>= 0.12.6)
+      rack (>= 1.0.0)
     tilt (1.2.2)
-    unicorn (3.6.2)
-      kgio (~> 2.3)
-      rack
     yajl-ruby (0.8.2)
 
 PLATFORMS
@@ -40,4 +42,4 @@ DEPENDENCIES
   picky-client (~> 2.0)
   sinatra
   sinatra-reloader
-  unicorn
+  thin
