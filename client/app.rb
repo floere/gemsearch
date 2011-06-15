@@ -10,12 +10,7 @@ set :haml, { :format => :html5 }
 
 # Sets up two query instances.
 #
-if ENV['RACK_ENV'] == 'production'
-  puts "Running Gemsearch on production"
-  GemSearch = Picky::Client.new :host => 'gemsearch-server.heroku.com', :port => 80, :path => '/gems'
-else
-  GemSearch = Picky::Client.new :host => 'localhost', :port => 8080, :path => '/gems'
-end
+GemSearch = Picky::Client.new :host => 'localhost', :port => 8080, :path => '/gems'
 
 set :static, true
 set :public, File.dirname(__FILE__)

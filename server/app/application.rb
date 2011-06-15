@@ -27,7 +27,7 @@ class PickySearch < Application
   # See http://github.com/floere/picky/wiki/Sources-Configuration#sources
   #
   gems = Index::Memory.new :gems do
-    source Sources::CSV.new(:name, :versions, :author, :dependencies, :summary, file: 'data/gems.csv')
+    source Sources::CSV.new(:name, :versions, :author, :dependencies, :summary, file: '../data/gems.csv')
 
     category :name,
              similarity: Similarity::DoubleMetaphone.new(2),
