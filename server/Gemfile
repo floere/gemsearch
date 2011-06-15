@@ -21,7 +21,7 @@ gem 'rack_fast_escape', '2009.06.24'
 
 # Optional. Use your preferred web server.
 #
-gem 'unicorn'
+gem 'thin'
 
 # Optional. Use your preferred database adapter.
 #

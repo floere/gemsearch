@@ -13,9 +13,10 @@ GEM
     activesupport (3.0.7)
     arel (2.0.10)
     builder (2.1.2)
+    daemons (1.0.10)
     diff-lcs (1.1.2)
+    eventmachine (0.12.10)
     i18n (0.5.0)
-    kgio (2.4.1)
     picky (2.4.2)
     picky-client (2.4.2)
       activesupport (>= 3.0.0)
@@ -35,10 +36,11 @@ GEM
       diff-lcs (~> 1.1.2)
     rspec-mocks (2.6.0)
     text (0.2.0)
+    thin (1.2.11)
+      daemons (>= 1.0.9)
+      eventmachine (>= 0.12.6)
+      rack (>= 1.0.0)
     tzinfo (0.3.27)
-    unicorn (3.6.2)
-      kgio (~> 2.3)
-      rack
     url_escape (2009.06.24)
     yajl-ruby (0.8.2)
 
@@ -57,5 +59,5 @@ DEPENDENCIES
   rake
   rspec
   text (~> 0.2.0)
-  unicorn
+  thin
   yajl-ruby (~> 0.8.1)
