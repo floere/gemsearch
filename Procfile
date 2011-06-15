@@ -1,1 +1,1 @@
-web:    bundle exec 'cd client; thin -R config.ru -p $PORT start'
+web:    bundle exec 'cd client; ruby app.ru -p $PORT'
