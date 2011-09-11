@@ -1,4 +1,4 @@
 script/get_data
 script/preprocess_data
-cd server; rake index
-cd server; PICKY_ENV=production rake index
+rake index
+PICKY_ENV=production rake index

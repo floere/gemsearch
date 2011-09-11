@@ -1,24 +1,30 @@
 source :gemcutter
 
-# Server
+# Gems required by the Picky client.
 #
-gem 'picky',      '~> 2.0'
-gem 'rake'
-gem 'bundler'
-gem 'rack',       '~> 1.2.2'
-gem 'rack-mount', '~> 0.6.13'
-gem 'text',       '~> 0.2.0'
-gem 'yajl-ruby',  '~> 0.8.1', :require => 'yajl'
-
-gem 'activesupport', '~> 3.0', :require => 'active_support/core_ext'
-gem 'activerecord',  '~> 3.0', :require => 'active_record'
-
-gem 'rack_fast_escape', '2009.06.24'
-
-# Client
-#
-gem 'picky-client', '~> 2.0'
+gem 'picky-client', '~> 3.0'
 gem 'i18n'
+gem 'activesupport', :require => 'active_support/core_ext'
 gem 'sinatra'
 gem 'haml'
-gem 'thin'
+
+# Gems required by the Picky server.
+#
+gem 'picky', '~> 3.0'
+gem 'rake'
+gem 'rack'
+gem 'rack_fast_escape', '2009.06.24' # Optional.
+gem 'text'
+gem 'yajl-ruby', :require => 'yajl'
+
+# Should be optional, but isn't yet.
+#
+gem 'activerecord',  '~> 3.0', :require => 'active_record'
+
+# Required by your project.
+#
+gem 'unicorn'
+
+group :test do
+  gem 'rspec'
+end
