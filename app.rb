@@ -119,8 +119,8 @@ class GemSearch < Sinatra::Application
   # Updates the search count while the user is typing.
   #
   get '/search/live' do
+    results = gems.search params[:query], params[:ids] || 20, params[:offset] || 0
     response['Cache-Control'] = 'public, max-age=36000'
-    results = books.search params[:query], params[:ids] || 20, params[:offset] || 0
     results.to_json
   end
 
