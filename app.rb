@@ -2,6 +2,7 @@
 #
 require 'sinatra/base'
 require 'picky'
+require 'picky-client'
 require File.expand_path '../gem',    __FILE__
 require File.expand_path '../logging', __FILE__
 
@@ -18,11 +19,19 @@ class GemSearch < Sinatra::Application
 
   # Server.
   #
+  
+  # The gem data.
+  #
+  csv = CSV.open('./data/gems.csv', headers: false)
+           .to_a
+           .map { |row| AGem.new(*row) }
 
   # Define an index.
   #
   gems_index = Index.new :gems do
-    source Sources::CSV.new(:name, :versions, :author, :dependencies, :summary, file: 'data/gems.csv')
+    key_format :to_i
+    
+    source { csv }
 
     indexing removes_characters: /[^a-zA-Z0-9\s\/\_\-\"\&\|\.]/, # whitelist
              stopwords:          /\b(and|the|of|a|on|at|it|in|for|to)\b/,
@@ -42,7 +51,8 @@ class GemSearch < Sinatra::Application
     category :author,
              similarity: Similarity::DoubleMetaphone.new(2),
              partial: Partial::Substring.new(from: 1),
-             qualifiers: [:author, :authors, :written, :writer, :by]
+             qualifiers: [:author, :authors, :written, :writer, :by],
+             :from => :authors
 
     category :dependencies,
              similarity: Similarity::DoubleMetaphone.new(2),
@@ -58,7 +68,7 @@ class GemSearch < Sinatra::Application
     searching removes_characters: /[^äöüáéíóúàèßa-zA-Z0-9\s\/\-\_\,\&\.\"\~\*\:]/, # Picky needs control chars *"~: to pass through.
               stopwords:          /\b(and|the|of|a|on|at|it|in|for)\b/,
               splits_text_on:     /[\s\/\-\_\,\&]+/,
-              maximum_tokens: 5,
+              max_words: 5,
               substitutes_characters_with: CharacterSubstituters::WestEuropean.new # Normalizes special user input, Ä -> Ae, ñ -> n etc.
 
     boost [:summary, :name] => +4,

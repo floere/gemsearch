@@ -9,6 +9,8 @@ require 'csv'
 #  * dependencies
 #
 class AGem
+  
+  attr_reader :id, :name, :versions, :authors, :dependencies, :summary
 
   @@gems_mapping = {}
 
@@ -21,7 +23,7 @@ class AGem
 
   # Find uses a lookup table.
   #
-  def self.find ids, _ = {}
+  def self.find_all_by_id ids, _ = {}
     ids.map { |id| new(id, *@@gems_mapping[id]) }
   end
 

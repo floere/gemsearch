@@ -6,7 +6,7 @@
 # Standard logging.
 #
 require 'logger'
-AppLogger = Logger.new File.expand_path('log/search.log', PICKY_ROOT)
+AppLogger = Logger.new File.expand_path('log/search.log', Picky.root)
 
 # Example with using the syslog logger.
 # Falling back to the standard log if it isn't available.
