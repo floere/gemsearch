@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+ruby '1.9.3'
+
 # Gems required by the Picky client.
 #
 gem 'picky-client', '~> 4.0'
