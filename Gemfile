@@ -1,8 +1,8 @@
-source :gemcutter
+source 'https://rubygems.org'
 
 # Gems required by the Picky client.
 #
-gem 'picky-client', '~> 3.0'
+gem 'picky-client', '~> 4.0'
 gem 'i18n'
 gem 'activesupport', :require => 'active_support/core_ext'
 gem 'sinatra'
@@ -10,12 +10,12 @@ gem 'haml'
 
 # Gems required by the Picky server.
 #
-gem 'picky', '~> 3.0'
+gem 'picky', '~> 4.0'
 gem 'rake'
 gem 'rack'
 gem 'rack_fast_escape', '2009.06.24' # Optional.
 gem 'text'
-gem 'yajl-ruby', :require => 'yajl'
+# gem 'yajl-ruby', :require => 'yajl'
 
 # Should be optional, but isn't yet.
 #

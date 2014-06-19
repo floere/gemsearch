@@ -1,5 +1,5 @@
 GEM
-  remote: http://rubygems.org/
+  remote: https://rubygems.org/
   specs:
     activemodel (3.1.0)
       activesupport (= 3.1.0)
@@ -21,10 +21,14 @@ GEM
     i18n (0.6.0)
     kgio (2.6.0)
     multi_json (1.0.3)
-    picky (3.1.5)
-    picky-client (3.1.5)
-      activesupport (>= 3.0.0)
-      yajl-ruby (>= 0.7.8)
+    picky (4.19.4)
+      activesupport (>= 3.0)
+      multi_json
+      rack_fast_escape
+      text
+    picky-client (4.19.4)
+      activesupport (>= 3.0)
+      yajl-ruby
     rack (1.3.2)
     rack_fast_escape (2009.06.24)
       url_escape
@@ -59,8 +63,8 @@ DEPENDENCIES
   activesupport
   haml
   i18n
-  picky (~> 3.0)
-  picky-client (~> 3.0)
+  picky (~> 4.0)
+  picky-client (~> 4.0)
   rack
   rack_fast_escape (= 2009.06.24)
   rake
@@ -68,4 +72,3 @@ DEPENDENCIES
   sinatra
   text
   unicorn
-  yajl-ruby
