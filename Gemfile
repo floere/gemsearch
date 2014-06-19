@@ -15,11 +15,12 @@ gem 'rake'
 gem 'rack'
 gem 'rack_fast_escape', '2009.06.24' # Optional.
 gem 'text'
-# gem 'yajl-ruby', :require => 'yajl'
+gem 'yajl-ruby', :require => 'yajl'
+gem 'multi_json'
 
 # Should be optional, but isn't yet.
 #
-gem 'activerecord',  '~> 3.0', :require => 'active_record'
+# gem 'activerecord',  '~> 3.0', :require => 'active_record'
 
 # Required by your project.
 #
