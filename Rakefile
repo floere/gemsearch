@@ -1,6 +1,6 @@
 require 'picky/tasks'
 
-unless RACK_ENV == 'production'
+unless ENV['RACK_ENV'] == 'production'
   require 'rspec'
   require 'rspec/core/rake_task'
 
