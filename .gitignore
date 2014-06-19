@@ -1,2 +1,4 @@
 log/*.log
 data/Marshal.*
+.DS_Store
+mkmf.log
