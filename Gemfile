@@ -26,7 +26,11 @@ gem 'multi_json'
 
 # Required by your project.
 #
-gem 'unicorn'
+gem 'thin'
+
+group :development do
+  gem 'foreman'
+end
 
 group :test do
   gem 'rspec'
