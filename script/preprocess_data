@@ -3,54 +3,89 @@
 require 'rubygems'
 require 'csv'
 
-gems = []
+@pipe = '|'
+last_id = 0
 
-File.open('data/Marshal.4.8.Z', 'r:utf-8') do |file|
-  gems = Marshal.load Gem.inflate(file.read)
+def add_gem id, spec, name, file, last_name, last_versions, last_authors, last_dependencies, last_summary
+  # name = name[/(.+?)-\d+\./, 1]
+  
+  # Inject until the name changes (they are sorted alphabetically)
+  #
+  if !last_name || last_name == name
+    # do not write, but remember some values.
+    #
+    last_dependencies = spec.dependencies
+    last_authors      = (spec.authors || []) << spec.author
+    last_versions     << spec.version.version
+    last_summary      = spec.summary unless spec.summary.empty?
+    
+    [id, name, last_versions, last_authors.uniq, last_dependencies, last_summary]
+  else
+    id += 1
+    versions     = last_versions.join @pipe
+    authors      = last_authors.uniq.compact.join @pipe
+    dependencies = last_dependencies && last_dependencies.map { |dependency| dependency.name }.join(@pipe) || ""
+    
+    # Write to file.
+    #
+    p [:<<, id, last_name, versions, authors, dependencies, last_summary]
+    file << [id, last_name, versions, authors, dependencies, last_summary]
+    
+    file.flush
+    
+    # reset things
+    #
+    [id, name, [], [], nil, nil]
+  end
 end
 
-pipe = '|'
+gems = []
 
-CSV.open('data/gems.csv', 'wb') do |file|
-  i = 0
+`gunzip data/specs.4.8.gz` if File.exist? 'data/specs.4.8.gz'
+
+File.open('data/specs.4.8', 'r:utf-8') do |input_file|
+  gem_versions = Marshal.load input_file.read
   
-  last_name         = nil
-  last_versions     = []
-  last_authors      = []
-  last_dependencies = nil
-  last_summary      = nil
+  latest_name = nil
   
-  gems.inject do |last_name, name_and_spec|
-    name, spec = name_and_spec
-    name = name[/(.+?)-\d+\./, 1]
-    
-    # Inject until the name changes (they are sorted alphabetically)
-    #
-    if last_name == name
-      # do not write, but remember some values.
-      #
-      last_dependencies = spec.dependencies
-      last_authors      = (spec.authors || []) << spec.author
-      last_versions     << spec.version
-      last_summary      = spec.summary unless spec.summary.empty?
-    else
-      i += 1
-      versions     = last_versions.join pipe
-      authors      = last_authors.uniq.compact.join pipe
-      dependencies = last_dependencies && last_dependencies.map { |dependency| dependency.name }.join(pipe) || ""
-      
-      # Write to file.
-      #
-      file << [i, last_name, versions, authors, dependencies, last_summary]
-      
-      # reset things
-      #
-      last_name         = name
-      last_dependencies = nil
-      last_authors      = []
-      last_versions     = []
-      last_summary      = nil
+  CSV.open('data/gems.csv', 'r') do |state_file|
+    last_id, latest_name, *_ = state_file.read.last
+    last_id = Integer(last_id)
+  end
+  
+  puts "Starting at #{last_id} with #{latest_name}."
+  
+  CSV.open('data/gems.csv', 'ab') do |output_file|
+    last_name         = nil
+    last_versions     = []
+    last_authors      = []
+    last_dependencies = nil
+    last_summary      = nil
+
+    name_latch = nil
+
+    gem_versions.each do |name, info, ruby|
+      if latest_name == name || !latest_name
+        name_latch = true
+        next
+      end
+      next unless name_latch
+      `wget http://gems.rubyforge.org/quick/Marshal.4.8/#{name}-#{info.version}.gemspec.rz -nv -O data/current.gemspec.rz`
+      if File.exist? 'data/current.gemspec.rz'
+        File.open('data/current.gemspec.rz') do |spec|
+          specification = Marshal.load Gem.inflate spec.read
+          last_id, last_name, last_versions, last_authors, last_dependencies, last_summary = add_gem last_id,
+            specification,
+            specification.name,
+            output_file,
+            last_name,
+            last_versions,
+            last_authors,
+            last_dependencies,
+            last_summary
+        end
+      end
     end
-    name
+  
   end
 end
