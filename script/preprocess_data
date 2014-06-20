@@ -28,7 +28,7 @@ def add_gem id, spec, name, file, last_name, last_versions, last_authors, last_d
     
     # Write to file.
     #
-    p [:<<, id, last_name, versions, authors, dependencies, last_summary]
+    p ['<<', id, last_name, versions, authors, dependencies, last_summary]
     file << [id, last_name, versions, authors, dependencies, last_summary]
     
     file.flush
@@ -53,7 +53,7 @@ File.open('data/specs.4.8', 'r:utf-8') do |input_file|
     last_id = Integer(last_id)
   end
   
-  puts "Starting at #{last_id} with #{latest_name}."
+  puts "Starting just after #{last_id} with #{latest_name}."
   
   CSV.open('data/gems.csv', 'ab') do |output_file|
     last_name         = nil
@@ -70,10 +70,14 @@ File.open('data/specs.4.8', 'r:utf-8') do |input_file|
         next
       end
       next unless name_latch
-      `wget http://gems.rubyforge.org/quick/Marshal.4.8/#{name}-#{info.version}.gemspec.rz -nv -O data/current.gemspec.rz`
+      `wget http://gems.rubyforge.org/quick/Marshal.4.8/#{name}-#{info.version}.gemspec.rz -q -O data/current.gemspec.rz`
       if File.exist? 'data/current.gemspec.rz'
         File.open('data/current.gemspec.rz') do |spec|
-          specification = Marshal.load Gem.inflate spec.read
+          begin
+            specification = Marshal.load Gem.inflate spec.read
+          rescue Zlib::BufError
+            next
+          end
           last_id, last_name, last_versions, last_authors, last_dependencies, last_summary = add_gem last_id,
             specification,
             specification.name,

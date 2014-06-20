@@ -8,3 +8,602 @@
 9,1_as_identity_function,1.0.0|1.0.1,todesking,rspec,"[1, 2, 3].map(&amp;1) return [1, 2, 3]. Whooo!!"
 10,1pass,0.1.1|0.1.2,Lokeshwaran,bundler|rake,1pass-0.1.2
 11,24games,0.2.2|0.2.3|0.2.4,takafan,"",24 game/Solve
+12,24point,0.0.1|0.0.2,Joy Hu,"",24-point game
+13,2DArray,0.1.2|0.1.3|0.1.5|0.1.6,J. Wostenberg,"",2-dimensional arrays in Ruby.
+14,2gis,"","","",
+15,2Performant,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.1.0|0.1.1|0.1.3,2Performant,httparty|oauth|shoulda,Library for the 2Performant API
+16,360_services,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|1.0.0|1.0.1|1.0.2|1.0.3|1.0.4|1.0.5|1.0.6|1.0.7|1.0.8|1.0.9|1.0.10|1.1.0|1.1.1|1.1.2|1.1.3,Sorenson Media,echoe|cucumber|rspec|netrecorder,Ruby bindings for Sorenson 360 Services
+17,37-pieces-of-flair,"","","",
+18,3d_cache,"","","",
+19,3d-ribbon,0.1.2|0.2.0,Leandro D'Onofrio,compass,3D ribbons using only CSS - for compass
+20,3months_staff_schedule,0.0.3,Josh McArthur,google_drive|highline|activesupport|rake,Generate a report from the 3months staff schedule
+21,3scale_client,2.2.4|2.2.7|2.2.8|2.2.9|2.2.10|2.3.0|2.3.1|2.3.2|2.3.3|2.3.4,Michal Cichra|Adam Cigánek|Tiago Macedo|Joaquin Rivera Padron (joahking)|Maria Pilar Guerra,bundler|rake|rdoc|fakeweb|mocha|nokogiri,Client for 3scale Web Service Management System API
+22,4info,1.0.1|1.0.2|1.0.3|1.0.4|1.0.5|1.1.0|1.1.1|1.2.0|1.2.1|1.2.2|1.2.3|1.2.4|1.2.5|1.3.0|1.3.1|1.3.2|1.3.3|1.3.4|2.0.0,Jack Danger Canty,hpricot|haml|shoulda|mocha,Send and receive SMS messages via 4info.com
+23,7digital,0.0.2|0.0.5|0.0.6|0.0.7|0.1.0|0.1.1|0.1.2,filip7d,oauth|nokogiri|will_paginate|yard,A ruby wrapper for 7digital API
+24,80ae2fe5c929b7d0a00bdee2d710fa9e,0.0.8,Tom Bombadil,"",Handles secrets
+25,80legs,0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5,Jan Szumiec,rake|shoulda,80legs' file format reader
+26,88miles,1.0.2|1.0.3|1.0.4|1.0.5|1.0.6|1.0.7,Myles Eftos,trollop|highline|oauth2|launchy|terminal-table|shoulda|rdoc|bundler|jeweler,Command line interface to 88 Miles
+27,a,0.1.1, Author,"",Summary
+28,a2_printer,"","","",
+29,a2ws,"","","",
+30,a2z,0.0.2|0.0.3|0.0.4|0.1.0|0.1.1|0.1.2|0.1.3,Matt Huggins,crack|jeff|money|rake|rspec,Ruby DSL for Amazon Product Advertising API
+31,a4nt,0.0.2|1.0.0|2.0.0|2.0.1,ma2ge,rails|sqlite3,A4nt is a simple announcements plugin for Ruby on Rails.
+32,a9n,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.1.0|0.1.1|0.1.2|0.1.3|0.2.0|0.2.2|0.2.3|0.3.0,Krzysztof Knapik,"",a9n is a simple tool for managing extra configuration in ruby/rails apps
+33,a9s,1.0.1|1.0.2|1.1.0|1.2.0,Julian Fischer|Julian Weber|Oliver Wolf,cfoundry|cf,This gem downloads the specific gems versions required to interact with anynines.
+34,a9s_rabbitmq,"","","",
+35,a9s_swift,0.1.2|0.1.3,Julian Weber,shoulda|rdoc|bundler|jeweler|simplecov,anynines.com swift service utility library for simplifying app acces to the a9s swift service.
+36,aa,1.1,ujihisa,"",Aa
+37,aaalex-off_github,"","","",
+38,aa_associations,0.1.1|0.1.2,Brian Landau,activeadmin|rails|shoulda|sqlite3|mocha|bundler|capybara|database_cleaner|factory_girl_rails,This extends ActiveAdmin to allow for better editing of associations.
+39,aa_global_notifications,"","","",
+40,aai10-mechanize,"","","",
+41,aalib-ruby,"","","",
+42,aamax.amazing_game,"","","",
+43,a_a_n,0.2.3|0.2.5|0.2.6,E-Max,rake|rspec|activerecord|activesupport|yard|jeweler|shoulda-context|mocha|simplecov|rcov|debugger|ruby-debug|database_cleaner|sqlite3,Association as name
+44,aa-rails4,"","","",
+45,aargvark,0.0.15,Mike Zazaian,"","A simple, powerful argument parser for Ruby."
+46,aaronh-chronic,"","","",
+47,aarrr,"","","",
+48,aasm,0.0.2|2.0.0|2.0.1|2.0.2|2.0.4|2.0.5|2.0.6|2.0.7|2.1.1|2.1.3|2.1.4|2.1.5|2.2.0|2.2.1|2.3.0|2.3.1|2.4.0|3.0.0|3.0.1|3.0.2|3.0.3|3.0.4|3.0.5|3.0.6|3.0.7|3.0.8|3.0.9|3.0.10|3.0.11|3.0.12|3.0.13|3.0.14|3.0.15|3.0.16|3.0.17|3.0.18|3.0.19|3.0.20|3.0.21|3.0.22|3.0.23|3.0.24|3.0.25|3.0.26|3.1.0|3.1.1|3.2.0|3.2.1,Scott Barron|Scott Petersen|Travis Tilley|Thorsten Boettger,rake|sdoc|rspec|rr|minitest|mime-types,State machine mixin for Ruby objects
+49,aasm_actionable,1.0.1,Brendan MacDonell,rails|aasm|pundit,AASM Actionable
+50,aasm-bang,"","","",
+51,aasm_ohm_persistence,"","","",
+52,aasm_progressable,1.0.1,Brendan MacDonell,rails|aasm|sass-rails,AASM Progressable
+53,aasm_statecharts,1.0.1,Brendan MacDonell,rails|aasm|ruby-graphviz,AASM statecharts
+54,aavkontakte,0.1.1|0.1.2|0.1.3,Dmitry Vorotilin,shoulda|bundler|jeweler|rcov,Vkontakte authorization
+55,aavkontakte-rails3,0.1.4|0.1.5|0.1.6|0.1.7|0.1.8|0.1.9,blimp666,rails|authlogic|bundler|jeweler|simplecov,Yet Another Authlogic Vkontakte Authorization
+56,ab,"","","",
+57,a_b,0.1.1,Winton Welsh,active_wrapper|cucumber|haml|rack|rack-flash|rack_hoptoad|rack-test|rspec|shotgun|sinatra|webrat,A/B test data aggregator as a Sinatra web service
+58,abaci,0.2.0,John Tornow,redis,A basic stats reporting and collection tool for Ruby.
+59,abacus,"","","",
+60,abacus_count,"","","",
+61,abaddon,0.0.2|0.0.3,Arturo Puente,compass,Abaddon
+62,ab_admin,0.1.1|0.1.2|0.2.0|0.2.1|0.2.2|0.2.3|0.3.0|0.3.1|0.3.2|0.3.3|0.3.4|0.3.5|0.3.6|0.4.0,Alex Leschenko,rails|jquery-rails|rails-i18n|slim|inherited_resources|rack-pjax|ransack|has_scope|simple_slug|devise|cancancan|galetahub-enum_field|awesome_nested_set|carrierwave|mini_magick|coffee-rails|sass-rails|bootstrap-sass|bootstrap-wysihtml5-rails|will_paginate|will_paginate-bootstrap|nested_form|simple_form|i18n-js|ruby-progressbar|mysql2|generator_spec|capybara,"Simple and real-life tested Rails::Engine admin interface based on slim, bootstrap, inherited_resources, simple_form, device, cancan"
+63,abak-flow,0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.2.1|0.2.2|0.2.3|0.3.0|0.3.1|0.3.2|1.0.0|1.0.1|1.0.2|1.0.3|1.0.4|1.0.5|1.0.6|1.0.7|1.0.8|1.0.9|1.0.10,Strech (aka Sergey Fedorov),octokit|git|commander|ruler|i18n|ansi|faraday|cane|simplecov|rspec,Совмещение 2-х подходов разработки Git-flow &amp; Github-flow
+64,abanalyzer,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6,Brian Muller,statistics2,A/B test analysis library for Ruby
+65,aba_numbers,"","","",
+66,abb,0.0.2,Kenichi Kamiya,yard|rake|bundler,Generate abbreviations from words
+67,abbey,0.1.2|0.1.3,Pavel Kalvoda,multi_json|rake|bundler|jeweler|rcov,Primitive JSON data store
+68,abc,0.0.2.1,The Afterburner CMS Team,"","An easy-to-use, easy-to-extend CMS."
+69,abc-adapters,0.0.2|0.0.2.1,The Afterburner CMS Team,abc|hyperion-api,"An easy-to-use, easy-to-extend CMS."
+70,abc-backend,0.0.2|0.0.2.1,The Afterburner CMS Team,railties|activesupport|actionpack|activemodel|abc|abc-core,"An easy-to-use, easy-to-extend CMS."
+71,abc-core,0.0.2|0.0.2.1,The Afterburner CMS Team,abc,"An easy-to-use, easy-to-extend CMS."
+72,abcd,"","","",
+73,abc-frontend,0.0.2|0.0.2.1,The Afterburner CMS Team,railties|activesupport|actionpack|activemodel|haml-rails|abc-core|abc-adapters,"An easy-to-use, easy-to-extend CMS."
+74,a-b-chi,1.1.2|1.1.3|1.2.4|2.0.0,Nathanial Allan,"",Chinese Traditional Sorter and Manipulator
+75,abcjs-rails,1.1.1|1.3|1.4|1.5|1.8,Paul Rosen,railties,This packages the abcjs javascript files in a gem for easy reuse in Rails applications.
+76,abcrunch,0.0.5,Chris Lichti,rspec|rr|colorize,Automated load testing in ruby
+77,abdesign,"","","",
+78,abebooks,"","","",
+79,abebooks4r,"","","",
+80,abel,"","","",
+81,abgabenrechner,0.1.1|0.2.0|0.2.1|0.2.2|0.3.0|0.3.1|0.3.2|0.3.3,Felix Faerber,rspec|libxml-ruby|em-http-request,mehr information &#252;ber die m&#246;glichen ein-und ausgabewerte ist hier zu finden: http://goo.gl/phFdj
+82,abhi-contacts,"","","",
+83,abide,0.0.3,Little Lebowski Urban Achievers,"",A gem that ties rubygems together.
+84,ABIF,"","","",
+85,abilities,"","","",
+86,ability_engine,0.0.2,Siebert Lubbe,rspec|rspec-rails|railties,Exposes CanCan's current_ability object as json through a rails engine controller
+87,abingo,2.0.0|2.0.1|2.0.2,Glenn Gillen,rails|rake,The ABingo split testing framework for Rails 3.x.x from Patrick McKenzie
+88,abingo_port,"","","",
+89,abiquo,0.1.2,Abiquo,resourceful|nokogiri|steak|webmock,Abiquo API client
+90,abiquo-chef-agent,1.0.5|1.0.6|1.0.7|1.0.8|1.0.9|1.0.10|1.0.11|2.0.0|2.0.1|2.0.2|2.0.3|2.0.4,Salvador Girones|Sergio Rubio|Serafin Sedano|Ignasi Barrera,rspec|bundler|jeweler|simplecov|run-as-root|chef|daemons|rest-client|xml-simple|rspec,Abiquo Chef Agent
+91,abiquo-etk,0.4.13|0.4.14|0.4.15|0.4.16|0.4.17|0.4.18|0.4.19|0.4.20|0.4.22|0.4.23|0.4.24|0.4.25|0.4.29|0.4.32|0.4.33|0.4.42|0.5.3|0.5.8|0.5.9|0.6.0|0.6.1|0.6.2|0.6.3|0.6.4,Sergio Rubio|Abel Boldu,nokogiri|rpm-utils|term-ansicolor|mixlib-cli|iniparse,Abiquo Elite Toolkit
+92,abiquo-installer-tests,0.2|0.2.1|0.2.2|0.2.3|0.2.4|20120104|20121023.3|20121026.1,Sergio Rubio|Abel Boldu,term-ansicolor|iniparse|mixlib-cli,Abiquo Installer Unit Tests
+93,ablerc,0.1.1,Spencer Markowski,hashie|rainbow|activesupport,"Quickly add ""rc"" capabilities into your ruby applications."
+94,abn,1.3.0|2.0.0,James Healy,rake|rcov|roodi|rspec,a (very) small library for working with Australian Business Numbers.
+95,abnf,"","","",
+96,abnf-parsing,0.2.0|0.2.1,Ryan Tecco|Rob Day,"",A library for implementing ABNF parsers.
+97,abnormal,"","","",
+98,abn_search,0.0.2|0.0.3|0.0.5|0.0.6,James Martin,savon|nokogiri|yard,ABNSearch library for Australian businesses.
+99,ABO,"","","",
+100,aboisvert_aws,3.0.1,"RightScale, Inc.",right_http_connection|rake|rcov,"Interface classes for the Amazon EC2, SQS, and S3 Web Services"
+101,abongo,1.0.0|1.0.1|1.0.2|1.0.3|1.0.4|1.0.5|1.0.6|1.0.7|1.0.8,Michael Fairley,mongo|rake,Ruby A/B testing on MongoDB
+102,about,0.1.0,Gerald Bauer,logutils|textutils|rdoc|hoe,"about - sys info (system information) about your computer, environment, runtime, libs, etc. as mountable web app"
+103,about_p,0.0.2|0.0.3|0.0.4,Keisuke KITA,thor|pit|highline|bundler|rake|rspec|webmock,Fuzzy string searching at about p
+104,about_page,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.1.0|0.1.1|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5|0.2.6|0.2.7,Michael B. Klein|Chris Beer,rails|rspec|rspec-rails|capybara|launchy,Summary of AboutPage.
+105,about_pos,"","","",
+106,ab_panel,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.1.0|0.1.1|0.1.2|0.1.3|0.2.0|0.3.0|0.3.1,Wouter de Vos|Mark Mulder|Peter de Ruijter,bundler|rails|rake|fakeweb|rspec|debugger|mixpanel,Run A/B test experiments on your Rails 3+ site using Mixpanel as a backend.
+107,a_b_plugin,"","","",
+108,abracadabra,1.0.1|1.0.2|1.0.3|1.0.4|1.0.5|1.0.6|1.0.7|1.0.8|1.0.9|1.1.0|1.1.1|1.1.2|1.1.3|1.1.4|1.2.0,Trevor Hinesley,rails|bundler|rake,The gem that swaps out text with a fully-compliant Rails form in one click using JQuery.
+109,abricot,0.2,Nicolas Viennot,redis|ruby-progressbar|thor|json,Fast cloud command dispatcher tool with Redis pub/sub
+110,abrio,"","","",
+111,abr_lookup,0.1.1,Daniel Neighman,nokogiri|activemodel|rack,A simple ABN / ACN lookup utility
+112,abrt,0.0.2|0.0.3|0.0.5|0.0.6,Vít Ondruch,rspec,ABRT support for Ruby.
+113,absa-esd,0.0.2|0.0.3,"Jeffrey van Aswegen, Douglas Anderson",activesupport|i18n|strata,A ruby interface to commumicate with the ABSA Electronic Statement Delivery platform.
+114,absa-h2h,0.0.12|0.0.13|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6,"Jeffrey van Aswegen, Douglas Anderson",activesupport|i18n|strata,A ruby interface to commumicate with the ABSA Host 2 Host platform
+115,absa-notify-me,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7,"Jeffrey van Aswegen, Douglas Anderson",nori|nokogiri,A ruby interface to commumicate with the ABSA Notify Me Statement Delivery platform.
+116,abscss,0.0.1,Tony Doan,nokogiri|thoughtbot-shoulda,Reduce an HTML page into CSS selectors
+117,absee,0.0.1|0.0.2|0.0.2.1|0.0.2.2|0.0.2.3|0.1.0.0|1.0,Jenny Cheng,"",.ab1 reader / ABIF reader
+118,absentee_camper,0.0.3|0.0.4|0.0.5|0.0.6|0.0.7,Chad Boyd|David Reese,settingslogic|yajl-ruby|httparty|pony|prowl|rspec,"Monitors a Campfire room for @mentions, and emails the @mentioned user with the message if they aren't in the room."
+119,absgit,0.1.3|0.2.1|0.3.0,Ruafozy,methadone|bundler|minitest|minitest-reporters|rake,Allow manipulating Git repository files outside a repository
+120,absinthe,0.0.3,Lance Cooper,"",Absinthe is an opinioned IoC container for Ruby.
+121,absolute,0.0.2|0.0.3|0.0.4|0.0.5,nomilous|,rack|sinatra,
+122,AbsoluteRenamer,0.9.0.1|0.9.0.2|0.9.1|0.9.2|0.10.0|0.10.1|1.0.0|1.0.1|1.0.2|1.0.3|1.0.4|1.1.0|1.1.1|1.1.2,Simon COURTOIS,bundler|thoughtbot-shoulda,AbsoluteRenamer is a very powerful tool that helps files and directories renaming using the Krename syntax.
+123,AbsoluteRenamer-date,"","","",
+124,AbsoluteRenamer-system,"","","",
+125,absolute_time,1.0.0,Brian Buchanan,"",Reliable monotonically increasing timer for measuring time intervals
+126,absolution,0.0.4|0.0.5|0.0.6,Dennis Walters,rspec,Absolute URL detection and construction
+127,absolutize,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11|0.0.12,"Stewart McKee, Ijonas Kisselbach, Ross Macdonald","",URI Absolitizing parser
+128,absorb,0.0.3|0.0.4|0.0.5,Miroslav Gavrilov|Igor Sarcevic,"",Locally extend a class with a module.
+129,abst,"","","",
+130,abstats,"","","",
+131,abstract,"","","",
+132,abstract_analyzer,0.1.0|0.1.1|0.1.2,Mark McSpadden,"",A rack based app analyzer
+133,abstract_auth,0.1.1|0.1.2|0.1.3,Ryan Cook,module_ext|rake,A gem to safely provide external application resources with a coherent and configurable API to a host application's authentication procedures.
+134,abstract_class,0.0.2,Sean Huber,"",Abstract classes in ruby
+135,abstract-data-types,"","","",
+136,abstract_feature_branch,0.2.0|0.3.0|0.3.1|0.3.2|0.3.3|0.3.4|0.3.5|0.3.6|0.4.0|0.5.0|0.6.0|0.6.1|0.6.2|0.6.3|0.6.4|0.7.0|0.7.1|0.8.0|0.9.0|1.0.0|1.1.0|1.1.1|1.2.0|1.2.1|1.2.2,"Annas ""Andy"" Maleh",deep_merge|redis|jeweler,abstract_feature_branch is a Rails gem that enables developers to easily branch by abstraction as per this pattern: http://paulhammant.com/blog/branch_by_abstraction.html
+137,abstract_graph,1.1.0|1.2.1,Austin Lee ~D4L,rspec,Mathmatical graph analysis software.
+138,abstract_importer,1.1.0,Bob Lail,activerecord|bundler|rake|rails|sqlite3|turn|pry|rr|database_cleaner|simplecov|shoulda-context,Provides services for the mass-import of complex relational data
+139,abstract_interface,0.1.1|0.1.3|0.1.5|0.1.6|0.1.7,Alexey Petrushin,"",Abstract Interface for the Crystal Framework
+140,abstract-interface,"","","",
+141,abstraction,0.0.2|0.0.3|0.0.4,Peter Jaros,"",Abstract classes for Ruby
+142,abstract_method,1.0.0|1.1.0|1.2.0|1.2.1,David Majda,rspec|yard|redcarpet,Tiny library enabling you to define abstract methods in Ruby classes and modules
+143,abstractor,1.0.9|1.0.10|1.0.11|1.0.12|1.0.13|1.0.14|1.0.15|1.0.16|1.0.17|1.0.18|1.0.19|1.0.20,"Michael Gurley, Yulia Bushmanova",rails|jquery-rails|jquery-ui-rails|haml|sass-rails|paper_trail|stanford-core-nlp|rubyzip|sqlite3|rspec-rails|factory_girl_rails|cucumber-rails|capybara|selenium-webdriver|database_cleaner|ansi|sprockets|nubic-gem-tasks|yard|redcarpet,A Rails engine gem for deriving discrete data points from narrative text via natural language processing (NLP).  The gem includes a user interface to present the abstracted data points for confirmation/revision by curator.
+144,abstract-sql,0.0.2|0.0.3|0.0.4,Hallelujah,parslet|test-unit|rcov|rake,Transform a SQL statement to Perl SQL::Abstract JSON format
+145,abstractstack,0.0.2|0.0.3,Kenichi Kamiya,rdoc|yard|newgem|hoe,"A template of ""Stack"" classies"
+146,abstract-tables,1.0.1|1.0.2|1.0.3|1.0.4|1.0.5,Kyle Burton,dbi|spreadsheet|fastercsv|base_app,"Table Abstraction as a URI : Record Streams, Filters, ETL Ginsu"
+147,abstract_type,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7,Dan Kubb,bundler,Module to declare abstract classes and methods
+148,absurdity,0.2.6|0.2.8,Tim Payton|&#214;m&#252;r &#214;zkir,redis|rake|mock_redis|mocha|minitest|turn,Absurdly simple a/b testing
+149,abt,0.0.2|0.0.3|0.0.4,Travis Reeder,git|minitest|test-unit|iron_worker|git|minitest|test-unit|iron_worker,Always Be Testing Yo! A testing framework that runs on IronWorker http://www.iron.io
+150,abtain_billing,1.02|1.03,Dan Quellhorst,activesupport|builder,Payment Framework focused on Authorize.net CIM for dealing with stored credit card transactions.
+151,abtest,0.0.2|0.0.3|0.0.4|0.0.5|0.0.7|0.1.0|0.1.1|0.1.2|1.0.0|1.0.1,Steve Saarinen|Keatton Lee,rails|sass-rails|bundler|rake,Manages AB experiments and allows for view and asset context switching for experiments.
+152,ab_tester,"","","",
+153,ab_tests,0.0.2,Scott Schulthess,"",This gem creates a table called variations and then provides a view helper to define a/b tests and record them on the fly
+154,abtte,0.0.1,Johannes Holzfuss,bundler|minitest|rake,Ascii Binary To Text Encoder © Johannes Holzfuss
+155,abuiles-geokit,"","","",
+156,abundance,1.0.2|1.0.3|1.0.4|1.0.5|1.0.6|1.0.7|1.0.8|1.0.9|1.1.0|1.1.1|1.1.2|1.2.0|1.2.1|1.2.2|1.2.3|1.2.4|1.2.5|1.2.6|1.3.0|1.3.1|1.3.2|1.3.3|1.3.4|1.3.5,Louis-Philippe Perron,globalog,"Ruby Parallel Processing, Concurent Native Threads"
+157,Abundance,"","","",
+158,abyss,0.1.0|0.2.0|0.2.1|0.3.2|0.4.0,Jesse Trimble,activesupport,Manage arbitrarily-deep configurations through a friendly DSL.
+159,acacia,0.0.2|0.0.3,tnakamura,feedzirra|rspec|webmock,RSS/Atom feed crawler framework.
+160,academico,0.2.0|0.3.0|0.4.0,Bernardo B. Marques,capybara|capybara-webkit|terminal-table|jeweler|rake|bundler,Print my school grades at terminal
+161,Acai,0.0.1,Facta TI,"",Teste acai
+162,acamargo-geoip_city,1.1,Andr&#233; Camargo,"",A Ruby binding to the GeoIP C Library
+163,acapela,"","","",
+164,acapi,"","","",
+165,accelerator,0.1.1,Winton Welsh,memcached|rspec,"Drop-in page caching using nginx, lua, and memcached"
+166,accent-buster,1.0.0|1.1.0|1.1.1,Ronie Uliana,bundler|rake,"Add ""String#accent_buster"" that replaces diacritics marks by their non-diacritic equivalents. I made it because I don't want to add ""ActiveSupport"" to the projects everytime I need that (also, I'm too lazy to type the same thing all the time). This lib will have NO MORE than the very strictly necessary to replace diacritics, currently, it has 2 methods: ""String#accent_buster"" and ""String#accent_buster!"" (note the bang)."
+167,accentless,0.0.2|0.1.0|0.1.1|0.1.2,Lucas Souza,rspec,
+168,acceptable,0.2.2|0.2.3,SSDany,rack,HTTP Accept parsers for Rack.
+169,acceptable_api,0.0.4,Craig R Webster,json|rack|rack-accept|rack-accept-header-updater|rack-test|test-unit|rake,Build an Acceptable API
+170,acceptance_test,1.0.1|1.0.2|1.0.3|1.0.4|1.0.5|1.0.6,Alexander Shvets,gemspec_deps_gen|gemcutter,Simplifies congiguration and run of acceptance tests.
+171,acceptance_tests_support,1.0.1|1.0.2,Alexander Shvets,gemspec_deps_gen|gemcutter,Simplifies congiguration and run of acceptance tests.
+172,accepts-flattened-values,0.1.1|0.1.2|0.1.3|1.0.0,Samuel Kadolph,activesupport,accepts-flattened-values is an ActiveRecord mixin to flatten a has_many or has_and_belongs_to_many assocation.
+173,accept_values_for,0.1.0|0.1.1|0.2.0|0.2.1|0.3.0|0.3.1|0.4.1|0.4.2|0.4.3|0.5.1|0.7.0|0.7.1,Bogdan Gusiev,activemodel|rspec|bundler|rake,Test complex Active Record validations with RSpec
+174,access_control,"","","",
+175,AccessControl,"","","",
+176,access-granted,0.1.0,Piotrek Okoński,bundler|rspec,Elegant whitelist and role based authorization with ability to prioritize roles.
+177,access-granted-rails,"","","",
+178,accessibility_bridge,0.1.1,Mark Rada,yard|kramdown|rake-compiler,A library for bridging into Cocoa on OSX
+179,accessibility_core,0.1.1|0.1.2|0.3.1|0.3.2|0.3.3|0.3.4|0.3.5|0.4.0|0.4.1|0.4.3,Mark Rada,"",A library for building automation tools on OS X
+180,accessibility_keyboard,"","","",
+181,accessible_attribute_matcher,0.0.2|0.0.3|1.0.0,BM5k,activemodel|activesupport|rspec,RSpec matcher for ActiveModel accessible_attributes
+182,accessible_attributes,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7,Steven Hancock,actionpack|activerecord|activesupport|bundler|rake|rdiscount|rspec|sqlite3-ruby|yard,Dynamic attr_accessible for Active Record
+183,accessible_for,0.2.0|0.2.1|0.3.0|0.3.1|0.4.0,Zack Hobson,"",Simple API for sanitizing hashes by input key
+184,accessible_hash,"","","",
+185,accessible-hash,1.0.2|1.0.3|1.0.4|1.0.5|1.0.6|1.0.7|1.0.8|1.0.9|1.0.10|1.0.11,Connor Prussin,rspec|rake|redcarpet|yard,A simple wrapper around the built-in Ruby Hash that behaves like a HashWithIndifferentAccess and also allows object.attribute style access.
+186,accessible_tooltip,1.0.1|1.0.2|1.0.3|1.0.4,Daniel Vandersluis,rails|sass-rails,Accessible tooltip helper for Rails
+187,accessitude,0.0.2|0.0.3|0.0.4,Michael Guymon,activerecord|rspec|sqlite3|yard,Accessitude
+188,access_kit,0.02|0.03|0.04,Mani Tadayon|Brian Miller,rake|supermodel|rspec|rspec-rails|rails|cucumber,CSUN Accessibility Compliance Toolkit.
+189,access_lint,0.0.2|0.0.3|0.0.4|0.0.8|0.0.9|0.1.0|0.1.1|0.1.2,Cameron Cundiff,thor|awesome_print|command_line_reporter|bundler|rake|json,AccessLint runs Google Accessibility Developer Tools assertions on a page via PhantomJS
+190,access_loggable,0.0.3,Dimko,rails,Provides easy way to register actions with your models
+191,access_logging,0.0.2|0.0.3,Nick Ragaz,rails|date_range_scopes|sqlite3,Log access to models through your controllers.
+192,access_manager,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.1.0|0.1.1|0.1.2,Matias Hick,bundler|rake,Manage grants in your applications
+193,accessor,"","","",
+194,accessorize,"","","",
+195,accessor_utilities,1.0.1|1.0.2|1.0.3|1.0.4,Asher,"",Utility methods for accessor-related meta-programming.
+196,accessor-utilities,1.0.1|1.0.2|1.0.3|1.0.4,Asher,"",Utility methods for accessor-related meta-programming.
+197,access_policy,0.0.4|0.0.5|0.0.6|0.0.7,Dieter Späth,scoped_storage|bundler|rake|rspec|fuubar|pry|pry-remote|guard|guard-rspec|guard-bundler|rb-fsevent|pry-stack_explorer|pry-debugger,Object oriented authorization for ruby.
+198,access_policy_rails,0.0.2,Dieter Späth,access_policy|request_store|activesupport|bundler|rake|rails|rspec-rails|fuubar|pry|pry-remote|guard|guard-rspec|guard-bundler|rb-fsevent|pry-stack_explorer|pry-debugger,Object oriented authorization for ruby.
+199,accessrange,"","","",
+200,access_rules,"","","",
+201,access_schema,0.1.0|0.2.0|0.2.1|0.2.2|0.2.3|0.3|0.3.1|0.3.2|0.3.3|0.3.4|0.3.5|0.4.0|0.5.0|0.6.0|0.6.1,Victor Gumayunov,"",AccessSchema is an ACL tool
+202,access_stack,"","","",
+203,accio,0.0.3,Dennis Schneider,thor|term-ansicolor|clipboard|terminal-table|rspec|rake|simplecov,Accio - A code snippet management tool for the terminal
+204,acclaim,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.1.0|0.2.0|0.2.1|0.2.2|0.2.3|0.3.0|0.3.1|0.3.2|0.4.0|0.4.1|0.5.0|0.5.1,Matheus Afonso Martins Moreira,jewel|ribbon|redcarpet|rookie|rspec|yard,Command-line option parser and command interface.
+205,accord,0.1.1,rcabralc,rspec,Contracts and adaptation for Ruby
+206,accordion_view,"","","",
+207,accountable,"","","",
+208,accountancy,"","","",
+209,accountant_date,0.0.3,Ryan Winograd,rspec|rdoc|bundler|jeweler|simplecov,Accounting-style date parsing
+210,AccountGem,"","","",
+211,accounting,"","","",
+212,accountingjs-rails,0.0.2|0.0.4,Maksim Berjoza,"","A tiny JavaScript library for number, money and currency formatting with Rails asset pipeline"
+213,accountly,0.0.4|0.0.5|0.0.6|0.0.7,Guido Boyke,rails|haml|lobby|sqlite3|debugger|rspec-rails|factory_girl_rails|capybara|guard-rspec|database_cleaner|spork-rails|guard-spork|shoulda-matchers,Account Administration
+214,accounts,"","","",
+215,accounts_client,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11|0.0.12|0.0.13|0.0.14|0.0.15|0.0.16|0.0.18|0.0.19|0.0.20|0.0.21|0.0.22|0.1.0|0.2.0|0.2.1|0.2.2,Dwayne Macgowan,railties|gravtastic|logical_model,Client library for padma-Accounts-ws
+216,account_scopper,0.2.0,Sebastien Grosjean,activerecord|rspec,Account Scopper: Automatically scope your ActiveRecord's model by account. Ideal for multi-account applications.
+217,accoutrement,0.0.2|0.0.3|0.0.4|0.0.5|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7|0.1.8|0.1.9|0.1.10,Eric M. Suzanne,sass|compass,Sass utilities and patterns.
+218,acc_skima,0.0.0.2,Skima.net,spreadsheet|will_paginate|prawn|prawnto,skima accounting
+219,accumulators,0.1.1|0.1.2|0.1.4|0.2.0|0.3.0|0.4.0|0.5.0|0.5.1,Gavin Heavyside,rake|rspec|bundler|jeweler|simplecov|guard|guard-rspec|ruby_gntp,Statistical accumulators for Ruby
+220,accutronic,0.1.8|0.2.0|0.2.1|0.2.2,Luke Spangler,abc|highline,A simple set of libraries and executables for personal use.
+221,acdc,0.2.3|0.2.5|0.5.0|0.5.1|0.6.0|0.7.0|0.7.1|0.7.2|0.7.3|0.7.4|0.7.5|0.7.6|0.7.7,Clint Hill,libxml-ruby|builder,acdc 0.7.7
+222,ace,0.3|0.3.1|0.3.2|0.3.3|0.4|0.4.1|0.4.2|0.4.3|0.4.4|0.4.5|0.4.6|0.4.7|0.4.8|0.4.9,Jakub Šťastný aka Botanicus,template-inheritance|simple-templater,Ace is highly flexible static pages generator with template inheritance.
+223,ace-client,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9,tily,nokogiri|httparty|thor|rspec|rdoc|bundler|jeweler,Simple ACE(Amazon Compatible Environment) Client
+224,ace-debugger-ruby_core_source,"","","",
+225,aced_rails,0.0.2|0.1.0|0.1.1|0.1.2|0.2.0|0.2.1,Roman Kolesnev,rails,Provide some helpers and generators for using Ajax.org Cloud9 Editor
+226,ace_editor-rails,"","","",
+227,ace-eye,0.6.2|0.6.3|0.6.4|0.6.5,Konstantin Makarchev,celluloid|celluloid-io|state_machine|thor|sigar|rake|rspec|rr|ruby-graphviz|forking|fakeweb|eventmachine|sinatra|thin|xmpp4r|coveralls|simplecov,FORK FOR TESTING. Process monitoring tool. Inspired from Bluepill and God. Requires Ruby(MRI) &gt;= 1.9.3-p194. Uses Celluloid and Celluloid::IO.
+228,aceitafacil,0.0.3|0.0.4|0.0.5|0.0.6|0.0.7,Wilbert Ribeiro,json|activemodel|activesupport|bundler|rake|rspec-rails|fakeweb|factory_girl_rails|byebug,This gem enables aceitaFacil API features on Ruby on Rails
+229,ace-rails,0.0.2,Florian G&#252;nther,"",Use ace (Ajax.org Cloud9 Editor) within your Rails 3 projects
+230,ace-rails-ap,0.0.2|0.0.3|1.0.0|2.0.0|2.0.1,Cody Krieger,bundler|rails,The Ajax.org Cloud9 Editor (Ace) for the Rails 3.1 asset pipeline.
+231,acfs,0.3.0|0.4.0|0.5.0|0.5.1|0.6.0|0.7.0|0.8.0|0.9.0|0.10.0|0.11.0|0.12.0|0.13.0|0.14.0|0.15.0|0.16.0|0.17.0|0.18.0|0.19.0|0.20.0|0.21.0|0.21.1|0.22.0|0.22.1|0.22.2|0.23.0|0.23.1|0.23.2|0.24.0|0.25.0|0.26.0|0.27.0|0.28.0|0.29.0|0.29.1|0.30.0|0.31.0|0.32.0|0.32.1|0.33.0|0.33.1|0.34.0|0.34.1|0.35.0|0.36.0|0.37.0|0.38.0|0.39.0|0.39.1|0.40.0,Jan Graichen,activesupport|activemodel|actionpack|multi_json|typhoeus|rack|bundler,An abstract API base client for service oriented application.
+232,acgt,0.0.2,Leandro López (inkel),mote|clap,DNA for simple generators
+233,ach,0.3.0|0.3.0.1|0.3.1|0.3.2|0.4.0|0.4.1|0.4.2|0.4.3|0.4.4|0.4.5|0.4.6|0.4.7|0.4.8,Jared Morgan|Josh Puetz,rake|rspec,Helper for building ACH files
+234,ach_builder,0.0.2|0.2.1|0.2.2,TMX Credit|Artem Kuzko|Sergey Potapov,rspec|activesupport|i18n,Ruby tools for building ACH files
+235,achdirect-activemerchant,"","","",
+236,achetepe,0.0.2,Emiliano Mancuso,protest|cuba,Asynchronous HTTP Requests using Threads
+237,achievable,0.0.2,Qi He,sourcify|resque,A simple achievment gem for rails.
+238,achieve,"","","",
+239,achievements,0.0.3|0.0.4|0.0.5,Michael R. Bernstein,redis,Achievements adds Redis-backed achievments
+240,achiever,"","","",
+241,achirkunov-spatial_adapter,"","","",
+242,ac_hiya_ankit_chachada,"","","",
+243,achoo,0.4.1|0.4.2|0.5|0.5.1,Kjell-Magne &#216;ierud,mechanize|plugman|ri_cal,Achievo CLI.
+244,achoo-plugin-homescreen,"","","",
+245,ackbar,0.1.1,Assaph Mehr,KirbyBase|activerecord,ActiveRecord KirbyBase Adapter
+246,ackintosh-net-empty_port,"","","",
+247,ackintosh-tiny_progressbar,"","","",
+248,ackr,0.1.1|0.2|0.2.2,Xavier Nayrac,rainbow,"Ackr is a very small subset of grep/ack/rak, for lazy developers"
+249,acl,0.2,Martin Povolny,"",Posix ACL bindings
+250,acl9,0.12.0|0.12.1,oleg dashevskii,rails|be9-context|jnunemaker-matchy|rake|yard|sqlite3|turn,Yet another role-based authorization system for Rails
+251,aclatraz,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4,Chris Kowalik,dictionary|rspec|mocha|redis|riak-client|cassandra,Flexible access control mechanism!
+252,a_clockwork_ruby,0.0.2|0.0.3,Mike Taylor|Michael Pearce,bundler|jeweler|rcov,A clock class for use with time of day
+253,acl_plugin,"","","",
+254,acl_system2,0.2.1|0.3.0,Ezra Zygmuntowicz|Fabien Franzen|Gareth Rees,minitest|turn|rake,An access control gem for Rails
+255,acluscraper,0.0.2,M. C. McGrath,"","Scrapes, extracts text, extracts metadata from ACLU court documents"
+256,acmcommits,0.4.3|1.0.0|1.0.1|1.0.2|1.0.3|1.0.4|1.0.6|1.0.7|1.0.8|1.0.9|1.0.10|1.0.11|1.0.12|1.0.13|1.0.14|1.0.15|1.0.16|1.0.17|1.1.0|1.1.1|1.1.2|1.1.3|1.1.4,Brendan Ryan,mini_magick|git|choice|launchy|methadone|open4|activesupport|rdoc|aruba|rake|fivemat|faker|json,Lolcommits refactored for use at the UIUC branch of ACM.
+257,acme,0.0.2|0.0.3|0.0.4|0.0.5|0.1.0,Jason King,acme-bleach|acme-heisenberg|acme-leeway,A namespace for mischief
+258,acme-bleach,0.0.2|0.0.3|0.0.4,Jason King,bundler|rake,Bleaches your source file
+259,acme-heisenberg,"","","",
+260,acme_japanese_av_actress,"","","",
+261,acme-leeway,"","","",
+262,acme-method_missing,0.0.2,Adan Alvarado,bundler|rake,A new message for method not found
+263,acme-smileage,4.0.1,nicochan99,bundler|rake|minitest|amatch|moji|nokogiri|thor,"All about Japanese pop star ""S/mileage"""
+264,acms_ruby,"","","",
+265,acnfp-trans-counter,0.2.0,Robert Syme,bio|thor|shoulda|bundler|jeweler|rcov|bio|thor,A quick and dirty tool for analysis of transition and transversion frequency aross and alignment
+266,acoc,"","","",
+267,acop,1.0.1|1.0.2,Avinash Padmanabhan,OptionParser|rspec|nokogiri|webmock,Accessibility Cop
+268,acopy,0.1.1,opamp,"",auto copy tool
+269,ACORD,"","","",
+270,acorn,"","","",
+271,acouchi,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11|0.0.12|0.0.13|0.0.14,Andrew Vos,httparty|childprocess|nokogiri|ptools,
+272,acoustid-api,"","","",
+273,acpc_dealer,0.0.2|0.0.3|0.0.5|1.0.0|1.0.1|1.0.2|1.0.3|1.0.4|2.0.0|2.0.1|2.0.2|2.0.3|2.0.4|2.0.5|2.0.6|2.1.0|2.1.1|2.1.2|2.1.3,Dustin Morrill,clive|process_runner|rake-compiler|minitest|mocha|awesome_print|simplecov,Ruby interface to the Annual Computer Poker Competition's dealer program.
+274,acpc_dealer_data,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.2.0|0.2.1|0.2.2|0.3.2|0.3.3|1.0.0,Dustin Morrill,acpc_dealer|acpc_poker_types|celluloid|dmorrill10-utils|minitest|mocha|simplecov|turn|pry-rescue|awesome_print,"Gem to parse, manipulate, and use data from the ACPC Dealer program."
+275,acpc_poker_basic_proxy,0.0.2|0.0.3|1.0.0|2.0.0|3.0.0|3.0.1|3.0.2|3.0.3|3.0.4,Dustin Morrill,acpc_poker_types|contextual_exceptions|minitest|mocha|awesome_print|pry-rescue|simplecov|acpc_dealer,ACPC Poker Basic Proxy
+276,acpc_poker_match_state,0.0.2|0.0.3|0.0.4|1.0.0|1.0.1|1.0.2|2.0.0|2.0.1|2.1.0|2.1.1|2.2.1,Dustin Morrill,acpc_poker_types|contextual_exceptions|turn|minitest|acpc_dealer|awesome_print|pry-rescue|simplecov,ACPC Poker Match State
+277,acpc_poker_player_proxy,0.0.2|1.0.0|1.0.1|1.1.0|1.1.1|1.1.2|1.1.3|1.2.0|1.2.1,Dustin Morrill,acpc_poker_basic_proxy|acpc_poker_types|contextual_exceptions|methadone|acpc_dealer|minitest|mocha|awesome_print|pry-rescue|simplecov,ACPC Poker Player Proxy
+278,acpc_poker_types,0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|1.0.0|2.0.0|3.0.2|3.1.0|3.1.1|3.1.2|3.1.3|3.1.4|3.2.0|3.2.1|3.3.1|4.0.0|5.0.0|5.0.1|5.0.2|5.0.3|6.0.0|6.0.1|6.0.2|6.1.0|6.1.1|6.1.2|6.2.0|6.2.1|6.2.2|6.2.3|7.0.0|7.1.0|7.1.1|7.1.2|7.1.3|7.1.4|7.1.5|7.2.0|7.2.1|7.2.2|7.2.3|7.2.4|7.2.5|7.3.0|7.3.1|7.3.2|7.3.3|7.4.0|7.4.1|7.4.2|7.4.3|7.4.4,Dustin Morrill,process_runner|acpc_dealer|celluloid|contextual_exceptions|minitest|mocha|awesome_print|simplecov,ACPC Poker Types
+279,acquia_toolbelt,1.1.0|1.2.0|1.3.0|1.4.0|1.5.0|1.5.1|2.0.0|2.0.1|2.1.0|2.2.0|2.2.1|2.3.0,Jacob Bednarz,thor|netrc|highline|faraday|json|rainbow|sshkey|multi_json|bundler|rake|rspec|vcr|webmock,A CLI tool for interacting with Acquia's hosting services.
+280,acquire_stockinfo_from_yahoo,0.0.2|0.0.3|0.0.4|0.0.5,Tanaka Kazuki,bundler|rake|rspec|nokogiri|openurl|whenever,"I am allowed to refer to open_url, nokogiri, and whenever."
+281,acread,0.5.1|0.5.2|0.5.3|0.6.0|0.6.1|0.6.2,yann ARMAND|Nick Campbell|Mario Caropreso,rails|continuable|shoulda|rdoc|bundler|jeweler|sqlite3,An ActiveRecord Extension to deprecate attributes
+282,acronym,0.1.2|0.1.4,James Robertson,"",acronym
+283,acropolis,"","","",
+284,acrosslite,0.2.1|0.3.0|0.4.0,Samuel Mullen,rspec,A Ruby library for parsing Across Lite puzzle (.puz) files
+285,act,0.0.2|0.0.3,Fabio Pelosin,claide|colored|activesupport|bundler|rake,Act the command line tool to act on files.
+286,act_as_attribute,0.0.2,Annu Yadav,"",Gem which will treat its association as its attribute.
+287,act_as_buddy,1.0.1|1.1.0|1.1.1|1.1.2,kannancet,shoulda|rdoc|bundler|jeweler|rcov|rake|activerecord|rails|dummier|sqlite3,A gem to implement self relation on any table.
+288,act_as_cached,0.0.2|0.0.3|0.0.3.1|0.0.4|0.0.5,ddl1st,activesupport|activerecord,Friendly cache with ActiveRecord.
+289,act_as_csv,"","","",
+290,act_as_dirty,0.0.2|0.0.3,Mathieu Gagne,rspec,Create a message of all changes made to a record each time it saves using ActiveModel::Dirty.
+291,act_as_enumerable,0.1.1|0.1.2|0.1.3,caedes,rake|rspec|coveralls,Add enumeration to your ruby classes
+292,act_as_importable,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.10|0.0.11,Colin Harris,activesupport|activerecord|rspec|sqlite3,Helps import records from CSV files.
+293,act_as_menu,"","","",
+294,act_as_nameable,0.0.2|0.0.3,caedes,activesupport|activerecord|rspec|sqlite3,Add full name methods on a model
+295,act_as_releasable,0.0.2|0.0.3|0.0.4|0.0.5,Gregório Kusowski,rspec|guard-rspec|factory_girl|sqlite3|activesupport|activemodel|activerecord,act_as_releasable-0.0.5
+296,act_as_serializable,"","","",
+297,act_as_time_as_boolean,0.1.1|0.1.2|0.2.0|0.2.1|0.3.0|0.4.0|1.0.0,caedes,activesupport|rake|coveralls|json|combustion|rspec-rails|sqlite3|activerecord,Add time_as_boolean feature to ActiveRecord classes
+298,act-fluent-logger-rails,0.0.2|0.0.3|0.0.4|0.1.0|0.1.1|0.1.2|0.1.3,TAHARA Yoshinori,rspec|fluent-logger|rails,Fluent logger
+299,actic,0.0.2|0.0.2.1|0.0.2.1.1|0.0.2.2|0.0.2.3|0.0.3|0.0.4|0.0.5|0.0.5.1,Steve A Martin,ri_cal|recurs|haml|haml-rails|inherited_resources|factory_girl|database_cleaner,A fusion of ORM and ical
+300,acting,0.0.2|0.0.4,Jakob Holderbaum,bundler|rake,Let your objects play an acting - just for a while
+301,action,"","","",
+302,actionable,0.0.2|0.0.3|0.0.4|0.0.5|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5,Daniel Luxemburg,bundler|rake|rspec|pry|timecop|guard-rspec|rb-fsevent|terminal-notifier-guard|activesupport|resque|mongoid|rufus-scheduler,"Store stuff in Mongo, keep track of it in Redis, log lots of stuff, include test help"
+303,action_annotation,"","","",
+304,action_args,0.0.3|1.0.0|1.0.1|1.0.2|1.0.3|1.0.4|1.1.0|1.1.1|1.2.0|1.2.1|1.3.0,Akira Matsuda,"",Controller action arguments parameterizer for Rails 3+ &amp; Ruby 1.9+
+305,action_auditor,"","","",
+306,action_audits,"","","",
+307,action_context,0.1.3,Matthew Daubert,"",Context awareness for Rails 3
+308,actioncontroller-parameter_filter,0.0.2,Alex McHale,"",A gem to easily filter out unwanted parameters in ActionController.
+309,action_controller-parents,0.0.2|0.1.0|0.1.1,Maarten Claes,bundler|rake|rspec|mutant|appraisal|activesupport,Easily access parent resources
+310,action_controller_tweaks,0.2.0|0.3.0,PikachuEXE,activesupport|actionpack|bundler|rake|appraisal|rspec-rails|activerecord|sqlite3|database_cleaner|timecop|coveralls|gem-release,Some Tweaks for ActionController
+311,action_cost,0.1.0,Philippe Le Rohellec,shoulda|rdoc|bundler|jeweler,ActionCost measures the cost of controller actions
+312,actiondebug,"","","",
+313,action_dispatch-gz_static,0.0.2|0.0.3,Jonathan Baudanza,actionpack|railties,Serves the .gz files that are created by the asset precompiler
+314,action_event,0.0.2|0.0.3,Warren Konkel,"",A framework for asynchronous message processing in a Rails application.
+315,action_flow,"","","",
+316,actionframework,0.1.0|0.1.3|0.1.3.0|0.1.3.1|0.2|0.2.2,Bram Vandenbogaerde,tilt|json|rack|optitron|websocket-rack|httparty|jewel|minigit|omniauth|event_emitter|warden|actionmailer,A web framework built on top of Rack
+317,actionframework-baseapi,0.2.0,Bram Vandenbogaerde,json|rack,ActionFramework BaseAPI
+318,action-gmailer,"","","",
+319,action-guard,0.0.2|0.1.0|1.1.0|1.2.0|1.2.1,Rob Westgeest,rspec|bundler|jeweler|rcov|ZenTest|rspec,Action guard-1.2.1
+320,action-hero,0.2.0|0.2.1|0.3.0|0.3.1|0.4.0|0.5.0,C. Jason Harrelson,bundler|rake|rails,Move actions from methods in Rails controllers to action classes.
+321,action_interceptor,0.0.2|0.0.3|0.1.0|0.1.1|0.1.2|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4,Dante Soares,rails|sqlite3|rspec-rails,Handles redirection to and from `interceptor` controllers.
+322,actionio-inifile,2.0.4,Tim Pease|Wong Liang Zan,bones-git,Parses ansible ini files.
+323,action-jackson,"","","",
+324,action_kit_api,0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7|0.1.8|0.1.9|0.1.10|0.1.11|0.2.1|0.2.2|0.2.3|0.3.0|0.3.1|0.3.2|0.3.3|0.3.4|0.3.5|0.3.6|0.3.7|0.3.8|0.3.9|0.3.10|0.3.11|0.3.12|0.4.0|0.4.1|0.4.2|0.4.3|0.4.4|0.4.5|0.4.6|0.4.7|0.4.8,Sam Stelfox,rspec|cucumber,Wrapper for the ActionKit API
+325,action_kit_rest,0.2.0,Nathan Woodhull,action_kit_rest|rspec|guard|guard-rspec|pry|pry-debugger|rb-fsevent|rdoc|bundler|webmock|jeweler|vertebrae,A wrapper for the ActionKit REST API
+326,action_labels,"","","",
+327,action_links,0.2.0|0.2.1|0.2.2|0.3.0|0.3.1|0.4.0|0.4.1,Adam Crownoble|Ryan Hall,"",Quick and painless action links
+328,action_logger,0.1.0|0.1.1|0.1.2,Jeroen Jacobs,rails,Log actions in your Rails app
+329,actionmailer,0.4.0|0.5.0|0.6.0|0.6.1|0.7.0|0.7.1|0.8.0|0.8.1|0.9.0|0.9.1|1.0.0|1.0.1|1.1.1|1.1.2|1.1.3|1.1.4|1.1.5|1.2.0|1.2.1|1.2.2|1.2.3|1.2.4|1.2.5|1.3.0|1.3.1|1.3.2|1.3.3|1.3.4|1.3.5|1.3.6|2.0.0|2.0.1|2.0.2|2.0.4|2.0.5|2.1.0|2.1.1|2.1.2|2.2.2|2.2.3|2.3.2|2.3.3|2.3.4|2.3.5|2.3.6|2.3.7|2.3.8|2.3.9|2.3.10|2.3.11|2.3.12|2.3.14|2.3.15|2.3.16|2.3.17|2.3.18|3.0.0|3.0.1|3.0.2|3.0.3|3.0.4|3.0.5|3.0.6|3.0.7|3.0.8|3.0.9|3.0.10|3.0.11|3.0.12|3.0.13|3.0.14|3.0.15|3.0.16|3.0.17|3.0.18|3.0.19|3.0.20|3.1.0|3.1.1|3.1.2|3.1.3|3.1.4|3.1.5|3.1.6|3.1.7|3.1.8|3.1.9|3.1.10|3.1.11|3.1.12|3.2.0|3.2.1|3.2.2|3.2.3|3.2.4|3.2.5|3.2.6|3.2.7|3.2.8|3.2.9|3.2.10|3.2.11|3.2.12|3.2.13|3.2.14|3.2.15|3.2.16|3.2.17|3.2.18|4.0.0|4.0.1|4.0.2|4.0.3|4.0.4|4.0.5|4.1.0|4.1.1,David Heinemeier Hansson,actionpack|actionview|mail,"Email composition, delivery, and receiving framework (part of Rails)."
+330,actionmailer-2.3.17-rack-upgrade,"","","",
+331,ActionMailer-Base-to-use-an-absolute-path-template,"","","",
+332,action_mailer_cache_delivery,0.3.3|0.3.4|0.3.5|0.3.6|0.3.7,Alex Rodionov,actionmailer|rspec|rake,Cache delivery method for ActionMailer
+333,actionmailer-callbacks,0.0.2|1.0.0|1.1.0,andrea longhi,actionmailer|activesupport|rake|rspec|cucumber|guard-rspec|guard-cucumber,"adds before_create, around_create callbacks to action mailer 3"
+334,actionmailer_csi,"","","",
+335,action_mailer_deliver_later,0.1.1|0.1.2,Cody Frazer,shoulda|bundler|jeweler|rcov,Use Resque to asynchronously sending email messages.
+336,actionmailer-deliver_later,"","","",
+337,action_mailer-enqueable,2.0.0,Eric Chapweske,activesupport|actionmailer|appraisal|debugger|minitest|minitest-rg|bump,
+338,actionmailer_extensions,0.2.0|0.4.0|0.5.0|0.5.2|0.5.3,Peter MacRobert,actionmailer|rake|rspec|rdoc|bundler|jeweler|rr|actionmailer|yard|rspec|rr,"Handy ""save to disk"" and ""safe recipients"" features for ActionMailer"
+339,actionmailer_host_autoset,"","","",
+340,actionmailer_inline_css,1.0.1|1.0.3|1.1.0|1.2.0|1.2.1|1.3.0|1.3.1|1.4.0|1.5.0|1.5.1|1.5.2|1.5.3,Nathan Broadbent,actionmailer|premailer|nokogiri|mocha,"Always send HTML e-mails with inline CSS, using the 'premailer' gem"
+341,actionmailer-instyle,0.5.0|0.5.1|0.5.2|0.5.3,Ivan Vanderbyl,premailer|actionmailer|activesupport|sprockets|rspec-rails|guard-rspec|sass|sqlite3|mail|nokogiri|combustion,"This gem brings you the power of the premailer gem to Rails 3 without any configuration needs. Create HTML emails, include a CSS file as you do in a normal HTML document and premailer will inline the included CSS."
+342,actionmailer-ironruby,0.1.1|0.2.0,James Thompson,"",Integrate ActionMailer with .NET for IronRuby
+343,actionmailer-javamail,0.1.1,Michael Rykov,hoe,ActionMailer-JavaMail allows the emails to be delivered via the JavaMail library
+344,actionmailer-localized_preview,0.0.2,Xavier Defrang,actionmailer|bundler|rake|rspec,Extends ActionMailer::Preview to allow email previews in all available locales
+345,action_mailer-logged_smtp_delivery,1.0.2|1.1.0,Eric Chapweske,actionmailer|minitest,An ActionMailer delivery strategy
+346,actionmailer-maildir,"","","",
+347,action_mailer-mandrill,"","","",
+348,action_mailer_provider,"","","",
+349,actionmailer-rack-upgrade,2.3.15|2.3.16|2.3.17,David Heinemeier Hansson,actionpack-rack-upgrade,Service layer for easy email delivery and testing.
+350,actionmailer-rack-upgrade-2,2.3.16,David Heinemeier Hansson,actionpack-rack-upgrade-2,Service layer for easy email delivery and testing.
+351,action_mailer_stop,"","","",
+352,action_mailer_test_mailing,"","","",
+353,action_mailer_test_via_smtp,0.2.0|0.2.1,Andi Bade,"",test mails via smtp with actionmailer
+354,action_mailer_tls,"","","",
+355,action_mailer_verp,0.0.4|0.1.1|0.2.1|0.3.0|0.3.1|0.3.2,James Golick,rspec|actionmailer,Send VERP emails with actionmailer.
+356,actionmailer-with-request,0.1.1|0.3.0|0.4.0,Simone Carletti,rails,Let's ActionMailer know about the website.
+357,action_mailer_x509,0.7.2,Jenua Boiko,rake|actionmailer|mail,This Rails gem allows you to send X509 signed and\or crypted mails.
+358,actionmailer_x509,0.4.0,petRUShka|Fabien Penso|CONOVAE,"",This Rails 3 plugin allows you to send X509 signed and\or crypted mails.
+359,actionmail_logger,"","","",
+360,action_messager,0.0.2,James Golick,activesupport|xmpp4r-simple|json_pure,Really simple jabber IM notifications.
+361,actionmodel,"","","",
+362,actionmonkey,"","","",
+363,action_not_found,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6,Satoshi Honda,rails|rspec-rails|sqlite3,Rails plugin to see not found action
+364,actionpack,0.9.5|1.0.0|1.0.1|1.1.0|1.2.0|1.3.0|1.3.1|1.4.0|1.5.0|1.5.1|1.6.0|1.7.0|1.8.0|1.8.1|1.9.0|1.9.1|1.10.1|1.10.2|1.11.0|1.11.1|1.11.2|1.12.0|1.12.1|1.12.2|1.12.3|1.12.4|1.12.5|1.13.0|1.13.1|1.13.2|1.13.3|1.13.4|1.13.5|1.13.6|2.0.0|2.0.1|2.0.2|2.0.4|2.0.5|2.1.0|2.1.1|2.1.2|2.2.2|2.2.3|2.3.2|2.3.3|2.3.4|2.3.5|2.3.6|2.3.7|2.3.8|2.3.9|2.3.10|2.3.11|2.3.12|2.3.14|2.3.15|2.3.16|2.3.17|2.3.18|3.0.0|3.0.1|3.0.2|3.0.3|3.0.4|3.0.5|3.0.6|3.0.7|3.0.8|3.0.9|3.0.10|3.0.11|3.0.12|3.0.13|3.0.14|3.0.15|3.0.16|3.0.17|3.0.18|3.0.19|3.0.20|3.1.0|3.1.1|3.1.2|3.1.3|3.1.4|3.1.5|3.1.6|3.1.7|3.1.8|3.1.9|3.1.10|3.1.11|3.1.12|3.2.0|3.2.1|3.2.2|3.2.3|3.2.4|3.2.5|3.2.6|3.2.7|3.2.8|3.2.9|3.2.10|3.2.11|3.2.12|3.2.13|3.2.14|3.2.15|3.2.16|3.2.17|3.2.18|4.0.0|4.0.1|4.0.2|4.0.3|4.0.4|4.0.5|4.1.0|4.1.1,David Heinemeier Hansson,activesupport|rack|rack-test|actionview|activemodel,Web-flow and rendering framework putting the VC in MVC (part of Rails).
+365,actionpack-2.3.17-rack-upgrade,"","","",
+366,actionpack-action_caching,1.1.0|1.1.1,David Heinemeier Hansson,actionpack|mocha|activerecord,Action caching for Action Pack (removed from core in Rails 4.0)
+367,actionpack-page_caching,1.0.1|1.0.2,David Heinemeier Hansson,actionpack|mocha,Static page caching for Action Pack (removed from core in Rails 4.0)
+368,actionpack-rack-upgrade,2.3.15|2.3.16,David Heinemeier Hansson,activesupport|rack,Web-flow and rendering framework putting the VC in MVC.
+369,actionpack-rack-upgrade-2,2.3.16,David Heinemeier Hansson,activesupport|rack,Web-flow and rendering framework putting the VC in MVC.
+370,actionpack-xml_parser,1.0.1,Prem Sichanugrist,actionpack|rake,XML parameters parser for Action Pack (removed from core in Rails 4.0)
+371,action_param_caching,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6,cparratto,bundler|rake|rspec|mocha|activesupport|i18n,Allows for parameterized caching for action controllers.
+372,action_parameter,0.0.2|0.0.3,Ezequiel Delpero,minitest|activesupport|actionpack,Single Responsability Principle for Rails Controller's Parameters.
+373,action_permission,1.0.1,Matt Duffy|Brian McElaney|Mark Platt,rails|bundler|rake|rspec|activerecord-nulldb-adapter,Controller-based action and attribute permissions
+374,actionpool,0.2.3,spox,splib,Thread Pool
+375,ActionPool,0.1.0|0.2.0|0.2.1|0.2.2|0.2.3,spox,splib,Thread Pool
+376,action_presenter,1.0.1|1.0.2|1.1|1.1.1|1.1.2|1.1.3|1.1.4|1.1.5|1.1.6,Krzysztof Zalewski,actionpack|named_accessors|rake|rspec,Missing link between models and views. Use presenter pattern in Rails application without changing controllers.
+377,action-presenter,"","","",
+378,action_profiler,"","","",
+379,actionpusher,0.0.2|0.0.3|0.0.4,Gavin Miller,rspec|pry|houston|rails,Push notification composition and delivery framework (based on ActionMailer.)
+380,action_pusher,"","","",
+381,action_report,"","","",
+382,action_requires,1.0.1|1.0.2,markbates,"",action_requires
+383,actionservice,0.2.100|0.2.102|0.3.0,Leon Breedt,actionpack|activerecord,Web service support for Action Pack.
+384,action_sms,0.0.2|0.0.3|0.1.0|0.1.1,David Wilkie,tropo_message,Effortlessly switch between SMS Gateways
+385,action_smser,1.0.1|1.1.0|1.1.1|1.2.0|1.2.1|2.0.0|2.0.1|2.0.2|2.1.0|2.1.1|2.1.2,Olli Huotari,railties|mocha|sqlite3|rails|delayed_job,ActionSmser == SMS &amp;&amp; ActionMailer. Simple way to use SMS (Short Message Service) in the same way as ActionMailer. Includes also delivery reports and easy way to add custom gateways (simple http and nexmo by default).
+386,action_sms_gateways,0.0.2|0.0.3|0.0.4|0.0.6|0.0.7,David Wilkie,tropo_message,SMS Gateway Adapters to use with action_sms
+387,action_tabler,0.1.1|0.1.2,lhalff,rails|jquery-datatables-rails|sqlite3|rspec-rails,has_table_index mixin for ActionController
+388,ActionText,0.0.3|0.0.4|0.0.5|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|1.0.0|1.0.1|1.0.2|1.0.3|1.1.0|1.2.0|1.2.1|1.2.2|1.2.3,Maximilian Stroh,yard|bundler|jeweler|rcov,Extends Ruby's String Class with some useful methods für Texts.
+389,actiontexter,"","","",
+390,action_texter,"","","",
+391,action_throttler,"","","",
+392,actiontimer,0.2.1,spox,actionpool|splib,Simple timer for a complex world
+393,ActionTimer,0.0.2|0.1.0|0.1.1|0.2.1,spox,actionpool|splib,Simple timer for a complex world
+394,action_tree,0.1.1|0.2.0,jbe,backports|rspec|yard|yard-rspec,Versatile and DRY controllers and routing.
+395,actionverb_s3_direct_upload,0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11|0.0.12|0.0.13|0.0.14,Wayne Hoover,rails|coffee-rails|sass-rails|jquery-fileupload-rails,Gives a form helper for Rails which allows direct uploads to s3. Based on RailsCast#383
+396,actionversion,"","","",
+397,actionview,4.1.1,David Heinemeier Hansson,activesupport|builder|erubis|actionpack|activemodel,Rendering framework putting the V in MVC (part of Rails).
+398,actionview-data,3.0.1,Stephen Celis,actionpack,HTML5 data attribute helpers for ActionView.
+399,actionview-encoded_mail_to,1.0.1|1.0.2|1.0.3|1.0.4,Nick Reed,rails|minitest,Deprecated support for email address obfuscation within the mail_to helper method.
+400,actionview-link_to_blank,0.0.2|0.0.3|0.0.4|1.0.0|1.0.1|1.0.2|1.0.3,sanemat,bundler|rake|minitest|actionpack|activesupport,Alias link_to with target _blank
+401,actionview-link_to_block,1.0.0|1.0.1,sanemat,bundler|rake,Link to with block
+402,actionview_template_inheritance,"","","",
+403,actionwebservice,0.6.0|0.6.1|0.6.2|0.7.0|0.7.1|0.8.0|0.8.1|0.9.1|0.9.2|0.9.3|0.9.4|1.0.0|1.1.0|1.1.1|1.1.2|1.1.3|1.1.4|1.1.5|1.1.6|1.2.0|1.2.1|1.2.2|1.2.3|1.2.4|1.2.5|1.2.6,Leon Breedt,actionpack|activerecord,Web service support for Action Pack.
+404,action_widget,0.2.0|0.3.0|0.3.1|0.3.2|0.4.0|0.5.0|0.5.1,Konstantin Tennhard,smart_properties,Reusable view components for your Ruby web application
+405,activa,0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11|0.0.13|0.0.14,Andrew Kozloff,rails|stringex|awesome_nested_set|simple_form|cancan|compass-rails|rspec|sqlite3|shoulda-matchers|capybara|pry|gem-release,Rails 3.1+ dynamic page management
+406,activable,0.1.1,Diego Selzlein,bundler,Allows a model to be activated and deactivated
+407,activate-admin,0.0.2|0.0.3|0.0.4,Stephen Reid,padrino|sinatra-assetpack|sinatra-simple-navigation|kaminari|actionpack,"A powerful, lightweight admin gem for Padrino/mongoid with support for a variety of different field types"
+408,activated_ui,0.0.1,Matthew Spence,rails|rspec-rails|spork-rails|fuubar,"Activated UI, is a collection of helpers to activate UI elements."
+409,activate_my_directory,0.0.3,Ryan Kowalick,bundler|rake|rspec|pry|active_directory,Tools for ActiveDirectory authentication
+410,activator,0.0.2|0.0.3|0.0.4|0.0.5,Jelmer Snoeck,rails|sqlite3|rspec,Mark one model as active
+411,Active,0.0.2|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.11|0.0.12|0.0.14|0.0.17|0.0.18|0.0.21|0.0.22|0.0.23|0.0.24|0.0.25|0.0.26|0.0.27|0.0.28|0.0.29|0.0.30|0.0.31|0.0.32|0.0.34|0.0.35|0.0.36|0.0.37|0.0.38|0.0.39|0.0.40|0.0.41|0.0.42|0.1.7,"Jonathan Spooner, Marc Leglise",json|hashie|activesupport|htmlentities|rspec|metric_fu,Search api for Active Network
+412,active_access,"","","",
+413,active_acl,0.2.1,Gregor Melhorn,rails,"Provides an unintrusive, scalable and very flexible approach to fine grained access control."
+414,activeaclplus,0.3.1|0.4.0|0.4.2,Peter Schrammel|Gregor Melhorn,rails,A new Version (0.4.2) of ActiveAclPlus is available.
+415,activeadmin,0.1.1|0.2.0|0.2.1|0.2.2|0.3.0|0.3.1|0.3.2|0.3.3|0.3.4|0.4.0|0.4.1|0.4.2|0.4.3|0.4.4|0.5.0|0.5.1|0.6.0|0.6.1|0.6.2|0.6.3,Greg Bell,arbre|bourbon|devise|formtastic|inherited_resources|jquery-rails|kaminari|meta_search|rails|sass,The administration framework for Ruby on Rails.
+416,active_admin-acts_as_list,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7,Roberto Vasquez Angel,rails|sqlite3|yard|thin,Provides sortable_columns helper in active admin resource definitions.
+417,active_admin_acts_as_list_integration,"","","",
+418,activeadmin_associations,"","","",
+419,activeadmin_async_export,0.0.2|0.0.3,Andrew Frankel,activeadmin|sidekiq,Uses resque_mailer to asynchronously run slow data exports and deliver the results via email.
+420,active_admin-awesome_nested_set,0.0.2|0.0.3|0.0.4|0.0.5,Roberto Vasquez Angel,rails|thin|sqlite3|yard|activeadmin|awesome_nested_set|coffee-rails|sass-rails|capybara|rspec-rails|shoulda-matchers|factory_girl_rails|guard-rspec|guard-bundler|rb-inotify,Provides sortable_columns helper in active admin resource definitions.
+421,activeadmin-axlsx,2.0.0|2.0.1|2.1.1|2.1.2,Randy Morgan,activeadmin|axlsx,Adds excel downloads for resources within the Active Admin framework via Axlsx.
+422,activeadmin-blog,0.4.1|0.4.2|0.4.3|0.4.4,Alex Kravets,activeadmin-mongoid-reorder|activeadmin-settings|nokogiri|stringex,Blog app on the top of activeadmin and mongoid.
+423,activeadmin-cancan,0.1.1|0.1.2|0.1.3|0.1.4,Laurent Cobos,rails|cancan|activeadmin|sqlite3,Provides CanCan roles to ActiveAdmin
+424,activeadmin-ckeditor,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11|0.0.12|0.0.13|0.0.14|0.0.15|0.0.16|0.0.17|0.0.18|0.0.19,Maxim Gladkov,activeadmin|paperclip|ckeditor,Rich text editor for Active Admin using CKEditor.
+425,activeadmin_cms,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9,Iskander Haziev,rails|activeadmin|ace-rails-ap|jquery-rails|jquery-fileupload-rails|liquid|slim-rails|sqlite3|sass-rails|acts-as-taggable-on|minitest-rails|factory_girl_rails|database_cleaner|mocha,CMS functionality based on ActiveAdmin
+426,activeadmin-cms,"","","",
+427,active_admin_csv_import,1.0.1|1.0.2|1.1.0|1.1.1|1.1.2|1.2.0|1.2.1|1.3.0|1.3.1,Tomas Spacek,rails|railties,Add CSV import to Active Admin
+428,activeadmin_draggable,0.0.2|0.0.3|0.0.4|0.0.5|0.1.0,Krzysztof Białek|Łukasz Pełszyński,rails|bundler|rake|activeadmin|sass-rails|sqlite3|minitest|capybara|acts_as_list,Adds sortable_table type which uses acts as list for changing order of items with nice js tool
+429,activeadmin-dropzone,0.0.2|0.1.0|0.1.1|0.2.1|0.2.2|0.2.3|0.2.4|0.2.6,Maxim Gladkov,jeweler|simplecov-rcov,Easy to use integration of drag&amp;drop files upload via dropzone.js for ActiveAdmin
+430,active_admin-duplicatable,"","","",
+431,active_admin_editor,0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.3.0|0.3.1|0.3.2|0.3.3|0.3.4|0.3.5|0.3.6|1.0.0|1.0.1|1.0.3|1.0.4|1.0.5|1.0.6|1.1.0,Eric Holmes,rails|activeadmin|ejs|sqlite3|rspec|rspec-rails|factory_girl_rails|database_cleaner|capybara|activeadmin|poltergeist|faker|konacha|chai-jquery-rails|sinon-chai-rails|sinon-rails,Rich text editor for Active Admin using wysihtml5.
+432,active_admin_environment,1.0.0,Keishake,activeadmin|railties|bundler|rake|rspec|rspec-rails|ammeter,Change ActiveAdmin page style by environment
+433,activeadmin_expandable_inputs,0.0.2|0.0.3|0.0.4,Ariel Schvartz,bundler|rake,Adds expandable boxes to the activeadmin inputs
+434,activeadmin_file_input_on_steroids,0.0.2,Ariel Schvartz,bundler|rake,Gem that adds functionality to activeadmin file input
+435,activeadmin-generator,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11|0.0.12|0.0.13|0.0.14,Stefano Verna,rake|thor|railties|s3|heroku-api|mechanize,Generate ActiveAdmin projects
+436,activeadmin-globalize3,"","","",
+437,activeadmin-globalize3-dougui,"","","",
+438,ActiveAdmin-Globalize3-inputs,"","","",
+439,active_admin_globalize3_locale_selector,"","","",
+440,activeadmin-globalize3-unofficial,"","","",
+441,activeadmin_images,0.2.0,Kernel Web,rails|activeadmin,Active Admin plugin for generate the model of image
+442,active_admin_import,1.0.1|2.0.0|2.0.1|2.1.0|2.1.1,Igor Fedoronchuk,activerecord-import|activeadmin|rubyzip,ActiveAdmin import based on activerecord-import gem.
+443,active_admin_importable,1.1.1|1.1.2,Kevin Horst,"",Add CSV import to Active Admin resources with one line.
+444,active_admin_import_anything,0.0.2|0.0.4,Trevor Kimenye,bundler|rake,Import any type of file via a collection action. Unlike active_admin_importable which only handles csv
+445,activeadministration,0.0.2,P.S.V.R,arbre|bourbon|coffee-rails|devise|formtastic|inherited_resources|jquery-rails|jquery-ui-rails|kaminari|rails|ransack|sass-rails,Active Administration is a Ruby on Rails framework for creating professional administration solutions.
+446,active_administration,0.0.2|0.0.3,P.S.V.R,arbre|bourbon|coffee-rails|devise|formtastic|inherited_resources|jquery-rails|jquery-ui-rails|kaminari|rails|ransack|sass-rails|less-rails,Active Administration is a Ruby on Rails framework for creating professional administration solutions.
+447,active_admin_jcrop,"","","",
+448,activeadmin-logs,"","","",
+449,active_admin_modal_upload,0.0.2|0.0.5,Isaac Norman,rails|s3_direct_upload|jquery-ui-rails|jquery-modal-rails|sidekiq|sqlite3,Modal uploads in ActiveAdmin
+450,activeadmin-mongoid,0.2.0|0.3.0,Elia Schito,mongoid|activeadmin|jquery-rails|sass-rails|meta_search|rspec-rails,ActiveAdmin hacks to support Mongoid
+451,activeadmin-mongoid-blog,0.3.1|0.3.2|0.3.3|0.3.4|0.3.5|0.3.6|0.3.7|0.3.8|0.3.9,Alex Kravets,"","Blog app on the top of activeadmin and mongoid, using redactor and select2 plugins."
+452,activeadmin-mongoid-localize,0.0.2|0.1.0|0.2.1|0.2.2|0.3.1|1.0.0|1.0.1,Gleb Tv,mongoid|formtastic,Mongoid localized fields for active admin
+453,activeadmin-mongoid-reorder,0.2.0|0.2.1,Alex Kravets,"",Reorder index table rows plugin for activeadmin.
+454,activeadmin-mongoidv3,0.0.2,Elia Schito,mongoid|activeadmin|sass-rails,ActiveAdmin hacks to support Mongoid
+455,activeadmin-mongomapper,"","","",
+456,active_admin_multi_upload,0.0.2|0.0.3|0.0.4,Isaac Norman,rails|jquery-fileupload-rails,Allows for the upload of multiple files at once to ActiveAdmin
+457,activeadmin_pagedown,0.0.2,Michael Guymon,activeadmin,Pagedown widget for ActiveAdmin.
+458,active_admin_pagination,0.2.0,Timo Schilling,bundler|rake,Provides a pagination 'per page' interface for ActiveAdmin.
+459,active_admin_relationship_filters,"","","",
+460,activeadmin_reorderable,"","","",
+461,activeadmin-select2,0.1.1|0.1.2,Mark Fairburn,bundler|rake|activeadmin|jquery-rails|select2-rails,Incorporate Select2 jquery into ActiveAdmin
+462,activeadmin-selleo-cms,0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11|0.0.12|0.0.13|0.0.14|0.0.16|0.0.17|0.0.18|0.0.20|0.0.21|0.0.22|0.0.23|0.0.24|0.0.25|0.0.26|0.0.27|0.0.28|0.0.29|0.0.30|0.0.31|0.0.32|0.0.33|0.0.34|0.0.35|0.0.36|0.0.37|0.0.38|0.0.39|0.0.40|0.0.41|0.0.42|0.0.43|0.0.44|0.0.45|0.0.46|0.0.47|0.0.48|0.0.49|0.0.51|0.0.52|0.0.54|0.0.58|0.0.59|0.0.60|0.0.61,Adrian Ossowski,rails|jquery-rails|jquery-ui-rails|activeadmin|globalize3|ckeditor|paperclip|language_list|haml|awesome_nested_set|liquid|texticle|i18n-active_record|nokogiri|remotipart|acts_as_list|wicked_pdf|pg|rspec|rspec-rails|capybara|capybara-webkit|database_cleaner|factory_girl_rails|headless,ActiveAdmin CMS extension
+463,activeadmin-settings,0.2.1|0.2.2|0.2.3|0.2.4|0.2.5|0.2.6|0.2.7|0.2.8|0.2.9|0.3.0|0.3.1|0.3.2|0.3.3|0.3.4|0.3.5|0.4.0|0.4.1|0.4.2|0.4.3|0.4.4,Alex Kravets,aws-s3|fog|mini_magick|carrierwave|bson_ext|devise|activeadmin,
+464,active_admin_sidebar,0.0.2|0.0.3|0.0.4,Igor,activeadmin,active_admin_sidebar gem
+465,activeadmin-sortable,0.0.2|0.0.3,Adam McCrea,activeadmin,Drag and drop sort interface for ActiveAdmin tables
+466,active_admin-state_machine,0.1.1,Matt Brewer,rails|activeadmin|state_machine|rake|sqlite3|pg|rspec-rails|shoulda-matchers|capybara|capybara-webkit|database_cleaner|factory_girl_rails,Provides easy DSL integration between ActiveAdmin &amp; state_machine
+467,active_admin-subnav,"","","",
+468,activeadmin-therole,"","","",
+469,activeadmin_tinymce,0.0.2|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5,Kerweb development team,rails|slim-rails|tinymce-rails|activeadmin,TinyMCE for Active Admin
+470,active_admin_tokeninput,0.0.3|0.0.31|0.0.32,William Porter,rails|pg,Turn fields to a token autocomplete in active_admin
+471,activeadmin-translate,0.2.0|0.2.1|0.2.2,Michael Kessler,activeadmin|globalize3|railties,Translate models with ActiveAdmin.
+472,activeadmin-ui-addons,"","","",
+473,active_admin_usertasks,0.1.1|1.0.0,Corprew Reed,shoulda|rdoc|bundler|jeweler,solves some activeadmin admin user use cases
+474,activeapi,0.0.2,Justin Zollars,activesupport|activemodel|activerecord,An out of box API
+475,active_api,0.2.1,Jeff Dean,nokogiri|activesupport,An api layer for ruby
+476,active_application,0.1.0|0.2.0|0.3.0|0.3.1,Jari Jokinen,rails|cancan|devise-formtastic|formtastic-bootstrap|has_scope|jquery-rails|kaminari|less-rails|modernizr-rails|rolify|simple_resource|stringex|therubyracer|twitter-bootstrap-rails|capybara|database_cleaner|factory_girl_rails|forgery|guard-rspec|guard-spork|launchy|rb-inotify|rspec-rails|spork-rails|sqlite3,Application framework for Rails
+477,active-asari,"","","",
+478,active_assets,0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5|0.2.6|0.2.7|0.2.8|0.3.0|0.3.1|1.0.0|1.0.1|1.0.2|1.0.3|1.1.0|1.1.1|1.1.2|1.1.3,Sam Woodard,oily_png|chunky_png|rmagick|mini_magick|css_parser|rails|test-unit|ZenTest,"A Railtie that provides an asset management system for css, javascript, and sprites in your Rails applications and engines."
+479,activeasync,0.0.2|0.0.3,Ross Kaffenberger,resque|activesupport|rails|rspec|database_cleaner|sqlite3,Add async support to ruby objects
+480,active_attr,0.2.0|0.2.1|0.2.2|0.3.0|0.4.0|0.4.1|0.5.0|0.5.1|0.6.0|0.7.0|0.8.0|0.8.1|0.8.2|0.8.3,Chris Griego|Ben Poweski,activemodel|activesupport|bundler|factory_girl|rake|rspec|tzinfo,What ActiveModel left out
+481,active_attributes,"","","",
+482,activeaudit,0.1.1|0.1.2|0.1.3|0.1.4|0.1.5,Massimo Maino,rdoc|bundler|jeweler|rspec|activerecord|sqlite3|faker,Audit support for Active Record
+483,active_bacon,"","","",
+484,active-behavior,0.2.1,Lance Pollard,"",Build your models one module at a time.
+485,active_blog,0.0.2|0.5.0|0.6.0|0.7.0|0.8.0,Marc Chung,rails|activeadmin|redcarpet|kaminari|pg,"A barebones, markdown, blogging Rails Engine."
+486,active_blur,"","","",
+487,active_bomb,"","","",
+488,active_breadcrumbs,0.6.1,David Keener,rails|bones|bones-rspec|rake|rspec|bones,This gem makes it easy to generate breadcrumb trails in a Rails application.
+489,active_bugzilla,1.0.1,Joe VLcek|Jason Frey|Oleg Barenboim|Alberto Bellotti,bundler|rake|rspec|coveralls|activemodel|activesupport|dirty_hashy,ActiveBugzilla is an ActiveRecord like interface to the Bugzilla API.
+490,active_cache,0.0.1,Pawel Mikolajewski,rails|dalli|sqlite3,Conditional cache implementation
+491,activecalendar,"","","",
+492,active_campaign,0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11|0.0.12|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.7|0.1.8|0.1.9,Mikael Henriksson,httpi|hashie,See http://www.activecampaign.com/api/overview.php for more information
+493,active_cart,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.10.1|0.0.11|0.0.12|0.0.13|0.0.14|0.0.15|0.0.16|0.0.17|0.0.18,Myles Eftos,aasm|redgreen|shoulda|mocha|machinist|faker,Shopping Cart framework gem. Supports 'storage engines' and order total plugins
+494,active-cart,"","","",
+495,activecleaner,"","","",
+496,active_cmis,0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7|0.1.8|0.1.9|0.1.10|0.1.11|0.1.12|0.1.13|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5|0.2.6|0.3.0|0.3.1|0.3.2|0.3.3|0.3.4|0.3.5,Joeri Samson,nokogiri|ntlm-http|require_relative,A library to interact with CMIS repositories through the AtomPub/REST binding
+497,active_collab,0.0.2|0.0.3,Marcos Beirigo|Diogo Soares,httparty,activecollab ruby
+498,active_collection,0.2.1|0.2.3|0.2.4|0.2.5|0.2.6,Martin Emde,rspec,"A lazy-loading, Array-like collection proxy for ActiveRecord that understands conditions and paging."
+499,active_column,0.0.2|0.1|0.1.1|0.2,Michael Wynholds,cassandra|rake|rails|rspec-rails|wrong|yard|bluecloth|mocha,Provides time line support and database migrations for Cassandra
+500,active_component,"","","",
+501,active-component,0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4,Antonio Chavez|Jesus Romero,mustache|sqlite3|faker|pry|mocha|coveralls|sinatra|rails,A View-Component framework for Rails applications.
+502,active_concerns,1.0.1|1.1.0|1.1.1|1.1.2|1.2,Andrew Kozin,rails|sqlite3|rspec-rails,A bunch of modules to mix in active records models.
+503,active_conductor,0.1.1|0.2.0|0.2.1|0.2.2,Scott Taylor|Michael Kessler,activemodel|bundler|guard|guard-rspec|rspec|activerecord|sqlite3-ruby|yard|bluecloth,Conductor plugin for Rails 3
+504,activeconfig,0.5.6|0.6.0|0.6.1|0.6.2,Jeremy Lawler,rdoc|bundler|jeweler,An extremely flexible configuration system
+505,active_configuration,1.0.1|1.0.2,Thomas Mango,rails|sqlite3-ruby|active_configuration|rspec-rails|yard|activerecord|activesupport,A generic settings store for Rails 3.x and 4.x ActiveRecord models.
+506,active_connection,0.0.2,Frank J. Mattia,activerecord|pg|bundler|coveralls|rake|rspec,A simple wrapper around ActiveRecord::Base.connection.schema_search_path.
+507,active_console,0.0.2,morhekil|sameera207|noma4i|lis2|halhenke|gzzengwei,bundler|rake|rspec|sqlite3|activerecord|awesome_print|pry,Improvements and shortcuts for Rails console
+508,activecontext,0.2.1,jan zimmek,rspec,
+509,active_control,"","","",
+510,active_copy,"","","",
+511,activecouch,"","","",
+512,active_crudify,"","","",
+513,active_csv,0.1.1,Marco Antonio Foga&#231;a Nogueira,activemodel,Inteds to allow you to work with csv data files with an API ActiveRecord-like
+514,active_data,0.1.0|0.2.0|0.3.0,pyromaniac,rake|rspec|activesupport|activemodel,Working with hashes in AR style
+515,active_data_migrations,"","","",
+516,active_datastore,0.0.2|0.0.3|0.0.4,Sudhir Jonathan,google-api-client|json|oj|active_support|i18n|bundler|rake,ODM (Object-Document-Mapper) for the Google Cloud Datastore.
+517,active_decimal,0.1.0,Mike Kendall,bundler|rake|rspec|pry,Word-number mapping for human readable code
+518,active_decorator,0.2.0|0.2.1|0.3.0|0.3.1|0.3.2|0.3.3|0.3.4,Akira Matsuda,"",A simple and Rubyish view helper for Rails 3
+519,active_device,1.0.0|1.0.1|1.1.0|1.2.0,Shenouda Bertel,"","Mobile Device Detector"""
+520,active_diigo,0.0.3|0.0.4,Bagwan Pankaj,httparty|json|rspec|yard|bundler|rcov|fakeweb,Diigo Restful API wrapper; much like ActiveRecord
+521,activedirectory,1.0.0|1.0.1,James R Hunt,ruby-net-ldap,An interface library for accessing Microsoft's Active Directory.
+522,active_directory,1.2.0|1.2.1|1.2.2|1.2.4|1.2.5|1.3.0|1.3.1|1.4.0|1.5.0|1.5.1|1.5.2|1.5.3|1.5.4|1.5.5,Adam T Kerr,net-ldap,An interface library for accessing Microsoft's Active Directory.
+523,ActiveDirectoryForRuby,"","","",
+524,active_directory_login,0.0.3|0.0.4|0.0.5|0.0.6|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5,Brad Murray,bundler|rake|rails|devise|warden|rspec|rspec-rails|flexmock|pry|datacom_active_directory|datacom-net-ldap,Devise based AD User Logins
+525,active_doc,"","","",
+526,activedocument,0.2|0.2.1|0.2.2|0.3|0.4|0.4.1|0.4.2|0.5|0.6|0.6.1|0.6.2|1.0,"Clark D. Richey, Jr.",nokogiri,Object Mapper for XML Database
+527,active_document,0.1.1|0.1.2,Justin Balthrop,bdb|tuple|activesupport,Schemaless models in Berkeley DB
+528,active_documentum,0.3.0|0.3.1,'Luke,"",Active Documentum
+529,active_domain,0.2.0|0.3.0|0.4.1|0.4.2|0.4.3|0.5.0|0.5.1|0.5.2,HicknHack Software,active_event|activerecord|activemodel|bunny|bundler|rake|rspec|coveralls,Domain specifics for the Rails Disco
+530,active-dump,0.0.2|0.2.0|0.2.1|0.2.2,Felix C. Stegerman,activerecord|rake|rspec,dump and restore activerecord from/to yaml
+531,active_dynamodb,"","","",
+532,active_enum,0.4.0|0.4.1|0.5.0|0.5.1|0.6.0|0.6.1|0.6.2|0.6.3|0.6.4|0.6.5|0.6.6|0.7.0|0.7.1|0.8.0|0.8.1|0.8.2|0.9.0|0.9.1|0.9.3|0.9.4|0.9.5|0.9.6|0.9.7|0.9.8|0.9.9|0.9.10|0.9.11|0.9.12,Adam Meehan,activesupport,Define enum classes in Rails and use them to enumerate ActiveRecord attributes
+533,active_enumeration,"","","",
+534,active_event,0.2.0|0.3.0|0.4.1|0.4.2|0.4.3|0.5.0|0.5.1|0.5.2,HicknHack Software,activerecord|activemodel|bunny|bundler|rake|rspec|factory_girl|coveralls,"Commands, Events and Validations for Rails Disco"
+535,ActiveExcel,"","","",
+536,active_exchange,0.2.0|0.3.0|0.4.0|0.5.0|0.6.0|0.7.0|1.0.0,pjammer,"",Foreign Exchange for your Rails app
+537,active_export,0.2.0|0.3.0|0.4.0,kengos,activesupport,Export to CSV/YAML/XML from ActiveRecord collections.
+538,active_extend,0.0.2|0.0.3|0.0.3.1|0.0.3.2,Bruno Guerra,rails|spreadsheet,many cool behaviors for ActiveRecord
+539,active_factory,"","","",
+540,activefacts,0.7.0|0.7.1|0.7.2|0.7.3|0.8.5|0.8.6|0.8.8|0.8.9|0.8.10|0.8.12|0.8.13|0.8.15|0.8.16|0.8.18,Clifford Heath,activefacts-api|rbtree-pure|treetop|nokogiri|rake|debugger|activesupport|dm-core|dm-constraints|dm-migrations|jeweler|rspec|activefacts-api|treetop|nokogiri|rspec|bundler|jeweler|rdoc,A semantic modeling and query language (CQL) and application runtime (the Constellation API)
+541,activefacts-api,0.8.10|0.8.12|0.9.1|0.9.2|0.9.3|0.9.4|0.9.5|0.9.6|0.9.7|0.9.8|0.9.9|1.0.0,Clifford Heath,rbtree-pure|rake|jeweler|rspec|ruby-debug|debugger|pry,A fact-based data model DSL and API
+542,active-fedora,1.0.1|1.0.2|1.0.4|1.0.5|1.1.0|1.1.1|1.1.2|1.1.4|1.1.5|1.1.6|1.1.7|1.1.8|1.1.9|1.1.11|1.1.13|1.2.0|1.2.1|1.2.2|1.2.3|1.2.4|1.2.5|1.2.6|1.2.7|1.2.8|1.2.9|2.0.0|2.0.1|2.0.2|2.0.3|2.0.4|2.1.0|2.2.0|2.2.1|2.2.2|2.2.3|2.3.0|2.3.1|2.3.3|2.3.4|2.3.7|2.3.8|3.0.0|3.0.1|3.0.3|3.0.4|3.0.5|3.0.6|3.0.7|3.1.0|3.1.1|3.1.2|3.1.3|3.1.4|3.1.5|3.1.6|3.2.0|3.2.2|3.3.0|3.3.1|3.3.2|4.0.0|4.1.0|4.2.0|4.3.0|4.4.0|4.4.1|4.5.0|4.5.1|4.5.2|4.5.3|5.0.0|5.1.0|5.2.0|5.2.1|5.3.0|5.3.1|5.4.0|5.5.0|5.5.1|5.5.2|5.6.0|5.6.1|5.6.2|5.6.3|5.7.0|5.7.1|6.0.0|6.1.0|6.1.1|6.2.0|6.3.0|6.4.0|6.4.1|6.4.2|6.4.3|6.4.4|6.4.5|6.5.0|6.5.1|6.6.0|6.6.1|6.7.0|6.7.1|6.7.2|6.7.3|6.7.4|6.7.5|6.7.6|6.7.7|7.0.0|7.0.1|7.0.2|7.0.3|7.0.4,Matt Zumwalt|McClain Looney|Justin Coyne,rsolr|om|nom-xml|activesupport|mediashelf-loggable|rubydora|linkeddata|rdf-rdfxml|deprecation|rdoc|yard|rake|jettywrapper|rspec|equivalent-xml|rest-client|webmock|simplecov,A convenience libary for manipulating documents in the Fedora Repository.
+543,active_fedora-crosswalks,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7,Trey Terrell,bundler|rake|rspec|guard|guard-rspec|jettywrapper|pry|shoulda-matchers|active-fedora|activesupport|bagit|mime-types,Enables metadata crosswalking between ActiveFedora datastreams.
+544,active_fedora_finders,0.1.2|0.1.3|0.2.0|0.3.0|0.3.1|0.4.0|0.5.0,Benjamin Armintor,active-fedora|activerecord|nokogiri|yard|RedCloth|rake|rspec|mocha,A library for adding ActiveRecord-style relations to ActiveFedora::Base subclasses.
+545,active_fedora-registered_attributes,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11|0.1.0|0.2.0|0.2.1,Jeremy Friesen,active-fedora|active_attr|bundler|rake|rspec,An ActiveFedora extension for registring attributes
+546,active_fedora_relsint,0.1.1|0.2.0|0.3.0,Benjamin Armintor,active-fedora|activesupport|yard|RedCloth|rake|rspec|loggable,ActiveFedora library supporting RELS-INT datastreams
+547,active_fedora_streamable,0.2.0|0.2.1|0.3.0,Benjamin Armintor,active-fedora|activesupport|rubydora|yard|RedCloth|rake|rspec|mocha,An ActiveFedora mixin that allows a datastream dissemination response to be streamed back
+548,activefile,0.0.3|0.0.31,Vitaly Pestov,"","Object-relational mapper framework. Please, be patient. Under construction."
+549,active_file,0.0.2|0.0.2.0|0.0.2.1|0.0.2.2|0.0.2.3,Marcio,brnumeros,Just a file system database
+550,active_file_jp,0.0.2|0.0.3|0.0.4,João Paulo,bundler|brnumeros,Just a file system database
+551,active_filter,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8,tnakamura,activesupport|activerecord|rails|sqlite3|rspec|rspec-rails|factory_girl_rails|database_cleaner,A rails engine for filtering scope based on user selections.
+552,active_finite,0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.2.0|0.3.1|0.3.2|0.4.1|0.4.2,me,activesupport|activerecord|json|rspec|bundler|jeweler,one-line summary of your gem
+553,activeforce,1.6.0|1.7.0|1.7.1|1.8.0|1.9.0,Tushar Ranka|Andrew Mutz,rails|savon|blockenspiel|rest-client|fastercsv,A Simple gem to interact with the Salesforce REST API
+554,active_force,"","","",
+555,activeforecast,"","","",
+556,activeform,"","","",
+557,active_form,0.0.5|0.0.6|0.0.7|0.0.8,Fabien Franzen,"",ActiveForm provides a DSL for defining complete XHTML forms with validation.
+558,activeform-rails,0.0.2|0.0.3|0.0.4,Guirec Corbel,activemodel|activesupport|sqlite3|rspec|activerecord|database_cleaner,Form Objects for ActiveModel
+559,active_forms,0.3.0|0.3.1|0.3.2|0.3.2.1,MichaÅ‚ Szajbe,activesupport|httparty|thoughtbot-shoulda|fakeweb,Active Forms API wrapper
+560,active_fulfillment,1.0.0|1.0.1|1.0.2|1.0.3|2.0.0|2.0.1|2.0.2|2.1.0|2.1.1|2.1.2|2.1.3|2.1.4,Cody Fauser|James MacAulay,activesupport|builder|active_utils|rake|mocha|minitest|rdoc,"Framework and tools for dealing with shipping, tracking and order fulfillment services."
+561,active_geo_db,0.0.2,Kostiantyn Kahanskyi,activerecord|open_geo_db|rails,Rails (ActiveRecord) lib for accessing OpenGeoDb
+562,activegist,0.6.1|0.6.2|0.6.3|0.6.4|0.7.0|0.7.1,Colin MacKenzie IV,rspec|fakeweb|rake|rdoc|coveralls|activemodel|activesupport|rest-client,Wraps GitHub's Gist API with an intuitive class based on ActiveModel.
+563,active_git,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9,Gabriel Naiman,activerecord|git_wrapper|activerecord-import|easy_diff|bundler|rake|rspec|simplecov|sqlite3|pg,DB and GIT synchronization via ActiveRecord and GitWrapper
+564,activegraph,"","","",
+565,active_graph,0.1.0|0.2.0|0.2.1,Kacper Bielecki,activesupport|metaid|gruff|rspec,Gem which makes filling data for Gruff graphs based on ActiveRecord objects much easier.
+566,activegrid,1.0.1|1.0.2|1.0.3|1.0.4|1.0.5|1.0.6|1.0.7|1.0.8,Volcanic Web Design,rails|jquery-rails|sqlite3,ActiveGrid is a gem to allow Rails apps to easily add data grids
+567,activegroonga,0.0.2|0.0.6|0.0.7|1.0.0|1.0.1|1.0.3|1.0.4|1.0.5|1.0.6|1.0.7|2.1.1|2.1.2|2.1.3|2.1.4|4.0.0,Kouhei Sutou,rroonga|activemodel|test-unit|test-unit-notify|rake|bundler|packnga|RedCloth,A library to use groonga with ActiveRecord like API.
+568,activegroonga-fabrication,"","","",
+569,active_guards,"","","",
+570,active_guid,0.0.2|0.0.3|0.0.4|0.0.5,Nick Ragaz,uuidtools|activerecord|activesupport|default_value_for|sqlite3,Add a GUID to Active Record instances.
+571,active_harmony,"","","",
+572,active_hash,0.7.0|0.7.1|0.7.2|0.7.3|0.7.4|0.7.5|0.7.6|0.7.7|0.7.8|0.7.9|0.8.0|0.8.1|0.8.2|0.8.3|0.8.4|0.8.5|0.8.6|0.8.7|0.9.0|0.9.1|0.9.2|0.9.3|0.9.4|0.9.5|0.9.6|0.9.7|0.9.8|0.9.9|0.9.10|0.9.11|0.9.12|0.9.13|0.9.14|0.10.0|1.0.0|1.0.1|1.0.2|1.2.0|1.2.1|1.2.2|1.2.3|1.3.0,Jeff Dean|Mike Dalessio|Corey Innis|Peter Jaros|Brandon Keene|Brian Takita|Pat Nakajima|John Pignata|Michael Schubert|Jeremy Weiskotten|Ryan Garver|Tom Stuart|Joel Chippindale|Kevin Olsen|Vladimir Andrijevik|Adam Anderson|Keenan Brock|Desmond Bowe|Matthew O'Riordan|Brett Richardson|Rachel Heaton,activesupport,An ActiveRecord-like model that uses a hash or file as a datasource
+573,active_hash_ext,0.0.2,Dustin Zeisler,bundler|rake|rspec|active_hash,ActiveHashExt includes the ability to read a schema.rb file from ActiveRecord and set those attributes on a class. It also adds methods from ActiveRecord like update and destroy_all with more to come.
+574,active_hash_fields,0.1.1|0.1.2,Roman Snitko,activerecord|rspec|sqlite3|rdoc|bundler|jeweler,Adds nested fields to an AR model
+575,active_helper,0.1.1|0.2.0|0.2.1|0.2.2,Nick Sutterer,activesupport,"Finally - helpers with proper encapsulation, delegation, interfaces and inheritance!"
+576,active_illusion,"","","",
+577,active_import,0.0.3|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7,David Monagle,rails|colorize|rubyzip|roo|sqlite3,Assist with the import of CSV and Excel files into models.
+578,active_importer,0.0.2|0.0.3|0.1.0|0.1.1|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5,Ernesto Garcia,roo|bundler|rake|rspec|sqlite3|activerecord,Import tabular data into data models
+579,active_index,"","","",
+580,active_interaction,0.1.2|0.1.3|0.2.0|0.2.1|0.2.2|0.3.0|0.4.0|0.5.0|0.6.1|0.7.0|0.8.0|0.9.0|0.9.1|0.10.0|0.10.1|0.10.2|1.0.0|1.0.1|1.0.2|1.0.4|1.0.5|1.1.0|1.1.1|1.1.2|1.1.3|1.1.4|1.1.5|1.1.6|1.1.7|1.2.0|1.2.1|1.2.2|1.2.3,Aaron Lasseigne|Taylor Fausak,activemodel|bundler|coveralls|guard-rspec|guard-rubocop|rake|rdoc|rubocop|yard,Manage application specific business logic.
+581,activejob,"","","",
+582,activejob-scheduler,"","","",
+583,activejson,0.1.1|0.1.2|0.1.3|0.1.4,Andy Caldwell,multi_json|yajl-ruby,Simple template engine for JSON views
+584,active-keso,"","","",
+585,active_lastfm,1.0.1,Ben Smith,activeresource,Last.fm client for Ruby (and Rails) based on ActiveResource
+586,active_layer,0.0.10,Adam Cooper,activesupport|activemodel,"ActiveLayer provides validations, attribute filtering, and persistence in a layer sitting on top of any model."
+587,activeldap,0.10.0|1.0.0|1.0.1|1.0.2|1.0.9|1.1.0|1.2.0|1.2.1|1.2.2|1.2.3|1.2.4|3.1.0|3.1.1|3.2.0|3.2.1|3.2.2|4.0.0|4.0.1|4.0.2|4.0.3,Will Drewry|Kouhei Sutou,activemodel|locale|gettext|gettext_i18n_rails|bundler|rake|test-unit|test-unit-notify|yard|RedCloth|packnga,ActiveLdap is a object-oriented API to LDAP
+588,activeldap3,"","","",
+589,active_ldap-dynamic_finders,"","","",
+590,activeldap-fabrication,1.0.1,Kouhei Sutou,activeldap|fabrication|net-ldap|bundler|rake|test-unit|test-unit-notify|yard|RedCloth|packnga,ActiveLdap Fabrication is an ActiveLdap adapter for Fabrication.
+591,active_leonardo,0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.1.0|0.2.0|0.2.1|0.2.2|0.2.3,"Marco Mastrodonato, Marco Longhitano",rails|activeadmin,This gem provides a new customized scaffold generator to combine with active admin
+592,active_link_to,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|1.0.0|1.0.1|1.0.2,Oleg Khabarov,actionpack,ActionView helper to render currently active links
+593,active_list,6.0.1|6.1.0|6.1.1|6.1.2|6.1.3|6.1.4|6.1.5|6.2.0,Brice Texier,rails|code_string|rubyzip|i18n-complements|sqlite3,Simple interactive tables for Rails app
+594,active-list,4.1.0|4.1.1|4.1.2|4.1.3|4.1.5|4.1.6|4.1.7|4.1.8|4.2.0|4.2.1|4.2.2|4.2.3|4.2.4|5.0.0|5.0.1|6.0.0,Brice Texier,active_list,Dummy transitional package for active_list
+595,active_lock,1.0.1|1.0.2,Andrew Kozin,rails|sqlite3|rspec-rails|database_cleaner|timecop,Adds functionality for locking and unlocking ActiveRecord model instances.
+596,activelogger,"","","",
+597,active_logic,"","","",
+598,active_lucene,0.5.1|0.5.2|0.6,Diego Carrion,"",ActiveRecord/ActiveModel's like interface for Lucene
+599,active_mac,"","","",
+600,active_mailbox,"","","",
+601,active_mailer,0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9,Matt Gordon,activesupport|rails,Adds model-level validation to emails.
+602,active_mapper,0.0.2,Artin Boghosian,activerecord|bundler|rake|rspec|sqlite3,Data mapper using ActiveRecord for data access
+603,activemdb,0.2.0|0.2.1|0.2.2,Matthew King,hoe,"ActiveRecordy wrapper around MDB Tools, allowing POSIX platforms to read MS Access (.mdb) files"
+604,active_median,0.1.0,Andrew Kane,bundler|rake,Median for ActiveRecord
+605,activemenu,0.2.0|0.3.0|0.4.0|0.5.0|0.6.0|0.6.1|0.6.2|0.6.3|0.6.4|0.7.0|0.7.1|0.7.2|0.8.0,Sadjow Medeiros Leão,bundler|rake,A toolkit for menus.
+606,activemerchant,1.0.1|1.0.2|1.0.3|1.1.0|1.2.0|1.2.1|1.3.0|1.3.1|1.3.2|1.4.0|1.4.1|1.4.2|1.5.0|1.5.1|1.6.0|1.7.0|1.7.1|1.7.2|1.7.3|1.8.0|1.9.0|1.9.1|1.9.2|1.9.3|1.9.4|1.10.0|1.11.0|1.12.0|1.12.1|1.13.0|1.14.0|1.15.0|1.16.0|1.17.0|1.18.0|1.18.1|1.20.0|1.20.1|1.20.2|1.20.3|1.20.4|1.21.0|1.22.0|1.23.0|1.24.0|1.25.0|1.26.0|1.27.0|1.28.0|1.29.0|1.29.1|1.29.2|1.29.3|1.30.0|1.31.0|1.31.1|1.32.0|1.32.1|1.33.0|1.34.0|1.34.1|1.35.0|1.35.1|1.36.0|1.37.0|1.38.0|1.38.1|1.39.0|1.39.1|1.39.2|1.40.0|1.41.0|1.42.0|1.42.1|1.42.2|1.42.3|1.42.4|1.42.5|1.42.6|1.42.7|1.42.8|1.42.9|1.43.0|1.43.1,Tobias Luetke,activesupport|i18n|money|builder|json|active_utils|nokogiri|rake|mocha|rails|thor,Framework and tools for dealing with credit card transactions.
+607,activemerchant_alipay,"","","",
+608,active_merchant_allpay,0.1.2|0.1.3,xwaynec,activemerchant|rake|mocha|rails|thor,A rails plugin to add active_merchant patch for Taiwan payment
+609,activemerchant-anz-gateway,"","","",
+610,activemerchant_banklink,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6,Indrek Juhkam|Laurynas Butkus,"",ActiveMerchant Banklink add-on (alpha version)
