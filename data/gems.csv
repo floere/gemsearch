@@ -20098,3 +20098,33 @@
 20093,gmapper,0.2.0|0.2.1,TJ Peden,"","A version agnostic, dependency free Ruby library for the Google Maps API."
 20094,gmap-rails,"","","",
 20095,gmaps,"","","",
+20096,gmaps4rails,0.0.1|0.0.2|0.0.3|0.0.4|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11|0.0.12|0.0.13|0.0.14|0.1.0|0.2.0|0.2.1|0.2.2|0.2.3|0.2.5|0.2.6|0.3.0|0.4.0|0.4.1|0.5.0|0.6.0|0.6.1|0.6.2|0.6.3|0.6.4|0.6.5|0.7.0|0.7.1|0.7.2|0.7.3|0.7.4|0.7.5|0.7.6|0.7.7|0.7.8|0.7.9|0.8.0|0.8.1|0.8.2|0.8.3|0.8.4|0.8.5|0.8.6|0.8.7|0.8.8|0.9.0|0.9.1|0.10.0|0.10.1|0.10.2|0.11.0|0.11.1|1.0.0|1.0.1|1.0.2|1.1.0|1.1.1|1.1.2|1.1.3|1.1.4|1.1.5|1.1.6|1.1.7|1.2.0|1.2.1|1.3.0|1.3.1|1.3.2|1.4.0|1.4.1|1.4.2|1.4.3|1.4.4|1.4.5|1.4.6|1.4.7|1.4.8|1.5.0|1.5.1|1.5.2|1.5.3|1.5.4|1.5.5|1.5.6|2.0.0|2.0.1|2.0.2|2.0.3|2.0.4|2.0.5|2.1.0|2.1.1|2.1.2,Benjamin Roth|David Ruyer,rspec|rake|coffee-script|sprockets|pry,Maps made easy for Ruby apps
+20097,gmaps-autocomplete-rails,0.1.1|0.1.2|0.1.2.1,Kristian Mandrup,rails|rspec|rdoc|bundler|jeweler|simplecov,"Google Maps v3 search with jQuery UI Autocomplete, ready for use with Rails asset pipeline"
+20098,gmaps_directions,0.2.0|0.2.1|0.2.2,Dirk Breuer,gmaps_directions|rspec|bundler|jeweler|rcov|rspec|jeweler|yajl-ruby|activesupport|rspec|jeweler,A simple Gem to use the Google Maps distance API from Ruby
+20099,gmaps_gem,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7,martin,"",Google Maps Gem.
+20100,gmaps_geocoding,0.0.2|0.0.3|0.0.4|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4,Christian Kakesa,rest-client|yajl-ruby|nori|nokogiri|bundler|rake|yard,Use Google Geocoding API from Ruby.
+20101,gmapsjs,0.1.9|0.1.10|0.1.11|0.1.12|0.2.3|0.2.4|0.2.4.1|0.2.13|0.2.30|0.2.30.1|0.4.12,Alvaro Pereyra|Gustavo Leon,"",
+20102,gmapsjs-rails,0.4.11|0.4.12,Pablo Lluch,railties,an asset gemification of the gmaps.js javascript library
+20103,GMaps_Places,"","","",
+20104,gmaps_proxy,"","","",
+20105,gmaps_tz,0.0.2|0.0.3|0.0.4,Pol Miro,json|bundler|rake|rspec|coveralls,Ruby Wrapper for the Google Maps Time Zone API
+20106,gmaps_v3,"","","",
+20107,gmath3D,0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5|1.0.0,Toshiyasu Shimizu,bundler|jeweler,Geometric elements in 3D
+20108,gmcmillan-xmpp4r,0.6|0.6.1|0.6.2,Lucas Nussbaum|Stephan Maka|Glenn Rempe,nokogiri|rdoc,XMPP4R is an XMPP/Jabber library for Ruby.
+20109,gmd,1.0.1|1.1.1|1.1.2|1.2.0|1.2.1|1.3.0|1.3.1,MOZGIII,redcarpet|tilt,gmd is a small command-line utility to easily generate fancy HTML from Markdown.
+20110,gmdprev,"","","",
+20111,gmetric,0.1.1|0.1.2|0.1.3,Ilya Grigorik,"",Pure Ruby interface for generating Ganglia gmetric packets
+20112,gmo,0.0.2|0.1.0|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4,Tatsuo Kaniwa,rack|multi_json|rspec|rake|vcr|webmock,GMO Payment API client: Ruby client library for the GMO Payment Platform.
+20113,g-module,"","","",
+20114,gmoney,0.1.0|0.2.0|0.2.1|0.4.0|0.4.2|0.4.3|0.4.4,Justin Spradlin,"",A gem for interacting with the Google Finance API
+20115,gmp,0.1.8|0.1.9|0.2.1|0.2.2|0.4.0|0.4.0|0.4.1|0.4.1|0.4.3|0.4.3|0.4.7|0.4.7|0.4.7|0.5.3|0.5.3|0.5.23|0.5.23|0.5.41|0.5.41|0.5.47|0.6.7|0.6.13|0.6.17|0.6.19|0.6.31|0.6.41|0.6.43|0.6.47|0.7.19,Tomasz Wegrzanowski|srawlins,"",Provides Ruby bindings to the GMP and MPFR libraries.
+20116,gmp_ecm,0.3.1,srawlins,gmp,Provides Ruby bindings to the GMP-ECM library.
+20117,gmpoint,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.1.0|0.1.3,Peter Dang,jeweler|geocoder|new_responds_to_parent|shoulda|rdoc|bundler|jeweler,Help to point on Google Map
+20118,gmusic,0.2.1|0.2.2,Tower He,hpricot|jeweler|hpricot|rspec,Search songs from http://music.g.cn
+20119,gn,0.0.1.1|0.0.2|0.1.0|0.1.1|0.1.3|0.1.4,Leandro López|Michel Martens|Lucas Florio,mote|clap,Simple Generator for the masses
+20120,gn0m30-uuid,2.2.1|2.2.2|2.2.3,Assaf Arkin|Eric Hodel|jim nist,macaddr|base62,UUID generator with teenie format
+20121,gnag,0.1.1,Dayton Nolan,git|rspec|bundler|jeweler|guard-rspec|terminal-notifier-guard|pry|pry-nav|pry-doc,A command line based timer that nags you to commit
+20122,g_named_scope_filters,1.0.5|1.0.6|1.1.0,C. Jason Harrelson (midas),rspec|rails|guilded,A UI component that generates an unordered list of filters that use named scopes within an ActiveRecord model to filter a list.
+20123,gnarly,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6,Kim Dalsgaard,query_string_parser,Super simple web framework on top of Rack
+20124,gnarus_activity,"","","",
+20125,gnarus_exercise,1.0.1|1.0.2|1.0.3|1.0.5,Guilherme Silveira,rails|sqlite3,A plugin structure for external exercises.
