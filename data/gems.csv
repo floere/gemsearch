@@ -20304,3 +20304,657 @@
 20299,gooby,0.9.4|0.9.5|1.0.0|1.1.0|1.2.0|2.0.0,Chris Joakim,"",Google APIs + Ruby = Gooby
 20300,Gooby,0.9.1,Chris Joakim,"",Google APIs + Ruby = Gooby
 20301,goocanvas,0.90.6|0.90.7|0.90.7|0.90.8|0.90.8|0.90.9|0.90.9|1.0.0|1.0.0|1.0.1|1.0.1|1.0.2|1.0.2|1.0.3|1.0.3|1.1.0|1.1.0|1.1.1|1.1.1|1.1.2|1.1.2|1.1.3|1.1.3|1.1.4|1.1.4|1.1.5|1.1.6|1.1.7|1.1.8|1.1.9|1.2.0|1.2.1|1.2.2|1.2.3|1.2.4|1.2.5|1.2.6|2.0.0|2.0.1|2.0.2|2.0.3|2.1.0|2.2.0,The Ruby-GNOME2 Project Team,gtk3|gobject-introspection,Ruby/GooCanvas is a Ruby binding of GooCanvas.
+20302,good,0.1.0|0.1.1,Rafer Hazen,rspec|bundler|rake,Good::Value and Good::Record
+20303,goodall,0.0.2|0.0.3|0.0.4,Matthew Nielsen,multi_json|tolerate_json|bundler|rake|rspec,"Goodall provides an easy interface for documenting your API while you write your tests. It is compatible with Rspec, Cucumber and test-unit, as well as others. Goodall is named after Jane Goodall who has spent her life observing and documenting the behviour of chimpanzees."
+20304,goodbye,"","","",
+20305,gooddata,0.4.0|0.5.0|0.5.1|0.5.2|0.5.3|0.5.4|0.5.5|0.5.6|0.5.7|0.5.8|0.5.9|0.5.10|0.5.11|0.5.12|0.5.13|0.5.14|0.5.15|0.5.16|0.6.0|0.6.2|0.6.3,Pavel Kolesnikov|Thomas Watson Steen|Tomas Svarovsky|Tomas Korcak,rake|rake-notes|redcarpet|rspec|rubocop|simplecov|yard|yard-rspec|ZenTest|coveralls|activesupport|bundler|docile|erubis|gli|highline|i18n|json_pure|multi_json|parseconfig|pry|restforce|rest-client|rubyzip|salesforce_bulk,A convenient Ruby wrapper around the GoodData RESTful API
+20306,gooddata-bricks-poc,0.0.2,Tomas Svarovsky,bundler|rake|pry|rest-client|gooddata,This is a brief summary
+20307,goodercode-zune,0.2|0.3,Kerry R Wilson,xml-mapping,A Ruby API for accessing Zune user data
+20308,gooder_data,"","","",
+20309,goodguide-accounts,1.0.1,Jay Adkisson|Ryan Aipperspach,oauth2|i18n,GoodGuide Accounts API gem
+20310,goodguide-gibbon,0.2.0|0.2.1|0.3.0|0.3.1|0.3.2|0.3.3|0.3.4|0.3.5|0.3.6|0.3.7|0.3.8|0.4.0|0.4.1|0.4.2|0.5.0|0.5.1|0.6.0|0.6.1|0.6.2|0.6.3|0.6.4|0.7.0|0.7.1|0.8.1|0.8.2|0.8.3|0.9.0|0.9.1|0.9.2|0.10.0|0.10.1|0.10.2|0.10.2|0.11.0|0.11.1,Jay Adkisson,"",Ruby bindings for the gibbon data language
+20311,goodies,0.0.2,Kerry R Wilson,"",Developer tools to make your life easier
+20312,GoodMorningBangladesh,"","","",
+20313,goodreads,0.1.1|0.2.0|0.2.1|0.2.2|0.3.0,Dan Sosedoff,webmock|rake|rspec|simplecov|yard|rest-client|hashie|activesupport|i18n|oauth,Goodreads API wrapper
+20314,goodreads_17up,0.2.2,Dan Sosedoff,webmock|rake|rspec|simplecov|yard|rest-client|hashie|activesupport|i18n|oauth,Goodreads API wrapper
+20315,goodreads-wrapper,"","","",
+20316,goods,0.0.2|0.0.3|0.0.4|0.0.5,Artem Pyanykh,bundler|rake|rspec|libxml-ruby|nokogiri,Simple parser for YML (Yandex Market Language) files with a few twists.
+20317,goodsheet,0.2.1.1|0.2.2|0.3.0|0.3.1|0.4.0|0.4.1,Iwan Buetti,bundler|rake|roo|activemodel|google_drive,Extract and validate data from a spreadsheet
+20318,good_sort,"","","",
+20319,goodtimes,1.0.0,C. Jason Harrelson (midas),"","Tools for formatting date and time, including some Activerecord extensions."
+20320,good_times,"","","",
+20321,good_touch,0.2.0|0.3.0,Ryan Sonnek,activerecord|thoughtbot-shoulda|rake|sqlite3,Update your timestamp attributes without invoking all ActiveRecord callbacks
+20322,goodwill-prawn-edge,"","","",
+20323,goodwink-pickler,"","","",
+20324,goodyear,0.2.0|0.2.1|0.2.5,Spencer Markowski,bundler|rake,ActiveRecord-like query interface for tire
+20325,goog,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7|0.1.8|0.1.9|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5|0.2.7|0.2.8|0.2.9,Daniel Choi,nokogiri,Simple command line interface to Google search
+20326,goog_currency,0.0.2|0.0.3|0.0.4|0.0.5|1.0.0|1.0.1|1.0.2|1.1.0,Girish S,rspec|fakeweb,Simple Ruby interface to Google Finance Currency conversion
+20327,googl,0.1.0|0.1.1|0.1.2|0.2.0|0.3.0|0.4.0|0.4.1|0.4.2|0.4.3|0.5.0|0.6.0|0.6.1|0.6.3,Jesus Lopes,httparty|json|rspec|bundler|jeweler|rcov|webmock,Wrapper for Google URL Shortener API
+20328,googl-api,0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.3.0|0.3.1,John Allen,shoulda|bundler|jeweler|rcov|httparty|google_client_login|httparty,A ruby wrapper for the goo.gl URL Shortner
+20329,google,0.0.1|0.0.2|0.0.3|1.0.0|1.0.1|1.0.2|1.0.3|1.0.4|1.0.5|1.0.6|1.0.7|1.0.8|1.0.9|1.0.10,Kerrick Long,trollop|json|htmlentities|formatador|ruby-readability,Google Search on the command line
+20330,google4r,"","","",
+20331,google4r-checkout,1.0.0|1.0.1|1.0.2|1.0.3|1.0.6|1.0.6.1|1.1.0|1.1.1|1.1.2|1.1.3|1.1.4|1.1.5|1.1.6|1.2.0,Tony Chan|Dan Dukeson|Nat Budin|George Palmer|Daniel Higham|Johnathan Niziol|Chris Parrish|Larry Salibra|Paul Schreiber|Ben Hutton|James Martin|Jacob Comer|Chance Downs,money|mocha|nokogiri|rake|pry,Full-featured Google Checkout library for Ruby
+20332,google4r-maps,"","","",
+20333,google-ads-common,0.2.1|0.3.0|0.4.0|0.5.0|0.5.1|0.5.2|0.5.3|0.5.4|0.5.5|0.6.0|0.6.1|0.6.2|0.6.3|0.6.4|0.7.0|0.7.1|0.7.2|0.7.3|0.8.0|0.8.1|0.8.2|0.9.0|0.9.1|0.9.2|0.9.3|0.9.4|0.9.5,Sergio Gomes|Danial Klimkin,savon|httpi|signet,Common code for Google Ads APIs
+20334,google_adsense,0.0.2|0.0.3|0.0.4,aotianlong,sqlite3,Summary of GoogleAdsense.
+20335,google-adwords-api,0.1.1|0.1.2|0.2.0|0.2.1|0.4.0|0.4.1|0.4.2|0.4.3|0.4.4|0.4.5|0.5.0|0.5.1|0.5.2|0.5.3|0.6.0|0.6.1|0.6.2|0.6.3|0.7.0|0.7.1|0.7.2|0.8.0|0.8.1|0.8.2|0.9.0|0.9.1|0.9.2|0.9.3|0.10.0|0.11.0|0.11.1|0.12.0,Danial Klimkin,google-ads-common,Ruby Client libraries for AdWords API
+20336,google-adx-buyer-api,0.4.0|0.4.1|0.4.2|0.4.3|0.4.4|0.4.5|0.4.6|0.4.7,Danial Klimkin,google-adwords-api,Ruby examples for DoubleClick Ad Exchange Buyer API
+20337,googleajax,0.2.0|1.0.0|1.0.1,geemus(Wesley Beary)|Marc-Andre Lafortune,rspec|json,"Ruby wrapper to the Google AJAX API REST interfaces(Feeds, Language and Search)."
+20338,google_ajax_crawler,0.1.1|0.1.2|0.1.3|0.2.0,Ben Kitzelman,capybara-webkit|rack,Rack Middleware adhering to the Google Ajax Crawling Scheme ensuring your JS rendered page states (i.e. BackboneJS routes) can be crawled and indexed by search engines.
+20339,google_alerts,0.0.1,Matt Gillooly,nokogiri|rspec|rake,Parse Google Alerts emails
+20340,googleanalytics,0.0.2,Martin Wilhelmi,"",Google Analytics support library
+20341,google_analytics,1.1.2|1.1.3|1.1.5,Graeme Mathieson|Rubaidh Ltd,actionpack|activesupport,[Rails] Easily enable Google Analytics support in your Rails application.
+20342,google-analytics,"","","",
+20343,google_analytics_feeds,0.1.0|0.1.1|0.1.2,Roland Swingler,ox|faraday|addressable|rspec|yard|jeweler|rcov,Google Analytics Feed Access
+20344,google_analytics_mailer,0.1.0|0.1.1|0.1.2|0.2.0,Fabio Napoleoni,addressable|actionmailer|rake|rails|rspec-rails|email_spec|appraisal,This gem provides automatic Google Analytics tagged links in ActionMailer generated emails
+20345,google_analytics_on_rails,"","","",
+20346,google-analytics-rails,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6,Benoit Garret|Ufuk Kayserilioglu,"",Rails 3 helpers to manage google analytics tracking
+20347,google_analytics_tools,0.3,Scott Bauer,json,A clean interface to generating the Google Analytics _gaq
+20348,google-analytics-turbolinks,0.0.2|0.0.3|0.0.4,Shuky Dvir,rake,This gem adds support for Google Analytics to use with Rails Turbolinks
+20349,google_anymote,0.0.2|0.0.3|0.0.4,Richard Hurt,yard|redcarpet|ruby_protobuf,This library uses the Google Anymote protocol to send events to Google TV servers.
+20350,google_api,1.0.1|1.0.2|1.0.3|1.1.0,Ondřej Moravčík,google-api-client|rake|rspec,"Simple Google Api. Include google analytics, url shortener."
+20351,google-api,0.2.0|0.3.0|0.4.0,Alex Robbin,mime-types|oauth2|bundler|rake|rspec|simplecov,A simple but powerful ruby API wrapper for Google's services.
+20352,google-api-client,0.1.1|0.1.2|0.1.3|0.2.0|0.3.0|0.4.0|0.4.1|0.4.2|0.4.3|0.4.4|0.4.5|0.4.6|0.4.7|0.5.0|0.6.0|0.6.1|0.6.2|0.6.3|0.6.4|0.7.0|0.7.1,Bob Aman|Steve Bazyl,signet|addressable|uuidtools|autoparse|faraday|multi_json|extlib|jwt|retriable|launchy|rake|rspec,Package Summary
+20353,google-api-client-rails,"","","",
+20354,googleapi_manager,"","","",
+20355,google-api-middle_man,0.1.0|0.1.5|0.2.1,Shaun Dern,bundler|rake|rspec|google-api-client,Simplify the Google API using a service account
+20356,google-api-omniauth,0.1.1,Bob Aman,google-api-client|signet|omniauth|rake|rspec|launchy|diff-lcs,An OmniAuth strategy for Google.
+20357,google-api-rails,"","","",
+20358,google_apis,0.0.3|0.1.0,Fabien G.,bundler,Google APIs SDK.
+20359,google-appengine,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.10.1|0.0.11|0.0.12|0.0.13|0.0.14|0.0.15|0.0.16|0.0.17|0.0.18|0.0.19|0.0.20|0.0.21,Ryan Brown|John Woodell,appengine-apis|appengine-rack|appengine-sdk|appengine-tools,Meta gem for Ruby on Google App Engine.
+20360,google_apps,0.3.1|0.3.2|0.3.3|0.3.4|0.3.5|0.3.6|0.3.7|0.3.8|0.3.9|0.3.10|0.3.11|0.3.12|0.4|0.4.1|0.4.2|0.4.5|0.4.6|0.4.8|0.4.8.1|0.4.9|0.4.9.1|0.4.9.2|0.4.9.9|0.5|0.9,Glen Holcomb|Will Read,libxml-ruby|httparty|rspec|webmock,Google Apps APIs
+20361,google_apps_api,0.2.1|0.2.2|0.3.0|0.3.1|0.3.2,James Stuart,httpclient|nokogiri|activesupport|shoulda,Various APIs for Google Apps
+20362,googleapps-auth,0.0.6|0.1.0,Brian Muller,actionpack|ruby-openid|activesupport|actionpack|activemodel|railties|rspec-rails,Google Apps Auth Provider for Rails
+20363,google_apps_oauth2,"","","",
+20364,google_auth,0.0.2|0.0.3|0.0.4|0.1.0,Burke Libbey,activerecord|omniauth-google-apps,Convenience wrapper of omniauth-google-apps
+20365,google-auth,"","","",
+20366,google_auth_bridge,0.1.1|0.1.2,GOV.UK Dev,oauth2|google-api-client|rake|rspec|ci_reporter|simplecov|gem_publisher,bridge for supporting multiple google authentication libraries
+20367,google_authentication,0.1.1|0.1.2|0.2.0|0.3.0,Fabio Napoleoni,rails|omniauth|omniauth-google-apps|devise|bundler|rake|sqlite3|rspec-rails|shoulda-matchers|generator_spec|guard-rspec|capybara|yard|cucumber|aruba|appraisal,Authenticate users through Google in your app
+20368,google_authenticator_auth,"","","",
+20369,google-authenticator-rails,0.0.2|0.0.3|0.0.4|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11,Jared McFarland,rotp|activerecord|google-qr|actionpack|rspec|appraisal|sqlite3,Add the ability to use the Google Authenticator with ActiveRecord.
+20370,google-authsub,0.1.0|0.2.0|0.2.1,Stuart Coyle|Jesse Storimer,"",A ruby implementation of Google Authentication for Web Applications API
+20371,google_banners,"","","",
+20372,googlebase,0.1.1|0.1.2|0.1.3|0.2.0|0.2.1,John,hoe,Base class which handles authentication and requests for google services
+20373,google-blogsearch-pings,"","","",
+20374,googlebook,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5,Paper Cavalier,httparty|rspec|vcr|webmock,A Ruby wrapper to the Google Book Search Data API
+20375,google_book,0.3.0.1|0.3.0.2|0.3.1|0.3.1.1|0.3.4|0.3.5|0.3.6|0.3.7|0.3.8|0.3.9|0.3.9.1|0.3.10|0.3.11|0.3.12|0.3.14|0.3.17|0.3.18,Rajarshi Das,"","Google Book/Magazine API integration for fetching the information for google books and magazines and book shelves also filter them. You can eaisly get most of the elements for a particular book and magazine or the books of a book shelf from the google book search. like :-(title,sub title,preview link,authors,publisher,publish date,buylink,downloadlink,version,ISBN information,ratings,...many more..Also you can get the google checkout link for that book/magazine"
+20376,google-book,0.2.1|0.2.2|0.3.0|0.3.1|0.3.2|0.3.3|0.4.0,Paper Cavalier,bookland|httparty|rspec|vcr|webmock,A Ruby wrapper to the Google Book Search Data API
+20377,googlebooks,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8,Zean Tsoi,httparty|rspec|webmock,GoogleBooks is a lightweight Ruby wrapper that queries the Google API to search for publications in the Google Books repository.
+20378,google_books,0.2.0|0.2.1|0.2.2,Damien White,httparty|hashie|rake|autotest|rspec|webmock|vcr,A Ruby wrapper around the Google Books API
+20379,google-browse,0.1.3|0.2.0,Bil Bas (Spooner),slop|mechanize|launchy,Simple text-browser for Google.com
+20380,google_business_api_url_signer,"","","",
+20381,google-buttons-sass,0.1.1|0.1.2,"Pete Brousalis, Thomas McDonald, Tim O'Donnell",compass|sass-rails,Tim O'Donnell's CSS3 Google Buttons coverted to SASS and ready for include. Based on Thomas McDonald's bootstrap-sass gem.
+20382,googlecalendar,0.0.3|0.0.4|0.0.5|0.0.6|1.0.0|1.1.0,Benjamin Francisoud,hoe,description of gem
+20383,google_calendar,0.1.1|0.1.2|0.1.3|0.1.4|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5|0.2.6|0.2.7|0.2.8|0.2.9|0.3.0|0.3.1,Steve Zich,nokogiri|addressable|shoulda|bundler|mocha,A lightweight google calendar API wrapper
+20384,google_calendar_api_v2,0.1.1|0.1.2|0.1.3,Charles Barbier,oauth,Work with Google Calendar using GData 2.0 + OAuth 1.0
+20385,google_calendar_oauth2,0.0.2|0.0.4,Parker Young,google-api-client,Work with Google Calendar using GData 3.0 + OAuth 2.0
+20386,googlecharts,0.0.3|0.1.0|0.2.0|1.0.0|1.1.0|1.2.0|1.3.0|1.3.1|1.3.4|1.3.6|1.4.0|1.5.0|1.5.1|1.5.2|1.5.3|1.5.4|1.6.0|1.6.1|1.6.2|1.6.3|1.6.6|1.6.7|1.6.8,Matt Aimonetti|Andrey Deryabin,"",Generate charts using Google API &amp; Ruby
+20387,google_charts,1.0.1|1.2.0,Rudolf Schmidt,actionpack,Google Charts with Ruby
+20388,google_chart_ssl,0.0.2|0.0.3|0.0.4,Michael Gee,bundler|rake|test-unit|rack|rack-test|fakeweb,Indirectly serve Google Charts through your SSL connection
+20389,google_chat,0.0.2|0.0.3,Anuj Luthra,xmpp4r,gem that makes it easy to send IM using google chat
+20390,google_checkout,0.1.1|0.1.2|0.1.3,Pete Elmore,"",An interface to the Google Checkout API.
+20391,google-checkout,0.5.1,Geoffrey Grosenbach,builder|nokogiri|money|activesupport|hoe|hoe-doofus|hoe-git|rspec|hoe,Experimental library for working with GoogleCheckout
+20392,google-chrome-client,0.2,KATO Kazuyoshi,json,Ruby client of Google Chrome Developer Tools Protocol
+20393,google-civic,0.0.2,Ryan Resella,addressable|faraday|faraday_middleware|hashie|multi_json|rake|rdiscount|rspec|simplecov|webmock|yard,A Ruby wrapper for the Google Civic API
+20394,google-civic-ruby,0.2.0,Coding ZEAL|Adam Cuppy,multi_json|faraday|faraday_middleware|bundler|rspec|pry-debugger|webmock,Ruby wrapper for the Google Civic API
+20395,google_client,0.2.0|0.2.1,juandebravo,rest-client|addressable|rake|rspec|webmock,Ease way to get access to Google API.
+20396,google_client_login,"","","",
+20397,google-client_login,1.1.2|1.1.3|1.1.4,Jason L Perry,shoulda|mocha,Google ClientLogin authentication
+20398,googlecloud,0.0.4|0.0.6|0.0.7,Riccardo Carlesso,"",Google Cloud gem. See http://github.com/palladius/gcloud
+20399,googlecodejam,"","","",
+20400,google-code-prettify-rails,"","","",
+20401,googlecontacts,0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7|0.1.8|0.2.0,Pieter Noordhuis,activesupport|nokogiri|oauth,Google Contacts API implementation
+20402,google_contacts_api,0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5|0.2.6|0.2.7|0.3.0|0.3.1|0.3.2|0.3.3,Alvin Liang,activesupport|i18n|json|hashie|shoulda|simplecov|rspec|rdoc|bundler|jeweler|travis-lint,Lets you read from the Google Contacts API
+20403,google-content-api,0.1.3|0.1.4|0.1.5|0.1.6,DaWanda GmbH,bundler|rake|rspec|webmock|google-api-client|nokogiri,Gem for interacting with Google's Content API.
+20404,google-copy-link,"","","",
+20405,google_cse,"","","",
+20406,google-cse,"","","",
+20407,google_currency,0.1.1|1.0.0|1.0.1|1.0.2|1.0.3|1.1.0|1.1.1|1.2.0|2.0.0|2.0.2|2.1.0|2.2.0|2.3.0|3.0.0|3.1.0,Shane Emmons,rspec|yard|ffi|money,Access the Google Currency exchange rate data.
+20408,google_currency_calculator,"","","",
+20409,google_currency_rails_cache,1.1.0|1.1.1|1.2,Shane Emmons|Alex Kremer,rspec|yard|json|yajl-ruby|ffi|money|multi_json|rails,Access the Google Currency exchange rate data.
+20410,google_custom_search,0.3.1,Alex Reisner,"",Ruby interface to Google Custom Search Engine.
+20411,google-custom_search,0.0.2|0.0.3|0.0.4,Matt Wynne,rest-client|nokogiri|rspec|webmock|guard-rspec,Interface for Google's Custom Search APIs
+20412,google_custom_search_api,0.0.5|1.0.0,Ben Wiseley,httparty|addressable|rspec|webmock|json,Ruby lib for Google's Custom Search Api.
+20413,google_data_layer-rails,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8,Federico Rebora|David Santoro,railties|bundler|rake,Rails helpers to add google data layer javascript to your pages
+20414,google_data_source,"","","",
+20415,google-dfp-api,0.2.1|0.2.2|0.2.3|0.2.4|0.2.5|0.2.6|0.2.7|0.2.8|0.3.0|0.3.1|0.3.2|0.3.3|0.4.0|0.5.0|0.6.0|0.6.1|0.6.2|0.6.3|0.7.0|0.7.1|0.8.0|0.8.1,Danial Klimkin,google-ads-common,Ruby Client libraries for DFP API
+20416,google_directions,0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.6.1|0.1.6.2,Josh Crews,nokogiri,Ruby-wrapper for Google Directions API.  Can return the drive time and driving distance between to places
+20417,google_distance_matrix,0.0.2,Thorbjørn Hermansen,activesupport|activemodel|google_business_api_url_signer|bundler|rspec|shoulda-matchers|webmock|rake,Ruby client for The Google Distance Matrix API
+20418,google-dns,0.0.2|0.0.3|0.0.4,Jim Neath,bundler|rake,Use Google's DNS servers'
+20419,google_doc_seed,0.0.2|0.0.3|0.0.4,Daniel Leavitt,bundler|rake|google-api-client|launchy|google_drive,Pulls a Google Spreadsheet into a CSV
+20420,google_drive,0.3.1|0.3.2|0.3.3|0.3.4|0.3.5|0.3.6|0.3.7|0.3.8|0.3.9,Hiroshi Ichikawa,nokogiri|oauth|oauth2|rake,A library to read/write files/spreadsheets in Google Drive/Docs.
+20421,google_drive_companion,"","","",
+20422,google_driver,0.0.2|0.0.3,Seth Wolfwood,google-api-client|bundler|rspec|rake,A simple gem for processing documents to html with google drive
+20423,google_finance_currency_converter,0.1.1|0.2.0|0.3.1|1.0.0,Pedro Menezes,rspec|bundler|jeweler|webmock,a wrapper for google finance currency converter
+20424,google_fish,0.2.2,seenmyfate,addressable|json|rspec|yard|bundler|jeweler|rcov|webmock,A tiny gem that makes using Google Translate v2 API trivial
+20425,google_font_extractor,0.0.2,Jason Lambert,tidy_ffi|scrapi,Extracts a list of all fonts available via the Google Webfonts API
+20426,google-ft,0.0.3|0.0.4,Jon Durbin,rspec|bundler|google-sa-auth|json,Work with Google Fusion Tables using a service account
+20427,google_fusion_tables,"","","",
+20428,google-geo,2.0|2.1|2.3,Seth Thomas Rasmussen,"","A simple, elegant library for getting geocoding information from Google Maps. Very much inspired by the google-geocode gem, but completely dependency free!"
+20429,google-geocode,1.1.0|1.2.0|1.2.1,Eric Hodel,hoe|rc-rest,Google Geocoder API Library
+20430,google-geocoder,0.0.3|0.1.0,Alexander Shvets,json_pure|launchy|jeweler|gemcutter,Simple client for Google Geocode API (Summary).
+20431,google_geocoding,0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.2.0|0.2.1,Rodrigo Kochenburger,json|patron|rspec|yard,Google's geocoding library
+20432,google_hangout,0.0.2,Leon Miller-Out,bundler|rake|capybara|selenium-webdriver,Launches a fullscreen Google Hangout in Firefox
+20433,google_hash,0.1.1|0.2.0|0.2.1|0.3.0|0.3.1|0.4.0|0.5.1|0.6.0|0.6.1|0.6.2|0.7.0|0.8.0|0.8.1|0.8.2|0.8.3|0.8.4,rogerdpack,sane|hitimes,Ruby wrappers to the google hash library
+20434,google_holiday_calendar,0.0.2,sue445,activesupport|bundler|rake|rspec|rspec-its|rspec-collection_matchers|delorean|yard|memoist|coveralls,Get holidays via Google Calendar.
+20435,google-id-token,1.1.0|1.2.0,Tim Bray|Bob Aman,multi_json|jwt|fakeweb|rake|rspec|openssl,Google ID Token utilities
+20436,google_image_api,"","","",
+20437,google_image_chart,"","","",
+20438,google-image-charts,"","","",
+20439,google-ime-skk,1.1.0|1.2.0|1.2.1|1.3.0|1.4.0,hitode909,rspec|bundler|jeweler|rcov,Google IME SKK Server
+20440,google-instant-hangouts,0.0.2|0.0.3,Ankit Gupta|Ashish Upadhyay,railties|bundler|rails|rake,Gem to Easily add Google+ Hangouts to any web page and Rails asset pipeline
+20441,google-jwt,"","","",
+20442,googlekeywords,0.1.0|0.3.0|0.4.0,Henry Mai,rspec,google keywords gem
+20443,googlekeywordsgem,0.1.0,Henry Mai,rspec,google keywords gem
+20444,google_language,"","","",
+20445,google_map,0.0.2|0.0.3|0.0.4,Jeff Dutil,"",Extends geokit and gives convenient helpers for adding google maps to your application.
+20446,googleMap,0.0.1,Jayahar,"",data to provide map details
+20447,google_map_directions,0.0.1|0.0.2|1.0.0|1.0.1|1.1.0,Chris Hsu,bundler|rake|rspec,I'll update this once I have some working code.
+20448,google_maps,0.1.1|0.2.0|0.3.0|0.3.1,Tushar Ranka,rest-client|activesupport|bundler|jeweler|mocha,Gem to interact with Google Maps v3 API
+20449,google-maps,"","","",
+20450,google_maps_api,"","","",
+20451,google_maps_api-core,0.1.0|0.1.1|0.2.0,Felipe Zavan,bundler|rake|rspec,Common stuff used by the google_maps_api gem components.
+20452,google_maps_api-directions,0.1.0|0.2.0,Felipe Zavan,bundler|rake|rspec|google_maps_api-core,Wrapper around the Google Maps Directions API.
+20453,google_maps_api-distance_matrix,"","","",
+20454,google_maps_geocoder,0.1.1|0.2.0|0.3.0|0.3.1,Roderick Monje,rake|rspec|simplecov|activesupport|rack,A simple PORO wrapper for geocoding with Google Maps.
+20455,google-maps-stitch-bin,0.1.1|0.1.2|0.1.3|0.1.4|0.1.5,Roman Lehnert,rspec|rmagick|simple_mercator_location,Get images from google maps
+20456,google-map-stitch,0.1.2|0.1.3|0.1.4,Tyler Kellen,rmagick,Download and stitch google map tiles into a single image.
+20457,google_movies,0.0.2|0.0.3|0.0.4,Lucas Allan,rspec|nokogiri|vcr|webmock,Ruby wrapper to access google movies informations
+20458,google_movies47,0.1.5|0.1.6|0.1.7|0.1.8|0.1.9|0.1.10|0.1.11|0.1.12|0.1.13|0.1.14|0.1.15|0.1.16|0.2.2|0.2.3|0.2.4|0.2.5,Christian Hein|Jacob Williams,mechanize|nokogiri|chronic_duration|rspec|rake|fakeweb,Google Movies crawler and parser
+20459,google_oauth,0.0.2,Richard Taylor,oauth2|json|shoulda|mocha,google_oauth is a OAuth2 Ruby client library for the Google Data APIs
+20460,google-oauth,0.0.2,Kang Chen,google-api-client|oj|rspec|rdoc|bundler|jeweler|simplecov,Ruby wrapper for the various Google OAuth 2 APIs
+20461,google-oauth2-installed,0.0.2|0.0.3,Amiel Martin|Kristian Freeman,oauth2|bundler|rake,Configure and authenticate to google with OAuth2 as an installed application
+20462,google_oauth_calendar,"","","",
+20463,google_otg,1.0.10|1.0.11|1.0.12|1.0.13|1.0.14|1.0.15|1.0.16|1.0.17|1.0.18|1.0.19|1.1.0|1.1.1|1.1.2|1.1.3,esilverberg,thoughtbot-shoulda|mattetti-googlecharts|fastercsv|httparty,"Google's amazing over-time graph, in your rails app"
+20464,googlepagerank,1.0.1|1.0.3|1.0.4,frandieguez,hpricot|activesupport|hoe,Ruby gem for fetching Google PageRank&#174;
+20465,google-picasa,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7,Dmitry Trager,xml-simple|mime-types,Ruby wrapper for Picasa API
+20466,google_places,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.1.0|0.1.1|0.9|0.9.1|0.10.0|0.11.0|0.12.0|0.13.0|0.14.0|0.15.0|0.16.0|0.17.0|0.18.0|0.19.0|0.20.0,Marcel de Graaf,httparty|rspec|fakeweb|vcr,A Ruby wrapper around the Google Places API.
+20467,google_places_autocomplete,0.0.2,Johnny Khai Nguyen,httparty|hashie|rspec|fakeweb|vcr,Ruby wrapper for the Google Places Autocomplete API
+20468,google-play,0.0.6|0.0.7,Tom Doyle,nokogiri,Grab data from Google Play
+20469,googleplay_dev_scraper,1.0.1|1.0.2|1.0.3,Takuya Murakami,mechanize|rspec|rake|rdoc,Scraper for Google Play developer console and Google wallet
+20470,google-player,0.0.2,mako2x,nokogiri|hashie|httpclient|bundler|rake,Fetchs app info and reviews from Google Play.
+20471,google_play_scraper,0.0.2|0.0.3,Mike Emery,nokogiri|addressable|rspec,Get Google Play App search results from ruby by scraping their website.
+20472,google_play_search,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10,Grant Chen,nokogiri,google play market search
+20473,googleplus,"","","",
+20474,google_plus,0.0.2|0.0.3|0.0.4|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.2.0|0.2.1|0.2.2,John Crepezzi,rspec|rest-client|json,Ruby Gem for the Google+ API
+20475,GooglePlus,"","","",
+20476,google_plus_archiver,0.0.2,Mort Yao,google-api-client|archive-tar-minitar,A simple command-line tool to archive Google+ profiles.
+20477,google_plus_helper,0.0.2|0.0.3,chitsaou|v1nc3ntlaw,rails,Easily generate Google+ Social Plugins in Rails application
+20478,googleplus-reader,"","","",
+20479,google_pr,1.0.1|1.0.2,Various,httparty,Google PR check
+20480,google_prediction,"","","",
+20481,google-prediction,0.1.1|0.1.2|0.1.3|0.1.4|0.1.5,Sam King,curb|json,Google Prediction API interface for Ruby.
+20482,google-qr,0.2|0.2.1|0.2.2,Joseph Hsu|Nick Hammond,"",Wrapper for Google Chart QR code
+20483,google_query,"","","",
+20484,googler,"","","",
+20485,googlereader,0.0.3|0.0.4,John Nunemaker,googlebase|atom|json,Wrapper for the undocumented and potentially unstable Google Reader API
+20486,google_reader,1.0.1|1.0.2|1.0.3|1.1.0|1.1.1|1.1.2|1.1.3|1.2.0,Fran&#231;ois Beausoleil,rest-client|nokogiri|rspec,An unofficial Ruby client for Google Reader
+20487,GoogleReaderApi,0.3.6|0.4.0|0.5.0,Toon Willems,"",a google reader api (unofficial) written in ruby
+20488,GoogleReaderApiUniq,0.3.8,Toon Willems|Ivan Kasatenko,"",a google reader api (unofficial) written in ruby
+20489,google_refine,0.2.1344409076|0.3.1348632596|0.4,Cheng Guangnan,rest-client|trollop,Upload to Google Refine.
+20490,google-refine,0.1.0|0.1.1,Max Ogden|Michael Bianco,json|httpclient,Client library for interacting with Google Refine instances
+20491,google_refine_api,"","","",
+20492,google_rest,1.0.1|1.0.2|1.0.3|1.0.4,Olivier Ruffin,httparty|json,Google REST API
+20493,google-sa-auth,"","","",
+20494,google_safe_browsing,0.2.0|0.3.0|0.3.1|0.3.2|0.3.3|0.3.4|0.3.5|0.3.6|0.3.7|0.3.8|0.3.9|0.4.0|0.4.1|0.4.2|0.5.0|0.5.1|0.6.0|0.6.1|0.6.2,Chris Marshall,rails|ruby-ip|activerecord|sqlite3|rspec-rails|generator_spec|webmock|codeclimate-test-reporter,Rails 3 plugin for Google's Safe Browsing API v2
+20495,google-safe-browsing-lookup,0.1.1|0.1.2|0.1.3,Julien Sobrier,shoulda|bundler|jeweler|rcov,Ruby library for the Google Safe Browsing v2 Lookup API
+20496,google-safe-browsing-plugin,0.1.2,Lonex,activesupport|faraday|rspec|rdoc|bundler|jeweler|faraday|activesupport,Rails plugin for Google Safe Browsing
+20497,google_scholar,"","","",
+20498,google-scholar,0.0.2,Trey Terrell,nokogiri|bundler|rake|rspec|guard|guard-rspec|wdm,Google Scholar interface. Currently only works for Author searches.
+20499,google_scraper,"","","",
+20500,google_scraper_gem,0.1.1|0.1.2|0.2.0|0.3.0,Han Chang,bundler|rake|rspec|mechanize|nokogiri,Scrapes Google Search results
+20501,google_sdk,0.1.1|0.1.2|0.1.3|0.1.4|0.1.5,mj,bundler|rake,google api sdk
+20502,google_search,1.1.0|1.2.0,Sasa Brankovic,rspec|json,Tiny wrapper for Google Search API
+20503,google-search,1.0.3,TJ Holowaychuk,json,Google Search API
+20504,google_search_api,"","","",
+20505,google_search_cmdline,"","","",
+20506,google_search_criterion,"","","",
+20507,google_set,0.2.0|0.2.1,Daniel Cadenas,rspec,Simple API for Google Sets
+20508,google_shortener,0.0.2|0.0.3,Chaitanya Vellanki,rake|json,Uses url shortener services from Google
+20509,google_short_links,"","","",
+20510,google-short-links,0.1.0|0.1.1,Benjamin Manns,httparty|multi_json|jeweler|rcov|rdoc|rspec|timecop,Ruby wrapper for Google Short Links.
+20511,google_showtimes,1.1.0,Victor Costan,nokogiri,Movie showtimes from Google
+20512,google-simple-client,0.1.1|0.1.2,Anders Janmyr,mechanize|google-api-client|rspec,Simplifies the usage of google-api-client.
+20513,google-site-search,0.0.3|0.0.5|0.0.7|0.0.8,David Vallance,activesupport|libxml-ruby|rsmaz|rack,"A gem to aid in the consumption of the google site search service; querys the service, populates a result object and has some related helper methods."
+20514,google_speech,0.0.2|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.2.0|0.2.1|0.2.2|0.3.0|0.3.1|0.3.2|0.3.3|0.4.0|0.4.1,Andrew Kuklewicz,excon|uuid|rake|minitest,This is a gem to call the google speech api.
+20515,google_spell_checker,0.1.0|0.2.0,Michael Ji,"",Google spell checker
+20516,google_spreadsheet2yml,0.1.4|0.1.5|0.1.6,luki3k5,google-spreadsheet-ruby,easy management of i18n-yml through google spreadsheets
+20517,google-spreadsheet-ruby,0.0.9|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7|0.1.8|0.2.1|0.3.0|0.3.1,Hiroshi Ichikawa,google_drive|rake,This is a library to read/write Google Spreadsheet.
+20518,google-sso,"","","",
+20519,GoogleSSO,"","","",
+20520,googlestaticmap,1.1.2|1.1.3|1.1.4|1.2.0|1.2.1|1.2.2,Brent Sowers,rake|mocha,Class for retrieving maps from the Google Maps Static API service
+20521,google_static_maps_helper,1.2.0|1.2.1|1.2.2|1.2.3|1.3.0|1.3.1|1.3.2|1.3.3|1.3.4|1.3.5,Thorbj&#248;rn Hermansen,rspec,This gem provides a simple interface to the Google Static Maps V2 API
+20522,google_storage,0.1.1|0.1.2|0.2.0,Lucas Hills,crack,Google Storage for Developers is a RESTful service for storing and accessing your data on Google's infrastructure
+20523,google-storage,0.0.1|0.0.2|0.0.3|0.0.4|0.1.0,Juris Galang,typhoeus|nokogiri|rspec|yard,Ruby bindings for the GoogleStorage API
+20524,google_suggest,0.0.3,Tatsuya Sato,nokogiri,A gem which allows us to retrieve suggest words from Google in your Ruby Code.
+20525,google-tag-manager-rails,0.1.1|0.1.2|0.1.3,Ryan Sorensen,rails|sqlite3,Google Tag Manager helpers for Rails
+20526,google_tasks,"","","",
+20527,googletastic,0.0.3|0.0.4|0.0.5|0.0.5.1|0.0.5.2,Lance Pollard,nokogiri|activesupport|activerecord|gdata|rspec,More than Syncing Rails Apps with the Google Data API
+20528,google_terminal,"","","",
+20529,google_text,0.0.2|0.0.3|0.0.4,Sebastian Friedrich,json|nokogiri|curb|rspec|fakeweb|rake,GoogleText is a SMS client library for sending and receiving free SMS through Google Voice.
+20530,google_timezone,0.0.3,sck-v,rspec|rspec-mocks,Small gem to get timezone info by known coordinates using google timezone api. https://developers.google.com/maps/documentation/timezone/
+20531,googletranslate,"","","",
+20532,google_translate,0.0.2|0.0.3,Vidul Nikolaev Petrov,mechanize,A simple Ruby API for Google Translate
+20533,google-translate,0.6.4|0.6.5|0.6.6|0.6.7|0.6.8|0.6.9|0.7.0|0.7.1|0.7.2|0.8.0|0.8.1|0.8.2|0.8.3|0.8.4|0.8.5|0.8.6|0.8.7|0.8.8|1.0.0|1.0.1,Alexander Shvets,json_pure|thor|gemspec_deps_gen|gemcutter,Simple client for Google Translate API.
+20534,google_translate_scraper,0.1.1|1.0.0,Seb Glazebrook,nokogiri|rspec,"""This gem scrapes Google Translate and their results."""
+20535,google_translation,"","","",
+20536,google_translator,"","","",
+20537,google-translator-cis,0.0.3|0.0.4,"Anuradha, CISROR Team",rspec-rails,Language Translator
+20538,google-transliterate,"","","",
+20539,googlets,0.0.5|0.0.6,sodercober,"",Google Snippets
+20540,google_tts2,0.0.3|0.0.5|0.1.0,Filipe Esperandio,rspec|nokogiri,Google TTS client
+20541,google_tz,0.2.1|0.3.0|0.3.1|0.3.2,Daniel McGraw,rake|rspec,"Get timezone information for a latitude, longitude, and optionally a timestamp, sensor, and language."
+20542,GoogleURL,"","","",
+20543,googleurlshortener,0.0.2|0.0.3,Martin Kraft,"",Shorten and expand URL's with Google's shortener API.
+20544,google_url_shortener,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8,Josh Nesbitt,json|rest-client|trollop|bundler|rspec,A simple library to shorten and expand goo.gl URL's.
+20545,google_url_shortner,1.1.0|1.1.1,Hassane Moustapha,rack_restrictor|rspec|bundler|jeweler|rcov|fakeweb|httparty,Client Ruby pour acc&#232;der &#224; l'API Google URL Shortener.
+20546,google_url_signatures,0.5.1,Jack Danger Canty,ruby-hmac|shoulda,Sign your urls for the Google Places and Maps V3 APIs
+20547,google-v3-geocoder,"","","",
+20548,google-video,0.6.0|0.7.0,Walter Korman,hpricot|htmlentities,A Ruby object-oriented interface to Google Video content.
+20549,google_visualr,2.0.0|2.0.1|2.0.2|2.0.3|2.0.4|2.0.5|2.0.6|2.1.0|2.1.1|2.1.2|2.1.3|2.1.4|2.1.5|2.1.6|2.1.7|2.1.8|2.1.9|2.2.0|2.3.0,Winston Teo,bundler|rspec|rails,A Ruby wrapper around the Google Chart Tools that allows anyone to create the same beautiful charts with just plain Ruby.
+20550,google-voice,0.2.0|0.2.1|0.2.3,Jeff Rafter,shoulda|curb|nokogiri|json,Google Voice Library
+20551,googlevoice47,0.1.9|0.1.10|0.1.11,"",rake|rspec|mechanize|htmlentities,Ruby library for interacting with Google Voice
+20552,googlevoiceapi,0.1.3|0.1.4|0.1.5|0.1.6|0.1.7,Tim Gourley,rake|rspec|mechanize|htmlentities,Ruby library for interacting with Google Voice
+20553,google-weather,0.3.0,John Nunemaker,httparty,stupid simple fetching of the weather using google's api
+20554,google-webfonts,0.1.2|0.2.0,Travis Haynes,actionpack|bundler|rake|minitest|sinatra,"Provides a helper for using Google Webfonts in Rails or Sinatra, although it can be used outside of those frameworks as well."
+20555,google-webfonts-rails,0.0.2|0.0.3|0.0.4,URAMOTO Kazunori,activesupport|rake|rspec,A easiest way to introduce Google WebFonts to Rails application.
+20556,googlon-scroll,0.0.2|0.1.0,Daniel Martins,debugger|rspec,Random programming quiz generator
+20557,googlus,"","","",
+20558,googol,0.2.0|0.2.1|0.3.0,Claudio Baccigalupo,bundler|rspec|rake|yard|coveralls,Googol lets you interact with many resources provided by Google API V3.
+20559,gookou_angular-ng-grid-rails,2.0.7.3,Iniciontin Gookou,"",Angular-ng-grid on Rails
+20560,goon,0.0.3,Applied Awesome|Dennis Walters,rake|rdoc|rspec|coco|mocha,A loyal lackey
+20561,goopr,"","","",
+20562,gooru,"","","",
+20563,goose,0.6.1|0.7.0|0.7.1|0.8.0,Bruce Williams,"","Goose is a navigation plugin for Rails whose aim it is to make adding smart, context-aware navigation to your application as easy as possible"
+20564,goospell,0.0.2|0.0.3,Shane Davies,to_xml|rexml-expansion-fix|rake,Spell checker that uses the undocumented Google Spell API
+20565,goot,0.0.11|0.0.12|0.1.0,Conner McDaniel,thor|bundler|rake|pry|rspec,A command-line interface to Google Tasks das ist goot.
+20566,goozee,"","","",
+20567,gopay,0.1.1|0.2|0.2.1,papricek,savon|shoulda|mocha,A little gem making integration of GoPay easy
+20568,gopher,"","","",
+20569,gopher2000,0.2.0|0.2.1|0.2.2|0.3.0|0.4.0,Colin Mitchell,rspec|redcarpet|yard|shoulda|rdoc|simplecov|watchr|eventmachine|artii|eventmachine|logging,Gopher2000 - A Gopher server for the next millenium
+20570,go-picasa-go,"","","",
+20571,goplan,"","","",
+20572,goplay-publisher-sdk,0.0.903|0.0.904|0.0.905|0.0.906|0.0.907|0.0.908|0.0.909|0.0.911|0.911|0.912,Keith Nordstrom,cacert,A fluent SDK for retrieving Publisher information from the GoPlay graph.
+20573,gopollgo,0.1.7|0.1.8,Ben Schaechter,httparty,A Ruby wrapper to the GoPollGo API.
+20574,gopt,0.0.2,Tadayoshi Funaba,"",gopt is a simple wrapper of getoptlong of an object-oriented scripting language Ruby.
+20575,goqr,0.0.2,Patricio Mac Adden,railties|activesupport,QR codes for ruby/rails using goqr.me API
+20576,goran,0.6,Nitesh,"",Goran is a ruby library to run blocks of code that return unexpected values/raise Exceptions multiple times or until they succeed
+20577,go-rank,0.0.3|0.0.4|0.0.5,Thomas Preymesser,hoe,A class of ranks in the board game Go
+20578,gorb,0.1,Aku Kotkavuo,"",Ruby go library
+20579,gorgeous,0.1.1|0.1.2|0.2.0,Mislav Marohnić,nokogiri|activesupport|rack|mail,"Convert between different data formats; prettify JSON, HTML and XML"
+20580,gorges_capistrano_ext,"","","",
+20581,gorgon,0.0.2|0.1.0|0.1.1|0.2.0|0.3.0|0.3.1|0.3.2|0.4.0|0.4.1|0.4.2|0.4.3|0.4.4|0.4.5|0.6.0|0.6.1|0.6.2|0.6.3|0.6.4|0.6.5|0.7.0,Justin Fitzsimmons|Sean Kirby|Victor Savkin|Clemens Park|Arturo Pie,rake|test-unit|rspec|amqp|awesome_print|open4|ruby-progressbar|colorize|yajl-ruby|uuidtools,Distributed testing for ruby with centralized management
+20582,gorgyrella,0.0.2,Ana Nelson,bones,FIXME (describe your package)
+20583,gorilla-capistrano-recipes,0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.2.0|0.2.1|0.2.2,Benny Degezelle,capistrano|thoughtbot-shoulda,Common capistrano recipes for Gorilla sites
+20584,gorilla_test-rails,0.0.2,Jim Ray,bundler|rake,Inculde script for gorilla test integration testing
+20585,gorillib,0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7|0.1.8|0.1.9|0.1.11|0.4.2|0.5.0|0.5.2|0.6.0,Infochimps,multi_json|configliere|bundler|log4r|pry|rspec|rake|yard,"include only what you need. No dependencies, no creep"
+20586,gorki,"","","",
+20587,gorm,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7,Kevin Tonon,rake|yard,A code-Generating Object Relational Mapper for use with Qt and SQLite.
+20588,gorp,0.7.2|0.8.0|0.8.1|0.8.2|0.9.0|0.10.0|0.10.1|0.10.2|0.11.0|0.11.1|0.12.0|0.13.0|0.14.0|0.15.0|0.16.0|0.16.1|0.16.3|0.16.4|0.16.5|0.16.6|0.17.0|0.18.0|0.18.1|0.18.2|0.18.3|0.18.4|0.19.0|0.19.1|0.19.2|0.20.0|0.20.1|0.21.0|0.21.1|0.21.2|0.22.0|0.22.1|0.22.2|0.23.0|0.24.0|0.25.0|0.25.1|0.26.1|0.26.2|0.27.0|0.28.0|0.28.1,Sam Ruby,builder|bundler|i18n|rack|rake,Rails scenario testing support library
+20589,gors,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7,Bram Vandenbogaerde,tilt|json|rack,Great Opensource Rack Server
+20590,gorthaur,"","","",
+20591,goruby,0.1.0|0.2.0,Ben J Woodcroft,thoughtbot-shoulda|array_pair|rsruby|bio,Gene Ontology (GO) interface for Ruby
+20592,gosen,0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7|0.2.0,Pierre Riteau,restfully|mocha|shoulda,A Ruby library for the Grid'5000 RESTful API
+20593,gosh,1.0.1,Sam Stephenson,"",Security theater for piped shell scripts
+20594,goshortener,1.1|1.2|1.2.1|1.2.2,lakshmanan,json|rest-client,GoShortener uses Google URL shortener service to shorten/expand urls.
+20595,goshrine_bot,0.1.1|0.1.5|0.1.6|0.1.7|0.1.8|0.1.9|0.1.10|0.1.11|0.1.13|0.2.0,Pete Schwamb,eventmachine|em-http-request|faye|json|rspec,A client to connect GTP go programs to GoShrine
+20596,gosleap,0.1.0,Kori Roys,bundler|rake,Makes a gosling jump across your screen.
+20597,go_social,0.1.0,Rakesh Jha,rails,A complete social media makeover.
+20598,gosquared,0.0.2|0.1.5,Geoff Wagstaff,minitest|rake|faraday|json,Official GoSquared Ruby Client
+20599,go_squared,0.0.2|0.0.3,Wout Fierens,shoulda|bundler|jeweler|rcov|active_support,A ruby wrapper for the GoSquared API
+20600,gossamer,"","","",
+20601,gossip,0.3.1|0.3.2,Brian Marick,s4t-utils|xmpp4r|tinder|snitch|twitter|user-choices|hoe,Library to broadcast messages to multiple destinations + scripts that use it
+20602,gossiper,0.3.0|0.3.1|0.3.2|0.3.3|0.3.4|0.3.5|0.3.6|0.3.7|0.3.8|0.5.0|0.5.1|0.5.2,Marcelo Jacobus,therubyracer|less-rails|twitter-bootstrap-rails|kaminari|sqlite3|shoulda-matchers|rspec-rails|simplecov|coveralls|faker|interactive_editor,It eases the creation of messages for the users
+20603,go_static,0.0.2|0.0.3|0.0.4|0.0.5|0.1.0|0.1.1,LleÃ¯r BorrÃ s Metje,"","Render views in Ruby on Rails written in html to an image (png, ...)"
+20604,gost_frames,"","","",
+20605,gosu,0.7.10.1|0.7.10.1|0.7.10.2|0.7.10.2|0.7.10.2|0.7.10.3|0.7.10.3|0.7.10.3|0.7.11|0.7.11|0.7.11|0.7.12|0.7.12|0.7.12|0.7.13|0.7.13|0.7.13|0.7.13.2|0.7.13.2|0.7.13.2|0.7.13.3|0.7.13.3|0.7.13.3|0.7.14|0.7.14|0.7.14|0.7.15|0.7.15|0.7.15|0.7.16|0.7.16|0.7.16|0.7.17|0.7.17|0.7.17|0.7.18|0.7.18|0.7.18|0.7.19|0.7.19|0.7.19|0.7.20|0.7.20|0.7.20|0.7.21|0.7.21|0.7.21|0.7.22|0.7.22|0.7.22|0.7.23|0.7.23|0.7.23|0.7.24|0.7.24|0.7.24|0.7.25|0.7.25|0.7.25|0.7.26|0.7.26|0.7.26|0.7.26.1|0.7.26.1|0.7.26.1|0.7.27|0.7.27|0.7.27|0.7.27.1|0.7.27.1|0.7.27.1|0.7.28|0.7.28|0.7.28|0.7.29|0.7.29|0.7.29|0.7.30|0.7.30|0.7.30|0.7.31|0.7.31|0.7.31|0.7.32|0.7.32|0.7.32|0.7.33|0.7.33|0.7.33|0.7.35|0.7.35|0.7.35|0.7.36|0.7.36.1|0.7.36.1|0.7.36.2|0.7.36.2|0.7.36.2|0.7.37|0.7.37|0.7.37|0.7.38|0.7.38|0.7.38|0.7.39|0.7.39|0.7.39|0.7.40|0.7.40|0.7.40|0.7.41|0.7.41|0.7.41|0.7.43|0.7.43|0.7.43|0.7.44|0.7.44|0.7.44|0.7.45|0.7.45|0.7.45|0.7.46|0.7.46|0.7.47.1|0.7.47.1|0.7.48|0.7.48|0.7.49|0.7.49|0.7.50|0.7.50,Julian Raschke,"",2D game development library.
+20606,gosu_android,0.0.2|0.0.4|0.0.5,Garoe Dorta,"",A Gosu implementation for Android.
+20607,gosu_enhanced,0.2.0|0.3.0|0.3.1|0.3.2,Julian Nicholls,gosu|bundler|rake|rspec|rspec-nc|pry,Enhanced versions of some Gosu classes.
+20608,gosu_extensions,0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7|0.1.8|0.1.9|0.1.10|0.1.11|0.1.12|0.1.13|0.1.14|0.1.15|0.1.16|0.1.17|0.1.18|0.1.19|0.1.20|0.1.21|0.1.22|0.1.23|0.1.24|0.1.25|0.1.26|0.1.27|0.1.28|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5|0.2.6|0.2.7|0.2.8|0.2.9|0.3.0|0.3.1|0.3.2|0.3.3|0.3.4|0.3.5|0.3.6|0.3.7|0.3.8,Florian Hanke|Severin Schoepke (various improvements),gosu|chipmunk,"Default extensions built onto the popular Gosu Framework. Uses Chipmunk for game physics. That's it for now. I'm working on them. Anyway, GAME ON!"
+20609,gosu_grid,"","","",
+20610,gosu-keyboard,0.1.8,Ryan Scott Lewis,version|active_support|gosu|rake,A nice DSL for handling a Gosu::Window's keyboard events
+20611,gosu_texture_packer,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4,Tomas Varaneckas,gosu|json|rmagick|bundler|rake|rspec|guard-rspec,TexturePacker loader for Gosu game engine
+20612,got,0.0.2,Kristian Freeman,launchy,You meant git.
+20613,gotaku,0.3.0,Kazuya Takeshima,builder|rspec|nokogiri|bundler|jeweler|rcov,5tq parser
+20614,gotasks,"","","",
+20615,gotasku,"","","",
+20616,gotatestlorem,"","","",
+20617,gotcha,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6,John Crepezzi,rspec|actionpack,A captcha library for auto-generating questions
+20618,gotempr,"","","",
+20619,got_fixed,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.1.0,Sebastien Saunier,rails|httparty|sqlite3|rspec-rails|capybara|factory_girl_rails|webmock,Build a public dashboard of your private issue tracker
+20620,gothonweb,"","","",
+20621,gotime_aws,2.5.7,Travis Reeder|Chad Arimura|RightScale,uuidtools|http_connection|xml-simple,AWS Ruby Library for interfacing with Amazon Web Services. By http://www.appoxy.com
+20622,gotime-cassandra_object,0.7.1|0.7.2|0.7.3|0.7.4|0.7.5|0.7.6|0.7.7|0.7.8|0.8.0|0.8.1|0.8.2|0.8.3|0.8.4|0.8.5|0.8.6|0.8.7|0.9.0|0.9.1|2.0.0|2.1.0|2.1.1|2.1.2|2.2.0|2.2.1|2.2.2|2.2.3|2.2.4|2.3.0|2.3.1|2.3.2|2.3.3|2.3.4|2.3.5|2.3.6|2.4.0|2.4.1|2.4.2|2.5.0|2.6.0|2.6.1|2.6.2|2.6.3|2.6.4|2.7.0|2.7.1|2.7.2|2.7.3|2.7.4|2.7.5|2.7.6|2.7.7|2.7.8|2.7.9|2.7.10|2.7.11|2.7.12|2.8.0|2.8.1|2.8.2|2.8.3|2.8.4|2.8.5|2.8.6|2.9.0|2.9.1|2.9.2|2.10.0|2.10.1|2.10.2|2.10.3|2.10.4|2.10.5|2.10.6|2.10.7|2.10.8|2.10.9|2.10.10|2.10.11|2.11.0|2.11.1|2.11.2|2.11.3|2.11.4|2.11.5|2.11.6|2.11.7|2.11.8|2.11.9|2.12.0|2.12.1|2.12.2|2.12.3|2.12.4|2.12.5|2.13.0|3.0.0|3.0.1|3.0.2|3.0.3|3.0.4|3.0.5|4.0.0|4.0.1|4.0.2|4.1.0|4.2.0|4.2.2|4.3.0|4.3.1|4.3.2|4.4.0|4.4.3|4.4.4|4.4.5|4.5.0|4.5.1|4.6.0|4.7.0|4.7.1|4.7.2|4.7.3|4.8.0|4.8.1|4.9.0|4.9.1|4.9.2|4.10.0|4.10.1|4.10.2|4.10.3|4.10.4|4.10.5|4.11.0|4.11.1|4.11.2|4.11.3|4.11.4|4.11.5|4.11.6|4.12.0|4.12.1|4.12.2,Michael Koziarski|gotime,activemodel|cassandra-cql|thrift_client|bundler,Cassandra ActiveModel
+20623,gotime-moneta,"","","",
+20624,gotime-postgis_adapter,0.8.3|0.8.4|0.8.5,Marcos Piccinini,nofxx-georuby,PostGIS Adapter for Active Record
+20625,gotime-slither,"","","",
+20626,goto,"","","",
+20627,go_to_param,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.8|0.0.9|0.0.10,Henrik N,bundler|rake|rspec,"Rails ""go_to"" redirection param utilities."
+20628,goto_string,0.1.1|0.1.2|0.1.3|0.1.4,Max Muermann,hoe,Quicksilver-like partial string matching
+20629,gotqn_first_gem,"","","",
+20630,go_translate_yourself,0.0.3|0.0.4|0.0.6,Hubert &#321;&#281;picki,"",Rails engine to manage translations
+20631,got_skillz,"","","",
+20632,gottani,0.0.2,tbpgr,activesupport|bundler|rake|rspec|simplecov,Gottani is coverter for indent-style text.
+20633,gouda,"","","",
+20634,gourd,"","","",
+20635,governor,0.1.1|0.2.0|0.2.1|0.2.2|0.2.3|0.3.0|0.3.1|0.4.0|0.5.0|0.5.1|0.5.2|0.5.3|0.5.4|0.5.5|0.5.6|0.5.7,Liam Morley,rails|jeweler|sqlite3|rspec-rails|rcov|mocha|webrat|factory_girl|factory_girl_rails|activerecord-nulldb-adapter|devise|governor|dynamic_form,A pluggable blogging system for Rails 3.
+20636,governor_atom,0.1.1,Liam Morley,governor|rspec-rails|webrat|sqlite3|bundler|jeweler|rcov|factory_girl|factory_girl_rails|governor_atom|devise|will_paginate,ATOM feed plugin for the Rails 3-based Governor blogging system.
+20637,governor_background,0.2.0|0.2.1|0.2.2|0.3.0,Liam Morley,governor|jeweler|sqlite3|rspec-rails|mocha|factory_girl|factory_girl_rails|activerecord-nulldb-adapter|json|will_paginate|devise|governor_background|delayed_job|resque|resque-status|resque_spec|dynamic_form,Background services plugin for the Rails 3-based Governor blogging system.
+20638,governor_blogger,0.1.1|0.1.2,Liam Morley,gdata|nokogiri|governor|governor_background|jeweler|sqlite3|rspec-rails|mocha|factory_girl|factory_girl_rails|activerecord-nulldb-adapter|will_paginate|devise|governor_blogger|delayed_job|resque|resque-status|dynamic_form,A plugin that connects Governor with a Blogger account.
+20639,governor_comments,0.1.1|0.1.2|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5|0.2.6|0.2.7,Liam Morley,rails|governor|jeweler|sqlite3|rspec-rails|rcov|webrat|mocha|factory_girl|factory_girl_rails|activerecord-nulldb-adapter|governor_comments|devise|dynamic_form|rakismet,Comments plugin for the Rails 3-based Governor blogging system.
+20640,governor_formatters,"","","",
+20641,governor_livejournal,0.2.0|0.2.1,Liam Morley,livejournal|governor|governor_background|jeweler|sqlite3|rspec-rails|mocha|factory_girl|factory_girl_rails|activerecord-nulldb-adapter|will_paginate|devise|governor_livejournal|delayed_job|dynamic_form,A plugin that connects Governor with a LiveJournal account.
+20642,governor_states,"","","",
+20643,governor_tags,0.1.1|0.2.0|0.2.1|0.2.2,Liam Morley,rails|governor|jeweler|sqlite3|rspec-rails|rcov|webrat|mocha|factory_girl|factory_girl_rails|activerecord-nulldb-adapter|governor_tags|devise|dynamic_form|rakismet,Tagging plugin for the Rails 3-based Governor blogging system.
+20644,governor_thinking_sphinx,0.1.1|0.1.2|0.1.3|0.1.4,Liam Morley,governor|thinking-sphinx|jeweler|sqlite3|rspec-rails|mocha|factory_girl|factory_girl_rails|activerecord-nulldb-adapter|will_paginate|devise|governor_thinking_sphinx|dynamic_form|mysql2,ThinkingSphinx plugin for the Rails 3-based Governor blogging system.
+20645,governor_twitter,0.1.1|0.1.2,Liam Morley,twitter|shortie|governor|governor_background|jeweler|sqlite3|rspec-rails|mocha|factory_girl|factory_girl_rails|activerecord-nulldb-adapter|will_paginate|devise|governor_twitter|delayed_job|resque|dynamic_form,A plugin that connects Governor with a Twitter account.
+20646,govfeed,0.0.2,Matthew Grigajtis,"",Grab a government RSS feed.
+20647,govkit,0.0.2|0.1.0|0.2.0|0.3.0|0.3.1|0.3.2|0.4.0|0.4.1|0.4.2|0.5.0|0.5.1|0.6.0|0.6.1|0.7.0|0.7.1|0.7.2|0.7.3|0.7.4,Participatory Politics Foundation|Srinivas Aki|Carl Tashian,i18n|activesupport|nokogiri|httparty|json|fastercsv|jeweler|rake,Simple access to open government APIs around the web
+20648,govkit-ca,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9,Open North,faraday|httparty|nokogiri|json|rspec|rake|coveralls|mime-types,Easy access to Canadian civic data around the web
+20649,govkit-h,"","","",
+20650,gov-repos,"","","",
+20651,govspeak,0.8.5|0.8.6|0.8.7|0.8.8|0.8.9|0.8.10|0.8.11|0.8.12|0.8.13|0.8.14|0.8.15|0.8.16|0.8.17|0.8.18|1.0.0|1.0.1|1.1.0|1.2.0|1.2.2|1.2.3|1.2.4|1.2.5|1.3.0|1.4.0|1.5.0|1.5.1|1.5.2|1.5.3|1.5.4|1.6.0|1.6.1,Ben Griffiths|James Stewart,kramdown|htmlentities|sanitize|nokogiri|rake|gem_publisher|simplecov|simplecov-rcov,Markup language for single domain
+20652,govtrack,"","","",
+20653,govuk_admin_template,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.1.0|0.1.1|1.0.0,GOV.UK Dev,rails|bootstrap-sass|jquery-rails|rails|sass-rails|rspec-rails|capybara|gem_publisher,"Styles, scripts and templates for GOV.UK admin applications"
+20654,govuk_content_models,6.0.3|6.0.4|6.0.5|6.0.6|6.1.0|6.3.0|6.4.0|7.0.0|7.1.0|7.1.1|7.2.0|7.2.1|7.3.0|7.3.1|8.0.0|8.1.0|8.2.0|8.3.0|8.3.1|8.4.0|8.4.1|8.5.0|8.6.0|8.7.0|8.8.0|8.9.0|8.10.0|9.0.0|9.0.1|10.0.0|10.1.0|10.1.1|10.1.2|10.2.0|10.2.1|10.2.2|10.3.0|10.4.0|10.4.1|10.4.2|10.5.0|11.0.0|11.0.1|11.1.0|11.2.0|11.3.0|11.4.0|12.0.0|12.1.0|12.2.0|12.3.0,Paul Battley,bson_ext|differ|gds-api-adapters|gds-sso|govspeak|mongoid|plek|state_machine|database_cleaner|factory_girl|gem_publisher|mocha|multi_json|rake|webmock|shoulda-context|timecop|rack|rails,"Shared models for Panopticon and Publisher, as a Rails Engine"
+20655,govuk_frontend_toolkit,0.41.2|0.42.0|0.43.0|0.43.1|0.43.2|0.44.0|0.45.0|0.46.0|0.46.1|0.47.0|0.48.0|1.0.0|1.0.1|1.1.0|1.2.0|1.3.0,Bradley Wright,rails|sass|gem_publisher|rake,Tools for building frontend applications
+20656,govuk_template,0.4.0|0.4.1|0.5.1|0.6.0|0.6.1|0.6.2|0.6.3|0.6.4|0.7.0|0.7.1|0.8.0|0.8.1,Alex Tomlins,rails|rake|sprockets|sass|govuk_frontend_toolkit|gem_publisher|rspec,Rails engine supplying the GOV.UK header/footer template
+20657,go-waldo,"","","",
+20658,gowalla,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.2.0|0.2.1|0.3.0|0.4.0|0.4.1|0.4.2|0.5.1|0.5.2|0.5.3|0.5.4|0.5.5|0.5.6|0.5.7|0.5.8,Wynn Netherland|Eric Hutzelman,faraday|faraday_middleware|hashie|oauth2|bundler|fakeweb|jnunemaker-matchy|json_pure|rake|shoulda|test-unit,Wrapper for the Gowalla API
+20659,gowallacheckins,"","","",
+20660,gowalla-ruby,0.0.5,Andy Atkinson,httparty|shoulda|mocha,Gowalla API wrapper for Ruby
+20661,goz,0.0.3|0.1.0|0.1.1,blair christensen,activesupport|grouper-rest-client|json|sequel|sqlite3|mocha|rake|rdoc|rdoc-readme|simplecov,Generic self-service provisioning system
+20662,gozap_rss,0.0.2|0.0.3|0.0.4|0.0.6|0.0.7,&#231;&#381;&#8249;&#230;&#732;&#381;&#229;&#141;&#381;,logger|sanitize|rspec|bundler|jeweler|simplecov,gozap&#229;&#8230;&#172;&#229;&#143;&#184;&#231;&#8221;&#168;&#230;&#157;&#165;&#230;&#352;&#8220;&#229;&#143;&#8211;rss&#231;&#353;&#8222;&#230;&#339;&#141;&#229;&#352;&#161;
+20663,gpa,0.1.0|0.1.1,Dustin Morrill,dmorrill10-utils|simplecov|minitest,Academic course data manipulation and GPA calculation module
+20664,gpd-request,0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5,James Robertson,"",GPD-Request is a convenient Net::HTTP wrapper
+20665,gpgc,"","","",
+20666,gpg-locksmith,"","","",
+20667,gpgme,2.0.0|2.0.1|2.0.2|2.0.4|2.0.5,Daiki Ueno|Albert Llop,mini_portile|mocha|minitest|yard|rcov|debugger,Ruby binding of GPGME.
+20668,gpgme-ffi,3.0.1|3.0.2|3.0.3|3.0.4|3.0.5|3.0.6,Daiki Ueno|Albert Llop|Sergey Gridasov,ffi|mocha|minitest|yard|rcov,FFI binding of GPGME.
+20669,gpgr,0.0.2|0.0.3|0.0.4,Ryan Stenhouse,"",A lightweight GPG CLI interface for encyrypting files
+20670,gpg_status_parser,0.3.0|0.4.0,Grant T. Olson,"",Turns gpg status messages into ruby objects.
+20671,gphone,0.2.0,Tobias Begalke,gphone|rice|rspec|rdoc|bundler|jeweler|simplecov|ruby-debug19|rspec|rdoc|bundler|jeweler|simplecov|ruby-debug19|rspec|rdoc|bundler|jeweler|simplecov|ruby-debug19|rspec|rdoc|bundler|jeweler|simplecov|ruby-debug19|rspec|rdoc|bundler|jeweler|simplecov|ruby-debug19|rspec|rdoc|bundler|jeweler|simplecov,ruby bindings for Google's libphonenumber
+20672,gphoto4ruby,0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.2.0|0.2.1|0.2.2|0.2.4|0.2.5|0.2.6|0.2.7|0.2.8|0.2.9|0.3.0|0.3.1|0.3.2|0.3.3|0.3.4|0.4.0|0.4.1|0.4.2|0.4.3|0.4.4,neq4 company|Sergey Kruk,"",GPhoto4Ruby is Ruby wrapping around gphoto2 C library
+20673,gphys,1.2.2|1.2.2.1,Takeshi Horinouchi|Ryo Mizuta|Daisuke Tsukahara|Seiya Nishizawa|Shin-ichi Takehiro,narray|numru-misc|numru-units|narray_miss|ruby-netcdf|ruby-dcl|ruby-fftw3|gsl|ruby-lapack|rb-grib,a multi-purpose class to handle Gridded Physical quantities
+20674,gpi-active_model_serializers,0.8.4|0.8.5,José Valim|Yehuda Katz,activemodel|rails|pry|simplecov|coveralls,Bringing consistency and object orientation to model serialization. Works great for client-side MVC frameworks!
+20675,gpig,0.0.2|0.0.4|0.0.7|0.0.17|0.0.24|0.0.31,William Barry,specific_install|trollop,A gem development tool.
+20676,gpio,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6,Christopher Klapp,"",a ruby gem and repository to contribute gpio code for devices such as Raspberry Pi to read sensors and control outputs.
+20677,gpis,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.6.1|0.0.6.2|0.0.7|0.0.7.1|0.0.7.2,Petr Smejkal,nokogiri,Google Play Application Info Scraper
+20678,gploy,0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7|0.2.0,Edipo L Federle,bundler|rake|net-ssh|net-sftp,Deployment with git
+20679,gplus,0.1.0|0.2.0|0.2.1|0.2.2|0.3.0|0.3.1|0.4.0|0.5.0|1.0.0|1.0.1|2.0.0|2.0.1|2.1.0,Nicholas Firth-McCoy,multi_json|oauth2|rspec|webmock|simplecov|yard,"Google+ API implementation with support for authorized requests, People, and Activities"
+20680,gplusr,"","","",
+20681,gpm,0.0.2|0.1.3|0.1.7|0.1.9|0.3.0,crealytics GmbH,json|thor|activesupport|xml-simple|archive-zip|i18n|cucumber|aruba|guard|guard-cucumber|guard-bundler|guard-rspec|fakefs|simplecov,gpm - Grand Package Manager
+20682,gprov,0.0.4|0.0.5|0.0.7|0.0.8,Adrien Thebo,httparty|nokogiri|rspec|mocha,Ruby bindings to the Google Provisioning API
+20683,gps,"","","",
+20684,gpsd,"","","",
+20685,gpstool,"","","",
+20686,GpsTrail,"","","",
+20687,gpx,0.2|0.3|0.4|0.5|0.6,Doug Fales,"",A basic API for reading and writing GPX files.
+20688,gpx2exif,0.0.1|0.0.2|0.0.3|0.0.4|0.1.0|0.1.1|0.1.3|0.2.0|0.3.1,Aleksander Kwiatkowski|Craig Taverner,mini_exiftool|rmagick|chunky_png|gpx_utils|geokit|rspec|bundler|jeweler|simplecov,Mass geotagger using GPX files
+20689,gpx2png,0.3.0,Aleksander Kwiatkowski,mini_exiftool|rmagick|gpx_utils|colorize|rspec|bundler|jeweler|simplecov,Convert routes to image map files using Openstreetmap tileset
+20690,gpxpose,"","","",
+20691,gpx_reader,0.2.0,Nicolas Aguttes,bundler|rake|nokogiri,gpx reader
+20692,gpx_track,0.0.2,Dawid Dziurdzia,nokogiri|bundler|rake|rspec|simplecov,Provide GPX file parsing
+20693,gpx_utils,0.0.1,Aleksander Kwiatkowski,nokogiri|builder|rspec|bundler|jeweler|simplecov,GPX file utilities
+20694,gqtp,1.0.1|1.0.2|1.0.3|1.0.4|1.0.5|1.0.6,Kouhei Sutou,bundler|rake|test-unit|test-unit-notify|packnga|redcarpet,Gqtp gem is a [GQTP (Groonga Query Transfer Protocol)](http://groonga.org/docs/spec/gqtp.html) Ruby implementation.
+20695,gr,"","","",
+20696,graal,0.0.1|0.0.2,Ferreira Christopher,childprocess,Git Ruby A* Abstraction Layer
+20697,grab,0.0.2|0.0.3|0.0.4|0.1.0,Andy Waite,rspec,Fetch multiple keys from a Hash
+20698,grabass,0.0.1|0.1.0|0.2.0|0.3.0,Brian Carstensen,"",Grabass
+20699,grabber,"","","",
+20700,grabbio,0.0.4|0.0.6,Gazler,rspec|fakeweb,A ruby wrapper for the grabbio platform
+20701,grabbit,"","","",
+20702,grab_epg,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.8|0.1.9|0.2.0|0.2.1|0.2.3|0.2.4|0.2.5|0.2.6|0.2.7|0.2.8|0.2.9|0.3.2|1.0.0|1.0.1,hahazql,"","""Grab EPG"""
+20703,grabjs,0.0.3|0.0.4|0.0.5,Michael Hoy,"",Grab popular javascript libraries.
+20704,grabmoot,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.1.0|0.2.0,enroxorz,nokogiri,Grab images from a 4chan thread
+20705,graboid,0.2.0|0.2.1|0.3.0|0.3.2|0.3.3|0.3.4|0.3.5|0.4.0,Christopher Burnett,rspec|nokogiri,web scraping made easy
+20706,grabzit,1.1.0|1.1.1|2.0.1|2.0.2|2.1.0|2.1.1|2.1.2,GrabzIt,rake,GrabzIt Ruby Client
+20707,grabz_it,0.0.2|0.0.3|0.0.4,Eric Berry,rspec,Ruby interface to the GrabzIt (grabz.it) service
+20708,grace,"","","",
+20709,graceful_rounding,"","","",
+20710,graceful_shutdown,"","","",
+20711,gracenote,1.0.0|1.0.1|1.2.0,nobelium,bundler|rake|curb|crack,This gem is a wrapper for the gracenote web api
+20712,grack,0.0.2,Scott Chacon|Akshay Rawat,"",Grack
+20713,grackle,0.1.6|0.1.7|0.1.8|0.1.9|0.1.10|0.2.0|0.2.1|0.3.0,Hayes Davis,json|mime-types|oauth,Grackle is a lightweight library for the Twitter REST API.
+20714,grada,2.0.0|2.0.1|2.0.2|2.0.3|2.1.3|2.1.4|2.1.5|2.2.0|2.2.1|2.2.2|3.0.0,Enrique Figuerola,rspec|rake,GraDA
+20715,GraDA,1.0.1|1.1.0,Enrique Figuerola,rspec|rake,GraDa
+20716,gradekit,"","","",
+20717,grader,0.0.2|0.0.3,Dima Kochnev,bourbon|rails|sass,CSS lightweight grid framework for Rails
+20718,gradesfirst,0.2.1|0.3.0|0.3.2|0.4.0|0.5.0|0.5.1|0.6.0,GradesFirst,thor|http_magic|minitest,GradesFirst command line utility for developers.
+20719,gradients,0.0.2,Joshua Hull,rspec|rake,Colours! Colours! The creeping chaos fucks my mind. Generate gradients because colors are fun.
+20720,gradient-view,0.1.1|0.1.2|0.1.3,Colin Thomas-Arnold,rake|sugarcube,A view that can draw a gradient.
+20721,gradle-to-capistrano,0.0.2,Marcos Sousa,bundler|jeweler,Capistrano recipe to run gradle commands to generate deployable artifacts
+20722,graf,0.0.2|0.0.3|0.0.4,Abhishek Das,bundler|rake,A simple git log analyzer gem
+20723,graff,0.0.2|0.0.3|0.0.4|0.0.5,Patrick Crowley,plist,graff
+20724,graffable,0.0.2|0.0.3,blair christensen.,haml|json|sequel|sinatra|sinatra-flash|bundler|dotenv|foreman|rake|sqlite3,Sinatra-based data charting application
+20725,graffik,"","","",
+20726,graffiti,"","","",
+20727,graffititracker_devise,"","","",
+20728,graffity,0.0.2,Peter Berkenbosch,rails|sequel|coderay|deface|sqlite3,Development tool to render a view stack
+20729,graffle,0.1.7|0.1.8|0.1.9|0.2.0,Brian Marick,extensions|plist|s4t-utils|hoe,"Working with OmniGraffle documents, including support for Rails integration tests."
+20730,grafico,0.1.1|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5,Andy Rossmeissl,"",Rails view helpers for the Grafico javascript graphing library
+20731,grafikon,0.4.2|0.4.3|0.4.4|0.4.5|0.4.6|0.4.7|0.4.8|0.4.10,Frantisek Havluj,bundler|rake|guttapercha,Simple plotting tool producing Pgfplots source or Gnuplot script
+20732,graft,0.1.1|0.2.0|0.2.1,Patrick Reagan,hpricot|tzinfo|builder|activesupport|json,Graft provides an easy way to map XML and JSON data onto your Ruby classes
+20733,grafter,"","","",
+20734,graham,0.0.2|0.0.3,feivel jellyfish,mallow,Miniature test engine based on Mallow
+20735,grahamjroy_my_string_extend,"","","",
+20736,grailbird_updater,0.2.0|0.2.1|0.3.0|0.4.0|0.5.0|0.5.1,Dannel Jurado,oauth|trollop|colorize,A way to keep an updated archive of Twitter tweets.
+20737,grails,"","","",
+20738,gram,0.1.0|0.2.0|0.3.0,Josep M. Bach|Josep Jaume Rey|Oriol Gual,rest-client|thor|i18n|activesupport|bundler|rspec|generator_spec|activemodel,Internal client for Codegram administration
+20739,grammar,0.8|0.8.1,Eric Mahurin,"",BNF-like grammar specified directly in ruby
+20740,grammar_cop,0.1.1,Quan Nguyen,rake-compiler,a C extension for the link-grammar-4.7.4 library
+20741,grammar_police,0.1.1,Quan Nguyen,ffi,grammar_police is a ruby wrapper for the link-grammar code
+20742,grammoire,"","","",
+20743,gramola,"","","",
+20744,gramp,0.0.2,Martin Cortez,rspec,Google Analytics Measurement Protocol for Ruby
+20745,granary,0.0.2|0.0.3,Thong Kuah|YouDo Limited,rspec|webmock|faraday|faraday_middleware,A Ruby library for the Harvest API
+20746,grancher,0.1.1|0.1.2|0.1.3|0.1.4|0.1.5,Magnus Holm,gash,Easily copy folders and files to other Git branches
+20747,grandejs_rails,"","","",
+20748,grandfather,"","","",
+20749,grandprix,0.0.5,Rafael de F. Ferreira,json|activesupport,Deploy assistant
+20750,grandstand,0.2.2|0.2.3|0.2.4|0.2.6|0.2.7|0.3.0,Flip Sasser,aws-s3|mustache|paperclip|will_paginate|aws-s3|mustache|paperclip|will_paginate,"A blog / gallery gem for Rails 3 that's dead-simple to configure, override, and rebuild"
+20751,granicus_migrate,0.0.2|0.0.3,Javier Muniz,faraday_middleware|granicus-platform-api|nokogiri|faraday_middleware|granicus-platform-api|nokogiri,Tool to mass-import files from old Webcasting.com customers to the Granicus Platform
+20752,granicus-platform-api,0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7|0.1.8|0.1.9|0.9.1|0.9.2|0.9.3|0.9.4,Javier Muniz|Dan Melton,rspec|simplecov|hashie|savon|savon|hashie,Granicus Open Platform API 1.x Wrapper
+20753,granite,"","","",
+20754,grant,2.0.0|2.0.1|2.0.2|2.1.0,Jeff Kunkle|Matt Wizeman,activerecord|rspec|sqlite3-ruby|activerecord,Conscious security constraints for your ActiveRecord model objects
+20755,granted,0.2.0,Jannis Hermanns,rails|jeweler|guard-rspec|rspec|rspec-rails|terminal-notifier-guard|guard-bundler|simplecov|database_cleaner|mysql2|debugger|activerecord-postgresql-adapter|activerecord-jdbc-adapter|activerecord-jdbcpostgresql-adapter|activerecord-jdbcmysql-adapter,Grant or revoke access to your ActiveRecord models
+20756,granular_permissions,"","","",
+20757,grape,0.1.1|0.1.3|0.1.4|0.1.5|0.2.0|0.2.1|0.2.1.1|0.2.2|0.2.3|0.2.4|0.2.5|0.2.6|0.3.0|0.3.1|0.3.2|0.4.0|0.4.1|0.5.0|0.6.0|0.6.1|0.7.0,Michael Bleigh,rack|rack-mount|rack-accept|activesupport|multi_json|multi_xml|hashie|virtus|builder|grape-entity|rake|maruku|yard|rack-test|rspec|bundler,A simple Ruby framework for building REST-like APIs.
+20758,grape-active_model_serializers,1.0.1|1.1.0,Jonathan Richard Henry Evans,grape|active_model_serializers|rspec|rack-test|rake|jazz_hands|guard-rspec,Use active_model_serializer in grape
+20759,grape-active_model_serializers-revibe,"","","",
+20760,grapeape,"","","",
+20761,grape-apiary,0.0.2|0.0.3|0.0.4,John Allen,grape|coveralls|rspec|bundler|rake|rubocop|pry|guard|guard-rspec|guard-bundler,Allows for generating an Apiary Blueprint for you Grape API
+20762,grape-appsignal,0.0.2|0.0.3|0.0.4|0.0.5|0.1.0|0.1.1|0.1.2,Mark Madsen,appsignal|grape|bundler|rake|rspec,appsignal integration for grape
+20763,grape_bootstrap,0.0.2|0.0.3,Mate Marjai,grape|rake|activesupport,Grape REST API bootstrap.
+20764,grape-bugsnag,"","","",
+20765,grape-cache_control,0.0.2,Karl Freeman,grape|bundler|rake|kramdown|rubocop|pry|yard,Cache-Control and Expires helpers for Grape
+20766,grape-client-generator,1.0.1|1.0.2|1.0.3,Cameron Dutro,mustache,Automatically generate clients for your Grape APIs.
+20767,grape_doc,0.0.2|0.1.0,Alex Denisov,grape|trollop|json|rspec,Documentation generator for Grape API
+20768,grape_documenter,0.0.2|0.0.3|0.1.0|0.2.0|0.3.0,Sage,grape|RedCloth|activesupport|cane|flay|flog|fudge|guard-rspec|pry|rake|redcarpet|rspec|ruby2ruby|simplecov|yard,This adds a task to Rails Applications to generate documentation for Grape APIs.
+20769,grape-dsl,1.1.0|1.1.1|1.1.2|1.1.3|1.1.4|1.2.0|1.2.1|1.2.2|1.3.0|2.0.1|2.0.2|2.0.3|2.1.0,Adam Luzsi,mpatch|grape,Simple Grape DSL for easer use cases
+20770,grape-entity,0.2.0|0.3.0|0.4.0|0.4.1|0.4.2|0.4.3,Michael Bleigh,activesupport|multi_json|rake|maruku|yard|rspec|bundler,A simple facade for managing the relationship between your model and API.
+20771,grape-entity-matchers,0.0.2|0.4.0|0.4.1,Mark Madsen,grape-entity|rspec|rake|maruku|yard|bundler,Shoulda-like matchers for Grape Entity.
+20772,grapefruit,0.0.5,Team Exception,bundler|rake|rspec|autotest|rest-client|nokogiri|dotenv,A sane library for interacting with Alfresco
+20773,grapeful,0.0.2,Zolzaya E.,grape|bundler|rake,Custom Response builder for Grape
+20774,grape-hal,"","","",
+20775,grape_has_scope,0.2.0,Kourza Ivan a.k.a. Phobos98,"",has_scope implementation to use with Grape API
+20776,grape-jbuilder,0.2.0,Shu Masuda,grape|jbuilder|tilt|tilt-jbuilder|i18n|bundler|json_expressions|rack-test|rake|rspec,Use Jbuilder in Grape
+20777,grape-kaminari,0.1.1|0.1.2|0.1.3,Tymon Tobolski,grape|kaminari|bundler|rake,kaminari integration for grape
+20778,grape-librato,1.0.0|1.1.0,Sean Moon,grape|librato-rack,librato metrics for grape
+20779,grape-markdown,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6,John Allen,grape|coveralls|rspec|bundler|rake|rubocop|pry|guard|guard-rspec|guard-bundler,Allows for generating a Markdown document from you Grape API
+20780,grape-msgpack,0.1.0|0.1.1|0.1.2,Sho Kusano,bundler|rake|rspec|rack-test|grape-entity|grape|msgpack,msgpack formatter for grape
+20781,grape-pagination,0.0.2|0.0.3|0.1.0,Eric J. Holmes,grape|addressable|bundler|rspec|rake,Pagination helpers for Grape
+20782,grape-papertrail,"","","",
+20783,grape-rabl,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.1.0|0.2.0|0.2.1|0.2.2,Piotr Niełacny,grape|rabl|tilt|i18n,Use rabl in grape
+20784,grape-rails-cache,0.1.1|0.1.2,Tymon Tobolski,grape|activesupport|bundler|rake,HTTP and server side cache integration for Grape and Rails
+20785,grape-raketasks,0.0.2,H. Henn,grape|rake|activesupport|rspec,Rake tasks for web applications using Grape APIs.
+20786,grape-shaman_cache,0.2.0|0.3.0,Victor Wang,grape|grape-jbuilder|activesupport|bundler|rake,HTTP and server side cache integration for Grape and Rack applications
+20787,grape_sinatra_helpers,0.0.2,Derek Lindahl,"",A small subset of Sinatra::Base helper methods that have been ported over to Grape
+20788,grape-slate,0.0.2|0.0.3|0.0.4|0.0.5,John Allen,grape-markdown|coveralls|rspec|bundler|rake|rubocop|pry|guard|guard-rspec|guard-bundler,Allows for generating a Slate document for your Grape API
+20789,grape-swagger,0.1.0|0.2.0|0.2.1|0.3.0|0.4.0|0.5.0|0.6.0|0.7.0|0.7.1|0.7.2,Tim Vandecasteele,grape|grape-entity|kramdown|shoulda|rdoc|bundler|jeweler|pry|rack-test|rspec,Add swagger compliant documentation to your grape API
+20790,grape-swagger-rails,0.0.2|0.0.3|0.0.4|0.0.7|0.0.8,Aleksandr B. Ivanov|Alexander Logunov,bundler|rake|railties|grape-swagger,grape grape-swagger swagger-ui rails integration
+20791,grape-swagger-ui,0.0.2|0.0.3|0.0.4,Klaas Endrikat,railties|haml-rails,swagger ui js integration for grape and grape-swagger
+20792,grapevine,0.4.1.3|0.4.2,Jaime Andres,yard|thor|json|grape|i18n|roar|rspec|byebug,REST architecture with DCI in mind thanks to grape
+20793,graph,1.1.0|1.2.0|2.0.0|2.0.1|2.1.0|2.2.0|2.3.0|2.3.1|2.4.0|2.4.1|2.5.0|2.5.1|2.5.2|2.5.3|2.6.0|2.7.0,Ryan Davis,minitest|rdoc|hoe,Graph is a type of hash that outputs in graphviz's dot format
+20794,graphable,0.0.2|0.0.3|0.0.4|0.0.5|0.1.0,Joe Fredette|Andrew Ross,activesupport|neography,A library for extracting static graph representations of data from rails-y databases
+20795,graphaeljs-rails,0.1.1,Vincent Pochet,raphaeljs-rails|bundler|rake,gRaphael packaged for Rails assets pipeline
+20796,graphael-on-rails,0.5.1,John Griffiths,rake|railties,see http://g.raphaeljs.com/
+20797,g.raphael-radar-rails,"","","",
+20798,g.raphael-rails,"","","",
+20799,graphael-rails,0.1.4,christian schwartz,jeweler,raphael and graphael bundle for rails
+20800,graph-api,0.9.2|0.9.4|0.9.5|0.9.6|0.9.7|0.9.8|0.9.9|1.0.0,Nick Barth,rake|json|rest-client|rspec|debugger,A Ruby Gem for simplifying authentication using the Facebook Graph API.
+20801,graph_builder,1.0.1,Thomas Sonntag,"",DSL for building directed graphs
+20802,graphdown,0.1.0,Naoto Kaneko,svgen|thor|redcarpet|bundler|rake|rspec,Markdown extension for embedding graphs.
+20803,graphed,0.0.2|0.0.3,Zoltan Debre,bundler|rake|rb-readline,Simple image editor.
+20804,graphene,0.0.2|0.1.0,Jordan Hollinger,tablizer,Easily create stats and graphs from collections of Ruby objects
+20805,grapher,0.0.2|0.0.3,Corey Stout|Ryan Stout,rails|sqlite3,Generate time series graphs in rails
+20806,Graphiclious,0.1.1|0.1.2|0.1.3|0.1.4|0.1.5,Sascha D&#246;rdelmann,Rubilicious|rgl,Create an html image map pointing to generated static html pages from your del.icio.us links.  Uses Rubilicious and Graphviz.  Interface done with FXRuby
+20807,graphicsmagick,1.0.1|1.0.2|1.0.3|1.0.4,Chad McGimpsey,subexec,Light ruby wrapper for the GraphicsMagick CLI.
+20808,graphite,0.1.1|0.2.0,Ian Ragsdale|Mike Subelsky,eventmachine|rufus-scheduler,Ruby client for sending stats to Graphite
+20809,graphite-api,0.0.0.22|0.0.0.23|0.0.0.24|0.0.0.25|0.0.1|0.0.1.1|0.0.1.2|0.0.1.3|0.0.1.4|0.0.2.0|0.0.2.1|0.0.3|0.0.4|0.0.5|0.0.6|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4,Eran Barak Levi,eventmachine|zscheduler,Graphite Ruby Client
+20810,graphite_builder,0.0.2|0.1.0|0.1.1|0.2.0|0.3.0,Edward Muller,jeweler|rcov,A DSL: for generating graphite graph urls.
+20811,graphite_client,0.2.0|0.3.0|0.4.1|0.4.2,Alex Dean|Matthew Trost,rspec|rdoc|bundler|jeweler,Very simple ruby client for graphite.
+20812,graphite-dashboard-api,0.2.0,Grégoire Seux,rspec|rest-client,DSL over graphite dashboard api
+20813,graphite_graph,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8,R.I.Pienaar|Tom Taylor,"",DSL for generating Graphite graphs
+20814,graphite-metric,0.2.0|0.2.1|0.2.2|0.3.0,Gerhard Lazu,guard-minitest|minitest|pry|turn,Generates strings that graphite understands. Loads raw graphite data.
+20815,graphite-monitor,"","","",
+20816,graphite-notify,0.0.2|0.0.3,Vincent Hellot,capistrano|rake|rspec|webmock|capistrano-spec|yard|redcarpet,notify graphite on deploy or rollback
+20817,graphiterb,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5|0.2.6|0.2.7|0.2.9|0.2.10|0.2.11|0.2.12|0.2.13,Philip (flip) Kromer (@mrflip),configliere|rspec|yard,Fast Ubiquitous Dashboard Logs with Graphite (http://graphite.wikidot.com)
+20818,graphite-ruby,"","","",
+20819,graphite_sender,1.0.1,Israel Calvete,"",Sends measurements to Graphite via TCP|UDP
+20820,graphiti,0.2.0|0.2.1|0.2.2,Jell,shoulda|mocha|bundler|jeweler|rcov,Ruby wrapper for jQuery Flot
+20821,graphkit,0.1.0.1|0.2.0|0.2.1|0.2.2|0.3.0|0.3.1|0.3.2|0.3.3,Edmund Highcock,rubyhacks|shoulda|rdoc|bundler|jeweler,A GraphKit is a device independent intelligent data container for generating and plotting graphs.
+20822,graphkit-vtk,0.1.1|0.2.1|0.3.0|0.3.1,Edmund Highcock,graphkit|rubypython|shoulda|rdoc|bundler|jeweler,An extension allowing graphkits to be rendered using the Visualization Toolkit.
+20823,graphm,"","","",
+20824,graphmatch,1.0.1,Paul Hemberger|Victor Costan,"",Optimal bipartite graph matching
+20825,graph_mediator,0.2.2|0.2.3,Josh Partlow,rspec|diff-lcs|sqlite3|activerecord|activesupport|aasm,Mediates ActiveRecord state changes
+20826,graphml2json,0.0.2,Gregory Ostermayr,nokogiri|bundler|rspec|rake,Convert graphml to json
+20827,graph.njae,0.1.0|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.3.0|0.3.1|0.4.0,Neil Smith,rspec|bundler|jeweler|simplecov,A simple graph library
+20828,graphpaper,0.0.2,Alex Cabrera,"",A lightweight fixed-grid Compass framework for Ruby curmudgeons.
+20829,graphr,0.2.1,Robert Feld|Louis Mullie,"",Graph-related Ruby classes.
+20830,graph-rails,"","","",
+20831,graph-rank,0.0.2|0.0.3,Louis Mullie,"",GraphRank: bringing TextRank and PageRank to Ruby.
+20832,graphshaper,0.0.2|0.1|0.2|0.2.1|0.2.2|0.2.3|0.2.4|0.3.0,Lucas Dohmen,httparty|rake|rspec|webmock|yard,"Graphshaper can generate realistic, scale-free graphs of any size for different databases."
+20833,graphtunes,0.0.2,Yossef Mendelssohn,"",for visualization of music playlist data
+20834,graphunk,0.1.1|0.2.0|0.2.1|0.3.0|0.4.0|0.4.1|0.5.0|0.5.1|0.5.2|0.5.3|0.5.4|0.5.5,Evan Hemsley,rspec|benches,A funky Ruby library for working with graphs (as related to graph theory).
+20835,graphviz,0.0.2,Samuel Williams,bundler|rake|rexec,A lightweight interface for generating graphs with Graphviz.
+20836,graphviz_aasm,0.0.2|0.0.3,Roman Trofimov,bundler|rake|rspec|aasm|activesupport|railties|ruby-graphviz,Use Ruby-GraphViz for AASM.
+20837,GraphvizR,0.1.0|0.2.0|0.3.0|0.3.1|0.3.2|0.4.0|0.5.0|0.5.1,ANDO Yasushi,hoe,Graphviz wrapper for Ruby and Rails
+20838,grapi,0.3.0|0.4.0|0.4.1|0.5.0|0.5.1,Aurelian Oancea,curb,Ruby client for unofficial Google Reader API
+20839,grappling,0.1.0,Cory Chamblin,sinatra|redis|resque,Grappling
+20840,grasp,0.0.2|0.0.5|0.1.0,Shunfan Du,httparty|rake|shoulda-context|coveralls,A cozy way to require ruby gist in your temporary codes.
+20841,grass,0.0.2,Onur Uyar,bundler|rake|minitest|sqlite3|em-http-request|pg|i18n|activerecord|tilt|sass|coffee-script|yui-compressor|uglifier|redcarpet|mime-types|goliath|ip_country|dalli|commander,Yet another ruby framework
+20842,grasshopper,0.1.0|0.1.1|0.2.0|0.3.0|0.4.0|0.4.1|0.4.2|0.4.3|0.4.4|0.4.5,Matt J Raibert,minitest|minitest-reporters|bundler|posto,A tiny mocking framework focused on the Arrange-Act-Assert test pattern
+20843,graster,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7,Jedediah Smith|Joshua Hull,rmagick,G Raster!
+20844,grat,0.0.2|0.0.3|0.0.3.1|0.0.4|0.0.5|0.0.5.1|0.0.5.2|0.0.6|0.0.6.1|0.0.6.2|0.0.7|0.0.8|0.1.0|0.1.1|0.1.2|0.1.3|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.3.0|0.3.1|0.4.0|0.5.0|0.5.1,Sam Schenkman-Moore,yard|sinatra|haml|mongo_mapper|json,Minimal CMS for Rack and MongoDB.
+20845,grate-handle,0.1.1,Kirill Ishanov,rspec|jeweler|json,A ruby library and a CLI client to GoGrid API
+20846,grater,0.1.1|0.1.2|0.1.3|0.1.4|0.1.5,Sam Soffes,sass,CSS grids as easy to use as a cheese grater
+20847,graticule,0.1.2|0.1.3|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5|0.2.6|0.2.7|0.2.8|0.2.9|0.2.10|0.2.12|2.0.0|2.0.1|2.1.0|2.2.0|2.3.0|2.4.0,Brandon Keepers|Daniel Morrison|Collective Idea,activesupport|i18n|happymapper|json,API for using all the popular geocoding services
+20848,gratitude,0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11|0.0.12|0.1.0,John Kelly Ferguson,faraday|faraday_middleware|json|rake|bundler,A simple Ruby wrapper for the Gittip API.
+20849,gratr,0.4.3,Shawn Garbett,"",Graph Theory Ruby library
+20850,gratr19,0.4.4.1,Shawn Garbett|Ankur Sethi,"",Graph Theory Ruby library
+20851,gr_autolink,1.0.8|1.0.9|1.0.10|1.0.11|1.0.13,Aaron Patterson|Juanjo Bazan|Akira Matsuda|Brian Percival|Jonathan Schatz,rails|arel|rack|minitest,Forked version of rails_autolink with new functionality
+20852,gravatar,"","","",
+20853,gravatar-api,0.1.1|0.1.2|0.1.3|0.1.5|0.1.6|0.2.0,Jesse Herrick,bundler|rake|colorize,Easily access the Gravatar API in an object oriented way.
+20854,gravatar_for,0.1.1|0.1.2,Daniel Seitz,"",A simple Gravatar view helper.
+20855,gravatarify,0.7.0|1.0.0|1.1.0|1.2.0|1.2.1|2.0.3|2.0.4|2.1.0|2.2.1|2.2.2|3.0.0|3.1.0|3.1.1,Lukas Westermann,shoulda|rr|activesupport|rake,Awesome gravatar support for Ruby (and Rails).
+20856,gravatar_image_tag,0.0.2|0.1.0|1.0.0|1.1.0|1.1.1|1.1.2|1.1.3|1.2.0,Michael Deering,activesupport|actionpack|rspec|guard|guard-rspec|rb-fsevent|jeweler,A configurable and documented Rails view helper for adding gravatars into your Rails application.
+20857,gravatarnize,1.0.1|1.0.2,Mateus Prado,"",Gravatar and nothing else.
+20858,gravatar_profile,1.2.0,Veerasundaravel Thirugnanasundaram,xml-simple,gravatar_profile is a Ruby Wrapper for getting GRAVATAR[http://gravatar.com] avatars and profile informations. by Veerasundaravel Thirugnanasundaram
+20859,gravatar-turczyn,0.0.1,Steve Turczyn,"",A gravatar gem
+20860,gravatar-ultimate,1.0.1|1.0.2|1.0.3|2.0.0,Colin MacKenzie IV,activesupport|rack|rspec|fakeweb|i18n|rake|rdoc|coveralls,"A gem for interfacing with the entire Gravatar API: not just images, but the XML-RPC API too!"
+20861,gravaty,"","","",
+20862,grave,1.0.0|1.0.1|1.6.1|1.8.0|1.8.1|1.9.1,dejay,json,A Gravatar Library
+20863,gravelpup-rails3_acts_as_paranoid,"","","",
+20864,gravis-acts_as_archive,0.2.7|0.2.8|0.2.9|0.2.10|0.2.11,Winton Welsh,require,"Don't delete your records, move them to a different table"
+20865,gravis-searchlogic,"","","",
+20866,gravis-typhoeus,0.1.30|0.1.31|0.1.32|0.1.33|0.1.34|0.1.35|0.1.36,Paul Dix,rack|rspec|jeweler|diff-lcs|sinatra|json,A library for interacting with web services (and building SOAs) at blinding speed.
+20867,gravitext-devtools,1.0.1|1.1.0|1.2.0|1.3.0,David Kellum,rainbow|hooker|rjack-tarpit,A collection of development support tools.
+20868,gravitheque,0.2.0|0.3.0|0.4.0|0.5.0,john muhl,"",The library that will eventually power the web application of the same name.
+20869,gravity,0.2,Giuseppe Capizzi,json,A simple gravatar plugin for Rails.
+20870,gravityframework,0.0.3|0.0.4|0.0.5,Owain Lewis,sass|rake|sprockets,Gravityframework is a SASS framework that helps you build better websites
+20871,gravtastic,1.6.0|1.7.0|1.7.1|2.0.0|2.1.0|2.1.1|2.1.3|2.2.0|3.0.0|3.1.0|3.2.0|3.2.1|3.2.2|3.2.4|3.2.5|3.2.6|3.2.6,Chris Lloyd,"",A Ruby wrapper for Gravatar URLs
+20872,gravy,0.0.3|0.0.4,Oemuer Oezkir,"",Use Gravatar in your rails app
+20873,gravylicious,1.0.1|1.0.2,Utsav Gupta,"",A library for generating Gravatar urls.
+20874,gray,0.9.1|0.9.2|1.0.0|1.0.1,Joshua Eckstein,thoughtbot-shoulda|yard,easy gray coding conversion on Fixnums
+20875,graybook,1.0.23|1.0.24|1.1.0|1.1.1|1.1.2,kojul|Contentfree,hpricot|mechanize|fastercsv,It does things. Like import contacts from EVERYWHERE. (Some sites may be excluded)
+20876,graylog2-client,0.0.2|0.0.3|0.0.4,Willian Molinari (a.k.a PotHix)|Thiago Morello,httparty|rspec,This gem provides a simple interface to search on a graylog server for a given pattern
+20877,graylog2-declarative_authorization,"","","",
+20878,graylog2_exceptions,0.5.2|0.5.3|1.0.0|1.1.0|1.1.1|1.2.0|1.3.0,Lennart Koopmann,gelf,Graylog2 exception notifier
+20879,graylog2-rails,"","","",
+20880,graylog2-resque,0.5.1,Matt Conway,rake|rspec|gelf|resque,A resque failure handler that sends failures to the graylog2 log management facility
+20881,gray_logger,0.9.1|0.9.2|0.9.3|0.9.4|0.9.5|0.10.0|0.11.0|0.11.1|0.11.2|0.11.3|0.11.4|0.11.5|0.11.6|0.11.7|0.11.8|0.11.9|0.11.10|0.11.11|0.11.12|0.12.0,Benjamin Behr,gelf|minitest|minitest-colorize|guard-minitest|rake|growl|mocha,Rack Middleware to log custom stuff to Graylog2
+20882,graymatter,0.2.0|0.2.1|0.2.2|0.2.3|0.3.0|0.3.1|0.3.2|0.4.0|0.4.2|0.4.3|0.5.0|0.5.1|0.5.2|0.5.3|0.5.4|0.5.5|0.5.6|0.6.0,Colin T.A. Gray,sugarcube|geomotion|teacup|rspec,"Tools, helpers, custom views, etc. for RubyMotion."
+20883,grayphash,0.0.2.1|0.0.3|0.0.4|0.0.4.1|0.0.4.2|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11.4|0.0.12|0.0.12.1,Tauraloke,"",Simple wrapper for some pHash and CImg image functions
+20884,grayscale_paperclip_processor,"","","",
+20885,grayskull,0.1.3|0.1.6|0.1.7|0.1.8|0.1.9,Will McKenzie,thor|json,Validates data files based on a provided schema
+20886,graytoad,0.0.2|0.0.3|0.0.4|0.0.5|0.0.7|0.0.8|0.0.9|0.1.0,Alexey Palazhchenko,hoptoad_notifier|gelf,Graylog2 + Hoptoad
+20887,grb,0.3.0|0.3.1|0.4.0|0.4.1,Jinzhu Zhang,"",A tool to simplify working with remote branches
+20888,grcode,"","","",
+20889,grd,0.0.2|0.0.3|0.0.4,Daniel P. Clark / 6ftDan(TM),"",Get url redirection on the command line.
+20890,greader,0.0.2|0.0.3,Rico Sta. Cruz,nokogiri|rest-client,Google Reader API client.
+20891,greased-rails,0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11|0.0.12|3.2.0|3.2.1|3.2.2|3.2.3|3.2.4,Joel Van Horn,activesupport|railties,Replicate common Rails application settings and environment variables using templates. Handy deployment tasks make managing your environments easier.
+20892,greater_less,0.1.1,Samuel Esposito,rdoc|bundler|jeweler|rspec|shoulda-matchers|simplecov,Gem for handling floating point half-open intervals
+20893,great_schools,0.1.1,Michael J. Sepcot,bundler|fakeweb|rake|rspec|activesupport|httparty,A Ruby interface to the GreatSchools API.
+20894,greeb,0.0.2|0.1.0|0.1.1|0.1.2|0.2.0|0.2.1|0.2.2|0.2.2.1|0.2.3,Dmitry Ustalov,minitest,Greeb is a simple Unicode-aware regexp-based tokenizer.
+20895,gree-community,0.0.2|0.0.3|0.0.4,todesking,mechanize,Access to GREE community.
+20896,greed_game,0.0.2|0.0.3,natalili,rspec,Greed is a dice game
+20897,greedy,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5,Jeremy Weiland,thoughtbot-shoulda|mcmire-matchy,Access a Google Reader reading list
+20898,greedy_ra_algorithm,0.0.2,dusan,bundler|rake|rspec,greedy randomized adaptive algorithms to solve travelling salesman
+20899,greek_easter,0.1.1,Jim Myhrberg,"",Never wonder again when easter is in Greece.
+20900,greeks,1.1|1.2|1.3|1.4,Glenn Nagel,require_all|hash_plus,"Calculate greeks for options trading (Implied Volatility, Delta, Gamma, Vega, Rho, and Theta)"
+20901,greek_stemmer,1.0.1|1.0.2,Tasos Stathopoulos|Giorgos Tsiftsis,bundler|rake|rspec|pry-byebug,A simple Greek stemmer
+20902,greek_string_utils,0.0.3|0.0.4|0.0.5,Giorgos Tsiftsis,rspec,Simple library to correct upcase in greek
+20903,green,0.1|0.1.1,Andrew Rudenko,kgio,Cooperative multitasking fo Ruby
+20904,greenbar,0.2.1|1.0.0|1.0.1,"David Corbin, Kiel Hodges","",Test::Unit tools.
+20905,greenbutton,"","","",
+20906,green_by_phone,0.1.1,Cardplayer,thoughtbot-shoulda|active_support|fakeweb|erb,API for http://www.greenbyphone.com
+20907,greencard,0.0.2|0.0.3|0.0.4|0.0.5,Sam Roberts|Henry Smith,rspec,vCard support for ruby
+20908,green_eggs,"","","",
+20909,green_eggs_and_spam,0.1.1|0.2.0|0.2.1,Spencer Steffen,rails|minitest|minitest_should|sqlite3,A simple way to filter spam in your rails forms.
+20910,green-em-pg,0.1.1,Andrew Rudenko,eventmachine|pg|green|em-pg,Async PostgreSQL client API for Ruby/EventMachine
+20911,greengoose,0.0.2,Andy Lindeman,rspec|mocha|webmock|pry|rake|faraday|multi_json,Provides a Ruby interface to the GreenGoose REST API
+20912,greenhouse,0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11,Mark Rebec,bundler|git|foreman|activesupport|inkjet|rspec,Suite of tools for working on an entire 'ecosystem' of ruby gems and applications.
+20913,greenhouse_io,1.0.1|1.0.2|2.0.0,Adrian Bautista,httmultiparty|multi_json|bundler|rake|rspec|webmock|vcr,A Ruby based wrapper for Greenhouse.io API
+20914,greenhouse-ioc,"","","",
+20915,greenletters,0.1.0|0.2.0|0.3.0,Avdi Grimm,bones,A Ruby console automation framework a la Expect
+20916,green_light,0.0.3|0.1.3|0.1.4|0.1.5,Phil McClure,"",Simple client side validation that keeps validation in the models
+20917,green_midget,0.0.2|0.0.3|0.1.0|0.1.1|0.1.2,nikola chochkov,activerecord,Bayesian Text Classifier
+20918,green_monkey,0.1.1|0.1.2|0.1.3|0.1.4,Pavel Evstigneev,haml|mida_vocabulary|chronic_duration|bundler|rspec|rspec-rails|mida|sqlite3,Rails and Haml microdata layout helpers
+20919,greenmonster,0.2.0|0.3.0|0.3.1|0.3.2|0.5.0,Geoff Harcourt,nokogiri|httparty|rspec|bourne|rake,A utility for working with MLB Gameday XML data.
+20920,greennygem,"","","",
+20921,green_onion,0.0.2|0.0.3|0.0.4|0.0.5|0.1.0|0.1.1|0.1.3|0.1.4,Ted O'Meara,rake|rspec|sinatra|capybara-webkit|capybara|oily_png|rainbow|fileutils|thor,Regressions in the view making you cry? Have more confidence with GreenOnion.
+20922,greenonline_capistrano_recipes,0.0.14|0.0.15|0.0.16|0.0.17|0.0.18|0.0.19,Pieter Visser,bundler|rake,Capistrano Recipes
+20923,greenpepper-ruby,"","","",
+20924,greenscreen,0.1.1,Marty Andrews|Mike Williams,sinatra|thin|clamp|hashie,Makes the status of your builds highly visible
+20925,green_shoes,0.131.0|0.138.0|0.139.0|0.150.0|0.164.0|0.171.0|0.176.0|0.179.0|0.189.0|0.198.0|0.201.0|0.207.0|0.214.0|0.221.0|0.226.0|0.227.0|0.233.0|0.243.0|0.255.0|0.263.0|1.0.273|1.0.282|1.0.303|1.0.309|1.0.320|1.0.322|1.0.331|1.0.337|1.1.348|1.1.354|1.1.357|1.1.358|1.1.362|1.1.363|1.1.364|1.1.365|1.1.366|1.1.367|1.1.373|1.1.374,ashbb,gtk2,Green Shoes
+20926,greensock-rails,1.11.5.0|1.11.6.0|1.11.7.0|1.11.8.0,"Robert Pataki, Greensock Team",bundler|rake,Use GSAP with Rails 3.1 or later
+20927,greenstripes,"","","",
+20928,green_syslogger,0.1.1|0.1.2|0.2.0|0.2.1,Fernando Guillen &lt;http://fernandoguillen.info&gt; &amp; Juan Jose Vidal &lt;@j2vidal&gt;,"",Syslogger that makes your life greener
+20929,greentable,0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.9.0|0.9.1|0.9.2|0.9.3|0.9.4,Wael Chatila,rails|sqlite3|test-unit|nokogiri|fastercsv|guard-test|rack-test|simplecov|coveralls,Rails declarative html tables with export and print features
+20930,greentext,0.2.0|0.3.0|0.3.1,Avinash Dwarapu,bundler|memoizable|faraday|faraday_middleware|rubocop|rspec|webmock|vcr|rake,Unofficial API for 4chan.
+20931,greenwich,0.0.2|0.0.3|0.0.4|0.0.5|1.0.0|2.0.0|2.0.1|2.0.2|2.0.3|2.0.4,jfelchner|m5rk,activerecord|activesupport|tzinfo|rspec|fuubar|guard|guard-rspec|rb-fsevent|awesome_print|sqlite3,Allowing users to select dates with custom time zones since 2011.20932,greet,0.0.0|0.0.1,Jim Clarke,"",Hi!
+20933,greeter,0.0.0|0.0.1,Kevin Fitzpatrick,"",a greeter gem
+20934,greeter_snjedi,0.0.1,Sean Hagstrom,bundler|rake|rspec,a hello world
+20935,greeting,0.0.0,Stephen Woods,"",Simple gem to say welcome back
+20936,gregwebs-oauth,0.3.6.1,Pelle Braendgaard|Blaine Cook|Larry Halff|Jesse Clark|Jon Crosby|Seth Fitzsimmons|Matt Sanford,ruby-hmac|newgem|actionpack|rack|hoe,OAuth Core Ruby implementation
+20937,grel,0.0.1|0.0.2|0.0.3|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4,Antonio Garrote,stardog-rb,Ruby object oriented wrapper for Stardog
+20938,grem,0.0.1|0.0.2|0.0.3,Ben Atkin,launchy|rubyforge|gemcutter|hoe,The (GitHub) REpo Manager grabs repos and stores them according to my conventions.
+20939,gren,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.3.0|0.3.1|0.3.2|1.0.0|1.0.1|1.0.2,ongaeshi,termcolor,gren is a next grep tool. The basis is find+grep.
+20940,grendel-ruby,0.1.1|0.1.2|0.1.3|0.1.4|0.1.5,Brad Greenlee,json|httparty|mime-types,Ruby interface to Wesabe's Grendel
+20941,grep,0.0.1,Erik Hollensbe,"",Module to emulate the 'grep' utility from a unix system
+20942,grepdata_client,0.0.1|0.0.2|0.0.3|0.0.4,Dustin Chang,typhoeus|bundler|rake,Ruby client to query Grepdata API
+20943,grep-fu,0.3.0|0.4.0|0.5.0,Eric Budd,"","Grep-Fu is a very fast, Rails-oriented command-line helper script for grep."
+20944,grepmate,2.0.5,Steven Soroka|Zach Holt,main|syntax,"Extremely fast search of rails projects or rails source for code, open in textmate or browser with html output"
+20945,grepolis-api,0.0.1,Dan Matthews,bundler|debugger|rake|faraday|multi_json|yajl-ruby|activesupport,"Extremely fast search of rails projects or rails source for code, open in textmate or browser with html output"
+20946,greppable,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9,jakesandlund,bundler|rake,Make your meta-programming more greppable
+20947,grepper,0.9.0|0.9.1|0.9.2|0.9.3,David A. Black,hoe,"The Grepper class greps through files, and returns a result set of Grepper::Result objects"
+20948,greppy,0.0.1,Solomon Wise,"",Greppy
+20949,grepresent,0.0.1,Spike Grobstein,term-ansicolor|thor,Format text using patterns and formatting rules on the commandline
+20950,grep_routes,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.1.0|0.1.1,Tyler Montgomery,activesupport|actionpack|minitest,Fast Routes for Rails
+20951,gretel,1.0.0|1.0.1|1.0.3|1.0.4|1.0.5|1.0.6|1.0.7|1.0.8|1.0.9|1.1.0|1.1.1|1.1.2|1.1.3|1.1.4|1.1.5|1.1.6|1.2.0|1.2.1|2.0.0|2.1.0|3.0.0|3.0.1|3.0.2|3.0.3|3.0.4|3.0.5|3.0.6|3.0.7,Lasse Bunk,rails|sqlite3,Flexible Ruby on Rails breadcrumbs plugin.
+20952,gretel-erb,1.0.8,nzaillian,"","Lasse Bunk's 'gretel' (http://github.com/lassebunk/gretel), but with erb templates for breadcrumb rendering!"
+20953,gretel-trails,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5,Lasse Bunk,gretel|rails|rails|bundler|sqlite3|rake|fakeredis|timecop|capybara|capybara-webkit,Collection of strategies for handling Gretel trails.
+20954,greybox,0.0.1|0.0.2,Justin Jaffray,diffy|bundler|rake|fakefs|mocha|simplecov,Easily test school assignments or other projects where you have a reference
+20955,greyhawkweather,0.0.3|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10,Mark Simpson,rangehash|rspec|rcov,Generates randomized weather based upon the 1983 Greyhawk boxed set.
+20956,grg,0.0.1,garage.io|Gabriel Marius,"",Client library for garage.io integration.

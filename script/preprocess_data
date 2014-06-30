@@ -12,14 +12,8 @@ def add_gem id, spec, name, file, last_name, last_versions, last_authors, last_d
   # Inject until the name changes (they are sorted alphabetically)
   #
   if !last_name || last_name == name
-    # do not write, but remember some values.
+    # Do not write.
     #
-    last_dependencies = spec.dependencies
-    last_authors      = (spec.authors || []) << spec.author
-    last_versions     << spec.version.version
-    last_summary      = spec.summary unless spec.summary.empty?
-    
-    [id, name, last_versions, last_authors.uniq, last_dependencies, last_summary]
   else
     id += 1
     versions     = last_versions.join @pipe
@@ -33,10 +27,17 @@ def add_gem id, spec, name, file, last_name, last_versions, last_authors, last_d
     
     file.flush
     
-    # reset things
+    # Reset versions.
     #
-    [id, name, [], [], nil, nil]
+    last_versions     = []
   end
+  
+  last_dependencies = spec.dependencies
+  last_authors      = (spec.authors || []) << spec.author
+  last_versions     << spec.version.version
+  last_summary      = spec.summary unless spec.summary.empty?
+  
+  [id, name, last_versions, last_authors.uniq, last_dependencies, last_summary]
 end
 
 gems = []
@@ -70,12 +71,13 @@ File.open('data/specs.4.8', 'r:utf-8') do |input_file|
         next
       end
       next unless name_latch
+      puts "#{name} #{info.version}"
       `curl http://gems.rubyforge.org/quick/Marshal.4.8/#{name}-#{info.version}.gemspec.rz -s -L -o data/current.gemspec.rz`
       if File.exist? 'data/current.gemspec.rz'
         File.open('data/current.gemspec.rz') do |spec|
           begin
             specification = Marshal.load Gem.inflate spec.read
-          rescue Zlib::BufError
+          rescue Zlib::BufError, Zlib::DataError
             next
           end
           last_id, last_name, last_versions, last_authors, last_dependencies, last_summary = add_gem last_id,
