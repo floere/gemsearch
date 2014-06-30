@@ -20128,3 +20128,179 @@
 20123,gnarly,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6,Kim Dalsgaard,query_string_parser,Super simple web framework on top of Rack
 20124,gnarus_activity,"","","",
 20125,gnarus_exercise,1.0.1|1.0.2|1.0.3|1.0.5,Guilherme Silveira,rails|sqlite3,A plugin structure for external exercises.
+20126,gnawrnip,0.0.1|0.0.2|0.0.3|0.0.4|0.1.0|0.1.1|0.1.2|0.1.3|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5,Wataru MIYAGUNI,capybara|turnip_formatter|oily_png|bundler|rake|rspec|coveralls,Add-on for TurnipFormatter with Capybara
+20127,gn-dsl,"","","",
+20128,gnetvibes,0.2|0.3|0.4|0.5,Florent Solt,netvibes,Netvibes integration with the Gnome Desktop
+20129,gnib,"","","",
+20130,gnip,1.0.0|1.1.1|1.1.2,Ara T. Howard,"",gnip
+20131,gnip_gnop,0.0.2,Chris Kraybill,happymapper,Work with Gnip activity streams with joy
+20132,gnip-rule,0.2|0.3|0.3.1|0.4.0|0.4.1|0.4.2,Eric Wendelin,rake|rspec|webmock|guard|guard-rspec|fuubar|coveralls|rb-fsevent|ruby_gntp|rest-client|json,Ruby library for working with the Gnip Rules API
+20133,gnip-rules,1.0.1|1.0.2|1.0.3|1.1.0|1.1.1|1.1.2|1.2.0|1.2.1|1.2.3|1.2.4|1.2.5|1.2.6|1.2.7|1.2.8,Spencer Markowski|The Able Few,bundler|rake|httparty|json|activesupport,A simple wrapper for the Gnip Rules API
+20134,gnip-stream,1.0.0,Ryan Weald,rspec|em-http-request,A library to connect and stream data from the GNIP streaming API
+20135,gnista,0.0.2|0.0.4|0.0.5|1.0.0,Emanuel Andersson,bundler|rake,Ruby wrapper for Spotify's Sparkey
+20136,gnm-caplock,"","","",
+20137,gnm-cap_permission,"","","",
+20138,gnm-jenkins_cap,"","","",
+20139,gnms,2.1.1,David Maciejak,facter|goocanvas|gdk_pixbuf2|glib2|gtk2|net-ssh|snmp|xmpp4r|sqlite3|pcaprub|packetfu|gruff,Gnome Network Management System
+20140,gnn-rblibs,0.0.3|0.0.4,tarao,rspec,Some Ruby tweaks
+20141,gnome-backlight,"","","",
+20142,gnome-campfire-notifications,0.1.1|0.1.2|0.1.3|0.2.0|0.2.1,Michael Nelson,twitter-stream|minitest|vcr|webmock,GNOME desktop notifications for Campfire.
+20143,gnome-tv,0.1.1|0.1.3,S&#233;bastien Nicouleaud,"",a modular Ruby webserver interface
+20144,gnome-wallpaper-changer,0.0.2|0.0.3,Valeri Sokolov,thin|sinatra|haml|json|fastimage_resize,A wallpaper rotation daemon with a browser-based interface.
+20145,gnome-wallpaper-slideshow,0.3|0.4,Andrew Johnson,nokogiri,Gnome Wallpaper Slideshow
+20146,gnostic,"","","",
+20147,gnote,"","","",
+20148,gnouch,0.0.3|0.0.4,Kim Dalsgaard,json,A CouchDB client
+20149,gns,0.0.2,Mitsutaka Mimura,foreverb|httpclient|terminal-notifier,GitHub personalized feed Notifications Service
+20150,gnubarcode,"","","",
+20151,gnucash,1.0.1|1.0.2|1.0.3|1.1.0|1.2.0,Josh Holtrop,nokogiri|simplecov|rspec|rspec-core|rspec-expectations|rspec-mocks|rake|rdoc|yard,Extract data from GnuCash data files
+20152,gnucash2ledger,"","","",
+20153,gnucash-invoice,0.1.0|0.1.1|0.1.2|0.1.3,Aleksey|V|Zapparov,sequel|slim|sass|sprockets|sqlite3|rake,gnucash-invoice-0.1.3
+20154,gnu_mpc,0.8.1|0.8.2|0.9.0,srawlins,gmp,Provides Ruby bindings to the MPC library.
+20155,gnuplot,2.0|2.1|2.2|2.3.1|2.3.3|2.3.4|2.3.5|2.3.6|2.4.0|2.4.1|2.5.0|2.6.0|2.6.1|2.6.2,roger pack,"",Utility library to aid in interacting with gnuplot from ruby
+20156,gnuplot-multiplot,"","","",
+20157,gnuplotr,0.2|0.4|0.5,Paolo Bosetti,"","Interface between Ruby and GNUPlot, aimed at being as easy to use and as light as possible"
+20158,gnuside-aloha-rails,"","","",
+20159,gnuside-carrierwave-mongoid,0.6.7|0.6.8|0.6.9,GlebTv|Jonas Nicklas|Trevor Turk|Roland Laurès,carrierwave|mongoid|gnuside-mongoid-grid_fs|rspec|rake|mini_magick|pry,This fork is made to be compatible with rails 4
+20160,gnuside-custom_fields,2.3.1.1|2.3.2|2.3.2.2,Didier Lafforgue|Roland Laurès,mongoid|activesupport|gnuside-carrierwave-mongoid|money|yard|mocha|rspec|simplecov|database_cleaner|pry|RedCloth,Custom fields extension for Mongoid
+20161,gnuside-mongoid-grid_fs,1.9.2,Ara T. Howard,mongoid|mime-types,mongoid-grid_fs
+20162,gnuside-mongoid_migration,"","","",
+20163,gnuside-tinymce-rails,"","","",
+20164,go,1.0.0|1.0.1|1.1.0,Travis Reeder,concur|test-unit,A concurrency library for Ruby inspired by Go (golang).
+20165,go2dir,0.0.3,Bruno Costa,"",go2dir is a shorcut manager to speed up your command line cding
+20166,goa,"","","",
+20167,goactive,"","","",
+20168,goal,0.0.3|0.1.0|0.2.0|0.3.0,Mateus Lorandi dos Santos,ruby-freshbooks|colorize|rspec|rake,Keep track of your hour goals
+20169,goalie,0.0.1|0.0.2|0.0.3|0.0.4,Helder Ribeiro,actionpack|activesupport,Custom error pages for Rails
+20170,go_api_client,0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.3.0|0.4.0|0.5.0|0.5.1|0.5.2|0.5.3|0.5.4,Nikhil Mungel|Ketan Padegaonkar|Shishir Das,webmock|simplecov|rake|test-unit|nokogiri,Client to parse Go CI atom feed
+20171,goat,0.1.5|0.1.6|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5|0.2.7|0.2.8|0.2.9|0.2.10|0.2.12|0.3.0|0.3.1|0.3.2|0.3.3|0.3.4|0.3.5|0.3.6|0.3.7|0.3.8|0.3.9|0.3.10|0.3.11|0.3.12|0.3.13|0.3.14|0.3.15|0.3.16|0.3.17|0.3.18|0.3.19|0.3.21|0.3.23|0.3.24|0.3.25|0.3.27|0.3.29|0.3.30|0.3.31|0.3.32|0.3.33|0.3.34|0.3.35|0.3.37|0.3.39|0.3.40|0.3.41|0.3.42|0.3.45|0.3.46|0.3.47|0.3.48,Patrick Collison,io-extra|eventmachine|thin|term-ansicolor|tilt|diff-lcs|RubyInline,Pre-release beta version of Goat
+20172,goatless,0.1.1|0.1.2|0.1.21,Semka Novikov,patron|nokogiri,Liberate livejournal friends from the Frank's yoke
+20173,goauth2,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.9|0.0.10|0.0.11|0.0.12|0.0.13,Mark Dillon,rspec|json|oauth2|bundler,Oauth2 for Google Data APIs
+20174,gobbler,0.1.1|0.1.2,Daniel McNevin,"",Access to the Gobbler API
+20175,gobject-introspection,1.2.0|1.2.1|1.2.2|1.2.3|1.2.4|1.2.5|1.2.6|2.0.0|2.0.0|2.0.1|2.0.1|2.0.2|2.0.2|2.0.3|2.0.3|2.1.0|2.1.0|2.2.0|2.2.0,The Ruby-GNOME2 Project Team,glib2|test-unit,Ruby/GObjectIntrospection is a Ruby binding of GObjectIntrospection.
+20176,goblin,"","","",
+20177,gobstones,"","","",
+20178,go_card,"","","",
+20179,gocardless,0.1.1|0.1.2|0.1.3|0.2.0|1.0.0|1.0.1|1.1.0|1.1.1|1.2.0|1.2.1|1.3.0|1.3.1|1.3.2|1.4.0|1.5.0|1.6.0|1.6.1|1.6.2|1.6.3|1.7.0|1.8.0|1.9.0|1.10.0|1.10.1,Harry Marr|Tom Blomfield,oauth2|multi_json|rspec|yard|activesupport|rake,Ruby wrapper for the GoCardless API
+20180,gocarrot,0.0.4|0.0.5|0.0.6,Pat Wilson,"",Carrot
+20181,gocart,0.0.2,Jason Del Ponte,sass|coffee-script|therubyracer|sprockets|guard|guard-coffeescript|guard-jasmine|guard-sass|guard-rake|guard-livereload|guard-shell|jasmine|yui-compressor|uglifier|rack|bundler,Utility to build a development environment for building Golang webaps using rake and sprockets.
+20182,gocoin,0.1.3,GoCoin,rest-client|rake|rspec,A Ruby gem for the GoCoin API.
+20183,gocr-ruby,0.0.2,Vladimir Zyablitskiy,bundler|rake|rake-compiler|rspec,Unofficial port for Ruby
+20184,god,0.2.0|0.3.0|0.4.0|0.4.1|0.4.3|0.5.0|0.6.0|0.7.0|0.7.3|0.7.5|0.7.6|0.7.7|0.7.8|0.7.10|0.7.11|0.7.12|0.7.13|0.7.14|0.7.15|0.7.16|0.7.17|0.7.18|0.7.19|0.7.20|0.7.21|0.7.22|0.8.0|0.9.0|0.10.1|0.11.0|0.12.0|0.12.1|0.13.0|0.13.1|0.13.2|0.13.3|0.13.4,Tom Preston-Werner|Kevin Clark|Eric Lindvall,json|rake|rdoc|twitter|prowly|xmpp4r|dike|rcov|daemons|mocha|gollum|airbrake|nokogiri|activesupport,Process monitoring framework.
+20185,godblogit,0.1.1|0.1.2|0.1.3,Matthew Sullivan,sinatra|sequel|shoulda|bundler|jeweler|rcov,Blogging middleware.
+20186,godel,"","","",
+20187,godhead,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10,"Philip (flip) Kromer, Dhruv Bansal, Carl Knutson",yard|rspec|god|activesupport,"God recipes that separate configuration for processes, site policy and notifications; comes with many examples"
+20188,godlike,"","","",
+20189,godmode,"","","",
+20190,godo,1.0.1|1.0.2|1.0.3|1.0.4|1.0.5|1.0.7|1.0.8,Matt Mower,trollop|rb-appscript|ick|highline|hoe,"go (to project) do (stuffs)  godo provides a smart way of opening a project folder in multiple terminal tabs and, in each tab, invoking a commands appropriate to that project"
+20191,godot,0.2.0|0.3.0,Doc Ritezel|Matthew Kocher,rspec|guard|guard-rspec|guard-bundler|rb-fsevent|terminal-notifier|capybara,The gem what makes waiting for stuff all easy-like.
+20192,god-sns-contact,"","","",
+20193,godville_kit,"","","",
+20194,go_easy_btn,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8,"Josh Nussbaum, Diego Salazar",serialport,Make things Easy!
+20195,GoEC2,1.0.1|1.0.2|1.1.0|1.1.1|1.1.2|1.1.3|1.1.4|1.1.5,Within3|Joe Fiorini|Jonathan Penn,forgery|jeweler,Simple and opinionated helper for creating and managing Rubygem projects on GitHub
+20196,goest,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.1.0,Thomas,"",A gem that illustrates how to build a gem.Formated for  RDocs
+20197,gofer,0.1.0|0.1.1|0.1.2|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5|0.2.6|0.3.0|0.3.1|0.4.0|0.5.0|0.6.0,Michael Pearson,net-ssh|net-scp,run commands on remote servers using SSH
+20198,go_figure,0.0.2|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10,Nikhil Mungel|Ketan Padegaonkar|Shishir Das,simplecov|nokogiri,A Ruby DSL to write a configuration file for the a go server.
+20199,gogetter,0.1.1,Elad Kehat,rspec|yard|bundler|jeweler|fakeweb,Go get something over HTTP
+20200,goggle-box,0.1.1,Paul Ingham,httparty|rspec,A small ruby library for implementing with the TVRage API.
+20201,goggles,0.1.1|0.1.2|0.1.3|0.1.4,Johnson Denen,bundler|rake|rspec|watir-webdriver|image_size,comparing responsive screenshots under watir-webdriver
+20202,gogo,2,Brian Hempel,"",Pseudo-shell hack with Rails environment preloaded for faster boot times and thus faster testing iterations. Go go go go go!
+20203,gogoodreads,0.0.4|0.0.5|0.0.6|0.0.7,Tim Medina,nokogiri|rest-client|yard|bundler|jeweler|rcov|vcr|webmock|ruby-debug19|nokogiri,Goodreads API Ruby Interface
+20204,go_gtp,0.0.2|0.0.3|0.0.4,James Edward Gray II|Ryan Bates,rspec,A wrapper for GNU Go's Go Text Protocol (GTP).
+20205,going_postal,0.1.1|0.1.2|0.1.3|0.1.4,Matthew Sadler,"",Global post/zip code formatting and validation mixin
+20206,goinstant-auth,1.0.1|1.0.2|1.0.3,GoInstant Inc.,"",GoInstant Authentication for Your Ruby Application
+20207,goiu_shorten,"","","",
+20208,gojee-sunspot,2.0.3|2.0.4|2.0.5,Mat Brown|Peer Allan|Dmitriy Dzema|Benjamin Krause|Marcel de Graaf|Brandon Keepers|Peter Berkenbosch|Brian Atkinson|Tom Coleman|Matt Mitchell|Nathan Beyer|Kieran Topping|Nicolas Braem|Jeremy Ashkenas|Dylan Vaughn|Brian Durand|Sam Granieri|Nick Zadrozny|Jason Ronallo,rsolr|escape|pr_geohash|rspec|hanna,"Library for expressive, powerful interaction with the Solr search engine"
+20209,gojee-sunspot-rails,2.0.3|2.0.4|2.0.5,Mat Brown|Peer Allan|Dmitriy Dzema|Benjamin Krause|Marcel de Graaf|Brandon Keepers|Peter Berkenbosch|Brian Atkinson|Tom Coleman|Matt Mitchell|Nathan Beyer|Kieran Topping|Nicolas Braem|Jeremy Ashkenas|Dylan Vaughn|Brian Durand|Sam Granieri|Nick Zadrozny|Jason Ronallo|Eric Hummel,gojee-sunspot|nokogiri|rspec|rspec-rails,Rails integration for the Sunspot Solr search library
+20210,gojee-sunspot-solr,2.0.3|2.0.4|2.0.5,Mat Brown|Peer Allan|Dmitriy Dzema|Benjamin Krause|Marcel de Graaf|Brandon Keepers|Peter Berkenbosch|Brian Atkinson|Tom Coleman|Matt Mitchell|Nathan Beyer|Kieran Topping|Nicolas Braem|Jeremy Ashkenas|Dylan Vaughn|Brian Durand|Sam Granieri|Nick Zadrozny|Jason Ronallo,escape|rspec|hanna,Bundled Solr distribution for Sunspot
+20211,gojira,"","","",
+20212,gokart,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.1.0,Jason Del Ponte,sass|coffee-script|therubyracer|sprockets|guard|guard-coffeescript|guard-jasmine|guard-sass|guard-rake|guard-livereload|guard-shell|jasmine|yui-compressor|uglifier|bundler,Utility to build a development environment for building Golang webaps using rake and sprockets.
+20213,gokdok,0.4.1|0.4.2,Daniel Hahn,grit,Upload your RDoc documentation to GitHub pages.
+20214,gol,0.2.1,Alexander Huber,"",An implementation of Conway's Game of Life
+20215,golang-demo,"","","",
+20216,gold,0.4.0|0.4.1|0.4.2|0.4.3|0.4.4|0.4.5|0.4.6,Gaspard Bucher,"",Gold is a simple executable that helps git teamwork.
+20217,goldberg,"","","",
+20218,goldberg_generator,"","","",
+20219,golddigger,"","","",
+20220,golden_brindle,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.1|0.1.1|0.2|0.3|0.3.1|0.3.2,Alexander Simonov,unicorn|rspec|yard|bundler|jeweler|rcov,Unicorn HTTP server multiple application runner tool
+20221,goldencobra,1.1.0|1.2.0|1.2.8|1.3.4|1.4.0,Marco Metz|Holger Frohloff,coffee-script-source|capistrano|rvm-capistrano|capistrano-maintenance|rails|jquery-rails|devise|activeadmin-cancan|activeadmin|sunspot_rails|sunspot_solr|sprockets|sass|sass-rails|coffee-rails|compass-rails|compass-960-plugin|progress_bar|execjs|therubyracer|friendly_id|omniauth|omniauth-openid|oa-oauth|oa-openid|cancan|ancestry|meta-tags|paperclip|uglifier|exception_notification|acts-as-taggable-on|liquid|rubyzip|geocoder|paper_trail|sidekiq|sinatra|slim|whenever|inherited_resources|geokit|multi_json|i18n-active_record|pdfkit|wkhtmltopdf-binary|mysql2|annotate|guard-annotate|pry|better_errors|binding_of_caller,Basic CMS based on Rails engines
+20222,golden-datetimepicker,"","","",
+20223,golden-label,"","","",
+20224,golden-menu,0.2.0|0.3.0,Tse-Ching Ho,railties|activesupport|actionpack|activerecord|awesome_nested_set|the_sortable_tree|bundler|rake,creates menus by building a hierarchiacal tree first and linking related resources later
+20225,golden_retriever,0.0.2,DouglasMeyer,riot|active_support,Retriever fetches your resources for you.
+20226,goldensections,"","","",
+20227,golden-setting,0.2.0|0.3.0|0.4.0|0.5.0|0.6.0|0.7.0,Tse-Ching Ho,activerecord|railties|bundler|rake|rspec|sqlite3,persists settings in database and keep alive in cache.
+20228,goldentype,1.0.1,Max Beatty,compass,golden ratio typography for compass
+20229,goldfish,"","","",
+20230,goldie,0.0.2,Jeremy Ruten,bundler|sqlite3|activerecord|smart_colored|terminal-table|rake,A command line todo list.
+20231,goldiloader,0.0.2|0.0.3,Joel Turkel,activerecord|activesupport|coveralls|database_cleaner|rake|rspec|simplecov|sqlite3,Automatic Rails association eager loading
+20232,goldmine,0.0.2|0.0.3|0.0.4|0.9.0|0.9.1|0.9.2|1.0.0,Nathan Hopkins,rake|micro_test|simplecov|pry,Extract a wealth of information from Arrays &amp; Hashes
+20233,gold_mine,"","","",
+20234,gold-record,0.2.0|0.2.1|0.2.2,Randy Reddig,activerecord|activesupport|uuidtools,Unobtrusive binary UUID support for ActiveRecord
+20235,goldshark_gem,0.1.1|0.1.2|0.2.3|0.2.4|0.2.5|0.2.6|0.2.7,Gabriele Roselli|Ryan Carroll,activesupport|libxml-ruby,A gem to interact with iGodigital GoldShark API
+20236,goldstar-activemerchant,1.4.2.7,Tobias Luetke,activesupport|builder,Framework and tools for dealing with credit card transactions.
+20237,goldstar-ansi,"","","",
+20238,goldstar-is_paranoid,0.9.6.1,Jeffrey Chupp,"","ActiveRecord 2.3 compatible gem ""allowing you to hide and restore records without actually deleting them.""  Yes, like acts_as_paranoid, only with less code and less complexity."
+20239,goldstar-metric_fu,1.5.1.2,Jake Scruggs|Sean Soper|Andre Arko|Petrik de Heus|Grant McInnes|Nick Quaranto|&#201;douard Bri&#232;re|Carl Youngblood|Richard Huang|Dan Mayer,flay|flog|rcov|reek|roodi|rails_best_practices|chronic|churn|Saikuro|activesupport|rspec|test-construct|googlecharts,"A fistful of code metrics, with awesome templates and graphs"
+20240,goldstar-sunspot_rails,0.10.6.3,Mat Brown|Peer Allan|Michael Moen|Benjamin Krause|Adam Salter|Brandon Keepers,escape|sunspot|rspec|rspec-rails|ruby-debug|jeweler,Rails integration for the Sunspot Solr search library
+20241,golem,0.0.2,Bernhard Essl,json_pure,"Simple library to look up articles, related videos and related images on http://golem.de"
+20242,golem_statemachine,0.9.5,Matt Zukowski,activesupport,Adds finite state machine behaviour to Ruby classes.
+20243,golf,0.0.2|0.0.3|0.0.4|0.0.5|0.0.8|0.0.9|0.1.0|0.1.1|0.1.2|0.1.3|0.1.5|0.1.8|0.2.0|0.2.1|0.2.3|0.2.4|0.2.5|0.2.7|0.2.8|0.3.0|0.3.1|0.3.2|0.3.3|0.3.4|0.3.5|0.3.6|0.3.7|0.3.8|0.3.9|0.4.0|0.4.1|0.4.2|0.4.3|0.4.4|0.4.5|0.4.6|0.4.7|0.4.8|0.4.9|0.4.10|0.4.11|0.4.12|0.4.13|0.4.14|0.5.0|0.5.2|0.5.3|0.5.4|0.5.5|0.5.6|0.5.7|0.6.0|0.6.1|0.6.2|0.6.3|0.6.4|0.6.5|0.6.6|0.6.21|0.6.22|0.7.0|0.7.1|0.7.2|0.7.3|0.7.4|0.7.5|0.7.6|0.7.7|0.7.8|0.7.9,"Micha Niskin, Alan Dipert, Julio Capote",thor|json|rack|hpricot|haml|compass,Component based front end JS Framework
+20244,golf-coffee,1.1,Julio Capote,golf|therubyracer|coffee-script,coffee-script filter for golf
+20245,golfscrape,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7,Johnny Khai Nguyen,nokogiri|hashie|rspec|webmock|vcr,Ruby class to scrape PGA Tour golf data
+20246,golf_switch,"","","",
+20247,golia,1.1|1.2|1.2.1|1.2.2|1.3.0|1.3.1|1.3.2,DAddYE,"",Dead Links Checker and Speed Analyzer
+20248,goliath,0.9.1|0.9.2|0.9.4|1.0.0|1.0.1|1.0.2|1.0.3,dan sinclair|Ilya Grigorik,eventmachine|em-synchrony|em-websocket|http_parser.rb|log4r|rack|rack-contrib|rack-respond_to|async-rack|multi_json|rake|rspec|nokogiri|em-http-request|em-mongo|rack-rewrite|multipart_body|amqp|em-websocket-client|tilt|haml|yard|guard|guard-rspec|yajl-ruby|bluecloth|bson_ext|growl|rb-fsevent,Async framework for writing API servers
+20249,goliath-chimp,0.0.2|0.0.3,Travis Dempsey,goliath|gorillib|multi_json,Collection of Chimp-inspired Goliath/Rack utility classes
+20250,goliath_rack_sprockets,"","","",
+20251,goliath-reverse-proxy,0.1.1|0.1.2|0.2.0|0.2.1,Daniel Farrell,goliath|em-synchrony|em-http-request|rspec,Reverse proxy middlware for Goliath
+20252,goling,0.1.1|0.2.0|0.2.1,Patrick Hanevold,sourcify|shoulda|bundler|jeweler|rcov,"Goling, the linguistic compiler."
+20253,gollum,1.0.1|1.1.0|1.1.1|1.2.0|1.2.1|1.3.0|1.3.1|1.4.2|1.4.3|2.0.0|2.1.0|2.1.2|2.1.3|2.1.4|2.1.6|2.1.7|2.1.8|2.1.9|2.1.10|2.2.0|2.2.1|2.2.2|2.2.3|2.2.4|2.2.5|2.2.6|2.2.7|2.2.8|2.2.9|2.3.0|2.3.1|2.3.2|2.3.3|2.3.4|2.3.5|2.3.6|2.3.7|2.3.8|2.3.9|2.3.10|2.3.11|2.3.12|2.4.0|2.4.1|2.4.2|2.4.3|2.4.4|2.4.5|2.4.6|2.4.7|2.4.8|2.4.9|2.4.10|2.4.11|2.4.12|2.4.13|2.4.14|2.4.15|2.5.0|2.5.1|2.5.2|2.6.0|2.7.0|3.0.0,Tom Preston-Werner|Rick Olson,gollum-lib|github-markdown|sinatra|mustache|useragent|rack-test|shoulda|minitest-reporters|twitter_cldr|mocha,"A simple, Git-powered wiki."
+20254,gollum-bibanon,1.3.2|1.4.0|1.4.1|1.4.2|1.4.3|1.4.4,Tom Preston-Werner|Rick Olson|Tenshi Hinanawi,grit|github-markup|pygments.rb|posix-spawn|sinatra|mustache-bibanon|sanitize|nokogiri|redcarpet|RedCloth|mocha|org-ruby|shoulda|rack-test|wikicloth|rake,"A simple, Git-powered wiki, with Bibanon mods."
+20255,gollum-descendant_tree,0.0.2|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8,Aaron Froehlich,bundler|rake|rspec|gollum-lib|gollum|titleize,"Descendant Tree is similar to Gollum's _TOC_ tag, except that it outputs an unordered list of all descendants of the current page, as determined by the page paths."
+20256,gollum_editor,0.2|0.3|0.4,Sam Knight,"",Gollum text editor
+20257,gollum-export,"","","",
+20258,gollum-lib,1.0.0|1.0.1|1.0.2|1.0.3|1.0.4|1.0.5|1.0.6|1.0.7|1.0.8|1.0.9|2.0.0|3.0.0,Tom Preston-Werner|Rick Olson,gitlab-grit|rouge|nokogiri|stringex|sanitize|github-markup|org-ruby|github-markdown|RedCloth|mocha|shoulda|wikicloth|rake|pry|rb-readline|minitest-reporters|nokogiri-diff|guard|guard-minitest|rb-inotify|rb-fsevent|rb-fchange|twitter_cldr,"A simple, Git-powered wiki."
+20259,gollum_rails,0.0.2|0.0.2.1|0.0.2.2|0.0.2.4|0.0.2.5|0.0.2.6|0.0.2.7|0.0.2.8|0.0.5|0.0.6|0.0.7|0.0.8|1.0.0|1.0.1|1.0.2|1.0.3|1.0.4|1.0.5|1.0.6|1.4.1|1.4.2|1.4.3|1.4.4|1.4.5|1.4.6|1.4.7|1.4.8|1.4.9|1.4.10|1.4.11|1.4.12|1.4.13|1.4.14|1.5.0|1.5.1|1.5.2|1.5.3|1.5.4|1.5.5|1.5.6|1.5.7|1.5.8|1.5.9|1.5.10,Florian Kasper,activemodel|activesupport|gollum-lib|rspec|rr|rails|guard|guard-rspec|rb-fsevent,Combines Gollum and Rails
+20260,gollum-site,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7|0.1.8|0.1.9|0.1.10|0.1.11|0.1.12,Daniel Reverri,gollum|liquid|mixlib-log|directory_watcher,Static site generator for Gollum Wikis
+20261,golly-utils,0.6.0,David Barri,corvid|rake|minitest|rspec,Golly's Utils: Reusable Ruby utility code.
+20262,golr,0.5.2|0.5.3|0.5.4|0.5.5,Markus Krogemann,rspec|cucumber|simplecov|metric_fu,Conway's Game of Life
+20263,gom,0.2.0|0.3.0|0.3.1|0.4.0|0.4.1|0.4.2|0.4.3|0.5.0|0.5.1|0.5.2,Philipp Br&#252;ll,configure|rspec|reek,General Object Mapper - maps any ruby object to different kinds of storage engines and vice versa.
+20264,go_maps,0.2.0|0.3.0|0.3.1|0.3.2|0.4|0.4.1|0.4.2,Gonow,rspec|fakeweb|crack|nokogiri,Ruby API to geographic operations
+20265,gom-client,0.0.3|0.0.4|0.0.5,ART+COM,json|rspec|guard|guard-rspec|rb-fsevent|webmock|vcr|debugger,REST client for the gom HTTP API
+20266,gom-core,0.1.1|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5|0.2.6|0.2.7|0.2.8,art+com/dirk luesebrink,rspec|rspec-mocks|guard|guard-rspec|debugger,basic GOM functionallity
+20267,gom-couchdb-adapter,0.2.0|0.3.0|0.3.1|0.4.0|0.4.1|0.4.2|0.4.3|0.4.4|0.4.5|0.5.0,Philipp Br&#252;ll,gom|couchdb|rspec|reek,CouchDB storage adapter for the General Object Mapper.
+20268,gom-elasticsearch-adapter,0.1.1|0.1.2,Philipp Br&#252;ll,gom|gom-couchdb-adapter|rspec|reek,ElasticSearch adapter for the General Object Mapper.
+20269,gom-filesystem-adapter,0.2.0|0.3.0|0.3.1|0.4.0|0.4.1|0.5.0,Philipp Br&#252;ll,gom|rspec|reek,Filesystem storage adapter for the General Object Mapper.
+20270,gomig_mail_delivery,"","","",
+20271,gomon,0.0.2|0.0.3|0.0.4|1.0.0,Novelys|Kevin Soltysiak,activesupport|clue|rspec|rake,Ruby wrappers around mongo utilities.
+20272,gom-script,0.1.3|0.1.4|0.1.5|0.1.6|0.2.0|0.2.2,art+com/dirk luesebrink,json|rack|mongrel|applix|gom-core|rspec|rspec-mocks|fakeweb|guard|guard-rspec|growl|debugger,connecting scripts and daemons with a remote GOM instance
+20273,gom-sensor-ports,0.1.1|0.1.2|0.2.3|0.2.4,art+com/dirk luesebrink,daemons|gom-core|gom-script|rspec|rspec-mocks|fakeweb|guard|guard-rspec|growl|debugger,gateway for barebone TCP/UCP reporting sensors to GOM/HTTP protocol
+20274,gon,0.1.1|0.2.0|0.2.1|0.2.2|0.3.0|1.0.0|1.1.0|1.1.1|1.1.2|1.1.3|2.0.0|2.0.1|2.0.2|2.0.3|2.0.4|2.0.5|2.0.6|2.1.0|2.1.2|2.2.0|2.2.2|2.3.0|3.0.0|3.0.2|3.0.3|3.0.4|3.0.5|4.0.0|4.0.1|4.0.2|4.0.3|4.1.0|4.1.1|5.0.0|5.0.1|5.0.2|5.0.3|5.0.4,gazay,actionpack|json|rabl|rabl-rails|rspec|jbuilder|rake,Get your Rails variables in your JS
+20275,goncalossilva-kaltura_fu,0.2.0.1|0.2.0.2|0.2.0.3|0.2.0.4|0.2.0.5|0.2.0.7|0.2.0.8|0.2.0.9,Patrick Robertson,activesupport|goncalossilva_kaltura-ruby,Rails gem for making Kaltura integrations easier.
+20276,goncalossilva_kaltura-ruby,0.4.8.1|0.4.8.2,Patrick Robertson,activesupport|activeresource|json|rest-client,Ruby gem for accessing the Kaltura API
+20277,goncalossilva_redis-session-store,0.1.8.1,Mathias Meyer,redis,A drop-in replacement for e.g. MemCacheStore to store Rails sessions (and Rails sessions only) in Redis.
+20278,goncalossilva-showoff,0.4.2.1|0.4.3,Scott Chacon,sinatra|bluecloth|nokogiri|json|gli|mg,The best damn presentation software a developer could ever love.
+20279,goncalossilva-subdomain_routes,0.3.3.1,Matthew Hollingworth|Akihiro Matsumura|Goncalo Silva,actionpack,A Rails library for incorporating subdomains into route generation and recognition.
+20280,gondler,0.0.2|0.0.3|0.1.0|0.1.1|0.1.2|0.1.3,Sho Kusano,rake|thor,bundler for golang
+20281,gondola,1.0.1|1.0.2|1.0.3|1.0.4|1.1.0|1.1.1|1.1.3|1.1.4|1.1.5|1.1.6|1.1.7|1.1.8|1.1.9|1.2.0|1.2.1|1.2.2|1.2.3|1.2.4|1.2.5|1.3.0|1.3.1|1.3.11,Matthew Perry,sauce|parallel|rainbow|shoulda|bundler|jeweler|vcr|fakeweb,Ruby command line utility and library for integrating the Selenium IDE more tightly with Sauce Labs' Ondemand services
+20282,gondorlibrary,0.1.1,Phillip Gawlowski,"",A library for agent based computing
+20283,gongora,"","","",
+20284,gongren,0.1.1|0.1.2,Fran&#231;ois Beausoleil,thoughtbot-shoulda|yard|amqp,"Gongren distributes jobs to workers, with support for failed worker daemons and load balancing."
+20285,gongren-rails,"","","",
+20286,GoNodes,"","","",
+20287,gonow-activemerchant,"","","",
+20288,gonow_braspag,1.0.1|1.0.2|1.0.3,Gonow,spree_core|braspag,Extension to use on braspag's service
+20289,gonow-spree,"","","",
+20290,gon-sinatra,0.0.6|0.1.0,gazay,sinatra|rabl|json|rspec,Get your Sinatra variables in your JS
+20291,gonzales,0.6.0|0.6.1,Knut I Stenmark,rails|factory_girl|sqlite3|shoulda|mocha,Gonzales speeds up unit teste when using factory_girl
+20292,gonzo,0.2.0,Dean Perry,capistrano|unicorn,Tools &amp; Utilities for use in Voupe applications
+20293,gonzo_array_extensions,0.1.1,Robert Oles,activesupport,Extends standard library Array with some common gonzo needs
+20294,gonzui,1.2,mallowlabs,langscan|rubyforge|hoe,gonzui is a source code search engine for accelerating open source software development
+20295,gonzui-emacs,"","","",
+20296,goo,"","","",
+20297,gooa,"","","",
+20298,goobalize3,0.0.2|0.1.0|0.1.1|0.2.0,Enrico Pilotto,globalize3,Auto translate with Google Translate the Globalize3 attributes
+20299,gooby,0.9.4|0.9.5|1.0.0|1.1.0|1.2.0|2.0.0,Chris Joakim,"",Google APIs + Ruby = Gooby
+20300,Gooby,0.9.1,Chris Joakim,"",Google APIs + Ruby = Gooby
+20301,goocanvas,0.90.6|0.90.7|0.90.7|0.90.8|0.90.8|0.90.9|0.90.9|1.0.0|1.0.0|1.0.1|1.0.1|1.0.2|1.0.2|1.0.3|1.0.3|1.1.0|1.1.0|1.1.1|1.1.1|1.1.2|1.1.2|1.1.3|1.1.3|1.1.4|1.1.4|1.1.5|1.1.6|1.1.7|1.1.8|1.1.9|1.2.0|1.2.1|1.2.2|1.2.3|1.2.4|1.2.5|1.2.6|2.0.0|2.0.1|2.0.2|2.0.3|2.1.0|2.2.0,The Ruby-GNOME2 Project Team,gtk3|gobject-introspection,Ruby/GooCanvas is a Ruby binding of GooCanvas.
