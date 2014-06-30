@@ -20049,3 +20049,52 @@
 20044,gltail,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7|0.1.8,Erlend Simonsen,ruby-opengl|net-ssh|hoe,"View real-time data and statistics from any logfile on any server with SSH, in an intuitive and entertaining way."
 20045,glu,8.2.0|8.2.0|8.2.0,Eric Hodel|Lars Kanis|Blaž Hrastnik|Alain Hoang|Jan Dvorak|Minh Thu Vo|James Adam,rdoc|rake-compiler|hoe,"Glu bindings for the opengl gem, split into a separate gem because of Glu deprecation."
 20046,glub,0.0.2|0.0.3,George McIntosh,webmock|vcr|thor|rake|rest-client|sif|bundler|jeweler,Command-line Gitlab client
+20047,glue,0.0.1|0.13.0|0.14.0|0.15.0|0.16.0|0.17.0|0.18.0|0.18.1|0.19.0|0.20.0|0.21.0|0.21.2|0.22.0|0.23.0|0.24.0|0.25.0|0.26.0|0.27.0|0.28.0|0.29.0|0.30.0|0.31.0|0.40.0|0.41.0|1.0.0|1.0.1|1.0.2|1.0.5|1.1.0|1.1.1,Jordan Dobson,httparty|mocha|hoe,"The Glue gem enables posting to GlueNow.com API service using an account subdomain, username, password"
+20048,glued,"","","",
+20049,glue_gun,"","","",
+20050,gluemapping,"","","",
+20051,gluepro,"","","",
+20052,gluer,0.0.2|0.0.3|0.0.4|0.0.5,rcabralc,bundler|pry-debugger|rspec|simplecov|rake,Configuration reloader
+20053,glue-site,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6,Nando Vieira,main|RedCloth|rdiscount|haml|builder|rspec|nokogiri|swiss_knife,"Glue is a simple static site generator that uses Haml, Sass and Textile/Markdown. It supports sitemap and feed generation based on the pages you created."
+20054,gluestick,0.3.1,Justin Poliey|HeresTomWithTheWeather,httparty,A simple interface to the Glue API
+20055,gluez,0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.2|0.2.1|0.3|0.4|0.4.1|0.4.2|0.4.3|0.4.4|0.4.5|0.4.6|0.4.7|0.4.8|0.4.9,Jan Zimmek,"",a system configuration toolkit
+20056,glut,8.2.0|8.2.0|8.2.0,Eric Hodel|Lars Kanis|Blaž Hrastnik|Alain Hoang|Jan Dvorak|Minh Thu Vo|James Adam,rdoc|rake-compiler|hoe,Glut bindings for OpenGL
+20057,gluttonberg-blog,"","","",
+20058,gluttonberg-core,2.5.1|2.5.2|2.5.3|2.5.4|2.5.5|2.5.6|2.5.7|2.5.8|2.5.9|2.6.0|2.6.1|2.6.2|2.6.3|2.6.4|3.0.0|3.0.1,Nick Crowther|Yuri Tománek|Abdul Rauf|Luke Sutton,authlogic|will_paginate|rubyzip|acts_as_tree|freerange_acts_as_versioned|acts-as-taggable-on|sidekiq|jeditable-rails|cancan|active_link_to|texticle|ruby-mp3info|paperclip|acl9|sitemap_generator|domainatrix|aws-sdk|highline|haml|sass|unicorn|foreman|rabl|rspec-rails|fakes3,Gluttonberg is an Open Source CMS developed by the team at Freerange Future.
+20059,glutton_lastfm,0.1.1|0.1.3,Wally Glutton,httparty|fakeweb,Ruby last.fm API wrapper.
+20060,glutton_ratelimit,0.2.0,Wally Glutton,"",Simple Ruby library for self-imposed rater-limiting.
+20061,glymour,0.0.2|0.0.21,Brian Stanwyck,rspec|pry|ruby-debug|rgl|sbn|rinruby,A gem for supervised Bayesian net structure learning
+20062,glynn,1.0.0|1.0.1|1.0.2|1.0.3|1.0.4|1.0.5|1.0.6|1.0.7|1.0.8|1.0.9|1.0.10|1.0.11,Damien MATHIEU,bundler|minitest|jekyll,Deploy a jekyll weblog through ftp
+20063,glyph,0.2.0|0.3.0|0.4.0|0.4.1|0.4.2|0.5.0|0.5.1|0.5.2,Fabio Cevasco,gli|extlib|rake|rspec|yard|directory_watcher|sass|RedCloth|bluecloth|coderay,Glyph -- A Ruby-powered Document Authoring Framework
+20064,glyph_imager,0.0.4|0.0.5|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11|0.0.12|0.0.13|0.0.14|0.1.0|0.1.1,William Melody,thoughtbot-shoulda,Generate images of glyphs for a specified character in a specified font
+20065,glyr,0.9.9.1|0.9.9.2|0.9.9.3|1.0.0,meh.,ffi|ffi-extra|bitmap,Wrapper library for glyr.
+20066,glysellin,0.4.1.1,Valentin Ballestrino,rails|paperclip|money|activemerchant|simple_form|country_select|state_machine|friendly_id|mysql2,Lightweight e-commerce
+20067,gm,0.1.5|0.1.6|1.0.4,Simon Menke,"",Building gems the clean way.
+20068,gmail,0.3.2|0.3.3|0.3.4|0.4.0,BehindLogic|Chris Kowalik,mime|mail|gmail_xoauth|rspec|mocha,"A Rubyesque interface to Gmail, with all the tools you will need."
+20069,gmail-afurmanov,"","","",
+20070,gmail-britta,0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6,Andreas Fuchs,haml|rake|shoulda|bundler|minitest|nokogiri,Create complex gmail filtersets with a ruby DSL.
+20071,gmail_cli,"","","",
+20072,gmail_contacts,1.0.1|1.1|1.2|1.3|1.4|1.4.1|1.5|1.6|1.7|2.0,Eric Hodel,nokogiri|net-http-persistent|rubyforge|gemcutter|minitest|minitest|hoe,Simple Gmail contacts extraction using GData
+20073,gmail-contacts,0.0.5|0.0.6,Federico Builes,hpricot,A Ruby library for fetching Gmail account contacts
+20074,gmail_contatos,0.0.2|0.1.0|0.1.1|0.1.2|0.1.3,Janderson F. Ferreira,"",Simples gem para sincronizar com Gmail Contatos
+20075,gmailer,0.0.6|0.0.7|0.0.8|0.0.9|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7|0.1.8|0.1.9|0.2.0|0.2.1,Park Heesob,"",An class interface of the Google's webmail service
+20076,gmail_extractor,"","","",
+20077,gmail-imap,1.0.1,Paul Rosania,mocha,A Gmail extension-aware accessory to Net::IMAP.
+20078,gmailish,"","","",
+20079,gmail-mailer,0.1.1|0.2.0|0.3.0|0.4.0|0.4.1|0.4.2|0.4.4|0.4.5,Daniel Harper,bundler|jeweler|mail|gmail_xoauth|mail|gmail_xoauth,Send emails using a your gmail account (via OAUTH)
+20080,gmail_oauth,0.1.2|0.1.3,BehindLogic|Chris Kowalik|Stefano Bernardi,mime|mail|gmail_xoauth|rspec|mocha,"A Rubyesque interface to Gmail with Oauth, with all the tools you will need."
+20081,gmail-oauth,"","","",
+20082,gmail-scraper,0.2,Nicolas Maisonneuve,mechanize,Scrap Gmail's emails from its HTML Version.
+20083,gmail_sender,0.2.0|0.3.0|0.3.1|0.4.0|1.0.0|1.1.0|1.1.1,Daniel Cadenas,expectations|filetesthelper,A simple gem to send email through gmail
+20084,gmail_test,0.0.5|0.0.6|0.0.7,Daniel,bundler|jeweler|capybara,summary
+20085,gmail_todo,0.0.2|0.0.3,Kevin Hughes,"",Gmail ToDo gem
+20086,gmail-to-dropbox,"","","",
+20087,gmail-tool,0.0.3,Sandro Padin,rspec|boson,Simple way to open a Gmail compose browser window
+20088,gmail_xoauth,0.2.0|0.3.0|0.3.2|0.4.1,Nicolas Fouché,oauth|shoulda,"Get access to Gmail IMAP and STMP via OAuth, using the standard Ruby Net libraries"
+20089,gmallard_test_hw01,0.0.3|0.0.4,gmallard,"",A short test hello world gem.
+20090,gman,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.1.0|0.2.0|0.2.1|1.0.0|2.0.0|2.1.0|2.1.1,Ben Balter,public_suffix|swot|addressable|rake|shoulda|rdoc|bundler,Check if a given domain or email address belong to a governemnt entity
+20091,gmap_coordinates_picker,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.1.0,Muntasim Ahmed,rails,works to provide an easy to use Google Maps interface for displaying and setting geographic co-ordinates
+20092,gmap-fontawesome,"","","",
+20093,gmapper,0.2.0|0.2.1,TJ Peden,"","A version agnostic, dependency free Ruby library for the Google Maps API."
+20094,gmap-rails,"","","",
+20095,gmaps,"","","",
