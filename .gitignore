@@ -2,4 +2,3 @@ log/*.log
 data/Marshal.*
 .DS_Store
 mkmf.log
-data/current.gemspec.rz
