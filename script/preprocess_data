@@ -70,9 +70,9 @@ File.open('data/specs.4.8', 'r:utf-8') do |input_file|
         next
       end
       next unless name_latch
-      `wget http://gems.rubyforge.org/quick/Marshal.4.8/#{name}-#{info.version}.gemspec.rz -q -O data/current.gemspec.rz`
-      if File.exist? 'data/current.gemspec.rz'
-        File.open('data/current.gemspec.rz') do |spec|
+      `wget http://gems.rubyforge.org/quick/Marshal.4.8/#{name}-#{info.version}.gemspec.rz -q -O ./data/current.gemspec.rz`
+      if File.exist? './data/current.gemspec.rz'
+        File.open('./data/current.gemspec.rz') do |spec|
           begin
             specification = Marshal.load Gem.inflate spec.read
           rescue Zlib::BufError
