@@ -20958,3 +20958,856 @@
 20954,greybox,0.0.1|0.0.2,Justin Jaffray,diffy|bundler|rake|fakefs|mocha|simplecov,Easily test school assignments or other projects where you have a reference
 20955,greyhawkweather,0.0.3|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10,Mark Simpson,rangehash|rspec|rcov,Generates randomized weather based upon the 1983 Greyhawk boxed set.
 20956,grg,0.0.1,garage.io|Gabriel Marius,"",Client library for garage.io integration.
+20957,gri,10.0.0|10.0.1|10.0.2|10.0.3|10.0.4,maebashi,msgpack|rack,GRI
+20958,gribr,0.2.0|0.3.0,Roman Scherer,rspec|yard,Read gridded binary (GRIB) files with ruby.
+20959,gricer,0.0.1|0.0.2|0.0.3|0.0.4|0.1.0,Sven G. Broenstrup,rails|coffee-rails|compass-rails|jquery-rails,Gricer web analysis tool engine
+20960,grid,0.1.0|0.2.0|0.3.0|0.3.1|0.3.3|0.3.4|0.3.5|0.3.6|0.3.7|0.4.0|0.4.1|0.4.2|0.4.3,Tim Koopmans,watirgrid|json|rest-client|awesome_print|highline|rspec|bundler|jeweler|rcov|watirgrid|rest-client|json|highline|awesome_print|rspec,Gridinit command line utilities
+20961,gridation,0.0.4|0.1.0|0.1.1|0.6.0,David Singer,compass,Sass based grid framework.
+20962,grid_attachment,0.0.2,Dusty Doris,mime-types,Plugin for various Mongo ODMs to attach files via GridFS
+20963,gridcli,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11|0.0.12|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7,Brian Muller,activeresource|activesupport|chronic|json|colorize,"A command line interface to The Grid: Social Networking, Web 0.2"
+20964,grid-coordinates,1.0.3|1.0.4|1.0.5|1.0.6|1.0.7|1.0.8|1.1.0|1.1.1|1.1.2|1.1.3|1.1.4|1.1.5|1.1.6|1.1.7|1.1.8|1.1.9|1.2.0,Adam Stacoviak,compass,"Grid Coordinates is a highly configurable CSS Grid Framework written in Sass, and was inspired by 960.gs and The 1kb CSS Grid. Just plug-in your grid's coordinates (grid columns, grid width, gutter width) and Grid Coordinates will generate the styles."
+20965,grid-csv,0.1.1,bjh,terminal-table|bundler|rake|rspec,treat CSV like a grid
+20966,gridder,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10,Pablo Targa,nokogiri|sqlite3|rails,Gridder build Grids for rails apps
+20967,griddle,0.0.0|0.1.2|0.1.3,Matt Mongeau|meanmarcus,shoulda|mongo_mapper,GridFS made simple.
+20968,griddler,0.1.0|0.2.0|0.3.0|0.3.1|0.4.0|0.4.1|0.5.0|0.6.1|0.6.3|0.6.4,Caleb Thompson|Joel Oliveira|thoughtbot|Swift,rails|htmlentities|rspec-rails|sqlite3|jquery-rails,SendGrid Parse API client Rails Engine
+20969,griddler-sendgrid,0.0.1,Caleb Thompson,rake|rspec|griddler,SendGrid adapter for Griddler
+20970,griddleware,0.1.0|0.1.1,meanmarcus|Matt Mongeau,griddle|thoughtbot-shoulda,Rack middleware to assists in serving of GridFileSystem files
+20971,griddo,1.0.0|1.1.0|1.1.1,Per Sandström,sass|bundler|rake,It handles grids and only grids – no breakpoints.
+20972,griddy-rails,1.0.0|1.0.1|1.5.0,Seivan Heidari,"",Griddy grids in rails 3.1
+20973,gridfs-rackdav,0.1.0,Mihael Konjevi&#263;,rspec|georgi-rack_dav|mongo,GridFS resource adapter for RackDAV
+20974,grid_fu,0.0.1|0.0.2,Victor Sokolov,activesupport|rspec|rake|rspec-html-matchers,HTML table generator
+20975,gridgraphy,0.0.2|0.0.3|0.0.4|0.1.0|0.1.1|0.2.0,Jason Bellamy,compass|sass,"Gridgraphy is a highly configurable, and incredibly flexible Compass extension that enables you to quickly and easily build semantic CSS grids."
+20976,grid_helper,0.0.0,Jacob Evan Shreve,"",A dsl for grid-system-based markup
+20977,gridhook,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.2.0,Lee Jarvis,rails|multi_json|bundler|rake|sqlite3,A SendGrid webhook endpoint
+20978,gridify,0.1.0|0.1.1|0.1.2,swalke16,bundler|jeweler|rspec,Rails wrapper around jqGrid javascript library.
+20979,gridinit-jmeter,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.7|0.1.8|0.1.9|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5|0.2.6|0.2.7|0.2.8|0.2.9|0.3.0|0.3.1|0.3.2|1.0.5|1.0.6|1.1.1,Tim Koopmans,rest-client|nokogiri,This is a Ruby based DSL for writing JMeter test plans
+20980,gridion,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.8|0.0.9|0.0.10|0.0.11|0.0.12|0.0.13|0.0.14|0.0.15|0.0.16|0.0.17|0.0.18|0.0.19|0.0.20|0.0.21|0.0.22|0.0.23|0.0.24|0.0.25|0.0.26|0.0.27|0.0.28|0.0.29,William Yeung,rails|sqlite3|kaminari,Simple grid helper for rails
+20981,grid-layout,0.1.0,Jan Riethmayer,generator_extensions|rspec|haml,A 960 grid layout generator.
+20982,gridle,1.0.6|1.0.7|1.0.8|1.0.9|1.0.9.2|1.0.9.3|1.0.9.4|1.0.9.5|1.0.9.6|1.0.9.7|1.0.9.8|1.1.0|1.2.0|1.2.1|1.3.0|1.3.1|1.3.2|1.3.11|1.3.12|1.3.21|1.3.22|1.3.23|1.3.24|1.3.25,Olivier Bossel,sass,"Gridle is a set of complete and simple settings, mixins and classes that make the creation and usage of grid systems (even complex ones) really simple."
+20983,gridle-rails,1.1.0,polymatt,bundler|rake,"Gridle is a set of complete and simple settings, mixins and classes that make the creation and usage of grid systems (even complex ones) really simple."
+20984,gridlock,1.0.7,Eric Barendt,rails|axle_web|sqlite3,Creates tables using a common layout and presenters.
+20985,grid-map,0.0.1|0.0.2,Miguel Adolfo Barroso,rspec,Summary of GridMap.
+20986,gridomatic,0.0.1,Commander Johnson,hoe,Easy floatable grid structures for Rails
+20987,gridpaper,0.0.5|0.0.6|0.0.7,Christian Naths,commander|sass|colorize|guard,A SASS Framework
+20988,grid-plugin-echo,0.0.1|0.0.2|0.0.3|0.0.4,Brian Muller,gridcli,A simple grid module that loudly uses all of the gridcli hooks.
+20989,grid-plugin-growl,0.0.1|0.0.2,myobie,gridcli,Show growl notifications for grid updates.
+20990,grid-plugin-osx-notifier,0.0.1|0.0.2,Brian Muller,gridcli|terminal-notifier,A grid module that sends a notification when there are new messages.
+20991,grid-plugin-updater,0.0.1|0.0.2,myobie,gridcli,Update grid every 5 minutes
+20992,grid_rest,0.0.1|0.0.2|0.0.3|0.0.4|0.0.6,Benjamin ter Kuile,activesupport|rest-client|shoulda|bundler|jeweler|rcov,grid_rest is a gem that makes your rails application interact with other backends through a REST interface.
+20993,grids,1.1.0|1.1.1|1.2.0|1.2.1,Vadim Rastyagaev,sass,SASS helpers for grid systems management
+20994,grids-overlay,0.1.0|0.2.0,Vadim Rastyagaev,grids|spaceless,"Overlay for ""grids"""
+20995,gridspec,0.0.1,Bram Swenson,rake,tdd all up in them grids
+20996,grid_square,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6,Graham McIntire|David Brady,"",Encode/decode between lat/lng locations and US GridSquare references
+20997,gridstack,0.0.1,Gridstack,"",Client library and command-line tool to deploy and manage apps on Gridstack.
+20998,gridster-rails,0.1.0|0.1.0.1|0.1.5,William Van Etten,railties,Use gridster with Rails 3
+20999,gridstrap,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6,Doug Wollison,compass|handysass,A bootstrap inspired grid system kit for Compass.
+21000,grid_tools,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9,Alan Scherger,rake|aruba|gli,grid_tools is a simple way create and manage a selenium grid.
+21001,GridVid,0.0.0|0.0.1|0.0.2|0.0.3,"",json|json,grid_tools is a simple way create and manage a selenium grid.
+21002,gridx-rails,1.1.0|1.2.1,Alex Giouzenis,rails|sqlite3,Gridx packaged for the Rails asset pipeline
+21003,griffordson-georuby-extras,0.6.0|0.7.0,David Troy|Matt Griffith,GeoRuby,Native extensions and extra functions for the GeoRuby library.
+21004,grifizoid,0.0.1|0.0.2|0.0.3|0.0.4,Paul Meserve,mongo,Rack middleware for Mongo GridFileSystem
+21005,grifter,0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11|0.0.12|0.0.13|0.1.0|0.1.1|0.1.2|0.2.0|0.3.0|0.3.1|0.3.2|0.4.0|0.4.1|0.4.2,Robert Schultheis,faraday|json|typhoeus|activesupport|rspec|pry|awesome_print|jeweler,Make calls to HTTP JSON APIs with ease and confidence
+21006,grill,0.0.1|0.0.2|0.1.0|0.2.0|0.2.1|0.3.0|0.4.0|0.5.0,uu59,bundler|rspec,Implant Gemfile into your script
+21007,grim,0.1.0|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.3.0|1.0.0,Jonathan Hoyt,"",Extract slides and text from a PDF.
+21008,grime,0.0.1|0.0.2|0.0.3,John Colvin,rails|sqlite3,"If you've got CRUD, try Grime!"
+21009,grimen-delayed_job_mailer,0.1.3,Anderson Dias,actionmailer|activesupport|rspec-rails,Send emails asynchronously using delayed_job.
+21010,grimen-packr,3.1.2,James Coglan,oyster|test-unit|bundler|rake,Ruby version of Dean Edwards' JavaScript compressor
+21011,grimlock,0.0.0,Jacob Hammack,"",grimlock
+21012,grimorium,0.0.0,Alejandro Gonzalez|Ruben Santamaria,"",Summary: Under development
+21013,grimsock-ci_reporter,1.6.4.1,Nick Sieger,builder,CI::Reporter with fix for too long filename error
+21014,grimsock-webrat,0.7.1.2,Bryan Helmkamp,nokogiri|rack|rack-test,webrat fork with couple of fixes
+21015,grin,0.9.0|0.9.1|0.9.2|0.9.3|0.9.4|1.0.0|1.1.1|1.2.0|1.2.1|1.2.2,James Miller,rest-client|json|shoulda,Ruby wrapper for the Fotogger API
+21016,grinc,0.1.0|0.1.1|0.1.2,Brian M. Clapper,grizzled-ruby,Command line include file preprocessor
+21017,gringotts,0.6.5,Conroy Whitney,rails|phony_rails|twilio-rb|sqlite3|rspec-rails|capybara|factory_girl_rails|cucumber-rails|database_cleaner,2FA Phone Verification Engine for Rails. Protego!
+21018,grip,0.3.0|0.4.0|0.4.1|0.4.2|0.4.3|0.4.4|0.5.0|0.5.1|0.6.0|0.6.1|0.6.2|0.6.3|0.6.4|0.6.5|0.6.6|0.6.7|0.6.8|0.6.9|0.6.10|0.6.11|0.6.12|0.7.2|0.7.3,twoism|jnunemaker,mongo_mapper|miso|factory_girl|shoulda,GridFS attachments for MongoMapper
+21019,grit,0.7.0|1.0.0|1.0.1|1.1.0|1.1.1|2.0.0|2.1.0|2.2.0|2.3.0|2.4.0|2.4.1|2.5.0,Tom Preston-Werner|Scott Chacon,posix-spawn|mime-types|diff-lcs|mocha,Ruby Git bindings.
+21020,gritano,0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7|0.2.0|0.2.1|0.2.2|0.3.0|0.3.2|0.4.0|0.4.1|0.5.0|0.5.1|0.5.2|0.5.3|0.5.4|0.6.0|0.7.0|0.7.1|0.7.2|0.8.0|0.8.1|0.9.0|0.9.1|0.9.2|0.9.3|0.9.4|0.10.0|0.10.1|0.10.2|0.10.3|0.11.0|0.11.1|0.11.2|1.0.0|2.0.0|2.0.1|2.0.2,Igor Bonadio,thor|terminal-table|gritano-core|sqlite3|rainbow|highline|activesupport|rspec|rdoc|jeweler|simplecov|guard-rspec,Gritano is a tool to configure git servers over ssh
+21021,gritano-core,1.1.0|1.1.1|1.1.2|2.0.0|2.0.1|2.0.2,Igor Bonadio,activerecord|grit|rspec|rdoc|jeweler|simplecov|sqlite3|database_cleaner|guard-rspec,Gritano::Core is a library that defines all Gritano's Models.
+21022,grit_ext,0.0.1|0.1.0|0.5.0|0.6.0|0.6.1|0.6.2|0.8.0|0.8.1,Saito,charlock_holmes|rspec|grit|rake|pry,gives grit utf-8 support
+21023,grit-ext,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11,Mindaugas Mozūras,grit|rake|rspec,grit-ext
+21024,grit_service,2.4.1,John 'asceth' Long,grit|bert|bertrpc|rspec|rr,Ernie's got Grit
+21025,gritter,0.5.1|0.6.0|0.6.1|0.6.2|0.6.3|1.0.0|1.0.1|1.0.2|1.0.3|1.1.0,Robin Brouwer,"",Growl notifications for your Rails application.
+21026,gritter_notices,0.1.1|0.2.0|0.3.1|0.3.2|0.3.3|0.3.4|0.4.0,Danil Pismenny,rails|sprockets|gritter|sqlite3|combustion|watchr|factory_girl|shoulda|rspec|rspec-rails|bundler|jeweler|gritter|rspec|combustion,Show growl-like  flashes and saved user's notices with Gritter
+21027,gritty,0.1,Ian Dees,graph,Make GraphViz graphs out of simple Ruby objects
+21028,grizzled-rails-logger,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6,Brian M. Clapper,term-ansicolor,A custom Rails 3 logger
+21029,grizzled-ruby,0.1.0|0.1.1|0.1.3|0.1.4,Brian M. Clapper,"","Some general-purpose Ruby modules, classes, and tools"
+21030,grizzly-weibo,0.1.0|0.1.1|0.2.0|0.3.0|0.3.1|0.3.2|0.3.3|0.3.4|0.3.5|0.3.6|0.3.7|0.4.0,Stewart Matheson,rspec|vcr|webmock|faraday|faraday-stack,An api wrapper for Weibo V2
+21031,grn,0.0.1|0.0.2|0.1.0|0.1.1|0.2.0,Marcelo Theodoro,mdd,Implementa classes de apoio para a linguagem de padrões GRN e cria geradores para cada padrão.
+21032,grn2drn,1.0.0|1.0.1|1.0.2,Droonga Project,json|groonga-command-parser|bundler|rake|test-unit|packnga|kramdown,Grn2drn is a command to convert a *.grn dump file to a JSONs file for Droonga.
+21033,grnline,0.0.1|0.0.2|0.0.3|0.0.4,Haruka Yoshihara,lazy-pp-json|packnga|bundler|rake|test-unit|test-unit-rr|test-unit-notify|redcarpet,GrnLine is the wrapper for the interactive mode of [Groonga](http://groonga.org/).
+21034,grn_mini,0.1.0|0.2.0|0.3.0|0.4.0|0.5.0,ongaeshi,bundler|rake|minitest|rroonga,Groonga(Rroonga) wrapper for use as the KVS.
+21035,grntest,1.0.0|1.0.1|1.0.2|1.0.3|1.0.4|1.0.5,Kouhei Sutou|Haruka Yoshihara,json|msgpack|groonga-command-parser|bundler|rake|test-unit|test-unit-rr|packnga|redcarpet,Grntest is a testing framework for groonga. You can write a test for groonga by writing groonga commands and expected result.
+21036,gro,0.0.1,Michael Fairley,bundler|rake|rspec,"Go's concurrency model ""implemented"" for Ruby"
+21037,groat-smtpd,0.1.0|0.1.1,Peter Bowen,hooks,Groat SMTPD is a library for writing Internet mail servers
+21038,grobi,0.1.0,Yen-Ju Chen,google-api-client|nokogiri|rspec|json_spec,Ruby wrapper on google-api-ruby-client and other service
+21039,grocer,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11|0.0.12|0.0.13|0.1.0|0.1.1|0.2.0|0.3.0|0.3.1|0.3.2|0.3.3|0.3.4|0.4.0|0.4.1|0.5.0,Andy Lindeman|Steven Harman|Patrick Van Stee,rspec|pry|mocha|bourne|rake,Pushing Apple notifications since 2012.
+21040,grocer-error_callback,0.0.1,Jon Moses,grocer|bundler|rake|mocha|rspec,Provides error callbacks to Grocer pushes
+21041,grocer-pushpackager,0.0.1,Kurt Nelson,bundler|pry|coveralls|rspec|rake|rubyzip,"To use push notifications to Safari/OS X with the APN service, you must build a signed push package that is generated by your web server for every user. This gem handles building that package."
+21042,grocery_delivery,0.0.1,Marcin Sawicki|Phil Dibowitz,bundler|rake,Write a gem summary
+21043,grockit-resque,1.5.0,Grockit,redis|redis-namespace|vegas|sinatra|jeweler,Write a gem summary
+21044,groem,0.0.4,Eric Gjertsen,eventmachine|uuidtools|minitest,Eventmachine-based Ruby Growl (GNTP) client
+21045,groesser3-gcal4ruby,0.5.51,Mike Reich,gdata4ruby,A full featured wrapper for interacting with the Google Calendar API
+21046,groff_parser,0.1.0|0.2.0|0.3.0|0.4.0,Roberto Dip,bundler|rake|minitest|inch,Just a little gem to handle groff files
+21047,grog,0.0.0|0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6,Tom ten Thij,term-ansicolor|rspec|ruby-debug|cucumber,"A wrapper script for git-log - shows subject, time and author of each commit plus branches and tags"
+21048,grognard,0.0.2|0.0.3,Jingkai He,bundler|rake|rspec|guard-rspec|rubocop|activesupport,"A lightweight authorization library, just like cancan"
+21049,grok,0.0.0|0.0.1|0.0.2|0.0.3|0.0.4|0.0.5,Tim Sharpe,thoughtbot-shoulda|file-tail,A ruby log event correlator
+21050,grok-itunes,0.1.2,John Howe,sqlite3-ruby|scrobbler|ruby-treemap|hoe,* A regex based parser that processes the ITunes Music Library.xml file and generates a sqlite3 database for additional data mining
+21051,GrokITunes,0.1.0|0.1.1,John Howe,sqlite3-ruby|scrobbler|ruby-treemap|hoe,* A regex based parser that processes the ITunes Music Library.xml file and  generates a sqlite3 database for additional data mining.
+21052,groonga,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.9.0|0.9.1|1.0.0,Kouhei Sutou|Tasuku SUENAGA|daijiro|Yuto HAYAMIZU|SHIDARA Yoji,rroonga,Ruby bindings for groonga that provides full text search and column store features.
+21053,groonga-client,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8,Haruka Yoshihara|Kouhei Sutou|Kosuke Asami,gqtp|groonga-command|bundler|rake|test-unit|test-unit-notify|test-unit-rr|packnga|redcarpet,Groonga-client is a client for groonga (http://groonga.org/) implemented with pure ruby.
+21054,groonga-command,1.0.0|1.0.1|1.0.2|1.0.3|1.0.4|1.0.5|1.0.6|1.0.7,Kouhei Sutou,json|test-unit|test-unit-notify|rake|bundler|packnga|yard|redcarpet,Groonga-command is a library that represents [Groonga](http://groonga.org/)'s command. You can write a program that handle Groonga's command by using groonga-command.
+21055,groonga-command-parser,1.0.0|1.0.1,Kouhei Sutou,groonga-command|yajl-ruby|test-unit|test-unit-notify|rake|bundler|packnga|yard|redcarpet,Groonga-command-parser is a Ruby library to parses [groonga](http://groonga.org/)'s command syntax. You can write a program to process groonga's command by using groonga-command-parser.
+21056,groonga-query-log,1.0.0|1.0.1|1.0.2|1.0.3|1.0.4|1.0.5|1.0.6,Kouhei Sutou,groonga-command-parser|groonga-client|test-unit|test-unit-notify|test-unit-rr|rake|bundler|packnga|yard|redcarpet,Groonga-query-log is a collection of library and tools to process [Groonga](http://groonga.org/)'s query log. You can write a program to process query log by using groonga-query-log as a library. You can analyze your Groonga's queries and test with your Groonga's query log by using groonga-query-log as a tool.
+21057,groopbuyr,1.0.0|1.0.1|1.1.0|1.2.0,dave elkins,httparty,ruby wrapper for the GroopBuy API
+21058,groove,0.0.0|0.0.3|0.0.4|0.0.5|0.0.6|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.7|0.1.8|0.1.9,Dan Croak,thor,Web application generator.
+21059,grooveshark,0.1.1|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5|0.2.6|0.2.7|0.2.8|0.2.8.1|0.2.8.2|0.2.9|0.2.10|0.2.11,Dan Sosedoff,rspec|rake|json|rest-client|uuid,Grooveshark API
+21060,grooveshark-ruby,0.1.0|0.1.1|0.1.2,Gabriel Scholz,shoulda|rdoc|bundler|jeweler|rcov,An easy-to-use ruby wrapper for the Grooveshark API
+21061,grope,0.0.4|0.1.1|0.1.2|0.1.3|0.1.4|0.2.0|0.2.2,youpy,httparty|mechanize|rspec|jeweler|rdoc,A non-GUI library to represent browser environment
+21062,groseillier,0.0.1|0.0.2,"""J&#233;r&#233;mie|Horhant""",rails|rails-i18n|haml|simple-navigation|devise|show_for|responders|simple_form|sass-rails|coffee-rails|jquery-rails|sqlite3|rspec-rails|capybara|factory_girl_rails,Core of the Groseillier project.
+21063,grosser-algorithms,0.4.0|0.4.1,Kanwei Li,"",A library of algorithms and containers.
+21064,grosser-get_pomo,0.6.0,Michael Grosser,"",Ruby/Gettext: A .po and .mo file parser/generator
+21065,grosser-ssl_requirement,0.1.0,DHH|Michael Grosser|DaWanda,actionpack|redgreen|rake,A fork to add some cool options to ssl_requirement
+21066,grotesque,0.0.1|0.0.2,Nathan Sutton,zk|msgpack-rpc|rspec,A library that makes is possible to use ZooKeeper like Redis. A grotesque.
+21067,ground,0.0.0,kayakjiang,"",build stable back-end software from ground
+21068,groundcontrol,0.0.1|0.0.2,Michiel Sikkes,grit|git|tinder|nokogiri,Runs automated Rails tests and reports back.
+21069,groundcrew,0.1.0,Joe Edelman,minitest|yard|rest-client|yajl-ruby,a simple library for running things on http://Groundcrew.us
+21070,groundhog,0.1.0|0.1.1,Glen Maddern,pry|rails,"Keep repeating the same day, er transaction."
+21071,grounds,0.0.1|0.1.0,Daniel Brockman,rack|rack-slashenforce|bundler|rake,HTML5 app framework
+21072,groundskeeper,1.0.0,Kurtis Rainbolt-Greene,rack|bundler|rspec|rake|yard|kramdown|pry|pry-doc,A simple multi-tenancy middleware with options
+21073,groundwork,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|1.0.0|1.0.1|1.0.2,"Andrews, Ross",trollop|archive-tar-minitar,A project scaffolding generator
+21074,groundworkcss,0.2.2|0.2.3|0.2.4|0.3.0|0.3.2|0.4.0|0.4.1|0.4.2|0.4.3|0.4.4|2.0.0|2.0.1|2.0.2|2.0.4|2.2.1|2.3.1|2.3.2|2.3.3|2.3.4|2.3.5,ghepting|ldewald,colorize|sass-rails|coffee-rails|compass-rails|autoprefixer-rails|jquery-rails|rake|rspec|jasmine,Setup GroundworkCSS on your rails projects in seconds.
+21075,groundworkcss-rails,0.1|0.2|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5|0.2.6|0.2.7|0.2.8|0.2.9|0.2.10|0.2.11|0.2.12,Ognjen Regoje,railties|actionpack|execjs|rails|less|therubyracer,Groundwork CSS for Rails 3+
+21076,groundwork-rails,0.0.1,Jasdeep Singh,"",Write Responsive Rails Apps using Groundwork`
+21077,group_by_hash,0.1.0,Paul Boone,"",ruby hash with a sql-esque group by method
+21078,group_cache_key,0.1.0|0.2.0|0.3.0|0.4.0|0.4.1,Jim Gay|Clemens Gruber|Patrick Schmitz,activerecord|activesupport|rake|minitest,Adds cache_key to collections
+21079,groupdate,0.0.1|0.0.2|0.0.3|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|1.0.0|1.0.1|1.0.2|1.0.3|1.0.4|1.0.5|2.0.0|2.0.1|2.0.2|2.0.3|2.0.4|2.1.0|2.1.1,Andrew Kane,activerecord|bundler|rake|minitest|pg|mysql2,The simplest way to group temporal data
+21080,group_delegator,0.1.1|0.1.2,Dave M,rspec|bundler|jeweler|rcov,Delegate to multiple objects concurrently
+21081,groupdocs,0.1.0|0.1.1|0.2|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5|0.2.6|0.2.7|0.2.8|0.2.9|0.2.10|0.2.11|0.3.0|0.3.5|0.3.6|0.3.7|0.3.8|0.3.9|0.3.10|0.3.11|1.0.0|1.1.0|1.2.0|1.2.1|1.2.2|1.2.3|1.2.6|1.2.7|1.2.8|1.2.9|1.2.10|1.2.11|1.3.0|1.4.0|1.4.1|1.4.2|1.5.0|1.5.1|1.5.2|1.5.3|1.5.4|1.5.5|1.5.6|1.5.7|1.5.8|1.5.9|1.6.0,Marketplace Team,rest-client|json|mime-types|activesupport|rspec|fuubar|rake|simplecov|yard|webmock,Ruby SDK for GroupDocs REST API
+21082,grouped_scope,0.6.1|3.1.0|3.1.1|3.1.2|3.2.0|3.2.1,Ken Collins,activerecord|sqlite3|rake|minitest|factory_girl|mocha,Extends has_many associations to group scope.
+21083,grouped_time_zones,0.0.3,Sean McCleary,rails|rspec|pry|pry-nav|nokogiri,This has only been tested with Rails 3
+21084,grouped_validations,0.1.0|0.2.0|0.2.1|0.2.2|0.3.0|0.3.1|0.3.2|0.3.3,Adam Meehan,"",Define validation groups in a model for greater control over which validations are run.
+21085,grouper,0.0.2,digitalfrost,aws-sdk,Super Easy AWS Security Group Management
+21086,grouper-rest-client,0.0.1|0.1.0|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5|0.2.6|0.2.7,Blair Christensen,json|rest-client|fakeweb|shoulda,REST client for accessing the Grouper WS API
+21087,groupevite,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6,Richard VanBreemen,"",A ruby gem for the Groupon API for Groupevite.com
+21088,groupie,0.1.0|0.1.1|0.2.2|0.3.0,Wes Oldenbeuving,testy,Group and classify text
+21089,groupify,0.1.0|0.1.1|0.2.0|0.2.1|0.3.0|0.3.1|0.4.0|0.4.1|0.4.2|0.5.0|0.5.1,dwbutler,mongoid|activerecord|sqlite3|rake|rspec|mongoid-rspec|database_cleaner,Group functionality for Rails
+21090,groupme,0.0.1|0.0.2,David Radcliffe,rake|rspec|webmock|yard|redcarpet|pry|json|faraday|faraday_middleware|hashie|multi_json|simple_oauth,Simple wrapper for the GroupMe v3 API
+21091,group_me,0.0.1,Kirby Fike,rails|nested_scaffold|sqlite3|rspec-rails|capybara|guard-rspec|guard-spork,Summary of GroupMe.
+21092,groupmeme,0.1.0|1.9.2|1.9.3|1.9.4|2.0.0|3.0.0|4.0.0|4.0.1|5.0.0|6.0.0|6.0.1,THE INTERNET,"",GroupMe fork of meme_generator
+21093,groupme-paddock,0.2.0|0.3.0|0.3.1,Pat Nakajima &amp; Brandon Keene,"",Paddock is an environment-based feature switch system.
+21094,groupme-trails,1.1.5.1,Hemant Bhanoo,rubyforge|hoe,Makes developing twilio applications (even) easier in rails
+21095,groupon,0.0.1|1.0.0|1.0.1,Wynn Netherland,hashie|httparty|shoulda|mg|jnunemaker-matchy|fakeweb|yard,Wrapper for the Groupon API
+21096,groupon2,0.0.1,Josh Deeden,rake|rspec|simplecov|vcr|fakeweb|yard|maruku|faraday|faraday_middleware|typhoeus|hashie|yajl-ruby|multi_json,A wrapper for the Groupon v2 API
+21097,groupon-kdtree,0.1.1,Adam Doppelt,"",Blazingly fast 2d kdtree.
+21098,group_open_id,0.1|0.1.1|0.1.2,Bryan Kang,hpricot|hoe,Wrapper library for myID.net's Group ID API
+21099,groupr,0.1.0|0.1.1|0.2.0|0.2.1|0.2.2|0.2.4|0.2.5,Nikky Southerland,nokogiri|rspec|rdoc|bundler|jeweler,Gem used to interact with University of Washington Groups Service
+21100,group_records,0.0.1|0.0.2,Vaibhav Kohli,bundler|rake|minitest|sqlite3|activerecord,groups the record on basis of created_at
+21101,groups,0.0.1,Joel Van Horn,"",An abstraction layer to help deal with groups in applications.
+21102,group_selector,0.0.2,Joe Essey,"",persists filtered list of ldap group names
+21103,groupy,0.2.1|0.2.2|0.2.3,Matthew Rudy Jacobs,activesupport|activerecord|sqlite3-ruby,"Categorise Active Records in nested groups with magical scopes, ? methods, and constants."
+21104,groute,0.0.1|0.0.2|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7|0.1.8|0.1.9,Jordan Carter,"","Caches your rake routes output and greps it, cache updates when routes.rb timestamp updated"
+21105,grove,0.1,Levente Bagi,"",Invoke DRb services with no configuration
+21106,grove-rb,0.1.0|0.2.0|0.2.1,Bryan Goines,faraday,Grove.io client for Ruby
+21107,grow,0.0.0,Toshiro Ken Sugihara,"",Visualize Git in the browser
+21108,growbot-logger,0.0.1,David Long,bundler|rake|ashikawa-core|arduino_firmata,Sensor logger for Growbot
+21109,growbot-web,0.0.1|0.0.2|0.0.4|0.0.5|0.0.6,David Long,sinatra|sinatra-contrib|yajl-ruby|ashikawa-core|haml|coffee-script|bourbon|neat|bitters|bundler|rake|rspec|dotenv|yard,Web client to display Growbot metrics
+21110,growing_queue_condition,0.0.1,rubyisbeautiful,bundler|rake|god,"a God::Condition for the god gem, which will alert on a neglected queue"
+21111,growl,1.0.3,TJ Holowaychuk,"",growlnotify bindings
+21112,growl-ampelmaennchen,1.0.0,Tobias Schwab,rspec|rake,Simple ampelmaennchen icons to be used with growl
+21113,growl-amqp,0.1.0,Ben Lavender,amqp|daemons|growl,"Report AMQP messages via Growl.  Grr, grr!"
+21114,growl-atom,0.0.5|0.0.5|0.0.6,Matt Haynes,growl,Creates growl notifications for Atom entries
+21115,growl_car,0.0.1,Matthew Shafer,bundler|rake|rspec|webmock|simplecov|coveralls|atomic|httpclient,A tool to allow sending notifications to the growl provider on boxcar.io
+21116,growl-down,0.0.1,Clint Shryock,shoulda|bundler|jeweler|rcov|ruby-growl|net-scp|ruby-growl|net-scp,"Download big files, get Growl notice when it's done"
+21117,growlfire,0.0.1|0.0.2,Scott Holden,yajl-ruby|ruby-growl|em-http-request,Growlfire provides growl notifications via Campfire's steaming API
+21118,growl_formatter,0.0.3|0.0.4,Jack Palfrey,cucumber|ruby-growl,A simple gem to provide Growl notifications on test run completion
+21119,growl-github-feed,0.0.3|0.0.5,karahiyo,rspec|rdoc|bundler|jeweler|simplecov|highline|parseconfig|octokit|ruby-growl,Growling Your Github Feed
+21120,growl-glue,1.0.0|1.0.1|1.0.2|1.0.3|1.0.4|1.0.5|1.0.6|1.0.7,Collin VanDyck,hoe,Easy configuration of Growl + Autotest
+21121,growling_test,0.0.1,Li Xiao &amp; WPC,"",GrowlingTest is a tool for notifying test running status by Growl.
+21122,growl-logger,0.1.2|0.1.3|0.2.0,jugyo,"",Logger using Growl.
+21123,growl_mailer,0.0.1,Michael Deering,growl,Will Growl Message Deliveries
+21124,growlnotifier,1.0|1.0.1|1.0.2,Satoshi Nakagawa|Eloy Duran,hoe,Growl::Notifier is a OSX RubyCocoa class that allows your application to post notifications to the Growl daemon.
+21125,growl_notifier,1.1.0|1.2.0|1.2.1,Satoshi Nakagawa|Eloy Duran|JP Hastings-Spital,"",Growl::Notifier is a OSX RubyCocoa class that allows your application to post notifications to the Growl daemon.
+21126,growl_notify,0.0.1|0.0.3,Scott Davis,rb-appscript|rspec|guard-rspec|mocha,Growl gem for ruby based on the applescript api
+21127,growl_notify_osascript,0.0.1,Inge J&#248;rgensen,rspec|guard-rspec|mocha,Port of Sam Davis' growl_notify gem without the Appscript dependency
+21128,growl-rspec,0.0.1,dpree,rspec|growl,Publishing RSpec results via Growl
+21129,growltdf,0.4.2|0.4.3|0.4.4|0.4.5,Ara T. Howard,main|ruby-growl|nokogiri,growltdf
+21130,growl-transfer,0.0.2|0.0.3|0.0.4,Clint Shryock,shoulda|bundler|jeweler|rcov|ruby-growl|net-scp|ruby-growl|net-scp,"Transfer big files, get Growl notice when it's done"
+21131,growl_windows,0.1.0|0.1.1,debbbbie,growl|rspec,Make gem `growl` support windows
+21132,growlyflash,0.1.1|0.1.2|0.1.3|0.1.5|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5|0.2.6|0.2.7|0.2.8|0.2.9|0.2.10,Tõnis Simo,railties|coffee-rails,Tiny gem which provides growl-styled flash messages for Ruby on Rails with Bootstrap.
+21133,growthforecast,0.0.1|0.0.2|0.0.3|0.0.4,TAGOMORI Satoshi,resolve-hostname,A client library for GrowthForecast
+21134,growthforecast-client,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.62.0|0.62.3|0.62.4|0.80.0|0.80.1|0.80.2|0.82.1|0.82.2|0.82.3|0.82.4|0.82.5,Naotoshi Seo,thor|parallel|rake|rspec|webmock|pry|pry-nav,A Ruby Client Library for GrowthForecast API
+21135,growthpush,0.0.0|0.1.0,katty0324|asip,bundler|rake|rspec|faraday|faraday_middleware,GrowthPush is push notification and analysis platform for smart devices. GrowthPush SDK for Ruby provides registration function of client devices and events.
+21136,growth-push,0.0.1,shiro16,multi_json|bundler|rake|rspec|webmock|pry,Access for SIROK's GrowthPush API.
+21137,growth_republic_chat_client,0.0.1,Artur Hebda,her|faraday|faraday_middleware|kaminari|bundler|rake|rspec|rspec-mocks|webmock,Client for Growth Republic's chat application API.
+21138,gr_string_escape,0.3.1,Michael Economy|Curtis Schofield,"",Goodreads string parser
+21139,grubber,0.0.1,Matthew Werner,oauth|thor|lost|rake,Grubber helps you decide where to eat
+21140,grub-editenv-ruby,0.0.1,MOZGIII,bundler,Allows you to edit grubenv without having grub-editenv installed.
+21141,gruber-case,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7,Benjamin Jackson,"",Gruber Case
+21142,gruby,0.2.1,fazibear,"",Gadu-Gadu protocol implementation in Ruby language
+21143,g_ruby,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11|0.0.12,Pykih Software,nestful|nokogiri,Ruby Wrapper over Google APIs
+21144,grudge,0.1.0,Justin Knowlden,sinatra|git|haml|sqlite3-ruby|data_mapper|data_objects|do_sqlite3|json_pure,Grudge is a git commit comment judging web-app
+21145,grueserve,0.0.1,"Martin Kihlgren, Martin Kleman",libxml-ruby,A 2D tactical combat multiplayer game.
+21146,gruesome,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6,Dave Wilkinson,rspec|bit-struct,An Interactive Fiction client that can play/read interactive stories
+21147,gruff,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.1.0|0.1.1|0.1.2|0.2.3|0.2.4|0.2.5|0.2.6|0.2.7|0.2.8|0.2.9|0.3.0|0.3.1|0.3.3|0.3.4|0.3.6|0.3.7|0.4.0|0.4.0|0.5.0|0.5.0|0.5.1|0.5.1,Geoffrey Grosenbach|Uwe Kubosch,rmagick|rake,Beautiful graphs for one or multiple datasets.
+21148,grumblr,2.0.0|2.0.1|2.1.0|2.1.1|2.2.0|2.3.0|2.3.1|2.3.3|2.3.4|2.3.5|2.3.6|2.3.7|2.3.8|2.4.0|2.4.1|2.4.2,Paul Philippov,gtk2|libxml-ruby|rest-client,a Tumblr companion
+21149,grump,0.0.1,Marek Jelen,"",Poor mans build system
+21150,grumpymapper,0.0.2|0.0.3|0.0.4,Marcin Wyszynski,nokogiri|rake,"More versatile, XPath-based one-way version of HappyMapper"
+21151,grumpy_old_man,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5,Nathan Hopkins,rspec|bundler|rake,Asserts for RSpec
+21152,grund,1.0,Johan Brook,"",A SCSS foundation generator
+21153,grunk,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7,Andrew Beresford,splunk-sdk-ruby|getopt,Grep for Splunk
+21154,grunt,0.0.0|0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6,Andrei Maxim,sinatra|rspec|simplecov,Build your Ruby builds.
+21155,gryfxcrmod,0.0.0|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7|0.1.8,Edmund Highcock,coderunner|gs2crmod|ruby-netcdf|shoulda|shoulda-context|rdoc|bundler|jeweler,CodeRunner module for the Gryfx Gyrofluid Transport Solver
+21156,gryphon_sitemap,0.0.1|1.0.0|1.1.0|1.1.1|1.1.2|1.1.3,Michael Graff,activerecord|rails|rspec-rails|pg,Simple sitemaps for rails.
+21157,gs,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.2.0,Michel Martens,"",Gemset management
+21158,gs2crmod,0.5.2|0.5.3|0.5.4|0.5.5|0.5.6|0.5.7|0.5.8|0.5.9|0.5.10|0.5.11|0.5.12|0.5.13|0.5.14|0.5.15|0.5.16|0.5.17|0.6.0|0.6.1|0.7.0|0.7.1|0.7.2|0.7.3|0.8.0|0.8.1|0.9.0|0.9.1|0.9.2|0.9.4|0.9.5|0.9.6|0.9.7|0.9.8|0.9.9|0.9.10|0.9.11|0.10.0|0.10.1|0.10.2|0.10.3|0.10.4|0.10.5|0.10.6|0.10.7|0.10.8|0.10.9|0.10.10|0.10.11|0.10.12|0.10.13|0.10.14|0.10.15|0.10.16|0.10.17|0.10.18|0.10.19|0.10.20|0.10.21|0.10.22|0.10.23|0.10.24|0.10.25|0.10.26|0.10.27|0.10.28|0.10.29|0.10.30|0.10.31|0.11.0|0.11.1|0.11.2|0.11.3|0.11.4|0.11.5|0.11.6|0.11.7|0.11.8|0.11.9|0.11.11|0.11.12|0.11.13|0.11.14|0.11.15|0.11.16|0.11.17|0.11.18|0.11.19|0.11.20|0.11.21|0.11.22|0.11.23|0.11.24|0.11.26|0.11.27|0.11.28|0.11.29|0.11.30|0.11.31|0.11.32|0.11.33|0.11.34|0.11.35|0.11.36|0.11.37|0.11.38|0.11.39|0.11.40|0.11.41|0.11.42|0.11.43|0.11.44|0.11.45|0.11.46|0.11.47|0.11.48|0.11.49,Edmund Highcock|Ferdinand van Wyk,coderunner|rubyhacks|ruby-netcdf-updated|shoulda|rdoc|bundler|jeweler,Module to allow CodeRunner to run and analyse the GS2 and AstroGK codes.
+21159,gs960,0.0.1|0.0.2,Robert Ross,"",Easy way to include grid960 css files through asset pipeline
+21160,gsa,0.5.0|0.5.2|0.5.3|0.5.4|0.6.0|0.6.1|0.7.0|0.8.0|0.9.0|0.9.1|0.10.0|0.10.1|0.10.2|0.11.2|0.11.3,Daniel J. Long|1000Bulbs.com Dev Team,bundler|rake|webmock|vcr|simplecov|rspec|rest-client|activesupport|json|nokogiri,"One-line feeding, searching and faceting for Google Search Appliance (GSA)'"
+21161,gsa-feeds,0.0.1,Jesse Newlnad,builder,Wrap the Google Search Appliance Feeds API
+21162,g_sample,0.0.1,n.hodoshima,bundler|rake|rspec,Write a gem summary
+21163,gs-apns,0.2.0|1.0.0,William Denniss|Paul Gebheim|James Pozdena,rspec,Simple Apple push notification service gem
+21164,gsasl,0.1.0|0.2.0|1.0.0,Vincent Landgraf,rspec|rake|ffi,A lib ffi based wrapper for lib GNU SASL
+21165,gsass,0.0.1|0.0.2|0.0.3|0.0.4,Sebastian de Castelberg,sass|rails-sass-images|bundler|rake,gorilla software sass mixins
+21166,gsay,1.0.0|1.0.1|1.0.2,Nick Quaranto,"",Say things like a fancy Google bot.
+21167,gsbb,0.0.1|0.0.2,Chris Apolzon,aruba|thor|grit,Find and kill and blame those worthless stale branches
+21168,gscalzo-mongo_session_store,1.1.3,Nicolas M&#233;rouze|Tony Pitale|Chris Brickley,actionpack|mongo_mapper|mongoid,Rails session store class implemented for MongoMapper and Mongoid
+21169,gscholar,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7,Zifei Tong,mechanize|bibtex-ruby|citeproc-ruby|shoulda|rdoc|bundler|jeweler|simplecov|pry,A library for fetching information form Google Scholar
+21170,gscomp,0.0.1|0.0.2|0.0.4|0.0.5|0.0.6,Global System,"",GS computation
+21171,gscraper,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.3.0|0.4.0,Postmodern,json|uri-query_params|mechanize|rubygems-tasks|rspec|yard,Web-scraping interface to various Google Services.
+21172,gsearch,0.0.1,David William,mechanize|paint,Perform google searches from your terminal
+21173,gsearch-parser,0.0.1|0.0.2|0.0.3|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.3.0|0.3.1|0.3.2|0.3.3|0.3.4|0.3.5|0.3.6|0.3.7|0.3.8,Diego Netto,nokogiri,Google search result parser.
+21174,g_sectioned_shower,1.0.6|1.0.7|1.0.8|1.1.0,C. Jason Harrelson (midas),rails|guilded|shoulda,A Guilded (http://github.com/midas/guilded/tree/master) component that creates adaptable show (detail) views of a single ActiveRecord object.
+21175,gset,0.1.4,Michel Martens,"",Gemset management
+21176,gs_graph,2.6.5,nov matake,httpclient|rack-oauth2|tzinfo|multi_json|rake|cover_me|rspec|gs_graph-mock|actionpack,A full-stack GameStamper Graph API wrapper in Ruby.
+21177,gsh,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4,Lamont Granquist,shoulda|bundler|jeweler|rcov,A multithreaded ssh command line that integrates with chef and knife
+21178,gsiener-analytical,2.10.0|2.10.1|2.10.2,Joshua Krall|Nathan Phelps|Adam Anderson|Kevin Menard|Ablyamitov Ablyamit|Kurt Werle|Olivier Lauzon,jeweler|rspec|diff-lcs|rails|guard|guard-rspec|rb-fsevent|growl,Gem for managing multiple analytics services in your rails app.
+21179,gsl,1.12.108|1.12.109|1.14.5|1.14.6|1.14.7|1.15.3,Yoshiki Tsunesada|David MacMahon,narray,Ruby interface to GNU Scientific Library
+21180,gsl4r,0.0.1|0.0.2|0.0.3,Colby Gutierrez-Kraybill,"","GSL4r, ruby FFI wrappers around GNU Scientific Library"
+21181,gsl_extras,0.3.1|0.4.0,Edmund Highcock,shoulda|rdoc|bundler|jeweler,A set of extensions and improvements to the Ruby GSL interface.
+21182,gsl-nmatrix,1.15.3.0,Yoshiki Tsunesada|David MacMahon|John Woods|Masaomi Hakateyama,nmatrix,Ruby interface to GNU Scientific Library (NMatrix fork)
+21183,gsm,0.0.1,Ryan Scott Lewis,version|bundler|rake|rspec|fuubar,Easily update all of your git projects's submodules to their latest tags.
+21184,gsm_encoder,0.1.0|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6,Yury Korolev|Jeff Webb,"",ruby GSM 03.38 encoder/decoder
+21185,gsmetrics,0.0.1|0.0.2|0.0.3|0.0.4|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7,Florian Motlik,google_drive,Gem for pushing data to Google Docs
+21186,gsm_tools,0.0.1|0.0.2,Andrew Ang,rspec|guard-rspec,GSM 03.38 extension libraries
+21187,gsolr,0.12.2|0.12.3|0.12.4,Scott Gonyea,json|streamly_ffi|rspec,Generic Solr Client
+21188,gsolr_ext,0.12.3,Scott Gonyea,gsolr|rspec,A query/response extension lib for GSolr
+21189,gson-class-generator,1.0.0|1.0.1,Rich Hodgkins,json,Ruby script generating JSON model objects in Java when using GSON
+21190,gsoni-ar_mailer,2.1.9|2.1.10|2.1.11,Gaurav Soni,minitest|mocha,A two-phase delivery agent for ActionMailer
+21191,gsoni-ar_mailer_rails3,2.1.12,Gaurav Soni,"",ArMailer wrapper for Rails 3 with mail priority
+21192,gs_phone,0.0.1|0.0.2|0.0.3|0.0.4,Eric Davis,"",Application to mange and configure a group of Grandstream Voip phones
+21193,gspush,0.0.1|0.0.2,HORII Keima,google_drive|rspec|fakefs,Phsh command to Google Spreadsheet
+21194,gsquire,0.0.3|0.0.4,Kiyoshi '13k' Murata,oauth2|thor|hashie|rdoc|rdiscount|yard|awesome_print,A commandline and library squire to look for thy lordly Google Tasks.
+21195,gsr,0.0.1,Matt Parmett,mechanize,Ruby wrapper for the Wharton GSR Reservation System
+21196,gssapi,0.0.2|0.1.0|0.1.2|0.1.3|0.1.4|0.1.5|1.0.0|1.0.1|1.0.2|1.0.3|1.1.0|1.1.1|1.1.2,Dan Wanek,ffi,A FFI wrapper around the system GSSAPI library.
+21197,gstack,0.0.1,Geoff Massanek,"",Gstack
+21198,gstarter,0.0.1|0.0.3,Global system,"",Global system
+21199,gst-kitchen,0.2.0|0.4.0|0.4.1|0.5.0|0.6.1|0.6.2|0.6.3|0.6.4|0.7.0|0.8.0,Sebastian Cohnen,yajl-ruby|trollop|rake|redcarpet|debugger|rspec,gst-kitchen is a gem to publish podcasts like a nerd with auphonic!
+21200,gstock,1.0.0,Steve Agalloco,bundler|maruku|rake|rspec|simplecov|webmock|yard|ZenTest|typhoeus|nokogiri|hashie|faraday|faraday_middleware|multi_xml,A simple API wrapper for google finance stock quotes.
+21201,gstore,0.1.0|0.2.0|0.2.1,Richard Taylor,"",gstore is a Ruby client library for the Google Storage API.
+21202,gstreamer,0.90.6|0.90.7|0.90.8|0.90.9|1.0.0|1.0.1|1.0.2|1.0.3|1.1.0|1.1.0|1.1.1|1.1.1|1.1.2|1.1.2|1.1.3|1.1.3|1.1.4|1.1.4|1.1.5|1.1.5|1.1.6|1.1.6|1.1.7|1.1.7|1.1.8|1.1.8|1.1.9|1.1.9|1.2.0|1.2.0|1.2.1|1.2.1|1.2.2|1.2.2|1.2.3|1.2.3|1.2.4|1.2.4|1.2.5|1.2.5|1.2.6|1.2.6|2.0.0|2.0.0|2.0.1|2.0.1|2.0.2|2.0.2|2.0.3|2.0.3|2.1.0|2.1.0|2.2.0|2.2.0,The Ruby-GNOME2 Project Team,glib2|gobject-introspection,Ruby/GStreamer is a Ruby binding for GStreamer.
+21203,gsub_filter,0.0.1,kyoendo,"","This is a text filter for gsub chain. You can set or replace as many gsub filters as you like, then run them through a given text."
+21204,gsv_downloader,0.1,nicolas maisonneuve,bundler|rake,GSV Downloader
+21205,gswax,0.0.1|0.0.2,j. kaiden,green_shoes|gstreamer,an audio player for folks who miss their vinyl
+21206,gta,0.0.1|0.1.0|0.1.1|0.1.2|0.2.0|0.3.0|0.3.1|0.4.0|0.4.1|0.4.2|0.4.3|0.4.4|0.4.5,socialchorus|Kane Baccigalupi|Ian Cooper,ansi|bundler|rake|rspec|heroku,GTA: the Git Transit Authority - A git based deploy tool for moving code from stage to stage.
+21207,gtalk,0.0.0|0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8,Kimat Boven,easy-gtalk-bot,Send XMPP/Jabber messages with a gtalk account
+21208,gtalk-bot,1.0.0|1.0.1,Brian Scott,xmpp4r,A very easy tool for creating Google Talk bots
+21209,gtasks,0.0.0|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6,kimoto,thoughtbot-shoulda,GoogleTasks CommandLine Interface
+21210,gtd,0.0.1,Ma Lucheng,bundler|rake,something like omnifocus
+21211,gtdfiles,0.8.0|0.8.1|0.8.2,Martin Mauch,Dependency|choice|rchardet|hoe,The author was too lazy to write a summary
+21212,gtengine,0.0.1|0.0.2,Oleg Bovykin,bundler|rake|rspec|guard-rspec,Gas Turbine engine and its components math models written in ruby
+21213,gtfo,0.0.1|0.0.2,Thomas Drake-Brockman,railties|strong_parameters,"GTFO helps you keep evil, malignant, lice-infested users away from your precious, precious database."
+21214,gtfs,0.1.0|0.2.0|0.2.1|0.2.2|0.2.3,nerdEd,rake|multi_json|rubyzip|rspec|simplecov|ruby-debug19|vcr|fakeweb,Load and read GTFS data from zip bundles
+21215,gtfs-orm,0.0.1,Ryan Closner,virtus|bundler|rake,GTFS -&gt; Ruby Object Mapper
+21216,gtfs-reader,0.2.2|0.2.3|0.2.4|0.2.5,Jon Sangster,log4r|rubyzip|colorize|activesupport|pry|yard|bundler|jeweler|guard-rspec,Read General Transit Feed Specification zip files
+21217,gtg-facebooker2,0.0.6|0.0.7,Mike Mangino,mogli|ruby-hmac,Facebook Connect integration library for ruby and rails
+21218,g_thang,0.1.0,Paul Barry,"",A Rack-Compliant HTTP Server Implemented with GServer
+21219,gthor,0.1.0,Shintaro Katayama,thor,Gthor - Thor with extension management on RubyGem framework
+21220,gti-helper,1.1,"Thom, Mihaela","",A collection of helpers for testing GTI components.
+21221,gtin,0.0.1|0.1.1|0.1.2,Hans Masing,"","GTIN provides basic validation, checksum and conversion functionality for UPC, EAN and GTIN barcode values."
+21222,gtk,0.1.0,Patrick Hanevold,ffi|gtk|cairo|activesupport|bacon|rdoc|bundler|jeweler|simplecov,GTK FFI bindings for Ruby
+21223,gtk2,0.20.0|0.20.0.1|0.20.1|0.90.2|0.90.2|0.90.3|0.90.3|0.90.4|0.90.4|0.90.5|0.90.5|0.90.6|0.90.6|0.90.7|0.90.7|0.90.8|0.90.8|0.90.9|0.90.9|1.0.0|1.0.0|1.0.1|1.0.1|1.0.2|1.0.2|1.0.3|1.0.3|1.1.0|1.1.0|1.1.1|1.1.1|1.1.2|1.1.2|1.1.3|1.1.3|1.1.4|1.1.4|1.1.5|1.1.5|1.1.6|1.1.6|1.1.7|1.1.7|1.1.8|1.1.8|1.1.9|1.1.9|1.2.0|1.2.0|1.2.1|1.2.1|1.2.2|1.2.2|1.2.3|1.2.3|1.2.4|1.2.4|1.2.5|1.2.5|1.2.6|1.2.6|2.0.0|2.0.0|2.0.1|2.0.1|2.0.2|2.0.2|2.0.3|2.0.3|2.1.0|2.1.0|2.2.0|2.2.0,The Ruby-GNOME2 Project Team,atk|pango|gdk_pixbuf2,Ruby/GTK2 is a Ruby binding of GTK+-2.x.
+21224,gtk2alertapp,0.0.1|0.0.2|0.0.3|1.0.0|1.1.0|1.2.0|1.2.1|1.3.0|1.3.1|1.4.0|1.5.0|1.5.1|1.6.0|1.7.0|1.7.1,carlosjhr64@gmail.com,gtk2applib,Ruby-Gnome Alerts allows one to set up alarms like an alarm clock.
+21225,gtk2applib,0.0.0|1.0.0|1.0.1|2.0.0|2.0.1|2.0.2|2.1.0|2.2.0|2.3.0|2.4.0|3.0.0|3.1.0|4.0.0|4.1.0|4.2.0|4.2.1|4.3.0|4.4.0|4.5.0|4.5.1|5.0.0|6.0.0|7.0.1|7.1.0|7.2.0|7.3.0|7.3.1|7.3.2|8.0.0|8.0.1|8.1.0|9.0.2|9.0.3|9.0.4|9.1.0|9.2.0|9.3.0|9.4.0|10.0.0|10.0.1|10.0.2|10.1.0|10.2.2|11.0.1|12.0.1|13.0.2|14.2.3|15.0.0|15.0.2|15.0.3|15.0.4|15.0.5|15.1.0|15.2.0|15.3.0|15.3.1,carlosjhr64@gmail.com,"",= The Ruby-Gnome Application Library
+21226,gtk2bitcoin,0.0.0|0.1.0|0.2.0|1.0.0|1.1.0|1.2.0|1.3.0|1.3.1|1.4.0|1.5.0|1.6.0|1.7.0|1.8.0|1.9.0|1.10.0|1.11.0|2.0.0|2.1.0|2.2.0|2.3.0|2.4.0|2.5.1,carlosjhr64@gmail.com,gtk2applib|rest-client,Ruby-Gnome Bitcoin 2
+21227,gtk2blackjack,0.0.0|1.0.0|1.1.0|1.1.1|2.0.0|2.2.0|2.2.1|2.2.2|2.3.0|2.4.0,carlosjhr64@gmail.com,gtk2applib,Ruby-Gnome BlackJack
+21228,gtk2bookmarks,0.0.1|0.0.2|0.0.3|0.0.4|0.1.0|0.1.1|1.0.0|1.0.1|1.1.0|2.0.0|2.0.1|2.0.2|2.1.0|2.1.1|2.2.0|2.3.0|2.4.0|2.4.1|3.0.2|3.0.3|3.1.0|3.2.1|3.3.0,carlosjhr64@gmail.com,gtk2applib,Ruby-Gnome Bookmarks
+21229,gtk2checkboxes,1.0.0|2.0.0|2.1.0|2.1.1|2.2.0|2.2.1|2.3.0|2.4.1,carlosjhr64@gmail.com,gtk2applib,Ruby-Gnome CheckBoxes
+21230,gtk2clockapp,1.1.0|1.2.1|1.3.0|1.3.1|1.4.0|1.5.0|1.6.0|1.6.1|1.7.0|1.8.0|1.11.0,carlosjhr64@gmail.com,gtk2applib,Gtk2ClockApp
+21231,gtk2dailybooth,0.3.3|0.4.0|0.5.0|0.5.1|0.5.2|0.5.3,carlosjhr64@gmail.com,gtk2applib,Gtk2DailyBooth
+21232,gtk2diaryapp,0.0.1|1.0.0|1.0.1|1.1.0|1.1.1|1.2.0|1.3.0|1.3.1|1.4.0|1.5.0|1.6.0|1.7.0,carlosjhr64@gmail.com,gtk2applib,Ruby-Gtk2 Diary
+21233,gtk2diet,0.0.0|0.1.0|0.2.0,carlosjhr64@gmail.com,gtk2applib,Gtk2Diet
+21234,gtk2_expander_settings,0.0.1|0.0.2|0.0.3|0.0.4,Kasper Johansen,knjrbfw|rspec|rdoc|bundler|jeweler,A library for remembering expander-settings using a database for the gtk2-extension in Ruby.
+21235,gtk2go,0.0.0|0.1.0|0.2.0,carlosjhr64@gmail.com,gtk2applib,Gtk2GO
+21236,gtk2mp3,0.0.0|0.1.0|0.2.0|0.3.0|0.3.1|0.3.2|0.4.0|0.5.0|0.5.1|0.5.2|0.6.0|0.7.0,carlosjhr64@gmail.com,gtk2applib,Gtk2MP3
+21237,gtk2passwordapp,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|1.0.0|1.1.0|1.1.2|1.2.1|1.3.0|1.4.0|1.5.0|1.6.0|1.7.0|1.8.0|2.0.0|2.0.1|2.1.0|2.1.1|2.1.2|2.1.3|2.1.4|2.2.0|2.3.0|2.3.1|2.4.0|2.5.0|2.5.1|2.6.0|2.7.0|2.7.1,carlosjhr64@gmail.com,crypt-tea|gtk2applib,Ruby-Gnome Password Manager
+21238,gtk2todoapp,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|1.0.0|1.1.0|1.1.1|1.2.0|1.2.1|1.3.0|1.3.1,carlosjhr64@gmail.com,gtk2applib,The Ruby-Gnome ToDo App
+21239,gtk2_treeview_settings,0.0.0|0.0.1|0.0.2|0.0.3|0.0.4,Kasper Johansen,knjrbfw|rspec|rdoc|bundler|jeweler,A gem that helps with ordering of columns and more.
+21240,gtk2twitter,0.0.0|0.1.0|0.1.1|0.2.0|0.3.0|0.4.0|0.4.1|0.5.0|0.6.0|1.0.0|1.0.1|2.0.1|2.0.2|2.0.3|2.1.0|2.3.0|2.3.1|2.3.2|2.4.0|2.4.1,carlosjhr64@gmail.com,gtk2applib|twitter|oauth,The Ruby-Gnome Twitter App
+21241,gtk2_window_settings,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6,Kasper Johansen,knjrbfw|rspec|rdoc|bundler|jeweler,A class for remembering window-settings using the gtk2-extension for Ruby.
+21242,gtk2youtubeapp,0.6.0|0.6.1|0.6.2|0.6.3|0.6.4|1.0.0|1.0.1|1.1.0|1.2.0|1.2.1|1.3.0|1.3.1|2.0.0|2.1.1|2.1.2|2.1.3|2.2.0|2.2.1|2.3.0|2.4.0|2.4.1|2.5.0|2.5.1|2.5.2|2.5.3|2.6.0|2.7.0|2.8.1|2.9.0|2.10.0|2.11.0|2.11.1|2.12.0|2.13.0|2.14.0|2.15.0|2.16.0|2.17.0|2.18.0|2.19.0|2.20.0|2.21.0|2.22.0|2.22.1|2.22.2,carlosjhr64@gmail.com,gtk2applib|youtuber,The Ruby-Gnome YouTube App
+21243,gtk3,0.0.1|1.2.0|1.2.0|1.2.1|1.2.1|1.2.2|1.2.2|1.2.3|1.2.3|1.2.4|1.2.4|1.2.5|1.2.5|1.2.6|1.2.6|2.0.0|2.0.0|2.0.1|2.0.1|2.0.2|2.0.2|2.0.3|2.0.3|2.1.0|2.1.0|2.2.0|2.2.0,The Ruby-GNOME2 Project Team,glib2|gio2|atk|pango|gdk_pixbuf2|gdk3,Ruby/GTK3 is a Ruby binding of GTK+-3.x.
+21244,gtk3assist,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9,Kasper Johansen,gir_ffi-gtk|xml-simple|rspec|rdoc|bundler|jeweler,A class for making it easier to develop Gtk3 based applications with the 'gir_ffi-gtk'-gem.
+21245,gtk3webtable,0.0.0,Kasper Johansen,gir_ffi-gtk|gtk3assist|knjrbfw|html_gen|rspec|rdoc|bundler|jeweler,An example of how to use WebKit with Ruby's GirFFI Gtk3-extension.
+21246,gtk_advent_calendar,0.0.1|0.0.2|0.0.3|0.0.4,Masafumi Yokoyama,gtk3|bundler|rake,An advent calendar by Ruby/GTK3
+21247,gtk_app,0.1.1|0.1.2|0.2.0,Daniel Johnston,pkg-config|gtk2|activemodel|ffi-aspell|yard,A ruby-gtk framework
+21248,gtkbuilder,0.1|0.2|0.3,Fabian Streitel,gtk2,Easy way to :reate simple Gtk GUIs
+21249,gtkmozembed,0.90.6|0.90.7|0.90.8|0.90.9|1.0.0,The Ruby-GNOME2 Proejct Team,gtk2,Ruby/GtkMozEmbed is a Ruby binding of GtkMozEmbed a widget embedding a Mozilla Gecko renderer.
+21250,gtk_runner,0.0.1,Robert A. Heiler,gtk2|colours,"It can be used to start GTK applications and thus naturally depends on gtk2 gem.  If you have specific suggestions to make this gem more useful for others, please drop me an email at: shevegen@gmail.com Thank you."
+21251,GtkSimpleLayout,0.2.1,Ricky Zheng,"",A simple builder style layout helper for RubyGnome2
+21252,gtksourceview2,0.90.6|0.90.6|0.90.7|0.90.7|0.90.8|0.90.8|0.90.9|0.90.9|1.0.0|1.0.0|1.0.1|1.0.1|1.0.2|1.0.2|1.0.3|1.0.3|1.1.0|1.1.0|1.1.1|1.1.2|1.1.2|1.1.3|1.1.3|1.1.4|1.1.4|1.1.5|1.1.5|1.1.6|1.1.6|1.1.7|1.1.7|1.1.8|1.1.8|1.1.9|1.1.9|1.2.0|1.2.0|1.2.1|1.2.1|1.2.2|1.2.2|1.2.3|1.2.3|1.2.4|1.2.4|1.2.5|1.2.5|1.2.6|1.2.6|2.0.0|2.0.0|2.0.1|2.0.1|2.0.2|2.0.2|2.0.3|2.0.3|2.1.0|2.1.0|2.2.0|2.2.0,The Ruby-GNOME2 Project Team,gtk2,Ruby/GtkSourceView2 is a Ruby binding of gtksourceview-2.x.
+21253,gtksourceview3,1.2.0|1.2.0|1.2.1|1.2.1|1.2.2|1.2.2|1.2.3|1.2.3|1.2.4|1.2.4|1.2.5|1.2.5|1.2.6|1.2.6|2.0.0|2.0.0|2.0.1|2.0.1|2.0.2|2.0.2|2.0.3|2.0.3|2.1.0|2.1.0|2.2.0|2.2.0,The Ruby-GNOME2 Project Team,gtk3,Ruby/GtkSourceView3 is a Ruby binding of gtksourceview-3.x.
+21254,gtk_webkit_pdf,0.0.0|0.0.1|0.0.2|0.0.2.1|0.0.2.2,Mohanraj Ramanujam,rails,GTK WEBKIT
+21255,gtk-webkit-ruby,0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8,Geoff Youngs,glib2|gtk2|rubber-generate,Webkit bindings using rubber-generate
+21256,gtl-parsley-ruby,0.5.0,Kyle Maxwell|Brian Collins,json,Ruby binding for parsley (updated for 1.9 and scoped to utf-8 only)
+21257,gtl-sluggable,0.0.0|0.1.0|0.2.0|0.3.0,Craig Tran,"",A slug creation gem
+21258,gtl-voteable,0.1.0,Craig Tran,"",A voting gem
+21259,gtm,0.0.1,Luis Ibanez,"",GT.M Database!
+21260,gtokenizer,1.0.0,Alex Peattie,rspec,"A very simple string tokenizer, based on the one used by Google for their Google NGrams app (http://ngrams.googlelabs.com/)"
+21261,gtool,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7,Adrien Thebo,gprov|thor,Command line interface to the Google Provisioning API
+21262,gtools,0.0.1|0.0.2,Kamil Kocemba,bundler|rake|rspec|rdoc|httparty,"Gathers statistics like PageRank, site index, page speed analysis and more."
+21263,GTP,0.0.1|0.1.1|0.1.2,Thiago Rocha,bundler|rake|pry|json,It parses gtp files
+21264,gtranslate,1.0.0|1.1.0|1.1.1|1.1.2|1.1.3|1.1.4,sathia,nokogiri,GTranslate
+21265,gtranslate-two,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4,Marcin Wyszynski,json|shoulda|bundler|jeweler|rcov,Dead-simple Ruby client for Google Translate API v2
+21266,gts,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7|0.1.8|0.1.9,Milan Novota,eventmachine|json|redis|rspec,GPS Tracking Server
+21267,gtt,0.0.1,Lucas Videla,bundler|rake|minitest,A tool that makes it easier to travel through time inside git repos
+21268,guacamole,0.0.1|0.1.0|0.2.0,Lucas Dohmen|Dirk Breuer,ashikawa-core|virtus|activesupport|activemodel|hamster|fabrication|faker|logging|pry,An ODM for ArangoDB that uses the DataMapper pattern.
+21269,guachiman,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.1.0|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.2.0|0.2.1|0.3.0|0.3.1,Francesco Rodriguez|Gustavo Beathyate,railties|activerecord|minitest|minitest-focus|bundler|rake,Basic authorization library
+21270,guara,0.0.3,Bruno Guerra,formtastic|formtastic-bootstrap|will_paginate|devise|cancan|jquery-rails|meta_search|bcrypt-ruby|railties,Base Enterprise Application
+21271,guard,0.1.0|0.1.1|0.2.0|0.2.1|0.2.2|0.3.0|0.3.1|0.3.2|0.3.3|0.3.4|0.4.0|0.4.1|0.4.2|0.5.0|0.5.1|0.6.0|0.6.1|0.6.2|0.6.3|0.7.0|0.8.0|0.8.1|0.8.2|0.8.3|0.8.4|0.8.5|0.8.6|0.8.7|0.8.8|0.9.0|0.9.1|0.9.2|0.9.3|0.9.4|0.10.0|1.0.0|1.0.1|1.0.2|1.0.3|1.1.0|1.1.1|1.2.0|1.2.1|1.2.2|1.2.3|1.3.0|1.3.1|1.3.2|1.3.3|1.4.0|1.5.0|1.5.1|1.5.2|1.5.3|1.5.4|1.6.0|1.6.1|1.6.2|1.7.0|1.8.0|1.8.1|1.8.2|1.8.3|2.0.0|2.0.1|2.0.2|2.0.3|2.0.4|2.0.5|2.1.0|2.1.1|2.2.0|2.2.1|2.2.2|2.2.3|2.2.4|2.2.5|2.3.0|2.4.0|2.5.0|2.5.1|2.6.0|2.6.1,Thibaud Guillaume-Gentil,thor|listen|pry|lumberjack|formatador,Guard keeps an eye on your file modifications
+21272,guard-addremove,1.0.0|1.0.1,Pascal Ehlert,guard,Guard gem for running shell commands when files are added or removed
+21273,guard-annotate,0.0.1|0.1.0|0.2.0|0.3.0|0.4.0|0.9.1|0.9.2|0.9.3|0.9.4|1.0.0|1.1.0,Craig P Jolicoeur,guard|annotate|rspec|guard-rspec|rake,Guard gem for annotate
+21274,guard-autorefresh,0.0.1,Jean-Michel Garnier,guard|autorefresh|bundler|rspec|guard-rspec,Guard gem for autorefresh
+21275,guard-autoupload,0.3.4|0.3.5|0.3.6|1.0.0,Jyrki Lilja,guard|net-sftp|net-ssh-simple|bundler|rake,Autoupload plugin - uploads local changes to remote host.
+21276,guard-bacon,1.0.0|1.0.1|1.0.2|1.0.3|1.0.4|1.0.5|1.0.6|1.0.7|1.1.0|1.1.1,Julien Ammous,guard|schmurfy-bacon|rake,Guard for bacon
+21277,guard-bdd,0.0.1,Nikolay Sturm,guard|guard-cucumber|guard-rspec|rspec|state_machine,An opinionated RSpec and Cucumber runner for guard
+21278,guard-blink1,0.0.0|0.0.1|0.0.2|0.0.3,Geoff Tidey,test-unit|guard|guard-shell|pry|rb-blink1|colormath,"expects first line from guard result file, user guard file notification &amp; guard-shell to outputs relevant colour to blink1"
+21279,guard-blogger,0.0.1,Scott Arthur,guard|capybara|selenium-webdriver|bundler|rake,Guard plugin for updating Blogger templates
+21280,guard_boilerplate,0.1.0|0.1.1|0.2.0,Fletcher Nichol,thor|growl|guard|guard-livereload|guard-sass|guard-shell|guard-webrick|hpricot,A simple script that allows you to run Guard to refresh your web browser and optionally recompile Sass/Haml files
+21281,guard-bower,0.0.1,Michael Bensoussan,guard|bundler|rake,Guard gem for Bower
+21282,guard-brakeman,0.1|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7|0.1.8|0.2.0|0.3.0|0.3.1|0.3.2|0.4.0|0.5.0|0.5.1|0.6.0|0.6.1|0.6.2|0.6.3|0.7.0|0.7.1|0.8.0|0.8.1,Neil Matatall|Justin Collins,guard|brakeman,Guard gem for Brakeman
+21283,guard-bundler,0.1.0|0.1.1|0.1.2|0.1.3|1.0.0|2.0.0,Yann Lugrin,guard|bundler|rspec,Guard gem for Bundler
+21284,guard-bundler-audit,0.1.0,Christian Hellsten,guard|bundler-audit|bundler|rake,guard + bundler-audit = security
+21285,guard-calabash-ios,0.0.1|0.0.2|0.1.0|0.2.0|0.2.1|0.3.0,Alex Denisov,guard|calabash-cucumber,Guard gem for calabash-ios
+21286,guard-cane,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.2.0,Justin Campbell,cane|guard|guard-rspec|rake|rspec,Guard plugin for Cane
+21287,guard-cedar,0.1.0|0.1.1,Doc Ritezel,guard|rspec|guard-rspec|guard-bundler,Guard gem for Cedar.
+21288,guard-chef,0.0.1|0.0.2,Dreamr OKelly,guard|bundler|rspec,Guard gem for Chef
+21289,guard-clockwork,0.0.6,Moonsik Kang,guard|clockwork|bundler|rake,Guard::Clockwork automatically starts/stops/restarts Clockwork
+21290,guard-cloudformation,0.0.2|0.0.3,Tung Nguyen,colorize|guard,Guard::Cloudformation automatically validates cloud formation templates.
+21291,guard-cocoapods,0.0.1,Ben Kreeger,guard|rake,A guard plugin for CocoaPods.
+21292,guard-codeception,1.0.0|1.1.0|1.2.0|1.2.1,Colby Swandale,guard|bundler|rake|rspec,guard-codeception automatically runs codeception on file changes
+21293,guard-coffeedripper,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5,amacou,guard|bundler|rspec,Guard gem for Marge CoffeeScript
+21294,guard-coffeelint,0.0.2,Matthew Eagar,guard|coffeelint|bundler|rake,Guard plugin for Coffeelint
+21295,guard-coffeescript,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7|0.1.8|0.1.9|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.3.0|0.3.1|0.3.2|0.3.3|0.4.0|0.4.1|0.4.2|0.5.0|0.5.1|0.5.2|0.5.3|0.5.4|0.5.5|0.5.6|0.5.7|0.6.0|1.0.0|1.1.0|1.2.0|1.2.1|1.3.0|1.3.1|1.3.2|1.3.3|1.3.4|1.4.0,Michael Kessler,guard|coffee-script|bundler|guard-rspec|rspec,Guard gem for CoffeeScript
+21296,guard-combustion,0.1.0|0.1.1|1.0.0,Ruben Caliandro,guard,Guard gem for running Combustion
+21297,guard-compass,0.0.5|0.0.6|0.0.8|1.0.0|1.1.0,Olivier Amblet|Rémy Coutable,guard|compass,Guard plugin for Compass
+21298,guard-concat,0.0.2|0.0.3,Francesco 'makevoid' Canessa,guard,Guard gem for concatenating (js/css) files
+21299,guard-concatfilter,0.0.6,Geoff Youngs|Francesco 'makevoid' Canessa,guard,Guard gem for concatenating (js/css) files
+21300,guard-consistency_fail,0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10,Pankaj Tyagi,guard|consistency_fail|bundler|rspec|guard-rspec|guard-bundler,guard gem for consistency_fail
+21301,guard-cop,0.0.1,Vassil Kalkov,rubocop|guard|guard-rspec|rake|rspec|bundler|simplecov,Guard gem for rubocop
+21302,guard-copy,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.5.0|0.5.1,Marc Schwieterman,guard,Guard gem for copy
+21303,guard-copy2,0.0.2,Tim Joseph dumol,guard|guard-helpers,A Guard plugin to watch and copy files
+21304,guard-ctags-bundler,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.2.0|1.0.0|1.0.1|1.0.2,Ivan Tkalin,guard|bundler|rake|minitest|purdytest,Guard gem for generating ctags for project files and gems from project's bundle.
+21305,guard-ctags-composer,0.0.1|0.0.2|0.0.3|0.0.4,Konstantin Kudryashov,guard|minitest|purdytest,Guard gem for generating ctags for project files and vendor libraries.
+21306,guard-cucumber,0.1.0|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.3.0|0.3.1|0.3.2|0.3.3|0.3.4|0.4.0|0.5.0|0.5.1|0.5.2|0.6.0|0.6.1|0.6.2|0.6.3|0.7.0|0.7.1|0.7.2|0.7.3|0.7.4|0.7.5|0.8.0|1.0.0|1.1.0|1.2.0|1.2.1|1.2.2|1.3.0|1.3.1|1.3.2|1.4.0|1.4.1,Michael Kessler,guard|cucumber|bundler,Guard plugin for Cucumber
+21307,guard-cucumber-js,0.0.1|0.0.2,James Harton,guard|bundler,Guard::CucumberJS automatically runs your specs (much like autotest).
+21308,guard-cunit,0.0.2,Tea Cup On Rocking Chair,guard|bundler|rspec,Guard gem for CUnit-driven projects
+21309,guard-db,0.0.2|0.0.3|0.0.4|0.0.5,Xarala,guard,GuarDb: is a guard extension handling the rake db:clone:test when schema.rb changes
+21310,guard-delayed,0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.1.0|0.1.1|0.1.2|0.2.0|0.2.1,David Parry,guard|delayed_job|daemons|bundler|rspec|guard-rspec|guard-bundler,guard gem for delayed_job
+21311,guard-depend,0.0.1|0.1.0,Alexander Groß,rake|guard|bundler|rspec|guard-bundler|guard-rspec|ruby_gntp|wdm,guard-depend is useful for projects that produce build output like binaries. guard-depend will only run the command you sify if the build output does not exists or is not up to date with regard to the watched files.
+21312,guard-docbook-status,0.1.0|0.2.0,Rainer Volz,docbook_status|guard|bones,The docbook-status guard will watch your DocBook documents and check their status when they change.
+21313,guard_dog,0.1.0|0.1.1|0.1.2|0.1.3,Endri Gjiri,rails|sqlite3,A simple password authentication.
+21314,guard-ecukes,0.0.1,Dillon Kearns,guard|bundler,Guard plugin for the Emacs Ecukes integration testing framework
+21315,guard-ego,0.0.1,Fabio Kuhn,guard|rspec,Guard gem to reload guard itself
+21316,guard-ejs,0.0.1,Brian Wm. McAllister,guard|ejs|bundler,guard-ejs will automatically precompile your ejs templates when they change.
+21317,guard-elixir,0.0.2,Patrick Wyatt,guard|bundler|rake|rspec|guard-rspec,Guard gem for Elixir language
+21318,guard-embertools,0.2.0|0.2.1,Brad Humphrey,guard|colorize|bundler|rake,Guard gem for ember tools
+21319,guard-entangle,0.0.4|0.0.4.1|0.0.4.2|0.0.4.3|0.0.4.4,Deshi Rahim,guard|uglifier|bundler|rake,Inserts file content inline into another document. Optionally uglifies the output.
+21320,guard-erb,0.0.1|0.0.2,Omar Ramos,guard,Guard for compiling erb files
+21321,guard-erlang,0.1.0|0.2.0|0.2.1|0.2.2|0.2.4,HpyHacking,guard,Guard gem for Erlang
+21322,guard-evergreen,0.0.1|0.0.2|0.0.3,Christopher Meiklejohn,guard|rake|evergreen|yard|rdoc|redcarpet|rspec|rake|tddium,Continuous testing for evergreen.
+21323,guard-fast_spec,0.0.1|0.0.2,Thibaud Guillaume-Gentil,guard|bundler|rspec,Guard gem for FastSpec (forked from guard-rspec)
+21324,guard-faye,0.1.0|0.1.1,Yaroslav Zemlyanukhin,sys-proctable|rdoc|bundler|jeweler|sys-proctable,Guard plugin for faye
+21325,guardfile,0.0.1,Bartosz Kopinski,guard|bundler|rake,Better Guardfile syntax
+21326,guard-fixture_builder,0.0.1,Aaron Jensen,fixture_builder|guard,Watches files and rebuilds your fixtures using fixture_builder
+21327,guard-flay,0.0.1|0.0.2,Péricles Dias,guard|flay|flay-haml|bundler|rake,Guard gem for Flay
+21328,guard-flog,0.0.1|0.0.2,Péricles Dias,guard|flog|bundler|rake,Guard gem for Flog
+21329,guard-flopbox,1.0|1.1|1.3|1.4,Vincent Chu,net-sftp,A simple guard library for syncing local and remote directories via SFTP
+21330,guard-focus,0.0.1,Lar Van Der Jagt,guard,Autorun your specs &amp; features with focus tags
+21331,guard-foodcritic,1.0.0|1.0.1|1.0.2,Chris Griego,guard|foodcritic|bundler|rake|rspec,Guard::Foodcritic automatically runs foodcritic.
+21332,guard-frank,0.0.1|0.0.2|0.0.3|0.1.0|0.2.0|0.2.1,Alex Denisov,guard|frank-cucumber,Guard gem for frank-cucumber
+21333,guard-gimli,0.1.0|0.1.1,Fredrik Wallgren,guard|gimli|bundler|rspec|rr,Guard gem for gimli
+21334,guard-gitpusher,0.1.1|0.1.2|0.2.0,hatone,guard|bundler|rspec,Guard gem for git
+21335,guard-git-scribe,0.0.1|0.0.2|0.0.3,Jason Morrison,"",Guard::GitScribe automatically rebuilds your git-scribe ebooks
+21336,guard-go,0.0.1|0.0.2|0.0.3|0.0.4,Victor Castell,guard,Guard gem for launching go files
+21337,guard-gotest,0.0.1|0.0.2,Jon Doveston,guard|bundler|rake,Automatically runs go test in the directories of changed files.
+21338,guard-gradle,0.1.0|0.2.0|0.2.1|0.3.0|0.3.1,Bryan Ricker|Andrew Glover,guard|test-unit|mocha,Build &amp; test your Java projects continuously as you work.
+21339,guard-gradle-android-test,0.0.1,Kenji Abe,guard|bundler|rake,Guard::GradleAndroidTest automatically run tests of Robolectric in Android studio
+21340,guard-haml,0.1.0|0.1.1|0.1.2|0.2.0|0.3.0|0.3.1|0.3.2|0.3.3|0.4|0.5|1.0.0|1.1.0|1.1.1|1.1.2,Immanuel Häussermann|Rémy Coutable,guard|haml|bundler|rspec,Guard plugin for Haml
+21341,guard-haml2erb,1.0.0,Laurence A. Lee,guard|haml2erb|rspec,Guard gem for Haml2Erb
+21342,guard-haml-coffee,0.1.0|0.2.0,Ouvrages,guard|execjs|coffee-script,Guard gem for HamlCoffee
+21343,guard-haml-ext,0.6,Immanuel Häussermann|Florian Plank,guard|haml|rspec|rake,Guard gem for Haml
+21344,guard-handlebars,0.0.1|0.0.2|0.0.3,Chris Homer,guard|rspec,Guard gem for Handlebars precompiled js files
+21345,guard-haskell,1.0.0|1.1.0|1.2.0|1.3.0|1.4.0|1.5.0|1.6.0,Matvey Aksenov,guard|bundler|rake|rspec|guard-rspec|fakefs,Guard gem for Haskell
+21346,guard-helpers,0.0.1|0.0.2|0.0.3,Tim Joseph dumol,"",Helper modules to make making Guard plugins easier
+21347,guard-herbalizer,0.1.0,Ouvrages,guard|bundler|rake,Converts HAML to ERB using Guard and herbalizer
+21348,guard-hogan,0.0.1,Andrew Smith,execjs|guard,Compiles your Hogan mustache templates with Guard
+21349,guard-hologram,1.0.0,Ken Mayer|Greg Cobb,guard|hologram|bundler|rake|rspec,Guard plugin for the Hologram gem
+21350,guard-hydra,0.0.1,John Bintz,guard|hydra,Use Hydra to run all specs. Super-fast!
+21351,guard-i18next,0.2.0|0.2.1|0.2.2,Jared Scott|Nicolas ZERMATI,json|guard|rspec,Automatically generate js files from locales files for consumption by i18next.js.
+21352,guard-i18n-js,1.0.0,Dingding Ye,guard|i18n-js|rspec|guard-rspec,Guard gem for i18n-js
+21353,guardian,0.0.1,Adam Hawkins,json|httparty|sinatra|rspec|webmock|infinity_test|simplecov|shotgun|rack-test,Ruby library for interacting with the Guardian webservice.
+21354,guardian-content,0.2.0|0.2.1|0.2.2,frankieroberto,shoulda|httparty,Queries the Guardian Content API
+21355,guardian-forms,0.5.0,Forrest Grant,"","Protect your forms from spam, by adding a duration field, if it takes less than 2 seconds to submit the form, it is likely spam."
+21356,guardianscraper,0.0.1,M. C. McGrath,"",Scrapes Guardian articles
+21357,guard-imageoptim,0.0.1,Robert Coleman,bundler|rake|guard,A Guard for ImageOptim
+21358,guard-inch,0.0.1|0.0.2|0.1.0,Craig Hills,bundler|rake|guard|inch,A guard plugin to run the inch documentation measurement tool.
+21359,guard-jade,0.0.1|0.1.1|0.1.2,Tim Joseph dumol,guard|guard-helpers,A Guard plugin to watch and compile Jade files
+21360,guard-jammit,0.1.0|0.2.0|0.3.0|1.0.0|1.0.1,Pelle Braendgaard|Michael Kessler,guard|jammit|bundler|guard-rspec|rspec|yard|redcarpet|pry|rake,Guard plugin for Jammit
+21361,guard-jasmine,0.1.0|0.2.0|0.2.1|0.2.2|0.3.0|0.3.1|0.3.2|0.4.0|0.5.0|0.6.0|0.6.1|0.6.2|0.7.0|0.7.1|0.7.2|0.8.0|0.8.1|0.8.2|0.8.3|0.8.4|0.8.5|0.8.6|0.8.7|0.8.8|0.9.0|0.9.1|0.9.2|0.9.3|0.9.4|0.9.5|0.9.6|0.9.7|0.9.8|0.9.9|0.9.10|0.9.11|0.9.12|0.9.13|0.9.14|1.0.0|1.0.1|1.0.2|1.0.3|1.0.4|1.1.0|1.1.1|1.1.2|1.1.3|1.1.4|1.2.0|1.2.1|1.2.2|1.3.0|1.4.0|1.5.0|1.5.1|1.6.0|1.6.1|1.7.0|1.8.0|1.8.1|1.8.2|1.8.3|1.9.0|1.9.1|1.9.2|1.9.3|1.9.4|1.10.0|1.10.1|1.11.0|1.11.1|1.12.0|1.12.1|1.12.2|1.13.0|1.13.1|1.13.2|1.14.0|1.15.0|1.15.1|1.16.0|1.17.0|1.18.0|1.18.1|1.18.2|1.18.3|1.19.0|1.19.1|1.19.2,Michael Kessler,guard|multi_json|childprocess|thor|tilt|bundler,Guard gem for headless testing with Jasmine
+21362,guard-jasmine-headless-webkit,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.1.0|0.2.0|0.3.0|0.3.2,John Bintz,guard|jasmine-headless-webkit,Run jasmine-headless-webkit using guard
+21363,guard-jasmine-node,0.0.1|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8,dave@kapoq.com,guard|rspec|guard-rspec|rake|rb-inotify|libnotify,Guard::JasmineNode automatically runs your Jasmine Node specs when files are modified
+21364,guard-jasmine-rails,1.0.0|1.1.0|1.1.1,Ryan Sonnek,guard|bundler|rake,A plugin to run Jasmine Javascript specs automatically through Guard.
+21365,guard-java,0.0.3|0.0.4|0.0.5,Tony C. Heupel,guard|rspec|bundler|rspec,Guard gem for Java
+21366,guard-jekyll,0.0.2|0.1.0|0.2.0|0.2.1|1.0.0|1.1.0|1.2.0|1.3.0|1.4.0,David Haslem,guard|jekyll,Guard gem for Jekyll.
+21367,guard-jekyll2,0.0.1|0.1.0,Alexey Vakhov,guard,Guard jekyll
+21368,guard-jekyll-plus,1.0.0|1.1.0|1.1.1|1.1.2|1.2.0|1.2.1|1.2.2|1.2.3|1.3.0|1.4.0|1.4.1|1.4.2|1.4.3|1.4.4|1.4.5|1.4.6|1.4.7|1.4.8|1.4.9|1.4.10,Brandon Mathis,guard|jekyll,"A Guard plugin for Jekyll which intelligently handles changes to static and template files, only running a Jekyll build when necessary."
+21369,guard-jenkins,0.1.0|0.1.1,Justin Stoller,rspec|simplecov|rake|guard|nokogiri,A simple guard script to place a failure image or success image after a build has finished in a consistent location for jenkins jobs.
+21370,guard-jessie,0.1.0|0.1.1|0.1.2|0.1.3,Micha&#322; Taszycki,guard|bundler|rspec|guard-bundler|guard-rspec|rake,Guard gem for jessie
+21371,guard-jet,0.0.1,Erwan Barrier,guard|jet-framework|bundler,Guard gem for Jet
+21372,guard-jetty,0.0.1,Jaron Kennel,guard|jettywrapper|bundler|guard-bundler|guard-rspec|rake|rspec,Guard gem for Jetty
+21373,guard-jruby-minitest,0.0.1|0.1.0|0.1.1,Jack Xu,guard|guard-minitest|ruby_parser|pry|bundler|rake,Guard gem for JRuby Minitest
+21374,guard-jruby-rspec,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.7|0.1.8|0.2.0|0.2.1,Joe Kutner,guard|guard-rspec|rspec,Guard gem for JRuby RSpec
+21375,guard-jshint-node,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8,Patrik Henningsson,guard|bundler|rspec,Guard gem for running JSHint
+21376,guard-jshint-on-rails,0.0.1|0.0.2,Johnson Liang|Andrew Liu|Ryan Sonnek,guard|jshint_on_rails,Guard Javascript changes to ensure JSHint complience
+21377,guard-jshintrb,1.0.0,Jake Mays,guard|jshintrb|bundler|rake,A plugin to lint your .js files automatically through Guard.
+21378,guard-jslint-on-rails,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.2.0,Ryan Sonnek,guard|jslint_on_rails|rake,Guard Javascript changes to ensure JSLint complience
+21379,guard-jslint-on-rails-for-1.1.1,0.2.0,Ryan Sonnek|Max Edmands,guard|jslint_on_rails|rake,Guard Javascript changes to ensure JSLint complience
+21380,guard-js-static-require,0.0.1,Wilker Lucio,guard-minitest|growl_notify,Automatic replace script tags for loading files
+21381,guard-jstd,0.0.1|0.1.0|0.1.1|0.1.2,aRailsDemo,guard|rspec,A Guard for JsTestDriver
+21382,guard-kitchen,0.0.1|0.0.2,Adam Jacob,guard|mixlib-shellout|bundler|rake,Guard plugin for test kitchen
+21383,guard-knife,0.0.1|0.1.0|0.1.1|0.1.2,Nikolay Sturm,guard|chef,Guard for Chef using knife
+21384,guard-koans,0.0.1|0.0.2,Rollen Gomes,"",Attempt to write guard for koans
+21385,guard-konacha,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.2.0|0.2.1|0.2.2|0.2.3|0.3.0|0.3.1|1.0.0|1.0.1|1.0.2|1.0.3|1.0.4|1.0.5,Alex Gibbons,guard|konacha|rspec|timecop|simplecov|poltergeist,Guard plugin for Konacha
+21386,guard-krl,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.8,Michael Farmer,guard|krl,Guard gem for krl
+21387,guard-less,0.0.1|0.0.2|0.0.4|0.1.0|0.1.1|0.1.2,Brendan Erwin,guard|less|bundler|fakefs|guard-rspec|rspec,Guard gem for Less
+21388,guard-lessc,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5,Eric Berry,guard|colorize|bundler|rake,Guard gem for the lessc command
+21389,guard-librarian,0.0.1,Yann Lugrin|Tyler Rick,guard|librarian|rspec|guard-rspec,Guard gem for Librarian
+21390,guard-lilypond,0.0.1,Maxim Colls,guard|bundler|rake,Guard plugin for Lilypond
+21391,guard-livereload,0.1.0|0.1.1|0.1.2|0.1.3|0.1.5|0.1.6|0.1.7|0.1.8|0.1.9|0.1.10|0.1.11|0.2.0|0.2.1|0.3.0|0.3.1|0.4.0|0.4.1|0.4.2|1.0.0|1.0.1|1.0.2|1.0.3|1.1.0|1.1.1|1.1.2|1.1.3|1.2.0|1.2.1|1.3.0|1.4.0|2.0.0|2.0.1|2.1.0|2.1.1|2.1.2|2.1.3|2.2.0,Thibaud Guillaume-Gentil,guard|em-websocket|multi_json|bundler|rake|rspec,Guard plugin for livereload
+21392,guard-live-set,0.1.0|0.1.1,Michael Garriss,guard,Converts Ableton Live .als files to XML as they're saved.
+21393,guard-llsprockets,0.2|0.3,Christian menix Hahn|Aaron Cruz|Kematzy,guard|execjs|sprockets|bundler|rspec,Guard gem for Sprockets
+21394,guard-lono,0.0.1|0.0.2,Tung Nguyen,colorize|guard|rspec|travis-lint|growl|guard-bundler|guard-rspec|rb-fsevent,Guard::Lono automatically builds cloud formation templates from lono erb templates.
+21395,guard-markdown,0.1.1|0.1.2|0.1.3|0.1.4|0.2.0,Darren Wallace,guard|kramdown|bundler|rspec|guard-rspec|growl|rake,Markdown folder &gt; html folder conversion
+21396,guard-markdown2impress,0.0.1|0.0.3,Kohei Hasegawa,guard|bundler|rspec,Guard gem for markdown2impress
+21397,guard-maven,0.0.1|0.1.0|0.1.1|0.2.0,Jeremy Baker,guard|bundler|rake,Guard for Maven
+21398,guard-middleman,0.1.0|0.2.0|0.2.1|0.3.0,Matthias Döring,guard|middleman,Guard gem for Middleman
+21399,guard-migrate,0.0.1|0.0.2|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7|0.2.0|0.2.1|1.0.0|1.0.1|1.0.2|1.0.3|1.0.4|1.1.0,Geoff Lanotte,guard|activerecord|bundler,Guard gem for rails migrations
+21400,guard-minitest,0.1.0|0.2.0|0.2.1|0.2.2|0.3.0|0.4.0|0.5.0|1.0.0|1.0.1|1.1.0|1.2.0|1.3.0|1.3.1|2.0.0|2.0.1|2.1.0|2.1.1|2.1.2|2.1.3|2.2.0|2.3.0,Yann Lugrin|Rémy Coutable,guard|minitest|bundler,Guard plugin for the Minitest framework
+21401,guard-minitest-decisiv,0.4.1,Yann Lugrin,guard|minitest|bundler|mocha,Guard gem for MiniTest framework
+21402,guard-mirror,0.1.1|0.1.2|0.1.3|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5,Casey Foster,guard|sprockets|coffee-script|jade|stylus|closure-compiler|yui-compressor|json,"Mirror .coffee, .styl, and .jade as .js, .css, and .html"
+21403,guard-mocha-node,0.0.3|0.0.4|0.0.5|0.0.6,dave@kapoq.com|David Schoen &lt;dave@lyte.id.au&gt;,guard|rspec|guard-rspec|rake|rb-inotify|libnotify,Guard::MochaNode automatically runs your Mocha Node specs when files are modified
+21404,guard-motion,0.1.0|0.1.1|0.1.2,mordaroso,guard|rake|bundler|rspec|guard-rspec,Guard gem for RubyMotion
+21405,guard-mouch,0.0.1,Matthias Geisler,"",Guard gem for mouch
+21406,guard-mozrepl,0.0.1|0.0.2|0.0.3,Phil Hofmann,"",make guard reload the current tab when things change
+21407,guard-mustachejs,0.0.2,Nathan Matthews|Jamie Wilkinson,guard|bundler|guard-rspec|rspec,Guard for mustache.js templates
+21408,guard-mutant,0.0.1,Markus Schirp,guard|mutant|inflecto,Guard plugin for Mutant
+21409,guard-nanoc,0.1.0|1.0.0|1.0.1|1.0.2,Denis Defreyne,guard|nanoc,guard gem for nanoc
+21410,guard-notifier-git_auto_commit,0.1.0|0.1.1|0.1.2,tomykaira,guard|rake,GitAutoCommit receives guard's notification and commit with build status
+21411,guard-notifier-gntp_only-darwin,1.0|2.0,Michael Nowak,bundler|rake|rspec|guard,Mades Guard::Notifier::GNTP available only on Mac OS X (darwin)
+21412,guard-npm,1.0.0|1.0.1|1.0.2,Yann Lugrin|Alex Rabarts,guard|rspec,Guard gem for npm
+21413,guard-ocunit,0.1.0|0.1.1|0.1.2|0.1.3,Arthur Evstifeev,guard|open4|xcodebuild-rb|colored|bundler|rspec|guard-rspec,Guard gem for OCUnit
+21414,guard-openscad,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4,Caleb Buxton,growl|guard|rb-fsevent|scad4r|aruba|cucumber|guard-cucumber|guard-rspec|jeweler|rdoc|rspec|simplecov|simplecov-csv,Guard plugin for OpenSCAD
+21415,guard-parallel_all,1.0.0,sakai shunsuke,guard,parallel:[spec|features] &#12377;&#12427; guard
+21416,guard-passenger,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.1.0|0.2.0|0.2.1|0.3.0|0.4.0|0.5.0|0.5.1,Fabio Kuhn,guard|bundler|rspec|guard-rspec|guard-bundler,Guard gem for Passenger
+21417,guard-pdflatex,0.0.1|0.0.2|0.0.3,Jiunn Haur Lim,guard|bundler|rake,Guard::Pdflatex automatically generates your PDF files from your Latex files
+21418,guard-phantomjs-jasmine,0.0.1,Stas Suscov,guard|bundler|rake|rspec|guard-rspec,Guard for running Jasmine specs using PhantomJS
+21419,guard-phpcs,0.0.1|0.0.2|0.0.4|0.0.5|0.0.6,Patrik Henningsson,guard,Guard gem for running PHPCS
+21420,guard-phpmd,0.0.1|0.0.2|0.0.3,Patrik Henningsson,guard,Guard gem for running PHPMD
+21421,guard-phpspec,0.0.1|0.0.2,Isam Machlovi,guard|guard-rspec|rspec,Guard for projects using PHPSpec
+21422,guard-phpunit,0.0.1|0.0.2|0.0.3|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4,Maher Sallam,guard|bundler|rspec|guard-rspec|yard|redcarpet|pimpmychangelog,Guard gem for PHPUnit
+21423,guard-phpunit2,0.2.1|0.2.2|0.2.3|0.2.6|0.2.7,Maher Sallam|Ramon Soares|Marek Kalnik,guard|bundler|rspec|guard-rspec|yard|redcarpet|pimpmychangelog,Guard gem for PHPUnit
+21424,guard-play,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4,crazycode,shoulda|rdoc|bundler|jeweler|guard,guard-play
+21425,guard-post,0.5.0,Lance Pollard,"","Watch documents update, save them to MongoDB, MySQL, etc."
+21426,guard-pow,0.1.0|0.2.1|1.0.0|2.0.0,Thibaud Guillaume-Gentil,guard|bundler|rake|rspec,Guard plugin for Pow
+21427,guard-preek,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8,Jon Neverland,preek|guard|bundler|rake|guard-rspec|rspec|rspec-given|coveralls,View code smells (in color) when refactoring
+21428,guard-premailer,0.1.0,Immanuel H&#228;ussermann,guard|premailer|rspec,Guard gem for premailer
+21429,guard-preserves,0.1.0,Chris Rebel|Colin Rymer,bundler|rake|guard,Preserves compiler/copier guard plugin
+21430,guard-process,1.0|1.0.1|1.0.2|1.0.3|1.0.4|1.0.5|1.0.6,Mark Kremer,guard|spoon|minitest|mocha|guard-minitest|guard-bundler|rake|rb-inotify|pry,Guard extension to run cli processes
+21431,guard-processing,0.0.1,Yusuke Mito,"",Guard plugin for Processing
+21432,guard-prostores,0.0.1|0.0.2|0.0.3,Jonathan Mast,guard|httpclient,Guard gem for ProStores
+21433,guard-prove,1.0.0|1.0.1|1.0.2|1.1.0|1.2.0,Marian Schubert,guard|systemu|bundler|rspec,Guard gem for prove
+21434,guard-puma,0.0.2|0.0.3|0.1.0|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4,Jesse Cooke,guard|rb-inotify|libnotify|puma|rake|rspec|guard-rspec|pry,Restart puma when files change
+21435,guard-puppet,0.0.1|0.0.2,John Bintz,guard|puppet|rspec|mocha,Reapply Puppet configs automatically using Guard.
+21436,guard-puppet-lint,0.1.0|0.1.1|0.2.0,Alister Bulman,jeweler|rcov|libnotify|guard,run puppet-lint under guard
+21437,guard-pusher,0.0.1|0.0.2|0.0.3,Klaus Hartl,guard|pusher|bundler|rspec|guard-rspec|rb-fsevent,Guard gem for Pusher
+21438,guard-pushover,0.1.0|0.2.0|0.3.0|0.3.1,Jon Neverland,rushover|guard|guard|guard-rspec|rspec|coveralls,Guard gem for Pusher
+21439,guard-python-unittest,0.1.0,Konstantin Tennhard,guard,Guard for executing Python unit tests
+21440,guard-rack,1.0|1.1|1.2.1|1.2.2|1.3.0|1.3.1|1.4.0,Daniel Doubrovkine,guard|ffi|spoon|rb-inotify|libnotify|rake|bundler|rspec|fakefs|mocha|rack,Automatically reloads your Rack based app on file change using Guard.
+21441,guard-rackunit,1.0.0,Chad Albers,guard|guard-rspec|rspec|debugger,Guard plugin for Racket's RackUnit
+21442,guard-rackup,0.0.1,uu59,"",Alternative of shotgun that built on guard
+21443,guard-ragel,0.0.1|0.0.2|0.0.3|0.0.4,John Barker,guard|bundler|rake|rspec|rdoc|guard-rspec,Guard gem for Ragel
+21444,guardrail_notifier,0.2.11|0.2.12,Jeffrey Chupp|Jeremy Weiskotten,actionpack|json|fakeweb|shoulda|mocha|rake|jeweler|shoulda,Guardrail (http://guardrailapp.com) captures validation errors from your Ruby on Rails application.
+21445,guard-rails,0.0.1|0.0.2|0.0.3|0.1.0|0.1.1|0.2.0|0.2.1|0.2.2|0.2.3|0.3.0|0.3.1|0.3.2|0.3.3|0.3.4|0.4.0|0.4.1|0.4.2|0.4.3|0.4.4|0.4.5|0.4.6|0.4.7|0.5.0|0.5.1|0.5.2,John Bintz|Wanzhang Sheng,guard|rspec|mocha|version,Guard your Rails to always be there.
+21446,guard-rails-assets,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5,Dmytrii Nagirniak,guard|rake|rails|rspec,Guard for compiling Rails assets
+21447,guard-rails_best_practices,0.1.0|0.1.1|0.1.2|0.1.3,Logan Koester,guard|rails_best_practices|activesupport,"Guard for rails_best_practices, a code metric tool to check the quality of rails code."
+21448,guard-railstestdb,0.0.1|0.0.2|0.0.3|0.0.4,Leon Miller-Out,guard|guard-rake,Guard extension that automatically migrates your test database.
+21449,guard-rake,0.0.1|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9,Scott Barron,guard|rake,Guard for running rake tasks
+21450,guard-rake-vagrant,0.0.1|0.0.2|0.0.3,Salim Afiune,guard|rake|mixlib-shellout,Guard Plugin that uses Rake and Vagrant to converge cookbooks and run integration tests
+21451,guardrc,0.1|0.3,Keyvan Fatehi,"",Eval Guardfile commands in an external file from the Guardfile
+21452,guard-rdoc,1.0.1|1.0.2,Bradley J. Spaulding,guard|bundler|rake|sdoc,Automatically rebuild rdoc on code changes.
+21453,guard-readme-on-github,0.0.1,Bradley Grzesiak,guard|rdiscount,Preview your README as if it's on github
+21454,guard-rebar,1.0.0|1.1.0|1.1.1,Andrzej Sliwa,guard|rspec,Guard Rebar plugin
+21455,guard-redcarpet,0.0.1,Michael-Keith Bernard,rspec|redcarpet|guard,Guard for Redcarpet
+21456,guard-redis,0.1.0|0.2.0|0.2.1|0.2.2|0.3.0,Zachery Moneypenny,guard|redis|bundler|rspec|guard-rspec,Guard gem for Redis
+21457,guard-reek,0.0.1|0.0.2|0.0.3|0.0.4,Gustavo Villalta,reek|guard|bundler|guard-rspec|guard-bundler|simplecov|rspec|rake,Guard plugin for Reek
+21458,guard-reloader,0.1.0|0.1.1,Fajar Firdaus,guard|test-unit,Guard gem that reload file then run test
+21459,guard-remote-sync,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.7,Patrick McJury,guard|bundler|rake|rspec|guard-rspec|rspec-mocks,Guard gem for Remote Syncing through rsync
+21460,guard-resque,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5,Jacques Crocker|Ryan Long|David Parry|Jim Deville,guard|resque|bundler|rake|rspec|guard-rspec|guard-bundler,guard gem for resque
+21461,guard-resque-scheduler,0.0.1|0.0.2,Dan Nichols,guard|resque|resque-scheduler|bundler|rake|rspec|guard-rspec|guard-bundler,guard gem for resque-scheduler
+21462,guard-restarter,0.0.1|0.0.2|0.0.3,Caleb Spare,guard,A guard-plugin to restart a server.
+21463,guard-rna,0.0.1|0.0.2|0.0.3|0.0.4,Tung Nguyen,colorize|guard|rspec|travis-lint|growl|guard-bundler|guard-rspec|rb-fsevent,Guard::Rna automatically builds node.json files.
+21464,guard-rocco,0.0.1|0.0.2|0.0.3,John Bintz,guard|rocco|rspec|mocha,Guard to generate Rocco documentation
+21465,guard-ronn,0.1.0|0.1.1|0.1.2|0.2.0|1.0|1.1.0|2.0.0,Rémy Coutable,guard|ronn|bundler,Guard plugin for Ronn.
+21466,guard-roxy,0.0.2,Paxton Hare,"",Guard gem for running Roxy Unit Tests
+21467,guard-rrails,0.1.0|0.2.0,"Keiji, Yoshimi",rrails|guard|shoulda|rdoc|bundler|jeweler,run rrails on guard
+21468,guard-rspec,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7|0.1.8|0.1.9|0.2.0|0.3.0|0.3.1|0.4.0|0.4.1|0.4.2|0.4.3|0.4.4|0.4.5|0.5.0|0.5.1|0.5.2|0.5.3|0.5.4|0.5.5|0.5.6|0.5.7|0.5.8|0.5.9|0.5.10|0.5.11|0.6.0|0.7.0|0.7.1|0.7.2|0.7.3|1.0.0|1.0.1|1.1.0|1.2.0|1.2.1|2.0.0|2.1.0|2.1.1|2.1.2|2.2.0|2.2.1|2.2.2|2.3.0|2.3.1|2.3.2|2.3.3|2.4.0|2.4.1|2.5.0|2.5.1|2.5.2|2.5.3|2.5.4|2.6.0|3.0.0|3.0.1|3.0.2|3.0.3|3.1.0|4.0.0|4.0.1|4.0.2|4.0.3|4.0.4|4.1.0|4.1.1|4.2.0|4.2.1|4.2.2|4.2.3|4.2.4|4.2.5|4.2.6|4.2.7|4.2.8|4.2.9|4.2.10,Thibaud Guillaume-Gentil,guard|rspec|bundler|rake|launchy,Guard gem for RSpec
+21469,guard-rspec-jruby,0.0.6,Garrett Heaver,rspec|guard|guard-rspec,Guard::RSpec JRuby extension
+21470,guard-rspectacle,0.1.0|0.2.0|0.3.0,Michael Kessler,guard|rspec|bundler|guard-rspec|yard|kramdown,Guard gem for RSpec testing
+21471,guard-rsync,0.1.0|0.1.1,Kris Selden,guard|bundler,Guard gem for syncing directories
+21472,guard-rubby,0.0.1,James Harton,rubby|guard|rake|rspec,Automatically transpile Rubby into Ruby
+21473,guard_rubocop,0.0.1,Vassil Kalkov,rubocop|guard|guard-rspec|rake|rspec|bundler|simplecov,Guard gem for rubocop
+21474,guard-rubocop,0.0.1|0.0.2|0.0.3|0.0.4|0.1.0|0.2.0|0.2.1|0.2.2|1.0.0|1.0.1|1.0.2|1.1.0,Yuji Nakayama,guard|rubocop|bundler|rake|rspec|simplecov|guard-rspec|ruby_gntp,Guard plugin for RuboCop
+21475,guard-ruby,0.0.1,Justin Love,guard|mast,Guard gem for running simple Ruby files
+21476,guard-rubycritic,0.0.1|0.0.13,Guilherme Simoes,guard|rubycritic|bundler|rake|minitest|mocha,Listens to modifications and detects smells in Ruby files
+21477,guards,0.0.1,On-Site.com,"",HTML forms validation plugin for jQuery
+21478,guard-s3,0.1.0|0.1.1|0.1.2,James Welsh|Austin Mullins,aws-s3|guard,A simple guard library for syncing files with s3
+21479,guard-sass,0.0.2|0.0.3|0.0.5|0.0.6|0.1.1|0.1.2|0.1.3|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.3.0|0.3.1|0.3.2|0.3.3|0.3.4|0.4.0|0.5.0|0.5.1|0.5.2|0.5.3|0.5.4|0.6.0|0.7.0|0.7.1|1.0.0|1.0.1|1.0.2|1.0.3|1.0.4|1.0.5|1.0.6|1.1.0|1.2.0|1.3.0|1.3.1|1.3.2|1.4.0,Joshua Hawxwell,guard|sass|bundler|rspec,Guard gem for Sass
+21480,guard-schema,0.0.1,Dmitry Afanasyev,guard,Guard-Schema is a guard extension (fork of guard-db) handling the rake db:test:clone when schema.rb changes
+21481,guard-sculpin,0.1.0|0.1.1|0.2.0,Florian Eckerstorfer,guard,Guard gem for running Sculpin
+21482,guard-seeds,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7,Dmitry Afanasyev,guard,Guard-Seeds is a guard extension handling the rake db:seed when seeds.rb changes
+21483,guard-shell,0.1|0.1.1|0.2.0|0.3.0|0.4.0|0.5.0|0.5.1|0.5.2|0.6.0|0.6.1,Joshua Hawxwell,guard,Guard gem for running shell commands
+21484,guard-sheller,1.0.0,Ryan Sonnek,guard|bundler|rake,Guard plugin that automatically executes a configured shell script when files are updated
+21485,guard-shopify,0.0.1|0.0.2|0.0.3|0.0.4,Jonan Scheffler,guard|shopify_api|ptools|rspec|guard-rspec,Gem to upload Shopify template modifications.
+21486,guard-shopifytheme,0.0.1|0.0.2,Danny Smith,bundler|rake|shopify_theme|guard,Guard gem for updating shopify through shopify_theme
+21487,guard-shotgun,0.1.0|0.1.1|0.2.0,romain@softr.li|Colin Rymer,guard|ffi|spoon,Shotgun-like Guard for Rack apps
+21488,guard-sidekiq,0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.11,Mark Bolusmjak|pitr,guard|sidekiq|bundler|rb-fsevent|rake|rspec|guard-rspec|guard-bundler,guard gem for sidekiq
+21489,guard-simple_shell,0.0.1,Adam Pearson,guard|rainbow,"A guard that runs a shell command once, even when there are multiple file changes"
+21490,guardsjs-rails,0.7.2|1.0.0|1.1.0|1.2.0|1.2.0.1|1.2.1|1.3.0|1.3.1|1.3.2,Mike Virata-Stone,railties,Rails asset gem for guards.js.
+21491,guard-slim,0.0.1,Florian Aßmann,guard|slim,Guard to render Slim templates
+21492,guard-soca,0.1.2,Luke Amdor,"",Guard gem for soca
+21493,guard-spin,0.0.1|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.2.0|0.3.0,jonathangreenberg|Andrew Assarattanakul,guard|spin|bundler|rspec,Pushes watched files to Spin
+21494,guard-spinach,0.0.1|0.0.1.1|0.0.2|0.0.3,Josep Jaume,guard|spinach|mocha|minitest,guard-spinach is a guard plugin for spinach
+21495,guard-spinoff,0.0.1|0.0.2,Bernd Ahlers,guard|spinoff,Guard module for spinoff
+21496,guard-spork,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.1.0|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7|0.1.8|0.1.9|0.1.10|0.1.11|0.2.0|0.2.1|0.3.0|0.3.1|0.3.2|0.4.0|0.4.1|0.5.0|0.5.1|0.5.2|0.6.0|0.6.1|0.7.0|0.7.1|0.8.0|1.0.0|1.0.1|1.1.0|1.2.0|1.2.1|1.2.2|1.2.3|1.3.0|1.4.0|1.4.1|1.4.2|1.4.3|1.5.0|1.5.1,Thibaud Guillaume-Gentil,guard|spork|childprocess|bundler|rspec|guard-rspec,Guard gem for Spork
+21497,guard-sporkminitest,0.0.1|0.0.2,Yann Lugrin|☈king,guard|guard-spork|spork-minitest|rb-inotify|rb-fsevent|rake|minitest|bundler|mocha,Guard test files for Spork-owned MiniTest
+21498,guard-spring,0.0.1|0.0.2|0.0.3|0.0.4,Michał Knapik,guard|spring,Pushes watched files to spring
+21499,guard-sprite-factory,0.0.1,Christopher Hein,guard|rake|rails|sprite-factory|bundler,Guard for compiling and creating image sprites.
+21500,guard-sprockets,0.1.3|0.1.4|0.2.0|0.3.1|0.4.0|0.4.1|0.4.2|0.4.3|0.5.0|1.0.0|1.1.0,Aaron Cruz|Kematzy,guard|execjs|sprockets|bundler|rspec,Guard gem for Sprockets
+21501,guard-sprockets2,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6,Steve Hodgkiss,guard|sprockets|rspec|coffee-script|uglifier|sass|sinatra|cucumber|aruba|rails,Guard for compiling sprockets assets
+21502,guard-staticmatic,0.0.1,Miha Rebernik,guard|staticmatic,Guard plugin for compiling staticmatic websites.
+21503,guard-steering,0.0.1|0.0.2|0.0.3|0.0.4,Daniel Demmel,guard|steering,Guard gem for steering
+21504,guard-stendhal,0.0.1,Josep M. Bach,guard|bundler|rspec|stendhal,Guard gem for Stendhal
+21505,guard-stitch,0.0.1|0.0.2|0.0.3,stereosteve,guard|stitch-rb,Guard for stitch-rb
+21506,guard-stitch-plus,1.0.0|1.1.0,Brandon Mathis,guard|stitch-plus,A Guard plugin for compiling javascripts with Stitch Plus.
+21507,guard-strainer,1.0.0,Stafford Brunk,guard|strainer|bundler,guard-strainer will automatically execute a Strainerfile for a watched chef-repo or cookbook when it detects changes
+21508,guard-stylus,0.0.1|0.0.2,Tim Joseph dumol,guard|stylus|guard-helpers,A Guard plugin to watch and compile Stylus files
+21509,guard-sublime-ctags,0.0.1,sunteya,guard|gemtags|rake|version,guard for sublime text's ctag plugin
+21510,guard-sunspot,0.0.2,John Hampton|Anthony Smith,guard|sunspot_solr,Guard gem for sunspot solr
+21511,guard-sync,0.1.0|0.2.0|0.2.2,Kyle Cook,guard|bundler,Synchronization for guard
+21512,guard-tap,1.0.0|1.1.0|1.2.0,hitode909,bundler|rake|guard|rspec|guard-rspec|rspec,Guard gem for Test Anything Protocol)
+21513,guard-tay,0.0.1|0.0.2|0.0.4|0.1.0,Thomas Rix,tay|guard|rake,Guard gem for tay
+21514,guard-teabag,0.0.1|0.0.2,jejacks0n,guard|teabag,Run Javascript tests with Guard and all the features of Teabag
+21515,guard-teaspoon,0.0.3|0.0.4,jejacks0n,guard|teaspoon,Run Javascript tests with Guard and all the features of Teaspoon
+21516,guard-templates,0.0.1|0.0.2,Thomas Mayfield,guard|execjs|json|bundler|rspec|fakefs,Javascript template compilation via Guard
+21517,guard-templates-jshaml,0.1,Sébastien Drouyer,guard|haml_to_js|rspec|rake,Guard templates extension for jshaml
+21518,guard-test,0.1.1|0.1.2|0.1.3|0.1.4|0.1.6|0.2.0|0.3.0|0.3.1|0.4.0|0.4.1|0.4.2|0.4.3|0.5.0|0.6.0|0.7.0|0.8.0|1.0.0|2.0.0|2.0.1|2.0.2|2.0.3|2.0.4,Rémy Coutable,guard|test-unit|bundler|rspec,Guard plugin for Test::Unit 2
+21519,guard-tilt,0.0.1,Florian A&#223;mann,guard|tilt|riot|yard|bundler|jeweler|rcov,Guard to render templates.
+21520,guardtime,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5,Guardtime AS,"",GuardTime service access extension for Ruby
+21521,guard-titan,0.0.1|0.0.2,David Conner,guard|guard-shell,Run tests with Zeus using Guard Shell!
+21522,guard-toc,0.1.4|0.1.5,Jon Kinney,guard|kramdown,Build html file linking to all other files in a specified dir like a table of contents.
+21523,guard-treetop,0.1.0|0.1.1,José Otávio Rizzatti,guard|treetop,Guard gem for Treetop
+21524,guard-uglify,0.1.0|0.2.0,Aaron Cruz,guard|uglifier,guard file for the uglifier gem
+21525,guard-unicorn,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.1.0|0.1.1,Andrei Maxim,guard|rake|bundler|minitest,Guard for Unicorn
+21526,guard-unity,0.1.0,Thomas Muntaner,guard|nokogiri|formatador|bundler|rake|rspec|rspec-core|rspec-mocks,guard-unity automatically runs Unity Test Tools on file changes
+21527,guard-vows,0.0.2|0.0.3|0.0.4,James Harton,guard|bundler,Guard::Vows automatically runs your specs (much like autotest).
+21528,guard-webrick,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4,Fletcher Nichol,guard|spoon|ffi|launchy|rspec|guard-rspec,Guard gem for WEBrick
+21529,guard-xcode,1.0.0|1.0.1|1.0.2|1.0.3|1.0.4|1.0.5|1.0.6|1.0.7,Kyle Isom,guard,Run Xcode builds when source files change.
+21530,guard-xcoder,0.1.0,Franklin Webber,guard|bundler|rspec|guard-rspec,Guard gem for performing commands with Xcode projects
+21531,guard-xctool-test,0.1.0|0.1.1|0.1.2,Francis Chong,guard|xcodeproj|bundler|rake|rspec,Xctool test guard allows you to automically &amp; intelligently aunch specs when files are modified.
+21532,guard-yaml,0.0.1,Phillip Ridlen,guard|bundler,"You pass it a list of files to watch, it tries to parse them as YAML, and returns any errors that occurred while doing that."
+21533,guard-yard,1.0.0|1.0.1|1.0.2|2.0.0|2.0.1|2.1.0|2.1.1,Pan Thomakos,guard|yard,Guard gem for YARD
+21534,guard-yeti,0.0.1|0.0.2|0.0.3,Simon H&#248;jberg|Christopher Meiklejohn,guard|rake|minitest|guard-minitest,Guard::Yeti automatically run's your YUI tests via Yeti
+21535,guard-zen,0.0.2|0.0.3|0.0.4,Andrey Eremeev,"",guard gem for koans
+21536,guard-zeus,0.0.1|1.0.0|2.0.0,jonathangreenberg|Andrew Assarattanakul|Rob Sharp,guard|zeus|bundler|rspec,Pushes watched files to Zeus
+21537,guard-zeus-client,0.0.1|0.1.0|0.1.1,Ryan Schlesinger,guard|zeus|rspec|guard-rspec,Guard gem for Zeus
+21538,guard-zeus_server,0.0.2|0.0.3,Aaron Jensen,guard|rspec|fakefs,"Automatically starts/stops/restarts ""zeus server"" with guard."
+21539,guava-rb,1.0.9,Daniel Gaiottino,"",Google Guava Wrapper
+21540,gub,0.0.14|0.0.15|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.2.0,Omar Abdel-Wahab,bundler|rake|debugger|thor|octokit|terminal-table|highline|launchy,The missing command line tool for Github
+21541,gubby,0.0.1,Justin Basinger,bundler|rake,Gubby component system
+21542,gubby-gosu,0.0.1,Justin Basinger,bundler|rake|gosu|gubby|ruby-prof,Gosu specific additions to Gubby.
+21543,guc_terminal,0.0.1,Hossam Saraya,colorize|text-table|nokogiri|httpclient|choice|ntlm-http,Guc terminal gives you access to do repetitive tasks from your terminal. eg: view exam schedule and export it to google calendar
+21544,guerilla_patch,0.0.1,Jimmy Cuadra,rspec|pry|pry-nav,"GuerillaPatch is a Ruby gem to ease the transition to Ruby 2.0 when redefining behavior in existing objects (monkey patching). Ruby 2.0 introduces a new feature called refinements which allows you to create monkey patches that only exist in a scope where the refinement is explicitly included, preventing your changes from affected code that has not opted in. Using GuerillaPatch, you can use a common interface for writing a monkey patch that will use refinements if available, working seemlessly for both Ruby 1.9 and Ruby 2.0."
+21545,guerrilla_patch,1.0.0|2.0.0|2.1.0|2.2.0|2.3.0|2.3.1|2.4.0|2.5.0|2.6.0|2.6.1|2.6.2|2.7.0|2.7.1|2.8.0|2.8.1|2.8.2|2.8.3|2.8.4|2.8.5|2.8.6,drKreso,"",Since I am tired of hunting down monkey patches at large I am caging them inside this gem
+21546,guerrilla_rotate,0.1.0,Jason King,"",A/B Testing made simple
+21547,guess,0.0.1|0.0.2,Andrew Kane,rake|rspec,*Statistically* determine a person's gender based on his / her name.
+21548,guess4r,0.0.1.20120401.1,wanabe,"",libguess binding for ruby 1.9 or later.
+21549,guesser,0.01,Dmitry Ratnikov,"",Guesses whether : was :* or :)
+21550,guess_html_encoding,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9,"Andrew Cantino (Iteration Labs, LLC)",rspec,A small gem that attempts to guess and then force encoding of HTML documents for Ruby 1.9
+21551,guessmethod,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.1.0|0.1.1|0.1.2|0.1.3|0.2.0|0.2.1,Chris Shea,rake,an aggressive spell checker for irb
+21552,guessword,0.0.1|0.0.2|0.1.0,Chienyuan Eric Feng,"",Guess Word!
+21553,guestlist,0.0.1,Jeff Kreeftmeijer,httparty|rspec,Simple authentication using Github credentials.
+21554,guestlistapp,0.0.1|0.0.2|0.0.3|0.0.4,Daniel Choi,haml|nokogiri|sinatra,Stitch together all the attendees of a guestlistapp.com event
+21555,guff,0.0.2|0.0.4,Mike Hogan,"",Provides a set of classes to describe and save java classes. The idea is to avoid writing all the 'guff' that is typical in java projects by generating it from more succinct ruby models
+21556,guff-compass,0.7.0|1.0.0,Ken Wheeler,sass|compass,All the Sass framework you need.
+21557,gugl,0.1,Julio García,rspec|httparty|term-ansicolor,A wrapper to use google services programmatically
+21558,guh,0.0.2,Christoph Edthofer|Thomas Esterer,json|bundler|rake|rspec|yard,The official Ruby wrapper for guh.
+21559,guia_mais,0.2|0.3|0.3.1|0.3.2|0.3.3,Claudemiro Alves Feitosa Neto,hpricot|httparty|htmlentities,Busca dados no site Guia Mais através do telefone
+21560,guid,0.1.0|0.1.1,"Brian Takita, Ross Hale, &amp; David Garamond","",Guid is a Ruby library for portable GUID/UUID generation. At the moment it can be used on Windows (except first release of Win95 and older) and on Unix. This is a fork of David Garamond's ruby-uuid library.
+21561,guidance,0.0.1,Falk Hoppe,rails|coderay|compass-rails,Styleguide Support Tool
+21562,guidance-rails,0.0.1,stephen,railties|thor|rake,Styleguide Support Tool
+21563,gui_debugger,0.0.1|0.0.2,NorimasaAndo,bundler|rake|rspec|pry|actionpack|binding_of_caller|erubis,Styleguide Support Tool
+21564,guided_local_search,0.0.1,no-glue,bundler|rake|rspec,does guided local search to solve travelling salesman
+21565,guided_path,0.3.0,James,activemodel|activesupport|guard|json|ruby_gntp|rb-fsevent|minitest|guard-minitest|rdoc|bundler|jeweler,Parser for making interactive exercises in a human readable DSL
+21566,guided_randomness,0.1.1|0.1.2|0.1.3|0.1.4,Piotr Esse Szmielew|Rados&#322;aw Bu&#322;at|Robert Pankowecki,bsearch,"Simple gem for Ruby which extends Array class, and gave possibility to pick element from it at random, however with certain probability (probability is given for each element)."
+21567,guide-em-up,0.1.0|0.2.0|0.3.0|0.3.1,Bruno Michel,goliath|redcarpet|erubis|yajl-ruby|albino|minitest,Slide'em up is a tool for writing guides in markdown and generates one-page HTML document from them
+21568,guideline,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.1.0|0.1.1|0.1.2|0.1.3|0.2.0|0.2.1,Ryo NAKAMURA,code_analyzer|rspec|pry|simplecov,The guideline of your code
+21569,guidelines,0.0.1,Corey Innis,"",Adds guidelines to a Rails application.
+21570,guider,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9,Rene Saarsoo,kramdown|json,Sencha guide generator
+21571,guides,0.5.0|0.6.1|0.6.2|0.6.3|0.6.4|0.6.5|0.6.6|0.6.7|0.6.8|0.6.8.1|0.6.9|0.6.10|0.7.0|0.7.1|0.7.2,Yehuda Katz,actionpack|activesupport|rack|RedCloth|maruku|thor|thin|eventmachine|rspec|faraday|packager,Extracting the Rails Guides framework for the rest of us
+21572,guidestar,0.0.1|0.1.0|0.1.1|0.1.2|0.2.0|0.2.1|0.2.2|0.2.3,Kelly Martin,faraday|faraday_middleware|rash|multi_xml|nokogiri,Use this gem to access the Guidestar API
+21573,guidestar-ruby,1.0.0|1.1.0|1.1.1|1.1.2|1.2.0,Mauricio Gomes,nokogiri|rest-client,A ruby wrapper around the Guidestar API
+21574,gui_geometry,0.0.1|0.0.4|0.0.5|0.0.6|0.1.0|0.1.1|0.2.0|0.2.1|0.2.2|0.3.0|0.3.1,Shane Brinkman-Davis,rake|rspec|guard-rspec|guard-test|rb-fsevent|simplecov,2D geometry specificly designed to support graphical user interfaces and bitmaps
+21575,guignol,0.1|0.1.1|0.1.2|0.1.2.1|0.3.0|0.3.1|0.3.2|0.3.3|0.3.4|0.3.5|0.3.5.1|0.3.6|0.3.6.1|0.3.6.2|0.3.7|0.3.8|0.3.9|0.3.10|0.3.12|0.3.13,Julien Letessier,bundler|rspec|rake|pry|pry-nav|fog|parallel|activesupport|uuidtools|thor,Manipulate Amazon EC2 instances
+21576,guilded,1.0.0|1.0.1|1.0.2|1.0.3|1.0.4|1.0.5|1.0.6|1.0.7|1.0.8|1.0.9|1.0.10|1.0.12|1.0.13|1.0.14|1.1.0|2.0.0,Jason Harrelson,bundler|guard|guard-rspec|rb-fsevent|rspec|activesupport|rails,A set of tools that work with the Rails asset pipeline to help in authoring GUI components.
+21577,guileless,0.1.0|0.1.1,Inge Jørgensen,"",Naive HTML preprocessor
+21578,guilleiguaran-rubyntlm,0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2|0.1.2,Kohei Kajimoto,"",Ruby/NTLM library.
+21579,guillotine,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.1.0|0.1.1|0.1.2|0.2.0|1.0.0|1.0.1|1.0.2|1.0.3|1.0.4|1.0.5|1.0.6|1.0.7|1.0.8|1.1.0|1.2.0|1.2.1|1.3.0|1.4.0,Rick Olson,sinatra|addressable|rack-test,Adaptable private URL shortener
+21580,guinea_pig,0.1.3,Fernando Guillen,rails|mocha|sqlite3|assert_difference,"Very simple ABTest functionality for Ruby, based in ActiveRecord and with Rails 3 generators"
+21581,guinness,0.0.1|0.0.2|0.1.0,Robbie Marcelo,rack|tilt|rake|bundler,Guinness is a micro framework for building static websites.
+21582,gui_rules,0.0.1,Chemeris P.Taras,"",Gtk2 access library
+21583,guise,0.1.1|0.2.0|0.2.3|0.3.0|0.3.1|0.4.0|0.4.1,Eduardo Gutierrez,activerecord|activesupport|rake|rspec|factory_girl|shoulda-matchers|appraisal|pry|codeclimate-test-reporter|sqlite3,Guise provides methods to setup single table inheritance with multiple inheritances possible.
+21584,guitar_pro_parser,0.0.1|0.0.2|0.0.3|0.0.4,Alexander Borovykh,bundler|rake|rspec,This gem allows to read Guitar Pro files. Now it supports Guitar Pro 4 and 5 files. Version 3 should work but is not tested at all.
+21585,guitr,0.0.4|0.0.5|0.0.6,webdizz,git|hoe|rubyforge|hoe,The gem to ease of some git actions on multi-modules project with separate repository per module
+21586,gulesider,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7|0.1.8|0.1.9|0.1.10|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5,Goeran Hansen,mechanize,Screen scraper for gulesider.no. A global Norwegian phone book
+21587,gulp,0.1.0|0.1.1,Andrew Carpenter,activesupport|tokyocabinet|nokogiri|trollop,Identify Statistically Improbable Phrases (SIPs)
+21588,gumbie,0.1.0|0.1.2,zxy,"",Gumby Framework for RoR
+21589,gumbo,0.0.1,Paul Barry,coffee-script|cssmin|eco|liquid|uglifier,A standalone asset packager
+21590,gumby,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5,Francesco Serra,jquery-rails|modernizr-rails,Gumby Framework for Rails
+21591,gumby2-rails,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9,sethportman,"",Gumby Framework
+21592,gumby-framework,0.0.1,Jorge Coca,jquery-rails|modernizr-rails,Grumby Framework - Front End
+21593,gumby_on_rails,0.0.1,Brandon Dennis,rails|sass-rails|compass-rails|modular-scale|coffee-rails|jquery-rails|sqlite3,Rails Engine for Gumby Framework
+21594,gumby-rails,1.1,Fábio Luiz Nery de Miranda,jquery-rails|modernizr-rails,Rails Engine for Gumby Framework
+21595,gumdrop,0.2.1|0.2.2|0.2.3|0.2.4|0.2.7|0.2.8|0.2.9|0.2.10|0.2.11|0.2.12|0.2.13|0.2.14|0.2.15|0.2.16|0.3|0.3.2|0.3.3|0.3.4|0.3.5|0.3.6|0.3.7|0.3.8|0.3.9|0.3.10|0.4.0|0.5|0.5.1|0.5.2|0.6.0|0.6.1|0.6.2|0.6.3|0.6.4|0.7.0|0.7.1|0.7.2|0.7.3|0.7.3.1|0.7.4|0.7.5|0.8.0|1.0.0|1.0.1|1.0.2|1.0.3|1.1.0|1.1.1|1.1.2|1.1.3,Matt McCray,thor|tilt|active_support|onfire|sinatra|i18n|launchy|minitest|sqlite3,The sweet 'n simple cms and prototyping tool.
+21596,gummi,0.0.6|0.0.7|0.0.8|0.0.9|0.1.0|0.1.1|0.1.2|0.2.0|0.2.1|0.2.2|0.2.3|0.3.0|0.3.1|0.3.2|0.3.3|0.3.4|0.3.5|0.3.6|0.3.7|0.3.8|0.3.9|0.3.10|0.3.11|0.3.12|0.3.13|0.3.14|0.3.16|1.0.0|1.0.2|1.0.3,bukowskis,virtus|elasticsearch|activesupport|activemodel|hooks|leaflet|hashie|bundler|pry|rake|rspec,A small wrapper around Elasticsearch
+21597,gumrider,0.1.0|0.1.1|0.2.0,Vadim Demedes,http|crack|shoulda|bundler|jeweler|simplecov,API client for Gumroad
+21598,gumroad,0.0.1|0.9.0,maxstoller,httparty,Gumroad API wrapper
+21599,gumshoe,0.0.1,David Demaree,"",The ElasticSearch adapter you've been looking for
+21600,gun,0.0.1|0.0.2,Matt Carr,trollop|rye,Gun for deployment
+21601,GUnit,0.1.2|0.2.0|0.2.1|0.2.2|0.3.0|0.3.1|0.3.2|0.3.3|0.3.4|0.3.5,Greg Sterndale,mocha|ruby-debug,XUnit Test. Gangsta style.
+21602,gunner,0.0.1,Matthew Higgins,"",A gist runner
+21603,gunnertechnology,0.0.1|0.0.2|0.0.3|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11|0.0.12|0.0.13|0.0.14|0.0.15|0.0.16|0.0.17|0.0.18|0.0.19|0.0.20|0.0.21|0.0.22|0.1.0|0.1.2|0.1.3|0.1.4|0.1.6|0.1.7|0.1.8|0.1.9,Cody Swann,jquery-rails|devise|simple_form|nifty-generators,GT Functionality Packaged as a Gem for Easy Reuse
+21604,guns,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4,Blake Mizerany,"",Guns - It's got two pipes; got tickets to the show?
+21605,gunsru_api,0.0.1,Alex Burkov,json,API for guns.ru forum
+21606,gun_test,0.0.1|0.0.2,Héctor,bundler|rake|test-unit|colorize,Simple DSL to test the output of any executable.
+21607,gupshup,0.1.3|0.1.4|0.1.5|0.2.0|0.2.2|0.2.3,Nilesh Trivedi,httpclient,Ruby wrapper for SMSGupShup API
+21608,gurgitate-mail,1.7.2|1.8.0|1.8.1|1.8.2|1.8.3|1.8.4|1.8.5|1.9.0|1.9.1|1.10.0|1.10.1|1.10.2|1.10.3|1.10.5|1.10.9,Dave Brown,"",gurgitate-mail is a mail filter (and a mail-delivery agent)
+21609,gurgle,0.1.0,mbuckbee,thoughtbot-shoulda,Generate shortened URLs with goo.gl
+21610,gurk,0.0.1,Vixon,bundler|rake|rspec|rack-test|gherkin|http_router|tilt|thor,A plain english ruby microframework that makes sense
+21611,gurke,1.0.0|1.0.1|2.0.0|2.0.1,Jan Graichen,trollop|gherkin|colorize|bundler,An alternative gherkin feature runner inspired by rspec and turnip.
+21612,guru,0.0.1,Ryan Scott Lewis,"",Powerful configuration simplifies system administration.
+21613,gus,0.0.1|0.0.3|0.0.4,"",bundler|crack,Simple Ruby API for the Google Url Shortener
+21614,gus-importer,0.0.1|0.1.0,macbury@gmail.com,bundler|rake|libxml-ruby|thor|pry,Simple gem for extracting data from gus XML
+21615,gust,0.1.0|0.1.1|0.1.2|0.2.0|0.2.1|0.2.2,Jeff Kreeftmeijer,rspec|pygments.rb|redcarpet|RedCloth|nokogiri,Syntax highlighting and Markdown/Textile parsing
+21616,gusteau,0.3.8|0.3.9|0.4.0|0.4.1|0.4.2|0.4.3|0.4.4|0.4.5|0.4.6|0.4.7|0.4.8|1.1.0|1.1.1|1.2.0|1.3.0,Vasily Mikhaylichenko|Chris,optitron|inform|coderay|json|hashie|deep_merge|net-ssh|archive-tar-minitar|bundler|minitest|mocha|simplecov|coveralls,Making servers provisioning enjoyable since 2013.
+21617,gut,0.0.0,Khaja Minhajuddin,thor|rake|fakefs|rspec,git utility
+21618,gutenberg,0.0.0|0.0.1|1.0.0|1.1.0|1.1.1|1.1.2,George,mustache,README.md generator
+21619,gutenberg_book_finder,0.0.1|0.0.2|0.0.3|0.0.4,Aldric Giacomoni,bundler|rake|httparty|nokogiri,Get some info on books in Project Gutenberg
+21620,gutenberg_rdf,0.0.2|0.1.0|0.2.1|0.2.3|0.3.1,Mike Cook,rspec,A Ruby wrapper for the Project Gutenberg RDF catalog files.
+21621,guten-mtgox,0.8.0,Guten,pd|tagen|faraday|faraday_middleware|multi_json,An improved version of mtgox-gem with HTTP API v1
+21622,gutentag,0.1.0|0.2.0|0.2.1|0.2.2|0.3.0|0.4.0|0.5.0,Pat Allan,activerecord|combustion|rspec-rails|sqlite3,Good Tags
+21623,gutkumber,0.1.0,Daniel Lucraft,rspec|cucumber,Ruby-GNOME2 integration testing library
+21624,gutopia,0.0.5,"","",GUtopIa is GUI framework for Ruby.
+21625,gutter,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|1.0.0,Praveen Kumar Sinha|Rajeev Kannav Sharma,jquery-rails|jquery-ui-rails|jquery-datatables-rails,Gutter - Linux-Ruby DashBoard
+21626,guuby,0.0.1,ajax,hoe|duration,a couple of utilities for www.goofymob.com
+21627,guys,0.0.1,Jeremy Ruten,bundler|rake|rspec,A bunch of little guys that do useful things.
+21628,gvarela-bluepill,0.0.27|0.0.28,Arya Asemanfar|Gary Tsang|Rohith Ravi,daemons|blankslate|state_machine|activesupport,A process monitor written in Ruby with stability and minimalism in mind.
+21629,gvarela-integritray,0.2.1,Josh French|Justin Smestad,sinatra,CCMenu support for Integrity
+21630,gv-bedrock,0.0.1|0.0.2,Onur Uyar,bundler|rake|minitest|gv-common,Simple Rinda/Ring Network
+21631,gv-common,0.0.1,Onur Uyar,bundler|rake|minitest|activesupport|sticks-pipe|commander,GreenValley Shared Library
+21632,gvis,1.0.2|2.0.1|2.0.2|2.0.4|2.1.0,Jeremy Olliver,json|rake|bundler|minitest|coveralls|appraisal|actionpack,Easily embed charts with Google Visualization API
+21633,gviz,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.1.0|0.1.1|0.1.2|0.2.0|0.3.0|0.3.1|0.3.2|0.3.3|0.3.4,kyoendo,rspec|bundler|rake|thor,Ruby's interface of graphviz. It generate a dot file with simple ruby's syntax.
+21634,gv-RedCloth,4.2.9,Jason Garber|why the lucky stiff|Ola Bini,bundler|rake|rspec|diff-lcs|rvm|rake-compiler,RedCloth-4.2.9
+21635,gv-valley,0.0.1|0.0.2|0.0.3,Onur Uyar,bundler|rake|minitest|goliath|etcd|gv-common|gv-bedrock,Micro Private PaaS with Ruby
+21636,gw2,1.0.0|1.0.1|1.1.0|1.2.0,Chris Rosario,"",Guild Wars 2 API
+21637,gwdamcalc,0.1.0,Dan 'IAmAI' Stevens,"",Guild Wars Damage Calculator
+21638,g_web_font,0.0.1|0.0.2|0.0.3,Dakota Dux,rake|httparty|oj|hashie,Access a list of Google's webfonts through their API and provide rails views helpers
+21639,gwo,0.1.4,Alex MacCaw|Daniel Bornkessel|Johannes Mentz|Yan Minagawa,"",Plugin to easily make use of Server-Side Dynamic Section Variations with Google Web Optimizer
+21640,gwong-apn_on_rails,0.4.2,markbates|Rebecca Nesson,configatron|autotest|sqlite3-ruby|rspec|bundler|jeweler|rcov|actionpack|activerecord,Apple Push Notifications on Rails
+21641,gwooks,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6,Luca Ongaro,json|sinatra|rake|rspec|rack-test,A DSL for quickly creating endpoints for GitHub post-receive webhooks. It provides methods for executing blocks of code when GitHub posts a payload matching some conditions in response to a code push.
+21642,gwt,0.0.1|0.0.2,John Manoogian III,gdata|jeweler,the Google Webmaster Toolkit gem
+21643,gwtf,0.0.1|0.1.0|0.2.0|0.3.0|0.4.0|0.4.1|0.4.2|0.4.3|0.4.4|0.4.5|0.5.0|0.6.0|0.6.1|0.7.0|0.7.1|0.7.2|0.7.3|0.8.0,R.I.Pienaar,rake|rdoc|json|gli|boxcar_api|chronic,Go With The Flow
+21644,gwt_rpc,0.0.0|0.0.1|0.1.0|0.1.1|0.1.2,Andrew Carpenter,typhoeus|activesupport|json|rspec|bundler|jeweler|rcov|typhoeus|activesupport|json|rspec,Ruby Google Web Toolkit client
+21645,gwt-run,0.1.0,Christian Meier,rake|minitest|cucumber|copyright-headers|jetty-run,run gwt-shell with rack/rails
+21646,gwt_widgets,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7,Joel Byler,page-object|rspec|cucumber|yard|rack|watir-webdriver|selenium-webdriver,PageObject Widgets extention for GWT apps
+21647,gwx,0.1.0,Austin Spires,"",Google Weather API Wrapper
+21648,gwzz,0.0.1,Wei Zhu,bundler|rake,Test
+21649,gx,1.0.0|1.0.1|1.1.0|1.2.0|1.3.0|1.3.1|1.3.2|1.3.3,Evan Phoenix,grit|rdoc|hoe,"Gx is 3 git related tools: gx-update, gx-publish, and gx-pull-check  gx-update is a replacement for 'git pull' that includes an integrated conflict resolver"
+21650,gxapi_rails,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6,Dan Langevin,activesupport|celluloid|rest-client|json|google-api-client|rails|capybara|coffee-rails|debugger|mocha|rspec-rails|sass-rails|sqlite3,Google Analytics
+21651,gxt-widgets,0.1|0.2|0.2.1,William J. Powell|Jeff Morgan,page-object|rspec|cucumber|yard|rack|watir-webdriver|selenium-webdriver,PageObject Widgets to simplify testing GXT applications
+21652,gyaazle,0.0.1|0.0.2|0.1.0|0.2.0|0.2.1|0.2.2|0.2.3,uu59,httpclient|multi_json|nokogiri|trollop|launchy|pry|bundler|rake|rspec|simplecov|webmock,Gyazo like image uploader to Google Drive
+21653,gyast,0.1.0|0.2.0,hitode909,rspec|bundler|jeweler|rcov|gisty,gist gyazo
+21654,gyazo,0.0.1|0.0.2|0.0.3|0.0.5|0.1.0|0.2.0|0.2.1|0.3.1|0.4.2|1.0.0,Toshiyuki Masui,bundler|rake|minitest|json|httparty|httmultiparty|launchy,Upload an image to Gyazo.com
+21655,gyazz,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.8|0.0.9|1.0.0|1.0.1|1.0.2|1.0.3,Toshiyuki Masui|Sho Hashimoto,bundler|rake|minitest|json|httparty,Read/write Gyazz data
+21656,gyazz-markup,0.0.1|0.0.2|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4,Sho Hashimoto,args_parser|bundler|rake|minitest,convert Gyazz.com syntax to HTML.
+21657,gync,0.0.0|0.0.1|0.0.2|0.1.0|0.1.1|0.1.2,Potapov Sergey,git|rspec|bundler|jeweler|rcov|ruby-debug|ruby-debug19,Synchronizes data of desktop applications
+21658,gyoku,0.1.0|0.1.1|0.2.0|0.3.0|0.3.1|0.4.0|0.4.1|0.4.2|0.4.3|0.4.4|0.4.5|0.4.6|0.5.0|1.0.0|1.1.0|1.1.1,Daniel Harrington,builder|rake|rspec,Translates Ruby Hashes to XML
+21659,gyomu_ruby,0.0.1|0.0.2|0.0.4|0.0.5,"Eiwa System Management, Inc.",activesupport|aws-s3|rspec,GyomuRuby
+21660,gyordanov-multipass,1.1.3,rick,ezcrypto,Bare bones implementation of encoding and decoding MultiPass values for SSO.
+21661,gypsum,0.7.0|0.8.0|0.9.0|0.9.1,We Are Titans,activesupport|thor|rails|bundler|rspec|thor,gypsum-0.5
+21662,gyruby,0.0.1|0.0.2|0.1.1|0.1.3,Martin Kihlgren,"",A ruby binding for the Gyration FiireChief remote control for LinuxMCE.
+21663,gyst,0.0.2|0.0.3|0.0.4,Matt Scilipoti,aruba|awesome_print|minitest|rake,A suite of helpers to aid in speeding up your tests.
+21664,gyunyu,0.1.0|0.2.0|0.2.1|0.3.0|0.3.1|0.3.2,wtnabe,rtmilk|xml-simple|rtm-time|rspec|bundler|jeweler|yard|simplecov|rr,Simple RTM app for CLI
+21665,gzip,1.0,Branden Giacoletto,"","""hello world"".gzip  =&gt; Done"
+21666,gzip_filter,0.2,Eden Li (eden.li@gmail.com),mongrel|gem_plugin,The GzipFilter GemPlugin
+21667,h,1.0.0|1.0.1|1.1.1|1.1.2|2.0.0|2.1.1|2.1.2,Cyril Wack,highline|bundler|minitest|rake,Salted hashes tool
+21668,h13ronim-capybara,0.3.0.1,Jonas Nicklas,nokogiri|mime-types|culerity|selenium-webdriver|rack|rack-test|sinatra|rspec|hoe,"Capybara aims to simplify the process of integration testing Rack applications, such as Rails, Sinatra or Merb"
+21669,h13ronim-gcal4ruby,0.2.6|0.2.6.1,Mike Reich|Marcin Micha&#322;owski,"",A full featured wrapper for interacting with the Google Calendar API
+21670,h20,0.0.1|0.0.2|0.0.3|0.0.4,Jalendra Bhanarkar,json|json,Converts hash to objects
+21671,h2o,0.2|0.3.0|0.3.1|0.3.2,Taylor luk,"",h2o is a django inspired template
+21672,h2ocube_generator,0.0.1,Ben,rails|bundler,H2ocube Generator is the base Rails application builder.
+21673,h2ocube_rails_assets,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11|0.0.12|0.0.13|0.0.14|0.0.15|0.0.16|0.0.17|0.0.18|0.0.19|0.0.20|0.0.21|0.0.22|0.0.23|0.0.24|0.0.25|0.0.26|0.0.27|0.0.28|0.0.29|0.0.30|0.1.0|0.1.1,Ben,slim|sass-rails|compass-rails|coffee-rails|therubyracer|uglifier|quiet_assets|font-awesome-rails|minitest|capybara|rubyzip|vendorer|rails,Just an assets collection
+21674,h2ocube_rails_cache,0.0.1|0.0.2|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9,Ben,redis-namespace|rails|minitest-rails,Just an redis cache.
+21675,h2ocube_rails_development,0.0.1|0.0.2|0.0.3|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4,Ben,factory_girl_rails|pry-rails|rspec-rails|annotate|better_errors|binding_of_caller|meta_request|pry-remote|capybara|database_cleaner|timecop|capistrano|capistrano-bundler|capistrano-rails|capistrano-rbenv|powder|rubocop|spring|vendorer,Just a collection for development gems
+21676,h2ocube_rails_helper,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11|0.0.12|0.0.13|0.0.14|0.0.15|0.0.16|0.1.0,Ben,settingslogic|browser|tzinfo|rspec|rspec-rails|rr|capybara|rails|sqlite3,Just an helper collection
+21677,h2ocube_rails_production,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.1.0,Ben,exception_notification|whenever|god|h2ocube_rails_cache,Just a collection for production gems
+21678,h2ocube_rails_puma,0.0.1|0.0.2|0.0.3,Ben,puma,Just a collection for development gems
+21679,h2ocube_rails_rainbows,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7,Ben,rainbows,Rainbows! helper
+21680,h2ocube_rails_sunspot,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5,Ben,sunspot_rails|sunspot_solr,Easy way to use sunspot for rails
+21681,h2ocube_rails_tasks,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11|0.0.12|0.0.13|0.0.14,Ben,rainbow,This is a plugin to add some useful tasks to rails.
+21682,h2ocube_rails_test,0.0.1,Ben,rspec-rails|factory_girl_rails|rubocop|capybara|timecop|database_cleaner,Just a collection for test gems
+21683,h3m,0.1.0,Maxim Andryunin,bindata|bundler|rspec|rake,Extract some info from Heroes of Might and Magic 3 map (.h3m)
+21684,h4oflashsdk,1.0.0|1.0.1|1.0.2|1.0.3|1.0.4|1.0.5|1.0.6|1.0.7|1.0.8|1.0.9|1.0.10|1.0.11|1.0.12|1.0.13,Guenael LABOIS - H4o Studio,sprout|shoulda|mocha,"Adobe Flash SDK including mxmlc, compc, asdoc, adl, adt, optimizer and fdb"
+21685,h5-min,0.0.1|0.1.0|0.1.1|0.1.2|0.2.0|0.2.1|0.2.2,Run Paint Run Run,htmlentities|rspec|yard,Minify HTML5
+21686,h5_uploader,0.2.1|0.2.2|0.3.0|0.3.1|0.3.2|0.4.0,Andrea Campolonghi,rack-raw-upload|actionpack,Multiple file uploads usign html5 techniques
+21687,habari2md,0.0.1,Arnaud Berthomier,bundler|rake|celluloid|sequel|mysql,Habari to markdown
+21688,habeel-json-rpc-client,0.1|0.2,Habeel Ahmed,json|rest-client,Simple JSON RPC Client
+21689,haberdasher,0.1.0,Kenrick Chien,activesupport|appraisal|bundler|rake|rspec,"haberdasher is inspired by the excellent draper gem. Its goal is to support legacy apps written in Rails 2.3.x, starting from  Rails 2.3.5."
+21690,habitat,0.0.0|0.1.0|0.2.0,Ed Schmalzle,heroku,Automatically loads heroku config variables into your environment for development
+21691,habiter,0.1|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.2|0.3,Tom MacWright,"",A simple text-based habit tracker
+21692,habitrails,0.0.1,James OKelly,bundler|rake,making rails habitable
+21693,habits,0.1|0.1.1|0.1.2|0.1.3,Antti Hakala,"",A habit tracker.
+21694,habject,0.1.0|0.1.1,chatgris,rspec,Add object type notation to ruby hash.
+21695,habl,0.1.0,Florian A&#223;mann,xbel|haml|riot|yard,Shorten your XBEL by writing markup haiku.
+21696,habr,0.0.1,4pcbr,nokogiri,Use it when you need to get habrahabr user data
+21697,habtm_generator,0.1|0.2,Stefan Wienert,activerecord,Generates has-and-belongs-to-many migrations. Use rails generate habtm model1 model2
+21698,hacer,0.0.3,David Copeland,"",A very simple todo list API
+21699,hache,1.0.0|1.1.0,Francesco Rodríguez,cutest,"Escapes HTML tag characters: &amp;, &lt;&gt;, "", ', /."
+21700,hachioji,0.0.2,tmtysk,nokogiri|bundler|rake,Utilities for programmers in Hachioji
+21701,hack,0.1.0|0.1.1,Justin Pease,"",Hack - Convenient git workflow
+21702,hackathon_drone,0.0.1|0.0.2|0.0.3|0.0.4,François-Pierre Bouchard,git-branch_stats|thor,Follow your hackathon!
+21703,hack_bot,0.0.1|0.0.3|0.0.4|0.0.5,Geoff Petrie,bundler|rake|rspec|cinch-test|cinch,"An irc bot for #openhackabq on freenode, but reusable for anyone."
+21704,hackboxen,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5,kornypoet|Ganglion|bollacker,swineherd|configliere|rake|shoulda|bundler|jeweler|rcov,A simple framework to assist in standardizing the data-munging input/output process.
+21705,hackedunit-apn_sender,1.1.0,Kali Donovan|Tinu Cleatus,resque|resque-access_worker_from_job,Resque-based background worker to send Apple Push Notifications over a persistent TCP socket.
+21706,hackedunit-maxmind,0.2.0|0.3.0|0.3.1,Adam Daniels|Tinu Cleatus,"",MaxMind Minfraud using Net::HTTP
+21707,hacker,0.0.1,Stanley Tan,bundler|rake,A fun experiment
+21708,hackerdude-aws,2.3.25|2.3.26,Travis Reeder|Chad Arimura|RightScale,uuidtools|http_connection|xml-simple|activesupport,AWS Ruby Library for interfacing with Amazon Web Services.
+21709,hackernews,0.1.0|0.2.0|0.2.1,Tim Morgan,"",Ruby gem to login and interact with the Hacker News website.
+21710,hacker_news,0.1.0|0.1.1|0.2.1|0.2.2|0.2.3|0.3.0,Aleksandr Lossenko,nokogiri|iconv|bundler|jeweler|rcov|fakeweb,Wrapper for Hacker News website
+21711,hacker_news_search,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7,Ryan Resella,maruku|rake|rspec|simplecov|webmock|yard|faraday|faraday_middleware|hashie|multi_json|rash,Wrapper for the Hacker News Search API
+21712,hackeroo,0.1.0,Reza Jelveh,faraday|multi_json|simple_oauth|bundler,A Ruby interface to the Hackeroo API.
+21713,hacker_rank,0.0.1,Chris Oliver,bundler|rake|httparty,A Ruby interface to the HackerRank / InterviewStreet API
+21714,hackersays,1.0.0|1.0.3|1.0.4,Hemanth.HM,json,Hackersays!
+21715,hackershout,0.1.0|0.2.0,Josep M. Bach|Josep Jaume Rey|Oriol Gual,nokogiri|mechanize|rspec|guard|guard-rspec|rb-fsevent|vcr,"Shout your hackerness! Promote your work on Reddit, Hackernews and Ruby Flow."
+21716,hacker_term,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6,Ciaran Archer,rest-client|launchy|clipboard|rspec,"Allows the reading, sorting and opening of HN articles from the terminal."
+21717,hacker_todo_list,1.0.0|1.0.1|1.0.2|1.1.0|1.1.1,Manjunath,httparty|json,A command line To-Do list
+21718,hackety_hack,0.0.1,Steve Klabnik,"",The easiest way to learn programming!
+21719,hackety_hack-lessons,0.0.1|1.0.0|1.0.1|1.0.2|1.0.3|1.1.0|1.1.1|1.1.2,Steve Klabnik,metadown,The lessons from Hackety Hack.
+21720,hackety_sling,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6,Ralph von der Heyden,document_mapper|erubis|sinatra|ratom|rack-test|RedCloth,A simple blog engine based on Sinatra and document_mapper
+21721,hacklet,0.5.0|0.5.1|0.6.0,Matt Colyer,libftdi-ruby|bindata|slop|rake|rspec|timecop,"A daemon, written in ruby, for controlling the Modlet outlet."
+21722,hackpad-cli,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.1.0|0.1.1|0.1.2,mose,thor|cliprompt|paint|oauth|reverse_markdown|bundler|rake|rspec|webmock|coveralls|codeclimate-test-reporter,CLI for hackpad browsing and editing.
+21723,hacksaw,0.0.0,Dave Parfitt,"",Hacksaw
+21724,hack_tree,0.1.0|0.1.1|0.1.2,Alex Fortuna,rspec|yard,Organize and share your console hacks
+21725,hacky_hal,0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5,Nick Ewing,upnp-nickewing|serialport|net-ssh,A small library to control a limited set of devices.
+21726,haco,0.0.1,"Anditto, Hector","",Hola!
+21727,hactor,0.0.1|0.0.2,Mike Kelly,rspec|faraday|addressable,A framework for building hypermedia clients
+21728,haddock,0.2.0|0.2.1|0.2.2,Stephen Celis,"",A more memorable password generator
+21729,hades,0.0.1,Corey Donohoe,bundler|rake,Hell is other people's deployment systems.
+21730,hadley,0.0.1|0.0.2|0.0.3,Sean M. Duncan,yard|yard-sinatra|rspec|active_support|dalli|sinatra|warden,Rack middleware for AFID(bby-id) resource server implementations
+21731,hadoop-csv,0.0.3,Aleksander Pohl,"",Hadoop CSV format parser.
+21732,hadoop-jruby-connector,0.0.1.2010122601|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9,Koichi Fujikawa,"",Hadoop connector by JRuby
+21733,hadoop-metrics,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7,Masahiro Nakagawa,rake,Wrapper for Hadoop Metrics API
+21734,hadoop-papyrus,0.0.6,Koichi Fujikawa,jruby-on-hadoop,Hadoop papyrus
+21735,hadoop-rubydsl,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6,Koichi Fujikawa,jruby-on-hadoop,Hadoop Ruby DSL is now changed to Hadoop Papyrus. Please use it.
+21736,hadupils,0.1.1|0.1.2|0.1.3|0.2.0|0.3.0|0.4.0|0.5.0|0.6.0|0.6.1,Ethan Rowe,uuid|bundler|mocha|rake|shoulda-context,Provides utilities for dynamic hadoop client environment configuration
+21737,haecksler,0.0.1|0.1.0,Frank Falkenberg,bundler|rake|rspec,Library to parse fixed-length files
+21738,haggis,0.0.1,Dave the Ninja,bundler|rake,to a bundle install near you
+21739,haguruma,0.0.0,chocoby,bundler,shakai ha kibishii...
+21740,haiku,0.0.1,Your Name,activesupport|rails,haiku-0.0.1
+21741,haikuable,0.0.1|0.0.2|0.1.0|0.1.1,thenickcox,bundler|rake|rspec|syllabize,Test the haikuability of a string
+21742,haikulearning_mongrel_upload_progress,0.2.3|0.2.4,"The Mongrel team, with modifications by Marcos Wright Kuhns",mongrel|gem_plugin,The haikulearning fork of the mongrel_upload_progress gemplugin
+21743,haiku_name,0.0.1,Brendon Murphy,minitest,Generate pleasing random name strings
+21744,hail,0.0.1,Kliment Mamykin,amqp|rspec|amqp-spec,Hail to
+21745,hailinator,0.0.2,Nathaniel Jones,"",Hailinator!
+21746,haipa,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8,Jon Doveston,faraday|addressable|bundler|rake|rspec,HAL hypermedia client
+21747,hairball,0.1.0,Dayton Nolan,shoulda|rdoc|bundler|jeweler|simplecov,A pile of shit someone else wrote that you now have to maintain
+21748,hairtrigger,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7|0.1.8|0.1.9|0.1.10|0.1.11|0.1.12|0.1.13|0.1.14|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5|0.2.6|0.2.7|0.2.8|0.2.9,Jon Jensen,activerecord|ruby_parser|ruby2ruby|rake|rspec|mysql|mysql2|pg|sqlite3,easy database triggers for active record
+21749,hairy_dangerzone,0.0.1|0.0.2,Tim Medina,bundler|rake|rspec,This is an awesome gem.
+21750,haiti,0.0.1|0.0.2|0.0.3|0.0.4,Josh Cheek,cucumber|rspec,Simple Cucumber steps for command line programs
+21751,hakii,0.0.1,Andor,rdoc,Yet another simple and stupid static site generator.
+21752,hakiri,0.0.2|0.1.0|0.2.0|0.2.1|0.3.0|0.3.1|0.3.2|0.4.0|0.5.0|0.5.1|0.5.2|0.5.3|0.6.0|0.6.1|0.7.0|0.7.2,Vasily Vasinov,bundler|rake|commander|terminal-table|activesupport|i18n|rest-client|json|minitest,Secure Rails with Hakiri
+21753,hakon-lacquer,0.4.1,"Russ Smith (russ@bashme.org)|Ryan Johns|Garry Tan (garry@posterous.com), Gabe da Silveira (gabe@websaviour.com)|H&#229;kon Lerring",activesupport|i18n|jeweler|rake|yard|rspec,Rails drop in for Varnish support.
+21754,hakoy,0.0.1|0.0.2,Lin He,bundler|rake|rspec|guard-rspec,Parse and organize data into timestamp-sliced directories.
+21755,hakto,0.0.1|0.1.0,Moza USANE,"",Hakto Safe SDBM Wrapper is a safe wrapper of SDBM class.
+21756,haku,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6,utenmiki,bundler|yard|rake|rspec,offering esay way solution for Project Euler
+21757,hal,0.0.1,Alexandre de Oliveira,"",Write a gem summary
+21758,hal9000,0.1.0,David Rodrigues,oj|bundler|rake,"hal maps your commands to an human readable form, you  just need to think what you want to do and hal will do it for you with pleasure! It's like a domain for a not-easy-to-remember ip but for your commands."
+21759,halb,0.1.0|0.2.0|0.3.0|0.4.0|0.5.0,TeamIguana,rake|net-ssh|mocha|test-unit,Manage deploys behind HA.D/LDirector/LVS/HAProxy Load Balancers
+21760,hal-client,1.1.0|1.3.1|1.4.0|1.5.0|2.0.0|2.0.1|2.0.2|2.2.0|2.2.1|2.3.1|2.4.0|2.5.0|3.0|3.1|3.1.1,Peter Williams,http|addressable|multi_json|bundler|rake|rspec|webmock|rspec-collection_matchers,Use HAL APIs easily
+21761,halcyon,0.3.7|0.3.18|0.3.22|0.4.0|0.5.0|0.5.1|0.5.2|0.5.3|0.5.4,Matt Todd,merb-core|rack|extlib|json_pure|rubigen,A JSON App Server Framework
+21762,halfbyte-mongoid_grid,0.0.2,Jan Krutisch,mime-types|mongoid,Plugin for Mongoid to use GridFS and a Rack helper
+21763,halfday,0.0.1|0.1.2|0.1.2.1|0.1.3,Samuel Garneau,bundler|rake|capistrano|capistrano-ext|foreman,"Collection of Capistrano recipes - Deploy. Then, take a halfday."
+21764,half-pipe,0.0.1|0.1.0|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4,Joe Fiorini,sass,"Gem to replace the Rails asset pipeline with a Grunt.js-based workflow, providing dependencies via Bower."
+21765,half_shell,0.0.3,Chris Gibson,open4|minitest,a simple ruby gem for executing shell commands
+21766,halibut,0.0.1|0.1.0|0.2.0|0.3.0|0.3.1|0.4.0|0.4.1|0.5.0,Ricardo Mendes,multi_json|rake|minitest|hash-differ,A HAL parser and builder for use in Hypermedia APIs
+21767,halidator,0.2.0|0.2.1|0.3.1|0.5.0|0.5.1,Bob Larrick,json|json-schema,A small library to validate hal+json
+21768,hal-interpretation,1.0.0|1.1.0,Peter Williams,hal-client|hana|multi_json|bundler|rake|rspec|rspec-collection_matchers|activemodel|activesupport,Build models from HAL documents.
+21769,hall,0.0.1|0.0.2|0.0.3|0.0.4,Alexander Berezovsky,httparty|rake|bundler|rspec|rr|webmock|vcr|rdoc,Client for corporate messanger Hall.com allow to post message to the chat room
+21770,hallelujah-cassandra,0.12.3,"Evan Weaver, Ryan King",thrift_client|json|rake|simple_uuid,A Ruby client for the Cassandra distributed database.
+21771,hallelujah-cassandra-cql,1.0.4,Kelley Reynolds,bundler|simplecov|rspec|rake|yard|simple_uuid|thrift_client,CQL Interface to Cassandra
+21772,hallmonitor,0.0.1|0.0.2|0.1.0,Chris TenHarmsel,json|statsd-ruby|rspec|rdoc|bundler|pry-debugger|rake,Simple Ruby Event Monitoring
+21773,hallo,1.0.0,Samer Buna,rails|jquery-rails|font-awesome-rails|jquery-ui-themes,hallo.js For Rails
+21774,hallon,0.0.0|0.1.0|0.1.1|0.2.0|0.2.1|0.3.0|0.4.0|0.8.0|0.9.0|0.9.1|0.10.1|0.11.0|0.12.0|0.13.0|0.14.0|0.15.0|0.16.0|0.17.0|0.18.0|0.18.1|0.18.2,Kim Burgestrand,weak_observable|spotify|ffi|rake|rspec,Hallon allows you to write Ruby applications utilizing the official Spotify C API.
+21775,hallon-fifo,0.0.1|0.0.2|0.0.3,Elliott Williams,mkfifo,Stream Spotify through Hallon to a FIFO queue.
+21776,hallon-openal,0.0.2|0.0.3|1.0.0|1.0.1,Kim Burgestrand,hallon|rspec,OpenAL audio drivers for Hallon: http://rubygems.org/gems/hallon
+21777,hallon-queue-output,0.0.2,Elliott Williams,"",Stream Spotify via Hallon to ruby Queue for playback or processing in another thread.
+21778,hallo_rails,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.1.0|0.1.1|0.1.2|0.1.3|0.1.5|0.1.6|0.1.7|0.1.8|0.1.9|0.2.0|0.2.1|0.2.2|0.2.3|0.2.5|0.2.6|0.2.7|0.2.8|0.2.9|0.3.0,Nico,rails,Use the Hallo editor to edit content in a Rails app.
+21779,hallo-rails,1.0.3,Jan Jones,bundler|rake|rangy-rails,Use Hallo in-place rich text editor for Rails.
+21780,halloween,0.0.1|0.0.2,Jack,"",demo summary
+21781,halo,0.1.0,Samer Buna,"",testing gem
+21782,halo-reach-api,1.0.0|1.0.1|1.0.2|1.0.3|1.0.4|1.0.5,David Czarnecki,httparty|json|rake|fakeweb|mocha,Ruby gem for interacting with the Halo:Reach API
+21783,halorgium-auth-hmac,1.1.1.2010090301|1.1.1.2010090302|1.1.1.2010090303|1.1.1.2010100502|1.1.1.2010100601,Sean Geoghegan|ascarter|Wes Morgan|Adrian Cushman,hoe,A gem providing HMAC based authentication for HTTP
+21784,halo-rjpima,0.0.1,rjpima,"",Hola!
+21785,halo_waypoint,0.0.1|0.0.2,Kevin Thompson,httparty|bundler|guard|guard-rspec|rake|rspec|rb-fsevent,A simple wrapper around the Halo Waypoint service that can be used for retrieving player and game information from games such as Halo 4.
+21786,hal_spec,0.0.1|1.0.0|1.0.1,Luis Borjas,halidator|json_spec|rspec|cucumber|rack-test,Adds custom matchers for RSpec and step definitions for cucumber to validate and inspect Hypertext Application Language (+json) responses
+21787,halu,0.0.1,TANAKA Shin-ya(id:ha-tan),"",Halu ... HAskell-like List Utility
+21788,halvsies,0.0.1,Taylor Stackpole,compass,scss half-page/half-div
+21789,ham,0.0.1|0.0.2|0.0.3,James Rose,httparty|rake|minitest,Ham
+21790,hamburglar,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.2.0,Joshua Priddle,faraday|faraday_middleware|rspec|rake|fakeweb|vcr,Hamburglar helps you prevent fraudulent orders
+21791,ham_callsign,0.1.1|0.1.2|0.1.3,Graham McIntire,awesome_print|rest-client|multi_json,Performs amateur radio callsign lookups via search.ham.io
+21792,hamcrest4qunit,1.3.0,C&#233;dric N&#233;h&#233;mie,rails|coffee-rails,A port of the Hamcrest matchers for QUnit
+21793,hamdown,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11|0.0.12|0.0.13|0.0.14|0.0.15|0.0.16|0.0.17,Robert Fletcher,rdiscount|haml|trollop,Hamdown converts a markdown file to html and plops it into a haml template
+21794,hamgen,0.1,Hampton Catlin,colored|rails|haml|rake,Hampton's preferred Rails 3.0 generator based off Shawn Allison's work
+21795,haml,1.0.0|1.0.1|1.0.2|1.0.3|1.0.4|1.0.5|1.5.0|1.5.1|1.5.2|1.7.0|1.7.1|1.7.2|1.8.0|1.8.1|1.8.2|2.0.0|2.0.1|2.0.2|2.0.3|2.0.4|2.0.5|2.0.6|2.0.7|2.0.8|2.0.9|2.0.10|2.2.0|2.2.1|2.2.2|2.2.3|2.2.4|2.2.5|2.2.6|2.2.8|2.2.9|2.2.10|2.2.11|2.2.12|2.2.13|2.2.14|2.2.15|2.2.16|2.2.17|2.2.18|2.2.19|2.2.20|2.2.21|2.2.22|2.2.23|2.2.24|3.0.0|3.0.1|3.0.2|3.0.3|3.0.4|3.0.5|3.0.6|3.0.7|3.0.9|3.0.10|3.0.11|3.0.12|3.0.13|3.0.14|3.0.15|3.0.16|3.0.17|3.0.18|3.0.21|3.0.22|3.0.23|3.0.24|3.0.25|3.1.0|3.1.1|3.1.2|3.1.3|3.1.4|3.1.5|3.1.6|3.1.7|3.1.8|4.0.0|4.0.1|4.0.2|4.0.3|4.0.4|4.0.5,Nathan Weizenbaum|Hampton Catlin|Norman Clarke,tilt|rails|rbench|minitest|nokogiri,"An elegant, structured (X)HTML/XML templating engine."
+21796,haml2erb,0.2.0|0.2.1,Louis Sivillo,mixology,Haml to ERB Converter
+21797,haml2handlebars,0.0.1|0.0.2,Elia Schito|Micah Geisel,haml|rspec|rake,Convert Haml templates to Handlebars!
+21798,haml2slim,0.1.0|0.1.1|0.2.0|0.3.0|0.4.0|0.4.1|0.4.2|0.4.3|0.4.4|0.4.5|0.4.6|0.4.7,Fred Wu,haml|nokogiri|ruby_parser|rake|slim,Haml to Slim converter.
+21799,haml_assets,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.1.0|0.2.1|0.2.2,Les Hill|Wes Gibbs,haml|tilt|rails|rspec|rspec-rails|ejs,Use Haml with Rails helpers in the asset pipeline
+21800,hamlbars,1.0.0|1.1.0|2.0.0|2.0.1|2.1.0|2.1.1,James Harton,haml|sprockets|tilt|execjs|rake|rspec|activesupport,Extensions to Haml to allow creation of handlebars expressions.
+21801,hamlboard,0.0.1|0.0.2|0.0.3|0.0.4|0.0.5|0.0.6,DFischer,html2haml|erubis|ruby_parser|main,Just a quick way to convert html to haml and put it in your clipboard.
+21802,haml-bootstrap-rails,0.3.11,David Elentok,haml|activesupport|actionpack|railties|rails|bundler,twitter-bootstrap haml generators
+21803,haml-coderay,0.0.1|0.0.2|0.1.0|0.1.1|0.1.2|0.2.0,Ørjan Blom,coderay|haml|kramdown|rake|rspec|simplecov|yard,CodeRay filter for Haml
+21804,haml-coffee,0.1.0,Brennan Frydl,rspec|execjs|coffee-script,Ruby wrapper around the JavaScript haml-coffee compiler
+21805,haml_coffee_assets,0.0.1|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5|0.2.6|0.3.0|0.4.0|0.4.1|0.5.0|0.5.1|0.5.2|0.5.3|0.6.0|0.6.1|0.7.0|0.7.1|0.8.0|0.8.1|0.8.2|0.8.3|0.8.4|0.8.5|0.8.6|0.9.0|0.9.1|0.9.2|0.9.3|0.9.4|0.9.5|1.0.0|1.1.0|1.1.1|1.1.2|1.1.3|1.2.0|1.3.0|1.4.0|1.4.1|1.4.2|1.4.3|1.4.5|1.4.6|1.4.7|1.4.9|1.5.1|1.6.0|1.6.2|1.7.0|1.7.1|1.7.2|1.8.2|1.9.1|1.10.0|1.11.0|1.11.1|1.12.0|1.13.0|1.13.1|1.13.2|1.14.0|1.14.1|1.15.0|1.15.1|1.16.0,Michael Kessler,coffee-script|tilt|sprockets|bundler,Haml CoffeeScript templates
+21806,haml-coffeescript,0.1.0,Tomotaka Sakuma,haml|shoulda|bundler|jeweler|rcov,In order to use ':coffeescript' filter in Haml.
+21807,haml-coffee-script,0.0.1,Alexander Semyonov,haml|coffee-script,CoffeeScript (:coffee) filter for Haml
+21808,haml-coffee-source,1.11.3|1.11.4,Michael Kessler,"",Haml Coffee Compiler
+21809,haml-contrib,0.0.1|1.0.0|1.0.0.1,Norman Clarke,haml|minitest,Addons to Haml
