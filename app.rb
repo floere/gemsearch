@@ -112,7 +112,7 @@ class GemSearch < Sinatra::Application
     results = results.to_hash
     results.extend Picky::Convenience
     results.populate_with AGem do |a_gem|
-      a_gem.to_s
+      a_gem.to_html
     end
 
     #

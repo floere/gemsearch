@@ -1,7 +1,8 @@
 1,_,1.0|1.1|1.2,Yusuke Endoh,hoe,_ allows you to write Ruby script by using only _.
 2,-,"","","",
 3,0mq,0.1.1|0.1.2|0.2.0|0.2.1|0.3.0|0.4.0|0.4.1|0.5.0|0.5.1|0.5.2,Joe McIlvain|Alex McLain,ffi-rzmq-core|bundler|rake|pry|pry-rescue|rspec|rspec-its|fivemat,0mq
-4,0mq,0.1.0|0.1.1|0.1.2|0.2.0|0.2.1|0.3.0|0.4.0|0.4.1|0.5.0|0.5.1|0.5.2,Joe McIlvain|Alex McLain,ffi-rzmq-core|bundler|rake|pry|pry-rescue|rspec|rspec-its|fivemat,0mq5,0xffffff,0.0.1|0.1.0,youpy,chunky_png|flickraw-cached|rspec|jeweler,A Tool to Upload Images
+4,0mq,0.1.0|0.1.1|0.1.2|0.2.0|0.2.1|0.3.0|0.4.0|0.4.1|0.5.0|0.5.1|0.5.2,Joe McIlvain|Alex McLain,ffi-rzmq-core|bundler|rake|pry|pry-rescue|rspec|rspec-its|fivemat,0mq
+5,0xffffff,0.0.1|0.1.0,youpy,chunky_png|flickraw-cached|rspec|jeweler,A Tool to Upload Images
 6,1234567890_,1.1,Yusuke Endoh,bundler|rake,1234567890 allows you to write Ruby script by using only numbers.
 7,12_hour_time,0.0.3|0.0.4,Nick Muerdter|Maurice Aubrey,"",12 Hour Time
 8,189seg,"","","",
@@ -19773,3 +19774,278 @@
 19770,git-redmine-commit,0.2.0|0.3.0|0.4.0|0.5.0|0.6.0|0.7.0|0.8.0|0.8.1|0.8.2,Robin Lu,bundler|jeweler|xml-simple,git commit with redmine issue id
 19771,git_reflow,0.2.1|0.2.2|0.2.4|0.2.5|0.3.1|0.3.2|0.3.3|0.3.4|0.3.5,Valentino Stoll|Robert Stern|Nicholas Hance,bundler|rake|rdoc|jeweler|colorize|gli|highline|httpclient|json_pure|github_api,A better git process
 19772,git-release,"","","",
+19773,git_remote_branch,0.2.3|0.2.4|0.2.6|0.3.0|0.3.1|0.3.2|0.3.3|0.3.4|0.3.5|0.3.6|0.3.7|0.3.8,Mathieu Martin|Carl Mercier,rake|rdoc|test-unit|shoulda|mocha|pry|pry-nav,git_remote_branch eases the interaction with remote branches
+19774,Git_Repo,0.1.0,da99,rake|bacon|Bacon_Colored,Helpers to manipulate Git Repos
+19775,gitreport,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.1.0|0.1.1,Jan Roesner,json|spork|rspec|webmock|shoulda|bundler|jeweler|rcov,gitreport tracks your commits and pushes metadata to gitreport.com
+19776,git_repository,"","","",
+19777,git-review,0.4.2|0.5.0|0.5.1|0.6.1|0.6.3|0.6.4|0.6.5|0.6.6|0.6.7|0.7.0|0.7.1|0.7.2|0.7.3|0.7.6|0.7.9|0.8.1|0.8.2|0.8.3|0.8.4|0.8.5|0.8.6|0.8.7|0.8.8|0.8.9|0.9.0|1.0.0|1.0.1|1.0.2|1.0.3|1.0.5|1.0.6|1.0.7|1.1.1|1.1.2|1.1.3|1.1.5|1.1.6|1.1.7|2.0.0,Dominik Bamberger,launchy|yajl-ruby|hashie|gli|octokit|rspec|guard|guard-rspec,Facilitates GitHub code reviews
+19778,git-review-branch,"","","",
+19779,git-review-notes,0.0.3|0.0.5|0.0.6,Aleksei Gusev,git|thor|cucumber|aruba|guard-cucumber|active_support,Adds git review command.
+19780,git-revision,"","","",
+19781,gitroom,0.0.2,Alexey Fedorov (waterlink),git|rfuse|activerecord|pg|sqlite3|standalone_migrations|json|redis|hiredis,Git Room!
+19782,git-runner,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.1.0|0.1.1|0.1.2|0.1.3|0.1.3.1,James Brooks,session,Ruby framework to run tasks after code has been pushed to a Git repository.
+19783,git-runner-deploy,0.0.2|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5,James Brooks,git-runner,Capistrano deploy module for git-runner
+19784,gitscape,0.2|1.1|1.2|1.3|1.3.1|1.3.2|1.3.3|1.3.4|1.3.5|1.3.6|1.3.7|1.3.8|1.3.9|1.4.0|1.4.1|1.5|1.5.1|1.5.2.1|1.5.3|1.5.4|1.5.5|1.5.6|1.5.7|1.6.1|1.6.2|1.6.3|1.6.4|1.6.5|1.6.6,Jon Botelho|Xavier Matos,git,Various Git utilities for cherry-pick/rebase workflows.
+19785,git_scf,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8,Jeff Blasius,rspec|hub|jira-ruby|rugged,Git tools for SCF's workflow.
+19786,gitscraper,0.0.2|0.0.3|0.0.4|0.0.5,kiwi,nokogiri,scrape github stuff
+19787,gitscribe,"","","",
+19788,git-scribe,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.1.0|0.1.1,Scott Chacon,nokogiri|liquid|rake|test-unit,git-scribe is an authors toolkit for writing and publishing books
+19789,git-scribe-qp,"","","",
+19790,git-scripts,0.2.0|0.3.0|0.4.0,Daniel Beardsley|James Pearson|Tim Asp|Robin Choudhury,bundler|octokit|highline,User scripts for managing feature branches and hotfixes.
+19791,gitscrub,0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8,Gary Rennie,rspec|grit|thor,An interactive way to learn git.
+19792,git-semaphore,"","","",
+19793,gitset,0.0.1|0.0.2,John Britton,rdoc|aruba|rake|methadone,GitSet
+19794,gitsha,"","","",
+19795,gitshapage,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6,Darron Froese,capistrano,Creates a page located in the public directory with the git SHA of the release after a Capistrano deploy.
+19796,git_shizzle,"","","",
+19797,git-shizzle,0.2.0|0.2.1|0.2.2|0.2.5,Bjoern Rochel|Alexander Groß,thor|rake|rspec|rspec-mocks|guard|guard-rspec|guard-bundler|win32console|ruby_gntp|wdm,Quickly operate on the git working copy and the index
+19798,gitshot,"","","",
+19799,git-show-branches-all,"","","",
+19800,git-si,0.1.0|0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.3.0,Payton Swick,bundler|rake|thor|pager|thor|pager,It's like a simple version of git-svn which doesn't keep track of history locally.
+19801,git-sleep,0.0.2|0.0.15|0.0.16|0.0.17|0.0.18|0.1.0|0.1.1,Max Jacobson|Ruthie Nachmany|Sarah Duve,httparty|netrc,Uses Jawbone to figure out if you are awake enough to code based on your sleep data
+19802,git-smart,0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7|0.1.8|0.1.9|0.1.10,Glen Maddern,colorize|rspec|rcov|rocco,Add some smarts to your git workflow
+19803,git_snatch,"","","",
+19804,git_sniffer,"","","",
+19805,git_spelunk,0.1.3|0.2.0|0.2.1|0.2.2|0.2.3|0.3.0|0.3.1,Ben Osheroff|Saroj Yadav,grit|dispel,A git tool for exploring history and blame
+19806,gitspotter,0.0.3,Thomas Kjeldahl Nilsson,capillary|minitest|shoulda|shoulda-context,Visualize git log/graph in html
+19807,Gitspotter,"","","",
+19808,git-ssh-wrapper,0.1.0|0.2.0,Martin Emde,rake|rspec,Generate a permissive GIT_SSH wrapper script on the fly
+19809,gitstagram,0.0.2|0.0.3|0.0.4|0.0.5,Gregory Marcilhacy,rspec,Take a snapshot after each commit.
+19810,git-stat,1.1.0,Peter Salas,shoulda|rdoc|bundler|jeweler|simplecov,git-stat utility
+19811,git_statistics,0.2.0|0.3.0|0.4.0|0.4.1|0.5.0|0.5.1|0.6.0|0.7.0,Kevin Jalbert,json|rugged|language_sniffer|rspec|rake,Gem that provides the ability to gather detailed git statistics
+19812,gitstats,0.0.2,Andrey Koleshko,json,Show git statistics using blame
+19813,git_stats,1.0.1|1.0.2|1.0.3|1.0.4|1.0.5|1.0.6|1.0.7|1.0.8|1.0.9|1.0.10|1.0.11,Tomasz Gieniusz,activesupport|actionpack|tilt|haml|lazy_high_charts|i18n|thor,HTML statistics generator from git repository
+19814,gitstats-ruby,1.0.1,Christoph Plank,haml|sass|compass|gnuplot,Generates statistics of git repositories
+19815,git_store,0.3.3,Matthias Georgi,"",a simple data store based on git
+19816,git_story,0.2.0|0.2.1|0.2.2,Nuttanart Pornprasitsakul,rspec|nokogiri|typhoeus,shows unaccepted status of PivotalTracker's story that git commits belong to
+19817,git-story,0.0.2|0.0.3|0.1.0|0.1.1,Tom Van Eyck,grit|trollop,A Ruby script for git that finds what branch a commit came from.
+19818,git-storyid,0.1.1|0.1.2|0.2.0|0.2.1|0.3.0|0.3.1|0.3.2,Bogdan Gusiev,pivotal-tracker|webmock|debugger|mocha|rspec|jeweler|hashie,Attach commits to pivotal stories
+19819,gitstrider,0.0.3,Hadi Badjian,parallel,GitStrider provides a contribution report for a git enabled project. This report can be used as a guide to determine a file's owner for code maintenance or reviews.
+19820,gitstuff-preview,0.0.2|0.0.3,Jesse Kriss,sinatra|liquid|rdiscount|hashie|thin|jekyll,Handy gem for previewing Gitstuff sites
+19821,git-style-binaries,0.1.11|0.2.0|0.2.1,Nate Murray,trollop|shoulda,Add git-style binaries to your project easily.
+19822,gitsu,0.0.2|0.0.3|1.0.0|2.0.0|2.0.1|2.0.3|2.0.4,drrb,bundler|rake|coveralls|json|mime-types|rspec|cucumber,"Gitsu allows you to quickly configure and switch between Git users, for different projects and contexts, and pairing."
+19823,git-svn-mirror,"","","",
+19824,git-swear-stats,"","","",
+19825,gitswitch,0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.2.0|0.2.1|0.2.2|0.2.3|0.2.5|0.3.0|0.3.1|0.3.2|0.4.0|0.4.1|0.4.2,Joe Alba,rake|thor|rspec,Easy git user switching
+19826,git_switch_branch,0.1.2,Daniel Eriksson,git|colored|highline,Simplifies switching between branches without losing uncommitted changes.
+19827,git-switcher,0.0.2,Peter Vandenberk,methadone|rugged|trollop|rdoc|awesome_print|pry|pry-debugger|pry-stack_explorer|rspec|cucumber|aruba|guard|growl|rb-fsevent|rb-readline|guard-rspec|guard-cucumber|rspec-pride|cucumber-pride,Visual CLI and REPL for switching between git tags and branches
+19828,gitsync,0.2.1,Nic Haynes,shoulda|bundler|jeweler|rcov,Autosync watched directories in git
+19829,git-sync,2.0.1|2.0.2|2.0.3|2.0.4,Jim Moore,git-process-lib,"Gets the latest changes that have happened on the integration branch, then pushes your changes to a feature branch on the server."
+19830,git-tagger,"","","",
+19831,git_team_stats,"","","",
+19832,gitter,1.1.4|1.1.5,Thomas Sommtag,activesupport|activerecord|artdeco,"Ruby gem to define searches, facets and data grids for Rails applications"
+19833,gittest,0.1.3|0.1.4,Mark Woods,ZenTest|rubyforge|hoe,"Gittest uses your autotest mappings to run tests based on the files you've created or changed, according to git diff."
+19834,git_test,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11|0.0.12|0.0.13,Richard Schneeman,rake|rspec|guard|guard-rspec|rb-fsevent|fakefs|gli|git|gli|colorize|growl,"git_test runs your tests and stores them in git. Use git_test to track tests over multiple branches, runs, and teammates. Run git_test when you pull and push and you'll always know the state of your project!"
+19835,git-ticket,0.2.0,Rein Henrichs,commandant,"Checkout, create, delete or list ticket branches"
+19836,git_time_extractor,0.2.1|0.2.3,Frank Rietta,git|logger,Reasonable developer time log extractor that uses a GIT repository's commit log history.
+19837,git-to-master,2.0.1|2.0.2|2.0.3|2.0.4,Jim Moore,git-process-lib,"Gets the latest changes that have happened on the integration branch, then pushes your changes to a feature branch on the server."
+19838,git_tools,0.2.0|0.2.1|0.2.2|0.3.0|0.3.1|0.3.2,Birkir A. Barkarson,docopt,Collection of various handy git commands and tasks.
+19839,git-topic,0.1.2|0.1.3|0.1.4|0.1.5|0.1.6.2|0.1.6.3|0.1.6.4|0.2.1|0.2.2|0.2.3|0.2.3.1|0.2.3.2|0.2.3.3|0.2.4|0.2.4.1|0.2.5|0.2.6|0.2.6.1|0.2.7|0.2.7.1|0.2.7.2|0.2.7.3,David J. Hamilton,activesupport|trollop|rake|jeweler|rake|rspec|yard|gemcutter|autotest|autotest-screen|ruby-debug19|rails,git command around reviewed topic branches
+19840,git-trac,0.0.20071104|0.0.20071106|0.0.20071107|0.0.20071211|0.0.20080127|0.0.20080204|0.0.20080205|0.0.20080206|0.1.0|0.1.1,Tim Pope,mechanize,Interact with trac from a git repository pulled from svn
+19841,git_tracker,1.0.0|1.0.1|1.0.2|1.1.0|1.2.0|1.3.0|1.3.1|1.4.0|1.5.0|1.5.1|1.6.0|1.6.1|1.6.2|1.6.3,Steven Harman,rspec|activesupport|pry|rake,Teaching Git about Pivotal Tracker.
+19842,git_tracking,0.1.1|0.1.2|0.1.3,Steve Hull|Derrick Camerino,highline|pivotal-tracker,Better integration between git and PivotalTracker
+19843,git-trello,"","","",
+19844,git_trello_post_commit,0.1.1|0.2.0,jmchambers,bundler|rake|rspec|json|git,Update Trello cards with git commit messages.
+19845,git-trend,0.0.2|0.0.3|0.0.4|0.0.5,rochefort,thor|mechanize|addressable|bundler|rake|rspec|rspec-its|simplecov|webmock|coveralls,cli based; show Trending repository on github
+19846,git-trifle,"","","",
+19847,git-trim-whitespace,"","","",
+19848,git-trip,0.0.4|0.0.5,Dale Campbell,hoe,Visualize git commit SHAs
+19849,gitty,0.2.0|0.2.1|0.3.0|0.3.1|0.3.2|0.3.3|0.3.4|0.3.5|0.3.6|0.3.7|0.4.2|0.4.3|0.4.4|0.4.5,Tim Harper,rspec,Unobtrusively extend git
+19850,gittycent,0.0.3|0.0.4|0.1.0,Elijah Miller,"",A GitHub wrapper in Ruby.
+19851,gittyup,"","","",
+19852,git-ui,"","","",
+19853,gitup,0.0.2|0.0.3,David Svensson,shoulda|bundler|jeweler|rcov,A command-line tool for handling git repositories.
+19854,git-up,0.1.0|0.2.0|0.3.0|0.3.1|0.3.2|0.4.1|0.4.2|0.4.3|0.4.4|0.5.0|0.5.1|0.5.2|0.5.3|0.5.4|0.5.5|0.5.7|0.5.8|0.5.9|0.5.10|0.5.11|0.5.12,Aanand Prasad|Elliot Crosby-McCullough|Adrian Irving-Beer|Joshua Wehner,colored|grit,git command to fetch and rebase all branches
+19855,git-up-decklin,0.5.5.1,Aanand Prasad|Elliot Crosby-McCullough|Adrian Irving-Beer|Joshua Wehner|Decklin Foster,thoughtbot-shoulda|colored|grit,git command to fetch and rebase all branches
+19856,git-up-portertech,"","","",
+19857,git_utils,1.0.1|1.0.2|1.0.5|1.0.6|1.0.7|1.0.8|1.0.9|1.1.0|2.0.0,Glenn Nagel,hoe|hoe,A gem that provides simple git &amp; gem utility scripts. And aweseomness!
+19858,git-utils,0.1.1|0.1.2|0.5.0|0.5.1|0.5.2|0.5.3|0.5.4|0.5.5|0.5.6|0.5.7|0.5.8|0.5.9|0.5.10|0.6.0|0.6.1,Michael Hartl,"",See the README for full documentation
+19859,gitver,0.0.3,"floomby
+","",Ruby gem integration with git
+19860,gitvers,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7,Nicolas Goy,bundler|rake|highline,Utility to manage version with git tags
+19861,gitversion,1.0.0,NServiceBus|Simon Cropp,"",Derives SemVer information from a repository following GitFlow or GitHubFlow.
+19862,git_version,0.0.2|0.0.3,Gary Haran,rails,Rails engine that shows the git commit version number installed in ROOT_URL/git_version
+19863,git-version,0.0.2|0.0.3,Darrin Holst,rspec,Add current git commit as a rails endpoint
+19864,git-version-bump,0.2.0|0.3.0|0.3.1|0.4.0|0.5.0|0.5.1|0.6.0|0.7.0|0.8.0|0.9.0|0.9.1,Matt Palmer,rake|bundler|rdoc,Manage your app version entirely via git tags
+19865,git_versioner,0.1.0|0.1.1,Brian Boughton,rspec-rails|rails|capybara|sqlite3|guard-rspec,Control application version through Git
+19866,git-visualiser,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.11,James McCann,sinatra|thin|coffee-script|haml|sass|json,Sinatra app for Git Visualisation
+19867,gitwakatime,"","","",
+19868,gitwalker,"","","",
+19869,git-webby,0.2.0,Hallison Batista,sinatra,Git Web implementation of the Smart HTTP and other features
+19870,git-webhook,"","","",
+19871,git_web_hook_model,0.0.2|0.0.3,Chuck J hardy,id|bundler|rake|simplecov|rspec,"Simple, immutable model for github webhooks."
+19872,git-whence,0.1.1|0.1.2,Michael Grosser,"",Find the merge and pull request a commit came from + find cherry-picks
+19873,git-whistles,0.3.1|0.4.1|0.4.2|0.4.3|0.4.4|0.5.0|0.5.1|0.6.1|0.6.2|0.6.3|0.7.0|0.7.1|0.7.2|0.7.3|0.7.4|0.7.5|0.7.6|0.7.7|0.8.0|0.8.1|0.8.2|0.9.0|0.9.1,Julien Letessier|Pedro Cunha,bundler|rake|pry|pry-nav|pivotal-tracker|term-ansicolor,"A few helpers for classic Git workflows: makes branching and merging, PO file handling, issuing pull requests slightly simpler."
+19874,git_wit,0.0.2|0.0.3|0.0.5|0.0.6,Greg Thornton,rails|authorized_keys|thor,Dead simple Git hosting for Rails apps.
+19875,git-work,0.1.1,Joseph Ku,rspec|rdoc|bundler|jeweler|rcov,Provide you an elegant Git workflow
+19876,git_workflow,"","","",
+19877,git_wrapper,1.0.1|1.0.2|1.0.3|1.1.0|1.1.1,Gabriel Naiman,nokogiri|bundler|rake|rspec|simplecov,OO git command line wrapper
+19878,give,0.1.2|0.2.0,seenmyfate,thor|octokit|highline|rspec|yard|bundler|jeweler|rcov|reek,Makes contributing to open source projects on Github just that bit easier
+19879,give4each,0.0.2|0.0.3|0.1.0,pasberth,rake|rspec,Can write the oneliner as block like the Symbol#to_proc
+19880,give-live-back-to-object,0.1.2|0.1.3|0.1.4|0.1.5,Mikhail Pospelov,faye|eventmachine|shoulda|rdoc|bundler|jeweler|simplecov|rspec|byebug,This gem is provided for easy to use faye in Ruby!
+19881,given,0.0.2|0.0.3,Jim Weirich,"",Given/When/Then Specification Framework.
+19882,given_core,3.1.0|3.1.1|3.2.0|3.3.0|3.4.0|3.5.0|3.5.3|3.5.4,Jim Weirich,sorcerer,Core engine for RSpec::Given and Minitest::Given.
+19883,given_filesystem,"","","",
+19884,given_when_then,0.0.2,Marek Prihoda,rspec-core|rspec,Use selected Cucumber-like syntax in your Rspec tests
+19885,givey_ruby,0.0.2|0.0.3|0.0.5|0.0.6,nickflux,rake|rspec|factory_girl|log_buddy|actionpack|httparty|oauth2,Ruby API for accessing Givey API
+19886,gizmo,0.0.2|0.0.3|0.0.4|0.0.5|0.1.0|0.1.1,Luke Cunningham|Steven Holloway|Sam Weller,rspec|cucumber|webrat|capybara|metric_fu|nokogiri|activesupport|tilt,simple page model testing framework
+19887,gizmo-codescratch,"","","",
+19888,gizzmo,0.2.0|0.2.1|0.3.0|0.3.1|0.3.2|0.3.3|0.3.4|0.3.5|0.4.1|0.4.2|0.5.0|0.6.0|0.7.0|0.7.4|0.7.5|0.8.0|0.8.1|0.8.2|0.8.3|0.9.0|0.10.0|0.10.1|0.11.0|0.11.1|0.11.2|0.11.3|0.11.4|0.12.0|0.12.1|0.13.0|0.13.1,Kyle Maxwell,"",Gizzmo is a command-line client for managing gizzard clusters.
+19889,gjar,"","","",
+19890,gjastrab-evergreen,"","","",
+19891,gjman,"","","",
+19892,gjp,0.6.0|0.7.0|0.8.0|0.9.0|0.10.0|0.11.1|0.11.2|0.13.1|0.14.1|0.15.7|0.16.0|0.16.1|0.17.0|0.17.1|0.18.0|0.19.0|0.20.0|0.21.0|0.22.0|0.23.0|0.24.0|0.25.0|0.26.0|0.27.0|0.28.0|0.29.0|0.30.0|0.31.0|0.32.0|0.33.0|0.34.0|0.35.0|0.36.0|0.37.0|0.38.0|0.39.0,Silvio Moioli,rake|rspec|clamp|rubyzip|rest-client|json|text|nokogiri,Green Java Packager's Tools
+19893,gk-application,0.0.1,Greg M. Krsak,"",A simple framework for creating applications in Ruby
+19894,gkellogg-reddy,"","","",
+19895,gks_geo_ip,"","","",
+19896,glacier,0.0.2,Tyler Lemburg,"","GLACIER Lets Anyone Code Interactive, Expressive Ruby"
+19897,glader,"","","",
+19898,glam,0.1.0|0.1.1,Paul Barry,nokogiri|bundler|rake,Make your HTML look glamorous!
+19899,glamazon,0.3.1,Stevie Graham,i18n|yajl-ruby|activesupport|rspec|rake|timecop|mocha,Plain Old Ruby Object (PORO) in memory models.
+19900,glamorous_validation_jp,"","","",
+19901,glamping,0.1.1,Magnus Holm,metaid|erubis|activerecord|mime-types,Glamorous Camping
+19902,glance_base,"","","",
+19903,glapp,"","","",
+19904,glark,1.10.0|1.10.1|1.10.2|1.10.3|1.10.4|1.10.5,Jeff Pace,riel|logue|rainbow|ragol,Extended searching of text files.
+19905,glass,0.0.1.1|0.0.1.2,TheDamFr,bundler|rake|google-api-client|redis|redis-namespace|httparty,This Gem is meant to allow you to quickly build a Google Glass Application. Have Fun !
+19906,glass-api,0.1.3,"Adrian Peterson Co, Jaune Sarmiento, Robbie Marcelo",bundler|rake|rspec|rails,Glass is a your one-stop solution for a RESTFUL API. It is a lightweight Rails Engine that is built to do all the heavy lifting from serving an API in your Rails Application.
+19907,glassmirror,"","","",
+19908,glass-mirror,"","","",
+19909,glass_rails,"","","",
+19910,glass-rails,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|1.0.0|1.0.1|1.0.2|1.0.3|1.0.4|1.0.5,Kunal Modi|Han Kang,railties|google-api-client|bundler|rake|pry|pry-rails|rspec|rspec-rails,"A framework for creating google glass applications using ruby on rails.  This probably isn't for everyone, but we did our best to make it suitable for as many cases as possible."
+19911,glass_sdk,0.0.2|0.0.3|0.0.4,mj,rails|sqlite3,Simple Development for Google Glass
+19912,glass_shard,"","","",
+19913,glass_slippers,"","","",
+19914,glean,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11|0.0.12|0.0.13|0.0.14|0.0.15|0.0.16|0.0.17,John Britton,rake|rspec|guard-rspec|rb-fsevent|rspec-nc|pry|gli|git|toml|octokit|hashie|json,A description of your project
+19915,glebm-activemerchant,"","","",
+19916,glebm-geokit,"","","",
+19917,glebm-nokogiri,"","","",
+19918,glebm-sanitize,"","","",
+19919,glebpom-async_observer,0.0.3|0.0.4|0.1.0,Gleb Pomykalov,daemonizer|beanstalk-client|rails,async_observer provides deep integration with Beanstalk. Fork from http://github.com/kristjan/async_observer
+19920,glebpom-db-charmer,1.4.2|1.4.3,Alexey Kovyrin|Gleb Pomykalov,rails,ActiveRecord Connections Magic (qik.com version)
+19921,glebpom-prop,0.0.2|0.0.3|0.0.4,Gleb Pomykalov,shoulda|mocha,Puts a cork in their requests
+19922,glebprop,0.0.2|0.0.3|0.0.4,Gleb Pomykalov,"",Implement rate limiting
+19923,glebtv-capistrano-unicorn,"","","",
+19924,glebtv-carrierwave-mongoid,0.6.1|0.6.2|0.6.3|0.6.4|0.6.5|0.7.0|0.8.0,GlebTv|Jonas Nicklas|Trevor Turk,mongoid|carrierwave|rspec|rake|mini_magick|pry,This fork makes GridFS optional
+19925,glebtv-ckeditor,4.0.2|4.0.2.1|4.0.2.2|4.0.2.4|4.0.2.5|4.0.2.6|4.0.2.7|4.1.1|4.1.1.1|4.1.1.2|4.1.1.3|4.1.1.4|4.1.1.5|4.1.1.6|4.1.1.7|4.2.1|4.2.1.1|4.2.1.2|4.2.1.3|4.2.1.4|4.2.1.5|4.3.2.0|4.3.2.1|4.3.2.2|4.3.2.3|4.3.2.4|4.3.2.5,Igor Galeta,rails|mime-types|orm_adapter,Rails gem for easy integration ckeditor in your application
+19926,glebtv-httpclient,3.0.1|3.0.2|3.1.0|3.1.1|3.2.0|3.2.1|3.2.2|3.2.3|3.2.4|3.2.6|3.2.7,glebtv|Hiroshi Nakamura,lru_redux|bundler|rake|test-unit|rspec|rdoc|coveralls|climate_control|rspecify,Fork of httpclient with some fixes and patches I needed.
+19927,glebtv-mongoid_nested_set,0.4.0|0.4.1|0.4.2|0.4.3,GlebTV|Brandon Turner,mongoid|rake|rspec|bundler|simplecov|simplecov-rcov|rspec-expectations|rr|remarkable_mongoid,Nested set based tree implementation for Mongoid
+19928,glebtv-mongoid-paperclip,0.2.0|0.2.1|0.2.2|0.2.3|0.2.4,GlebTV|Michael van Rooijen,paperclip|mongoid|bundler|rspec|rake,Fork of Mongoid::Paperclip
+19929,glebtv-mongoid-rspec,3.0.0,Evan Sagge|GlebTv,rake|mongoid|rspec,RSpec matchers for Mongoid
+19930,glebtv_mongoid_userstamp,"","","",
+19931,glebtv-rails-uploader,0.1.1|0.1.2|0.1.3|0.2.0|0.3.0|0.4.0|0.4.1|0.5.0|0.5.1|0.6.0,Igor Galeta|Pavlo Galeta|GlebTV,jquery-ui-rails|carrierwave|mongoid,Rails file upload implementation with jQuery-File-Upload
+19932,glebtv_resque_web,"","","",
+19933,glebtv-robokassa,0.1.1|0.2.0,glebtv,rails|bundler|rake,This gem adds robokassa support to your app.
+19934,glebtv-simple_captcha,0.2.0|0.2.1|0.3.1|0.4.1|0.4.3|0.4.4|0.4.5|0.4.6|0.5.1|0.5.2|0.6.0|0.6.1|0.6.2,GlebTv,activesupport,A fork of a fork of a fork of simple_captcha.
+19935,glebtv_state_machine,"","","",
+19936,gleet,"","","",
+19937,glengarry,0.0.2|0.0.3|0.0.4,John McDowall,rails|jquery-rails|kaminari|geocoder|sqlite3|rspec-rails|factory_girl_rails,A Rails 3.2 engine for capturing email leads.
+19938,glenn2awesome,"","","",
+19939,glenn2lorem,"","","",
+19940,glennfu-contacts,1.2.1.1,Glenn Sidney,json|gdata,"A universal interface to grab contact list information from various providers including Yahoo, Gmail, Hotmail, and Plaxo."
+19941,glennfu-faster_csv,"","","",
+19942,glennr-cijoe,"","","",
+19943,glennr-devise,1.0.1.1,Jos&#233; Valim|Carlos Ant&#244;nio|Glenn Roberts,warden,Flexible authentication solution for Rails with Warden
+19944,glennr-email_spec,"","","",
+19945,glennr-flash-message-conductor,1.1.1,Robby Russell|Glenn Roberts,"",Conduct your Flash Messages in Rails
+19946,glennr-heroku_san,"","","",
+19947,glennr_opensrs,"","","",
+19948,glennr-pickler,"","","",
+19949,glennr-posterous,"","","",
+19950,glennr-recaptcha,"","","",
+19951,glennr-seer,"","","",
+19952,gless,1.0.2|1.1.2|1.1.3|1.2.0|1.3.1|1.4.0|1.4.1|1.4.2|1.5|1.5.1|1.5.2|1.6|1.6.1|2.0.0|2.1.0,Robin Lee Powell|Byron Johnson,rspec|watir-webdriver|selenium-webdriver|debugger|yard|yard-tomdoc,A wrapper for Watir-WebDriver based on modelling web page and web site structure.
+19953,glew,"","","",
+19954,glfw3,0.2.0|0.2.1|0.3.1|0.3.2|0.3.3|0.4.0|0.4.1|0.4.2|0.4.3|0.4.4|0.4.5|0.4.6|0.4.7|0.4.8,Noel Raymond Cower,"",GLFW3
+19955,gli,0.2.1|0.2.3|0.3.0|0.3.1|1.0.0|1.1.0|1.1.1|1.1.2|1.1.3|1.2.0|1.2.1|1.2.2|1.2.5|1.2.6|1.3.0|1.3.1|1.3.2|1.3.3|1.3.4|1.3.5|1.3.6|1.3.7|1.4.0|1.5.1|1.6.0|2.0.0|2.1.0|2.2.0|2.2.1|2.3.0|2.4.0|2.4.1|2.5.0|2.5.1|2.5.2|2.5.3|2.5.4|2.5.5|2.5.6|2.6.0|2.6.1|2.6.2|2.7.0|2.8.0|2.8.1|2.9.0|2.10.0|2.11.0,David Copeland,rake|rdoc|rainbow|clean_test|cucumber|gherkin|aruba|sdoc|faker,Build command-suite CLI apps that are awesome.
+19956,gli_aziz_light,"","","",
+19957,glib2,0.90.2|0.90.2|0.90.3|0.90.3|0.90.4|0.90.4|0.90.5|0.90.5|0.90.6|0.90.6|0.90.7|0.90.7|0.90.8|0.90.8|0.90.9|0.90.9|1.0.0|1.0.0|1.0.1|1.0.1|1.0.2|1.0.2|1.0.3|1.0.3|1.1.0|1.1.0|1.1.1|1.1.1|1.1.2|1.1.2|1.1.3|1.1.3|1.1.4|1.1.4|1.1.5|1.1.5|1.1.6|1.1.6|1.1.7|1.1.7|1.1.8|1.1.8|1.1.9|1.1.9|1.2.0|1.2.0|1.2.1|1.2.1|1.2.2|1.2.2|1.2.3|1.2.3|1.2.4|1.2.4|1.2.5|1.2.5|1.2.6|1.2.6|2.0.0|2.0.0|2.0.1|2.0.1|2.0.2|2.0.2|2.0.3|2.0.3|2.1.0|2.1.0|2.2.0|2.2.0,The Ruby-GNOME2 Project Team,pkg-config|test-unit,Ruby/GLib2 is a Ruby binding of GLib-2.x.
+19958,glib-eventable,0.1.1|0.1.2|0.1.3,Ryan Scott Lewis,version|glib2|at|rake|gtk2|rspec|guard-rspec|guard-yard|guard-shell|rb-fsevent|fuubar|redcarpet|github-markup,This is a helper gem for ruby-gnome2 applications.
+19959,glicko2,0.1.0|0.1.1|0.1.2,James Fargher,minitest,Implementation of Glicko2 ratings
+19960,glide,0.0.2|0.0.3|0.0.4|0.0.5,Volker Pacher,httparty|json|rake|rspec,a wrapper of the Glide Uk api
+19961,glider,0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7|0.1.8,David Pelaez,aws-sdk|activesupport|json|bundler|jeweler,Minimal opinionated wrapper around SimpleWorkflow
+19962,glider-rails,0.0.3|0.0.4|0.0.5|0.0.6|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.4.1|0.1.4.2|0.1.4.3|0.1.4.4|0.1.5,Valentin Valve Vasilyev|Dmitry KODer Karpunin,"","Glider — AngularJS UI slider library, packaged for Ruby-on-Rails asset pipeline"
+19963,gliffy,0.0.7|0.0.8|0.0.9|0.0.10,Konstantin Burnaev,oauth|nokogiri|gli|rspec|simplecov|http_logger|guard|rb-readline|guard-rspec|ci_reporter|rake,Gliffy API client
+19964,glimmer,0.1.2|0.1.3,Andy Maleh,facets|bundler|jeweler|rcov|facets,Desktop application development library
+19965,glimpse,0.0.2|0.0.3|0.0.4|0.0.5,Garrett Bjerkhoel,rails,Provide a glimpse into your Rails application.
+19966,glimpse-dalli,1.1.0,Garrett Bjerkhoel,glimpse|dalli|atomic,Provide a glimpse into the Memcache commands made through Dalli during your application's requests.
+19967,glimpse-git,1.0.1,Garrett Bjerkhoel,"",Provide a glimpse into the Git info of your Rails application.
+19968,glimpse-mongo,1.0.1|1.1.0,Garrett Bjerkhoel,glimpse|mongo|atomic,Provide a glimpse into the Mongo commands made within your Rails application.
+19969,glimpse-mysql2,1.1.0,Garrett Bjerkhoel,glimpse|mysql2|atomic,Provide a glimpse into the MySQL queries made during your application's requests.
+19970,glimpse-performance_bar,1.1.0|1.1.2,Garrett Bjerkhoel,glimpse,Provide a glimpse into the MySQL queries made during your application's requests.
+19971,glimpse-pg,1.1.0,Garrett Bjerkhoel,glimpse|pg|atomic,Provide a glimpse into the Postgres queries made during your application's requests.
+19972,glimpse-rails,"","","",
+19973,glimpse-redis,1.0.1|1.1.0,Garrett Bjerkhoel,glimpse|redis|atomic,Provide a glimpse into the Redis calls made within your Rails application.
+19974,glimpse-resque,"","","",
+19975,glimpse-sidekiq,"","","",
+19976,glimpse-svn,1.0.1,Neil Cowburn,glimpse,Provide a glimpse into the Subversion info of your Rails application.
+19977,glimr,0.1.1,Ilmari Heikkinen,"",Ruby OpenGL GUI Widget Kit
+19978,glinda,0.1.1|0.2.0|0.2.1|0.2.3,rschmukler,rdiscount|builder|fuubar|rake|jeweler|gemcutter|pry|rspec|builder|rack|rdiscount,"Toto, expanded"
+19979,glint,0.0.2,Kentaro Kuribayashi,rake|rspec,Firebombs arbitrary server processs for tests.
+19980,gliss,0.1.1|0.1.2|0.1.3|0.2.0,Will Benton,grit|rspec,gliss is a tool for inspecting lightweight annotations in a git repository
+19981,glitch,"","","",
+19982,glitch_auth,0.0.2|0.0.3,martian-a,"",A simple gem for authenticating with the Glitch API.
+19983,glitched_string,0.1.0|0.2.0,Shimpei Makimoto,bundler|rake|pry|rspec,This gem adds some methods to String class. They generates glitched string
+19984,glitch-ime,0.2.0,hitode909,rspec|bundler|jeweler|rcov|json,Glitch IME
+19985,glitch-time,0.0.2|0.0.5|0.0.6,Simon Peck,"",This is a port of the Glitch time converter.
+19986,glitchy_gem,0.2.1|0.2.2|0.2.3|0.2.4|0.3|0.3.1|0.4.0|0.4.1,GlitchyApp,bundler|rake,The gem to enable you to track your application errors with GlitchApp
+19987,glitter,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.91|1.0.0|2.0.0|2.0.1|2.0.2,"Brad Gessler, Thomas Hanley",s3|haml|thor,Publish Mac software updates with the Sparkle framework and Amazon S3.
+19988,Glitz,"","","",
+19989,g_live_validator,1.0.8,C. Jason Harrelson (midas),rails|guilded|validation_reflection|rspec,A Guilded (http://github.com/midas/guilded/tree/master) component that will reflect ActiveRecord validations and use them to live validate forms.
+19990,glm,0.0.1|0.0.2,Yu Shen,"",This is a W.I.P implementation of GLM
+19991,glman,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.1.0|0.1.1|0.1.2,Paweł Niemczyk,bundler|rspec|rake|httpclient|executable|json|activesupport|awesome_print|hashie|irc-notify,Git Lab Manager
+19992,gl-matrix,"","","",
+19993,gl-matrix-rails,0.1.1|0.1.2|0.1.3|0.1.4|0.1.5,Colin MacKenzie IV,railties|rspec|tzinfo,A gem to automate using gl-matrix with Rails 3
+19994,gloater,"","","",
+19995,global,0.0.2|0.0.3,Railsware LLC,rspec|simplecov|rake|activesupport,Simple way to load your configs from yaml
+19996,global_2050_model,0.0.1|0.0.1|0.0.2|0.0.2|0.0.2,"Thomas Counsell, Department of Energy and Climate Change, Her Majesty's Government, UK",ffi|excel_to_code,A C version of DECC's global 2050 Pathway Excel Spreadsheet
+19997,global_boolean,0.1.3|0.1.4,Robert Pankowecki,bundler,Easy parsing of string values to boolean types
+19998,globalchat,1.0.4,"Jonathan ""jsilver1er"" Silverman",qtbindings,QTRuby crossplatform version
+19999,global_collect,0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.2.0|0.2.1|0.2.2|0.2.3|0.3.0|0.4.0|0.5.0|0.5.1,Timon Karnezos,httparty|builder|fastercsv|fixed_width|fakeweb,A Ruby client to the Global Collect API
+20000,global_configuration,"","","",
+20001,global_convert,0.0.2,Rob Nichols,proj4rb,Tool for converting coordinates between different global charting systems
+20002,global_counters,"","","",
+20003,globalhotkeys,0.3.1|0.3.2,Vincent Carmona,"",This librairy aims to provide easy global hotkeys setting for ruby applications so users can interact with an application even if it does not have the focus.
+20004,globalize,3.0.1|3.0.2|3.0.3|3.0.4|3.1.0|4.0.0|4.0.1,Sven Fuchs|Joshua Harvey|Clemens Kofler|John-Paul Bader|Tomasz Stachewicz|Philip Arndt|Chris Salzberg,activerecord|activemodel|database_cleaner|minitest|minitest-reporters|sqlite3|rdoc|rake,Rails I18n de-facto standard library for ActiveRecord model/data translation
+20005,globalize2,0.2.0|0.2.1,"Sven Fuchs, Joshua Harvey, Clemens Kofler","",Rails I18n: de-facto standard library for ActiveRecord data translation
+20006,globalize2_sugar,"","","",
+20007,globalize3,0.0.2|0.0.3|0.0.4|0.0.5|0.0.7|0.0.9|0.0.10|0.0.11|0.1.0|0.2.0|0.3.0|0.3.1,Sven Fuchs|Joshua Harvey|Clemens Kofler|John-Paul Bader|Tomasz Stachewicz|Philip Arndt|Chris Salzberg,activerecord|activemodel|paper_trail|database_cleaner|mocha|pathname_local|test_declarative|sqlite3,Rails I18n de-facto standard library for ActiveRecord 3 model/data translation
+20008,globalize3_accessors,"","","",
+20009,globalize3_helpers,0.2.0|0.2.1|0.2.2|0.2.3|0.2.4|0.2.5|0.3.0,Lefteris Georgatos,activesupport|globalize3|shoulda|rdoc|bundler|jeweler|rcov,This is the batch translation plugin for globalize3
+20010,globalize3-inputs-bootstrap,0.1.1,Gullit Miranda,globalize3|activeadmin,Globalize3 helper for ActiveAdmin.
+20011,globalize3-jquery-autocomplete,"","","",
+20012,globalize3_translator,0.0.3|0.0.4|0.0.5,Laurynas Butkus,activerecord|globalize3|sishen-rtranslate|ruby-debug|sqlite3-ruby,Globalize3 auto-translator using Google Translate (or any other backend)
+20013,globalize3-validations,"","","",
+20014,globalize-accessors,0.1.1|0.1.2|0.1.3,Tomasz Stachewicz|Wojciech Pietrzak|Steve Verlinden|Robert Pankowecki|Chris Salzberg,globalize|bundler|rake|sqlite3,Define methods for accessing translated attributes
+20015,globalize-missing,"","","",
+20016,globally_unique_record,"","","",
+20017,globalog,0.1.2|0.1.3|0.1.4,Louis-Philippe Perron,"",Cascading Global Log
+20018,globalphone,"","","",
+20019,global_phone,1.0.1,Sam Stephenson,"","Parse, validate, and format phone numbers using Google's libphonenumber database"
+20020,global_phone_dbgen,"","","",
+20021,globalphone_dbgen,"","","",
+20022,global_phone_locomote,1.0.3|1.0.4,Loco Chris,"",Locomote fork of global_phone (NB. don't use)
+20023,global_registry,1.0.1|1.0.2,Josh Starcher,rest-client|oj|activesupport|retryable-rb,Push and pull data from the Global Registry
+20024,global_roles,0.0.4,George Vinogradov,activerecord|rake|sqlite3|rspec|rspec-rails|bundler|shoulda|ammeter,Simple roles gem
+20025,globals,0.0.2|0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.2.0,Sujoy Gupta,"",A simple way to define globals for use in a Ruby application.
+20026,global_session,1.0.0|1.0.2|1.0.3|1.0.4|1.0.5|1.0.6|1.0.7|1.0.8|1.0.9|1.0.10|1.0.13|1.0.14|1.0.15|1.0.16|1.0.17|1.1.0|2.0.0|2.0.1|2.0.2|2.0.3|3.0.0|3.0.1|3.0.2|3.0.3|3.0.4,Tony Spataro,json|rack-contrib|right_support|simple_uuid|cucumber|debugger|flexmock|httpclient|jeweler|msgpack|rake|right_develop|rspec|ruby-debug,Secure single-domain session sharing plugin for Rack and Rails.
+20027,global_uid,1.0.2|1.0.3|1.1.0|1.1.1|1.2.0|1.2.2|1.2.3|1.2.4|1.2.5|1.2.6|1.3.0|1.3.1|1.4.0|1.4.1,Ben Osheroff,activerecord|activesupport|mysql|appraisal|rake|bundler|shoulda|mocha|test-unit,GUID
+20028,global_weather,"","","",
+20029,globby,0.0.2|0.1.0|0.1.1,Jon Jensen,"",.gitignore-style file globber
+20030,globe-composite_primary_keys,"","","",
+20031,globegit-postgresql-plruby,"","","",
+20032,globetrotter,0.0.5|0.0.6|0.0.10|0.0.11|0.0.12,Nick Lopez,bundler|rake|rubydns|wrest,Resolve DNS records at many different nameservers all over the world.
+20033,glob_fu,"","","",
+20034,globocom-auth,0.1.1,Bruno|Azisaka|Maciel,nokogiri|active_support|builder|rack|rspec|rr|fakeweb,A wrapper for the Globo.com's authentication/authorization API
+20035,glog,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.1.0|0.2.0|0.2.2|0.2.3|0.2.5|0.2.6|0.2.7,Antono Vasiljev,rack|jadof|haml|rdiscount|rake|rspec|rack-test,JADOF+Rack =  bogging/cms engine
+20036,glom,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|1.0.0,Jackson Gariety,bundler|rake,"Intelligent package search, without leaving your shell."
+20037,glomper,0.1.3|0.2.0|0.3.0|0.3.1|0.3.2,linchus,faraday|faraday_middleware|hashie|shoulda|bundler|jeweler|rcov|fakeweb|jnunemaker-matchy|json_pure|multi_json,Wrapper for Glomper API
+20038,glorify,0.0.2|0.0.3|0.0.4|0.0.5|0.1.0|0.2.0|0.2.1|0.3.0|0.3.1|0.3.2|0.4.0|0.5.0,Zachary Scott|Jonathan Stott|Simon Gate,sinatra|rdoc-rouge|nokogiri|minitest|rack-test|rake|w3c_validators|rdoc,Sinatra helper to parse markdown with syntax highlighting like the pros
+20039,gloudapp,1.2.0|1.3.0|1.3.1,Christian Nicolai|Jan Graichen,cloudapp_api|gtk2|json,CloudApp (tm) applet for Gnome/GTK2
+20040,glow,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.7|0.0.8|0.0.9|0.0.10|0.0.11|0.0.12|0.0.13|0.0.14,Daniel Kirsch|Klaus Fleerkötter,rails|jquery-rails,Javascript Flash Hash handling for Rails.
+20041,glowing-archer,0.0.2|0.0.3|0.0.4|0.0.5|0.0.6|0.0.6.1|0.0.6.2|0.0.6.3|0.0.6.5|0.0.6.6,John Griffiths,rake,"addons to help arrays, strings, etc. i keep on using"
+20042,glowstone,1.0.1|1.0.2|1.0.3|1.0.4|1.0.5,Tom Heinan,bindata,This tiny gem implements the Gamespy query protocol to access pertinent real-time information hidden away inside your Minecraft server.
+20043,gls_agent,0.1.1|0.2.0|0.3.0|0.4.0|0.4.1,Felix Wolfsteller,mechanize|rainbow|bundler|rake|rspec,Fetches german parcel labels from GLS webpage.
+20044,gltail,0.1.0|0.1.1|0.1.2|0.1.3|0.1.4|0.1.5|0.1.6|0.1.7|0.1.8,Erlend Simonsen,ruby-opengl|net-ssh|hoe,"View real-time data and statistics from any logfile on any server with SSH, in an intuitive and entertaining way."
+20045,glu,8.2.0|8.2.0|8.2.0,Eric Hodel|Lars Kanis|Blaž Hrastnik|Alain Hoang|Jan Dvorak|Minh Thu Vo|James Adam,rdoc|rake-compiler|hoe,"Glu bindings for the opengl gem, split into a separate gem because of Glu deprecation."
+20046,glub,0.0.2|0.0.3,George McIntosh,webmock|vcr|thor|rake|rest-client|sif|bundler|jeweler,Command-line Gitlab client

@@ -40,7 +40,7 @@ class AGem
   #
   # Note: This is just an example. Please do not render in the model.
   #
-  def to_s
+  def to_html
     dependencies = "<p class='dependencies'>#{@dependencies}</p>" if @dependencies && !@dependencies.empty?
     authors = "<p class='authors'>☺ #{@authors}</p>" if @authors && !@authors.empty?
     summary = "<p class='summary'>#{@summary}</p>"
